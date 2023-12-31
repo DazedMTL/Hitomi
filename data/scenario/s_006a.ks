@@ -943,7 +943,7 @@ fondled! Saeko's got nothing on these! Duuuhahaha♥"[p]
 #【Hitomi】
 (Ah...what? I can't speak... He's too good at fondling boobs! From the[r]
 base to the tip, it's like he's meticulously licking - teasing -[r]
-them... No, that's right... These {tentacles} move just like a[r]
+them... No, that's right... These tentacles move just like a[r]
 tongue!?)[p]
 [_tb_end_text]
 
