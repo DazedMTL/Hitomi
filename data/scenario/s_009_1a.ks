@@ -1702,7 +1702,7 @@ memo from the commander...!"[p]
 [tb_start_text mode=3 ]
 #【Kotora】
 "Custom-forged special steel knives for Kotora, purified at the shrine[r]
-& inscribed with sutras (effect unknown)"[p]
+and inscribed with sutras (effect unknown)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
