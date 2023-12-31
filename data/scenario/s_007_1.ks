@@ -655,7 +655,7 @@ go..."[p]
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [wait  time="50"  ]
@@ -1476,7 +1476,7 @@ old cliché somewhere, but it turns out it's really true...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="sozai_01_siro.jpg"  ]
 [chara_show  name="kisa_1"  time="0"  wait="true"  storage="chara/23/kisa_01.png"  width="406"  height="600"  left="184"  top="0"  reflect="false"  ]

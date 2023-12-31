@@ -9,7 +9,7 @@
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [tb_hide_message_window  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [wait  time="10"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
@@ -546,7 +546,7 @@ with us this far!"[p]
 [resetfont  ]
 [tb_hide_message_window  ]
 [chara_hide_all  time="500"  wait="true"  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [wait  time="10"  ]
 [mask_off  time="500"  effect="fadeOut"  ]

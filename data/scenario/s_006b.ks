@@ -2116,7 +2116,7 @@ day---...)[p]
 
 [resetfont  ]
 [tb_hide_message_window  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber21.ogg"  fadein="true"  ]
 [bg  time="0"  method="crossfade"  storage="haikei/BG11a_80.jpg"  ]
 [chara_mod  name="ai_1"  time="0"  cross="false"  storage="chara/12/ai01_02.png"  ]

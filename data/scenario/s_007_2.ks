@@ -6,7 +6,7 @@
 
 [tb_hide_message_window  ]
 [delay  speed="10"  ]
-[mask  time="750"  effect="fadeIn"  color="0xffffff"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [stopbgm  time="1000"  ]
 [stopse  time="1000"  buf="0"  ]
@@ -1037,7 +1037,7 @@ your team's bonds and human resilience."[p]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_7.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_13_2.png"  ]
 [wait  time="1000"  ]
-[mask  time="1500"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [stopbgm  time="1500"  fadeout="true"  ]
@@ -1908,7 +1908,7 @@ the first time I've met someone with this kind of vibe..."[p]
 [chara_hide  name="akitoshi"  time="750"  wait="true"  pos_mode="false"  ]
 [stopbgm  time="2000"  fadeout="true"  ]
 [wait  time="500"  ]
-[mask  time="1500"  effect="fadeIn"  color="0x000000"  ]
+
 [stopbgm  time="1000"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [wait  time="50"  ]

@@ -3,7 +3,7 @@
 [stopbgm  time="1000"  fadeout="true"  ]
 [hidemenubutton]
 
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
 [delay  speed="10"  ]
@@ -1213,7 +1213,7 @@ Tennoji Hitomi...!)[p]
 
 [tb_replay_start  ]
 [delay  speed="10"  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [playbgm  volume="100"  time="1000"  loop="true"  storage="taste_xxx05.ogg"  ]
 [bg  time="0"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [wait  time="10"  ]

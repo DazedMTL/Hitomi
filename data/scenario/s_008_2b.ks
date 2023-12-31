@@ -12,7 +12,7 @@
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="sozai_07.jpg"  ]
 [chara_show  name="hitomi_1"  time="0"  wait="false"  storage="chara/3/hitomi_1_03_13.png"  width="406"  height="600"  ]
@@ -39,7 +39,7 @@ sensei's matter."[p]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_2.png"  ]
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="haikei/school06.jpg"  ]
 [chara_show  name="hitomi_1"  time="0"  wait="true"  storage="chara/3/hitomi_3_02_4.png"  width="406"  height="600"  left="200"  ]
@@ -103,7 +103,7 @@ her, I should meet up with them first...!)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="750"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/okujyou02.jpg"  ]
 [wait  time="10"  ]
 [mask_off  time="750"  effect="fadeOut"  ]
@@ -117,7 +117,7 @@ her, I should meet up with them first...!)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="1500"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [wait  time="10"  ]
@@ -141,7 +141,7 @@ her, I should meet up with them first...!)[p]
 [quake  time="300"  count="3"  hmax="0"  wait="true"  vmax="10"  ]
 [wait  time="500"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/dosyu1.ogg"  ]
-[mask  time="250"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_3.jpg"  ]
 [wait  time="10"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
@@ -542,7 +542,7 @@ again..."[p]
 [stopbgm  time="1500"  fadeout="true"  ]
 [wait  time="500"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/gyuu3.ogg"  ]
-[mask  time="750"  effect="fadeIn"  color="0xe30909"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [chara_show  name="hajime"  time="0"  wait="true"  storage="chara/9/hajime4_01.png"  width="375"  height="600"  reflect="true"  left=""  top=""  ]
 [wait  time="10"  ]
@@ -991,7 +991,7 @@ the hostage and showing loyalty to his friends.)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="250"  effect="slideInLeft"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_2.jpg"  ]
 [chara_show  name="hitomi_1"  time="0"  wait="true"  storage="chara/3/hitomi_3_02_14.png"  width="406"  height="600"  left="444"  top="0"  reflect="false"  ]
@@ -1027,7 +1027,7 @@ the hostage and showing loyalty to his friends.)[p]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
-[mask  time="250"  effect="slideInRight"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_4.jpg"  ]
 [chara_show  name="hajime_2"  time="0"  wait="true"  storage="chara/22/hajime2_02.png"  width="800"  height="600"  left="-195"  top="0"  reflect="true"  ]
@@ -1057,8 +1057,8 @@ the hostage and showing loyalty to his friends.)[p]
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/thunder3.ogg"  ]
-[mask  time="1000"  effect="fadeIn"  color="0xffffff"  ]
-[mask  time="1000"  effect="fadeIn"  color="0x7f6bff"  ]
+
+
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_4.jpg"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [wait  time="10"  ]
@@ -1267,7 +1267,7 @@ Ai! I'll help Hitomi-san, I'm counting on you for support!)[p]
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/charge.ogg"  ]
 [bg  time="500"  method="crossfade"  storage="sozai_01_siro.jpg"  ]
-[mask  time="1000"  effect="fadeIn"  color="0xffffff"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_4.jpg"  ]
 [chara_show  name="akitoshi"  time="0"  wait="true"  storage="chara/16/akitoshi_01.png"  width="344"  height="600"  left="454"  top="0"  reflect="true"  ]
@@ -1322,7 +1322,7 @@ Ai! I'll help Hitomi-san, I'm counting on you for support!)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="250"  effect="slideInLeft"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_2.jpg"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [wait  time="10"  ]
@@ -1454,7 +1454,7 @@ with a changed complexion leaped in...[p]
 
 [resetfont  ]
 [tb_hide_message_window  ]
-[mask  time="250"  effect="slideInLeft"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [wait  time="10"  ]
 [chara_show  name="akitoshi"  time="50"  wait="true"  storage="chara/16/akitoshi_12.png"  width="344"  height="600"  left="500"  top="0"  reflect="false"  ]
@@ -1626,7 +1626,7 @@ strength..."[p]
 
 [resetfont  ]
 [tb_hide_message_window  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_4.jpg"  ]
 [chara_show  name="hitomi_1"  time="0"  wait="true"  storage="chara/3/hitomi_2_13_22.png"  width="406"  height="600"  reflect="true"  left="326"  top="0"  ]
@@ -1647,7 +1647,7 @@ strength..."[p]
 
 [tb_replay_start  ]
 [delay  speed="10"  ]
-[mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [playbgm  volume="80"  time="1000"  loop="true"  storage="taste_xxx05.ogg"  ]
 [bg  time="0"  method="crossfade"  storage="cg11/cg34_01.png"  ]
@@ -1800,7 +1800,7 @@ for a chance...!)[p]
 
 [resetfont  ]
 [tb_hide_message_window  ]
-[mask  time="1000"  effect="fadeIn"  color="0xe05ecf"  ]
+
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
@@ -1906,7 +1906,7 @@ poison from the fluctuation, but please hold on a little longer...!)[p]
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/kiss2.ogg"  ]
-[mask  time="1000"  effect="fadeIn"  color="0xf55afa"  ]
+
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
@@ -1926,7 +1926,7 @@ of Akishun!)[p]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_2.jpg"  ]
 [chara_show  name="akitoshi"  time="0"  wait="true"  storage="chara/16/akitoshi_12.png"  width="344"  height="600"  left="500"  top="0"  reflect="false"  ]
 [chara_show  name="sonota"  time="0"  wait="true"  storage="chara/6/syo_01.png"  width="800"  height="600"  left="286"  top="0"  reflect="false"  ]
@@ -1977,7 +1977,7 @@ back!?)[p]
 
 [resetfont  ]
 [tb_hide_message_window  ]
-[mask  time="500"  effect="slideInRight"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/school08.jpg"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [stopse  time="1000"  buf="0"  ]
@@ -2076,7 +2076,7 @@ you!"[p]
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
 [chara_hide_all  time="500"  wait="true"  ]
-[mask  time="250"  effect="slideInRight"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="cg11/cg34_06.png"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/eating1.ogg"  loop="true"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/eating2.ogg"  loop="true"  ]
@@ -2287,7 +2287,7 @@ is...going white...ah...ahh...it's unbearable...♥)[p]
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
-[mask  time="250"  effect="slideInLeft"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_2.jpg"  ]
 [chara_show  name="akitoshi"  time="0"  wait="true"  storage="chara/16/akitoshi_12.png"  width="344"  height="600"  left="500"  top="0"  reflect="false"  ]
 [chara_show  name="sonota"  time="0"  wait="true"  storage="chara/6/syo_01.png"  width="800"  height="600"  left="286"  top="0"  reflect="false"  ]
@@ -2339,7 +2339,7 @@ to defeat 'the other world', so we won't kill you.♪"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="250"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="cg11/cg34_10.png"  ]
 [wait  time="10"  ]
@@ -2668,7 +2668,7 @@ Aahhhaaa~~~!!♥♥♥"[p]
 [stopse  time="4000"  buf="0"  fadeout="true"  ]
 [stopse  time="4000"  buf="1"  fadeout="true"  ]
 [stopse  time="4000"  buf="2"  fadeout="true"  ]
-[mask  time="4500"  effect="fadeIn"  color="0x000000"  ]
+
 [stopse  time="4000"  buf="0"  fadeout="false"  ]
 [stopse  time="4000"  buf="1"  fadeout="false"  ]
 [stopse  time="4000"  buf="2"  fadeout="false"  ]

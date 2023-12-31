@@ -12,7 +12,7 @@
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="sozai_07.jpg"  ]
 [chara_show  name="hitomi_1"  time="0"  wait="false"  storage="chara/3/hitomi_1_03_13.png"  width="406"  height="600"  ]
@@ -39,7 +39,7 @@ sensei."[p]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_2.png"  ]
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="haikei/school06.jpg"  ]
 [chara_show  name="hitomi_1"  time="0"  wait="true"  storage="chara/3/hitomi_3_02_4.png"  width="406"  height="600"  left="200"  ]
@@ -290,7 +290,7 @@ to meet So-kun in person!)[p]
 [resetfont  ]
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa05.ogg"  ]
-[mask  time="250"  effect="slideInLeft"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="haikei/roka02.jpg"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/gasyaan1.ogg"  ]

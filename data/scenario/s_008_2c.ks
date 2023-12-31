@@ -12,7 +12,7 @@
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [delay  speed="10"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="sozai_07.jpg"  ]
@@ -40,7 +40,7 @@ sensei."[p]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_2.png"  ]
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [delay  speed="10"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="haikei/school06.jpg"  ]
@@ -108,7 +108,7 @@ human touch, might lend me a hand...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="750"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/okujyou02.jpg"  ]
 [wait  time="10"  ]
 [mask_off  time="750"  effect="fadeOut"  ]
@@ -122,7 +122,7 @@ human touch, might lend me a hand...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="1500"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [wait  time="10"  ]
@@ -157,7 +157,7 @@ human touch, might lend me a hand...)[p]
 [quake  time="300"  count="3"  hmax="0"  wait="true"  vmax="10"  ]
 [wait  time="500"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/dosyu1.ogg"  ]
-[mask  time="250"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_5.jpg"  ]
 [wait  time="10"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
@@ -872,7 +872,7 @@ weird woman too."[p]
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="bom06.ogg"  ]
 
-[mask  time="250"  effect="fadeIn"  color="0xff970f"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_2.jpg"  ]
 [chara_show  name="saeko"  time="0"  wait="true"  storage="chara/11/saeko_2_28.png"  width="438"  height="600"  left="408"  top="0"  reflect="false"  ]
@@ -913,7 +913,7 @@ overnight.)[p]
 
 [tb_hide_message_window  ]
 [playse  volume="80"  time="1000"  buf="0"  storage="se02/zubazuba.ogg"  ]
-[mask  time="250"  effect="fadeIn"  color="0xdb3939"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_6.jpg"  ]
 [chara_show  name="hajime_2"  time="0"  wait="true"  storage="chara/22/hajime2_01_2.png"  width="800"  height="600"  reflect="true"  left=""  top=""  ]
@@ -934,7 +934,7 @@ So-kun with my bare hands...)[p]
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/slash02.ogg"  loop="false"  ]
-[mask  time="250"  effect="slideInRight"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [chara_show  name="hajime_2"  time="0"  wait="true"  storage="chara/22/hajime2_01_2.png"  width="800"  height="600"  reflect="true"  left="-448"  top="0"  ]
 [chara_show  name="rin_2"  time="0"  wait="true"  storage="chara/15/rin3_02.png"  width="656"  height="600"  left="143"  top="0"  reflect="false"  ]
@@ -1095,8 +1095,8 @@ that dangerous for So-kun?!"[p]
 [stopbgm  time="1500"  fadeout="true"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="bom06.ogg"  ]
 [chara_show  name="sonota"  time="50"  wait="true"  storage="chara/6/mahou_02.png"  width="800"  height="600"  reflect="true"  left=""  top=""  ]
-[mask  time="500"  effect="fadeIn"  color="0xff4800"  ]
-[mask  time="2500"  effect="fadeIn"  color="0xffffff"  ]
+
+
 [chara_hide_all  time="0"  wait="true"  ]
 [chara_show  name="hajime_2"  time="0"  wait="true"  storage="chara/22/hajime2_02.png"  width="800"  height="600"  left="219"  top="0"  reflect="false"  ]
 [chara_show  name="rin_2"  time="0"  wait="true"  storage="chara/15/rin3_02.png"  width="656"  height="600"  reflect="true"  left="-157"  top="0"  ]
@@ -1433,7 +1433,7 @@ the others!"[p]
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa05.ogg"  ]
 [chara_hide_all  time="250"  wait="true"  ]
-[mask  time="250"  effect="slideInRight"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_2.jpg"  ]
 [wait  time="10"  ]
 [mask_off  time="250"  effect="slideOutLeft"  ]
@@ -1457,9 +1457,9 @@ faster if she walks on her own."[p]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/charge2.ogg"  ]
 
 [mask_off  time="350"  effect="fadeOut"  ]
-[mask  time="350"  effect="fadeIn"  color="0x000000"  ]
+
 [mask_off  time="350"  effect="fadeOut"  ]
-[mask  time="350"  effect="fadeIn"  color="0x000000"  ]
+
 [mask_off  time="350"  effect="fadeOut"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_3_02_2.png"  width="406"  height="600"  left="108"  top="-2"  reflect="false"  ]
 [tb_show_message_window  ]
@@ -1681,7 +1681,7 @@ At this rate..."[p]
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/diving1.ogg"  ]
 [stopbgm  time="4000"  fadeout="true"  ]
-[mask  time="4000"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_2.jpg"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [stopbgm  time="1500"  fadeout="false"  ]
@@ -1775,7 +1775,7 @@ everyone but me is going to die! Ahahahahahaha!♥"[p]
 *kaisou_12
 
 [tb_replay_start  ]
-[mask  time="2000"  effect="fadeIn"  color="0x000000"  ]
+
 [delay  speed="10"  ]
 [bg  time="0"  method="crossfade"  storage="cg11/cg33_01.png"  ]
 [tb_cg  id="cg028"  ]
@@ -1827,7 +1827,7 @@ victims...!"[p]
 "Eh... Inside its belly... You're kidding, right?!"[p]
 [_tb_end_text]
 
-[mask  time="250"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/nakaniwa_03.png"  ]
 [wait  time="10"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
@@ -1871,7 +1871,7 @@ anyone knowing!"[p]
 
 [resetfont  ]
 [tb_hide_message_window  ]
-[mask  time="250"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="cg11/cg33_02.png"  ]
 [wait  time="10"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
@@ -2050,7 +2050,7 @@ of being sucked and licked??)[p]
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/kiss2.ogg"  ]
-[mask  time="500"  effect="fadeIn"  color="0xd942ed"  ]
+
 [mask_off  time="750"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
@@ -3061,7 +3061,7 @@ help hunt down the remaining warriors and nuisances."[p]
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
 [stopbgm  time="4500"  fadeout="true"  ]
-[mask  time="4500"  effect="fadeIn"  color="0x000000"  ]
+
 [stopbgm  time="1500"  fadeout="true"  ]
 [stopse  time="1000"  buf="0"  ]
 [stopse  time="1000"  buf="1"  ]

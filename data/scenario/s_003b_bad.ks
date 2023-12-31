@@ -94,7 +94,7 @@ really!"[p]
 *kaisou_05
 
 [tb_replay_start  ]
-[mask  time="250"  effect="fadeIn"  color="0x000000"  ]
+
 [delay  speed="10"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [wait  time="10"  ]
@@ -237,7 +237,7 @@ information♪"[p]
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
-[mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="cg11/cg14_01.png"  ]
 [tb_cg  id="cg009"  ]
@@ -335,7 +335,7 @@ of infiltration, in just half a day..."[p]
 
 [resetfont  ]
 [tb_hide_message_window  ]
-[mask  time="1000"  effect="fadeIn"  color="0xff5ce9"  ]
+
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/heartbeats.ogg"  loop="true"  ]
 [bg  time="0"  method="crossfade"  storage="cg11/cg14_04.png"  ]
 [wait  time="10"  ]
@@ -445,7 +445,7 @@ this together, shall we?"[p]
 
 [resetfont  ]
 [tb_hide_message_window  ]
-[mask  time="1000"  effect="fadeIn"  color="0xff5ce9"  ]
+
 [mask_off  time="1000"  effect="fadeOut"  ]
 [bg  time="1000"  method="crossfade"  storage="cg11/cg14_06.png"  ]
 [wait  time="1000"  ]
@@ -486,7 +486,7 @@ hold back, let's finish inside already-?"[p]
 
 [resetfont  ]
 [tb_hide_message_window  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/okujyou04_2.jpg"  ]
 [wait  time="10"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
@@ -535,7 +535,7 @@ hold back, just do it-!"[p]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
-[mask  time="250"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [wait  time="10"  ]
@@ -656,7 +656,7 @@ Tora-chan and jump off the rooftop...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="2000"  effect="fadeIn"  color="0xff4cf0"  ]
+
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/eating2_2.ogg"  ]
 [tb_show_message_window  ]
@@ -969,7 +969,7 @@ all this frustration into you!" "Come on, get up, livestock teacher!"[p]
 *kaisou_06
 
 [tb_replay_start  ]
-[mask  time="500"  effect="fadeIn"  color="0x000000"  ]
+
 [stopbgm  time="1500"  fadeout="true"  ]
 [delay  speed="10"  ]
 [bg  time="0"  method="crossfade"  storage="haikei/school01.jpg"  ]
@@ -1008,7 +1008,7 @@ all this frustration into you!" "Come on, get up, livestock teacher!"[p]
 [resetfont  ]
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  ]
-[mask  time="1000"  effect="fadeInRight"  color="0x000000"  ]
+
 [chara_move  name="hitomi_1"  anim="false"  time="0"  effect="default"  wait="true"  left="202"  top="0"  width="388"  height="600"  ]
 [bg  time="0"  method="crossfade"  storage="haikei/kokuban.jpg"  ]
 [chara_show  name="sonota"  time="0"  wait="true"  storage="chara/6/podium.png"  width="800"  height="600"  left=""  top=""  reflect="false"  ]
@@ -1077,7 +1077,7 @@ period of PE is steamy sex in the storage room♥"[p]
 [_tb_end_tyrano_code]
 
 [playbgm  volume="80"  time="1000"  loop="true"  storage="taste_xxx05.ogg"  fadein="true"  ]
-[mask  time="750"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [wait  time="10"  ]
@@ -1089,7 +1089,7 @@ we'll have outdoor sex walks around the school until evening♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="250"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/room01_3.jpg"  ]
 [chara_show  name="hitomi_1"  time="0"  wait="true"  storage="chara/3/hitomi_5_2.png"  width="388"  height="600"  reflect="true"  left="200"  top="0"  ]
 [wait  time="10"  ]
@@ -1121,7 +1121,7 @@ with me!"[p]
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  ]
-[mask  time="2500"  effect="slideInLeft"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [wait  time="10"  ]
@@ -1358,7 +1358,7 @@ After all, she's all that's left."[p]
 
 [tb_hide_message_window  ]
 [stopbgm  time="2500"  fadeout="true"  ]
-[mask  time="4000"  effect="fadeIn"  color="0x000000"  ]
+
 [stopbgm  time="1500"  fadeout="false"  ]
 [bg  time="0"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [wait  time="10"  ]

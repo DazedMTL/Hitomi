@@ -2943,7 +2943,7 @@ for drinks..."[p]
 [resetfont  ]
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
-[mask  time="2500"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="500"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
@@ -3099,7 +3099,7 @@ instructions will follow later..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [bg  time="0"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
