@@ -7,8 +7,8 @@
 [delay  speed="10"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（・・・・・・・・創くん・・・）[p]
+#【Hitomi】
+(...So-kun...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -23,14 +23,14 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【創】
-『先生、もう関わらないと約束してください』[p]
+#【So】
+"Sensei, please promise not to get involved anymore."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【創】
-『約束を守ってくれたなら…[r]
-冴子先生の事はきっと僕が何とかします』[r]
+#【So】
+"If you keep your promise... I'll make sure to take care of Saeko-[r]
+sensei."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -48,9 +48,9 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（……冴子はきっと創君と一緒に居る！彼に会うのが最優先！[r]
-………でも………）[r]
+#【Hitomi】
+(...Saeko must be with So-kun! Meeting him is my top priority![r]
+...But...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -60,9 +60,9 @@
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_2_13_3.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（もし、創君に会う前に昨晩みたいなピンチに陥ってしまったら[r]
-今度は助けも入らず完全にアウト…！）[r]
+#【Hitomi】
+(If I get into a pinch like last night before meeting So-kun, this[r]
+time there will be no help and it'll be completely over...!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -70,14 +70,17 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（何よりアイちゃんとリンちゃんが私より先に創君と出会ってしまったら、きっと説得どころじゃなくなっちゃう）[p]
+#【Hitomi】
+(Above all, if Ai-chan and Rin-chan meet So-kun before me, it'll be[r]
+too late for persuasion.)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_05_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（ゆらぎのニオイを感じ取れると豪語してたあの子達より先に創君を探し出すのは難しい…でも、意外と人情味のあるリンちゃんなら手を貸してくれるかもしれない…）[p]
+#【Hitomi】
+(It's difficult to find So-kun before those girls who boasted about[r]
+sensing the fluctuations... but maybe Rin-chan, who has a surprisingly[r]
+human touch, might lend me a hand...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -86,8 +89,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ならば…！リンちゃ―んっ！！」[p]
+#【Hitomi】
+"Then...! Rin-chan!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -101,7 +104,7 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #【？？？】
-「・・・・・・」[p]
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -114,8 +117,8 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【創】
-「・・・・・・・・・・・・」[p]
+#【So】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -128,9 +131,8 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【リン】
-「…フン、この程度なワケ？[r]
-最初の威勢の良さはどこいったのよっ！」[r]
+#【Rin】
+"...Hmph, is that all? Where did all that initial bravado go?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -162,9 +164,9 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【ゆらぎ生徒達】
-『こ・・・こんなに強いなんて・・・っ』[r]
-『瑠璃男のクラスが全滅するわけだ…』[r]
+#【Fluctuating Students】
+"Ho...how can they be so strong...?" "No wonder Meigui's class got[r]
+wiped out..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -173,8 +175,8 @@
 
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【ゆらぎ生徒達】
-『クソッ…魔法戦士めッ！』[p]
+#【Fluctuating Students】
+"Damn it... those magical warriors!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -187,16 +189,17 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_04.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…まあ、放って置いても “ 蠱毒-こどく- ” で勝手に数を減らしてくれたんだろうけど、ソレを待っててやれるほど私達も暇じゃ無いっていうか？」[p]
+#【Rin】
+"...Well, even if we left them alone, they'd probably reduce their[r]
+numbers on their own with 'kodoku', but we're not so free as to wait[r]
+for that, are we?"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「さっさと終わらせたいのよね、[r]
-シンの招いた騒動の後始末なんてさ！」[r]
+#【Rin】
+"I want to finish this quickly, cleaning up the mess Shin caused!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -212,9 +215,9 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【ゆらぎ生徒達】
-『うぅ…これじゃポイントに誘い込む前に全滅しちまう』[r]
-『玫瑰のヤツは何をやってんだよ…っ』[r]
+#【Fluctuating Students】
+"Ugh... at this rate, we'll be wiped out before we can lure them to[r]
+the point." "What the hell is Meigui doing...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -223,9 +226,9 @@
 
 [chara_mod  name="rin_2"  time="50"  cross="false"  storage="chara/15/rin3_01.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「おおかた罠にでも誘い込もうとか企んでたんでしょうけど、[r]
-このアタシがそう安々と――…」[r]
+#【Rin】
+"You were probably planning to lure us into a trap or something, but[r]
+I'm not so easy to--..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -234,8 +237,8 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「リンちゃ――ん！」[p]
+#【Hitomi】
+"Rin-chan--!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -248,13 +251,13 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「ハアァ！？」[p]
+#【Rin】
+"Haaah!?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【ゆらぎ生徒達】
-『！！？？』[p]
+#【Flickering Students】
+"!!??"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -267,18 +270,16 @@
 [wait  time="750"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ハァ、ハァ！」[p]
+#【Hitomi】
+"Haa, haa!"[p]
 [_tb_end_text]
 
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin2_08.png"  width="375"  height="600"  reflect="true"  left="-64"  top="0"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="2"  swing="20"  time="100"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「アンタ馬鹿ぁ！？[r]
-ホントに乗り込んで来たワケ！？[r]
-まだ時間じゃないでしょ―が！？」[r]
+#【Rin】
+"Are you stupid!? You really charged in here!? It's not time yet!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -286,9 +287,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「創君の居場所をあの子達に聞きたいの！[r]
-お願い！直ぐに終わるか…」[r]
+#【Hitomi】
+"I want to ask those kids where So-kun is! Please! It'll be over[r]
+quickly..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -305,41 +306,42 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「………ら…？」[p]
+#【Hitomi】
+"...ra...?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_10.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…え、えーっと…」[p]
+#【Hitomi】
+"...uh, um..."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="2"  swing="20"  time="100"  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「このドジ！！」[p]
+#【Rin】
+"You klutz!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano37.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_03_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「グゥ…ゴメン…。でもどうしてもリンちゃん達が創君と戦うことだけは避けたくって…」[p]
+#【Hitomi】
+"Guu... sorry... But I just had to avoid you guys fighting with So-kun[r]
+at all costs..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_03.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_18.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「どうせそんなトコだろうと思ったわよ！[r]
-あーあ！瞳の所為で逃がしちゃった！[r]
-どう責任とってくれるのかしらねぇ～!?」[r]
+#【Rin】
+"I figured it'd be something like that! Ah-ah! Because of you, Hitomi,[r]
+they got away! How are you going to take responsibility for this,[r]
+huh~!?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -349,22 +351,21 @@
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_10.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「こ、この件が済んだら、うんとご馳走するから！」[p]
+#【Hitomi】
+"Once this matter is settled, I'll treat you to a feast!"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_3.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「・・・・・・」[p]
+#【Rin】
+"..."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_18.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ったく、まぁ来ちゃったものは仕方ない。[r]
-解ったわよ！そのハジメって子と仲間の～誰だっけ？[r]
-探すの手伝ってあげるわよ！」[r]
+#【Rin】
+"Tsk, well, what's done is done. I get it! That Hajime guy and his[r]
+friends—what were their names? I'll help you look for them!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -374,22 +375,23 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_04_2.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_05_4.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「リンちゃん…♥ ありがとう、恩に着るわ！」[p]
+#【Hitomi】
+"Rin-chan...♥ Thank you, I owe you one!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_05_3.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_14.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「だけどアタシはその子のこと何も知らないし、片っ端からゆらぎを探して殺し合う事になるんだから危険は覚悟しなさいよね」[p]
+#【Rin】
+"But I don't know anything about that kid, and since we'll have to[r]
+search for fluctuations and fight them off, be prepared for danger."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_13.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「もちろんよ、さぁ行きましょう！」[p]
+#【Hitomi】
+"Of course, let's go!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_3.png"  ]
@@ -397,14 +399,14 @@
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？】
-「…探す必要は無いですよ…」[p]
+"...There's no need to search..."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_16.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_08_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳＆リン】
-『！？』[p]
+#【Hitomi & Rin】
+"！？"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -420,21 +422,22 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「創くん・・・！」[p]
+#【Hitomi】
+"So-kun...!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【リン】
-「コイツが…！？」[p]
+#【Rin】
+"This guy is...!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_16.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-（…逃げ回ってた連中よりよっぽど格上の存在じゃん、[r]
-力は在るのに振るうことを躊躇している…傷つく事の痛みと怖さを人の何倍も知っている奥手なゆらぎ…か）[r]
+#【Rin】
+(...He's clearly more formidable than the ones running away, he has[r]
+the power but hesitates to use it... a shy fluctuation who knows the[r]
+pain and fear of getting hurt more than anyone else.)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -442,9 +445,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【リン】
-（話に聞いてた時から思ってはたけど、[r]
-…似てるわね、美景に……）[r]
+#【Rin】
+(I've thought so since I heard about him... he's similar to Mikage...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -453,9 +455,9 @@
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_03.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-「…あれだけ僕を信じて待っていて欲しいとお願いしたのに、[r]
-残念ですよ…瞳先生」[r]
+#【So】
+"Despite my request for you to trust me and wait, it's[r]
+disappointing... Hitomi-sensei."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -465,10 +467,10 @@
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_04.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_03_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「それは違うわ創くん。貴方を信じたからこそ、[r]
-貴方にこれ以上不幸になって欲しく無いの…[r]
-こんな危険な事からは手を引いて欲しい、だから迎えに来たのよ」[r]
+#【Hitomi】
+"That's not it, So-kun. It's precisely because I trust you that I[r]
+don't want you to become any more unhappy... I want you to withdraw[r]
+from this dangerous affair, that's why I came to get you."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -478,10 +480,10 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_03.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_03.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-「この戦いから手を引くことが僕の救いになるとでも？[r]
-言ったでしょう？ 僕はもう人間じゃ無い…そして、[r]
-既に人として許されない罪も犯してしまっているんです」[r]
+#【So】
+"You think withdrawing from this battle will save me? Haven't I told[r]
+you? I'm no longer human... and I've already committed sins that can't[r]
+be forgiven as a person."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -489,9 +491,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【創】
-「僕が求めているのは救いではなく、裁き…[r]
-裁きこそ僕の…僕達の救いになるんです」[r]
+#【So】
+"What I seek is not salvation, but judgment... Judgment is the[r]
+salvation for me... for us."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -501,30 +503,30 @@
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_04.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_9.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「裁きが救い…？ 創君、キミの言う裁きって…」[p]
+#【Hitomi】
+"Judgment is salvation...? So-kun, what do you mean by judgment...?"[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="true"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_04.png"  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「はい、ストーップ！！」[p]
+#【Rin】
+"Okay, STOP!!"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_04_2.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_03.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_16.png"  ]
 [tb_start_text mode=1 ]
-#【瞳＆創】
-『！？？』[p]
+#【Hitomi & So】
+"！？？"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…え？ リンちゃん？」[p]
+#【Hitomi】
+"...Eh? Rin-chan?"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -535,24 +537,25 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「あんた達の話はまだるっこしいのよ！」[p]
-「互いに引けない事情があるから戦わざるを得ないってンなら戦って決着を着けたら良いダケでしょーが！」[p]
+#【Rin】
+"Your conversation is dragging on and on! If you both have reasons[r]
+that make it impossible to back down and have to fight, then just[r]
+fight and settle it already!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「だ、だけどこの子は――…！」[p]
+#【Hitomi】
+"But, but this child is--...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_14.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「救いを求めているクセに、[r]
-素直になれない勇気が無い、そのクセ妙に意地っ張り…[r]
-居るのよねぇ、アンタみたいな不器用なヤツ！」[r]
+#【Rin】
+"Seeking salvation yet lacking the courage to be honest, and on top of[r]
+that, stubbornly prideful... There are indeed clumsy people like you[r]
+around!"[p]
 
 [_tb_end_text]
 
@@ -563,14 +566,14 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_16.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_03_2.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-「…っ…！？」[p]
+#【So】
+"...!?"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_03.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「悪いけどアタシそういうの大っ嫌いなの、だから…」[p]
+#【Rin】
+"Sorry, but I really hate that kind of attitude, so..."[p]
 
 [_tb_end_text]
 
@@ -583,10 +586,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「素直にさせてあげるわ…、[r]
-アタシが勝ったら　す　な　お　に！[r]
-瞳に協力してやんなさい、イイわね？」[r]
+#【Rin】
+"I'll make you be honest... If I win, you will cooperate with Hitomi[r]
+willingly! Got it?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -594,23 +596,23 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【創】
-「！」[p]
+#【So】
+"!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_hide  name="hitomi_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="hitomi_1"  time="50"  wait="true"  storage="chara/3/hitomi_2_13_10.png"  width="406"  height="600"  left="500"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・だ・・・ダイジョブなの？」[p]
+#【Hitomi】
+"...Is... Is it okay?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【リン】
-「“ 星の仔 ” リン様を舐めンじゃないっつの！[r]
-跳ねっ返ったガキンチョの１人くらい余裕でねじ伏せ…[r]
-もとい説き伏せてあげるわよ！」[r]
+#【Rin】
+"Don't underestimate Rin-sama of the Star Children! I can easily[r]
+subdue... I mean, persuade a bratty kid who's gotten too big for his[r]
+boots!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -620,16 +622,16 @@
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_04.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…創君は…負けたら納得してくれる？」[p]
+#【Hitomi】
+"...So-kun, will you accept the outcome if you lose?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_3.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_03.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-「…魔法戦士って…[r]
-僕が思っていたよりも話せる人だったのかな…」[r]
+#【So】
+"...Magical warriors... Maybe they're more talkative than I[r]
+thought..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -639,10 +641,9 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_01.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ふん、アタシが変わり者ってダケよ！[r]
-その私を巻き込んだアンタの担任も[r]
-相当な変わり者だけどね！」[r]
+#【Rin】
+"Hmph, I'm just an oddball! And your homeroom teacher who got involved[r]
+with me is quite the oddball too!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -652,9 +653,10 @@
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「本当なら私が説得したかったけど、ここは任せる他なさそうね、[r]
-創君、リンちゃんは強いわよ。思い切り胸を借りなさい」[r]
+#【Hitomi】
+"I really wanted to persuade you myself, but it seems like I have no[r]
+choice but to leave it to Rin-chan. So-kun, Rin-chan is strong. Borrow[r]
+her strength with all your might."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -664,8 +666,8 @@
 [stopbgm  time="1500"  fadeout="false"  ]
 [font  size="50"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ペチャパイだけど」[p]
+#【Hitomi】
+"Even though she's flat-chested."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -677,50 +679,50 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「あんたブッ殺すわよ？！」[p]
+#【Rin】
+"I'll kill you, you know?!"[p]
 [_tb_end_text]
 
 [chara_hide  name="hitomi_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="hitomi_1"  time="50"  wait="true"  storage="chara/3/hitomi_2_13_6.png"  width="406"  height="600"  left="500"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「いやぁ・・・つい」[p]
+#【Hitomi】
+"No, I just..."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【創】
-「…これが本当の　友　…か」[p]
+#【So】
+"...Is this what true friendship is...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_5.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08_3.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「コイツも何処をどう見たらそう思えるかな…違うっつの」[p]
+#【Rin】
+"How could anyone look at this and think that... You're wrong."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08_2.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_03_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「え～？リンちゃん冷たい～っ」[p]
+#【Hitomi】
+"Eh~? Rin-chan, you're so cold~"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「うっさい！」[p]
+#【Rin】
+"Shut up!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_02.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-「…不思議な人達だ、でもお陰で信じてみる気になれたよ、[r]
-キミになら僕の全力をぶつけられそうだ…！」[r]
+#【So】
+"...You're strange people, but thanks to you, I feel like I can[r]
+believe and give my all against you...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -731,8 +733,8 @@
 [chara_mod  name="rin_1"  time="250"  cross="false"  storage="chara/13/rin2_03.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「コテンパンの返り討ちにしたげるわ」[p]
+#【Rin】
+"I'll beat you down thoroughly."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -743,22 +745,21 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【創】
-「…瞳先生、先に冴子先生をお返しします」[p]
+#【So】
+"...Hitomi-sensei, I'll return Saeko-sensei to you first."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_16.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「えっ？」[p]
+#【Hitomi】
+"Eh?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 #
-少年の発言に我が耳を疑ったのも束の間、[r]
-少年の影から解き放たれた人影はフラフラと頼りない足取りで[r]
-薄明かりの中に現れた。[r]
+As I doubted my ears at the boy's statement, the figure released from[r]
+the boy's shadow staggered into the dim light with unsteady steps.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -772,15 +773,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「冴子！・・・って、寝てる？」[p]
+#【Hitomi】
+"Saeko!... Are you sleeping?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【創】
-「きっと状況に混乱するだけでしょうから…[r]
-捕まっていた間に受けた　ケガレ　は落としておきました」[r]
+#【So】
+"She would only be confused by the situation... I've cleansed her of[r]
+the impurities she accumulated while captured."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -793,16 +794,16 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・創君…」[p]
+#【Hitomi】
+"...So-kun..."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber12.ogg"  fadein="false"  ]
 [tb_start_text mode=3 ]
-#【創】
-「下がっていてください、[r]
-この戦いは禊-みそぎ-、僕のケジメです！」[r]
+#【So】
+"Please stand back. This battle is my purification—a misogi, my way of[r]
+making amends!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -811,8 +812,8 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_4.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…頑張れ、男の子！」[p]
+#【Hitomi】
+"...Do your best, young man!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -825,9 +826,9 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_03.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ゆらぎを応援か…まったく、[r]
-変な女に関っちゃったわね、アンタも」[r]
+#【Rin】
+"Cheering for a fluctuation... Really, you've gotten involved with a[r]
+weird woman too."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -835,14 +836,14 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【創】
-「・・・ふっ」[p]
+#【So】
+"...Heh."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_05_2.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…フフ」[p]
+#【Rin】
+"...Hehe"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -858,13 +859,13 @@
 [tb_show_message_window  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「どぉりゃあああぁぁっ!!!」[p]
+#【Rin】
+"Take this!!!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【創】
-「オオオオォォォオオッ!!!」[p]
+#【So】
+"Ooooooh!!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -900,9 +901,10 @@
 [mask_off  time="750"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…これが、ゆらぎと魔法戦士の戦いか…、[r]
-悔しいけど一朝一夕で張り合える代物じゃ無いわね）[r]
+#【Hitomi】
+(...So this is the battle between a fluctuation and a magical[r]
+warrior... It's frustrating, but it's not something I can compete with[r]
+overnight.)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -919,10 +921,11 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…自在に飛来する片腕の６本剣でバランスを崩し、[r]
-もう片方の長刀で仕留めるエゲツナイ戦闘スタイル…[r]
-素手同然の私じゃ創君の相手はとても務まらなかった…）[r]
+#【Hitomi】
+(...Using the six swords of his free-floating arm to throw off[r]
+balance, and the long sword in his other hand for the kill—such a[r]
+ruthless fighting style... I wouldn't have been able to stand against[r]
+So-kun with my bare hands...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -939,10 +942,10 @@
 [mask_off  time="250"  effect="slideOutLeft"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（ソレを真っ向から弾き、いなし、躱すと同時に斬り結ぶ…[r]
-リンちゃんは本当に強いわ…一体魔法戦士って何なの…？[r]
-こんな世界が存在していただなんて…っ…悔しいなぁ…！）[r]
+#【Hitomi】
+(To directly deflect, dodge, and evade while simultaneously striking[r]
+back... Rin-chan is truly strong... What exactly is a magical[r]
+warrior...? That such a world exists... it's so frustrating...!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -961,9 +964,9 @@
 [chara_move  name="rin_1"  anim="true"  time="250"  effect="easeInQuad"  wait="true"  left="380"  top="0"  width="375"  height="600"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【リン】
-「なかなかヤルじゃん！[r]
-さては裏番長とかいうヤツねアンタ」[r]
+#【Rin】
+"You're not bad at all! You must be the so-called 'underground boss,'[r]
+huh?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -972,14 +975,14 @@
 
 [chara_show  name="hajime"  time="50"  wait="true"  storage="chara/9/hajime4_01.png"  width="375"  height="600"  reflect="true"  left=""  top=""  ]
 [tb_start_text mode=1 ]
-#【創】
-「…誉めてくれるのは嬉しいけど、僕はただの爪弾きさ…」[p]
+#【So】
+"...I'm flattered by the praise, but I'm just a mere pawn..."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_02.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…ホント、不器用なんだ…でも、」[p]
+#【Rin】
+"...Really, you're so clumsy... But,"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -989,8 +992,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「そろそろ決着つけさせてもらうわよ」[p]
+#【Rin】
+"It's about time to settle this."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1000,15 +1003,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「！？」[p]
+#【So】
+"What?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【リン】
-「天津風-あまつかぜ-と輝炎-きえん-を生みし清き精霊達よ…[r]
-共に手を取り謳-うた-い舞い踊れ――…」[r]
+#【Rin】
+"O spirits of the pure wind Amatsukaze and the shining flame Kien,[r]
+join hands and sing and dance together..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1026,10 +1029,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ちょ、ちょっとリンちゃん？！[r]
-何かトンでもない魔法使おうとしてない!?[r]
-それ創くん危ないんじゃないの！？」[r]
+#【Hitomi】
+"Wait, Rin-chan?! Are you trying to use some outrageous magic? Isn't[r]
+that dangerous for So-kun?!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1044,8 +1046,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「詠唱が終わる前に潰せば…ッ！」[p]
+#【So】
+"If I can crush her before she finishes chanting...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1058,15 +1060,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「…消えた！？」[p]
+#【So】
+"...She disappeared?!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
 [chara_show  name="rin_1"  time="50"  wait="true"  storage="chara/13/rin2_02.png"  width="375"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「残ぁん念！フェイクでした♪」[p]
+#【Rin】
+"Lasting regret! It was a fake♪"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1077,16 +1079,16 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「――くぅッ！？」[p]
+#【So】
+"--Guh?!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="basa03.ogg"  ]
 [chara_hide  name="rin_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="rin_2"  time="50"  wait="true"  storage="chara/15/rin3_01.png"  width="656"  height="600"  reflect="true"  left="-211"  top="0"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「號焔-ごうえん-ッ！」[p]
+#【Rin】
+"Gouen!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1106,8 +1108,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「…くはッ」[p]
+#【So】
+"...Kuhah"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1117,16 +1119,16 @@
 [chara_move  name="hajime_2"  anim="true"  time="250"  effect="easeInQuad"  wait="true"  left="227"  top="126"  width="800"  height="600"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【創】
-「ハァ、ハァ……ま…参った……僕の…負けだ…」[p]
+#【So】
+"Haah, Haah... I... admit defeat... I've lost..."[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
 [chara_hide  name="rin_2"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="rin_1"  time="50"  wait="true"  storage="chara/13/rin2_03.png"  width="375"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「フフン♪ ま、当然の結果ね」[p]
+#【Rin】
+"Hmph♪ Well, it was the expected outcome."[p]
 [_tb_end_text]
 
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber41.ogg"  ]
@@ -1135,9 +1137,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「いや、どう見てもやり過ぎでしょ！？[r]
-創くん虫の息じゃないのっ！！」[r]
+#【Hitomi】
+"No way, that's totally overdoing it! So-kun is barely breathing!!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1147,10 +1148,10 @@
 [resetfont  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_2.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「アンタねぇ…ギリギリ殺さないようにするのがどれだけ高度な[r]
-魔力操作技術を求められるか知らないで言ってるでしょ？[r]
-私じゃなかったら殺しちゃってるっつの！」[r]
+#【Rin】
+"You know... Do you have any idea how much skill in magic power[r]
+control it takes to make sure not to kill someone by a hair's breadth?[r]
+If it wasn't me, he'd be dead!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1160,15 +1161,16 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_3.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「で…でも、もう少し手心というかさぁ！？」[p]
+#【Hitomi】
+"But still, couldn't you have been a little more merciful?!"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_04.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「それだけその子が強かったのよ！[r]
-まだ戦い慣れてないから魔法の詠唱なんて隙に引っ掛かってくれたけど、そうじゃなかったら最悪の選択も在り得たわ」[r]
+#【Rin】
+"That's how strong he was! He's not used to fighting yet, so he fell[r]
+for the gap in my magic chant, but if he hadn't, it could have been[r]
+the worst-case scenario."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1177,8 +1179,10 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_05_2.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「それに傷の事だって心配すること無いわよ！ゆらぎがこの程度のダメージで死んでくれるなら私達も苦労してないっつーの」[p]
+#【Rin】
+"Besides, you don't need to worry about the wounds! If fluctuations[r]
+could die from this level of damage, we wouldn't be having such a hard[r]
+time."[p]
 [_tb_end_text]
 
 [stopbgm  time="1500"  fadeout="true"  ]
@@ -1186,39 +1190,39 @@
 [chara_hide  name="hitomi_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="hitomi_1"  time="50"  wait="true"  storage="chara/3/hitomi_2_03_2.png"  width="406"  height="600"  reflect="true"  left="170"  top="0"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…ああ言ってるんだけど、大丈夫？創君」[p]
+#【Hitomi】
+"...You say that, but are you really okay, So-kun?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_03.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-「…はい、何とか大丈夫です」[p]
+#【So】
+"...Yes, somehow I'm fine."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_1.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「そう…良かったぁ…！」[p]
+#【Hitomi】
+"That's good... thank goodness...!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【創】
-「・・・…ごめんなさい」[p]
+#【So】
+"...I'm sorry."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_5.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_16.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「え？」[p]
+#【Hitomi】
+"Eh?"[p]
 [_tb_end_text]
 
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano35.ogg"  ]
 [tb_start_text mode=3 ]
-#【創】
-「…本当は…嬉しかったんです…[r]
-危険を冒してまで僕に会いに来てくれたこと…」[r]
+#【So】
+"...The truth is... I was happy... That you risked danger to come see[r]
+me..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1227,15 +1231,15 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_15.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「創くん…！」[p]
+#【Hitomi】
+"So-kun...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「…やけに入れ込んでるなとは思ってたけどさぁ、[r]
-なに？もしかしてアンタ達って、デキてんの？」[r]
+#【Rin】
+"...I thought you were unusually invested, but what? Are you guys[r]
+possibly an item?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1245,24 +1249,23 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_16.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳＆創】
-『え？！』[p]
+#【Hitomi & So】
+"Eh?!"[p]
 [_tb_end_text]
 
 [chara_hide  name="hitomi_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="hitomi_1"  time="50"  wait="true"  storage="chara/3/hitomi_2_05_5.png"  width="406"  height="600"  left="196"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「やっぱそう見えちゃう？♥」[p]
+#【Hitomi】
+"Does it really look that way?♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_2.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「…アンタ仮にも教師なのよね？[r]
-普通は否定すべきトコなんじゃないの？[r]
-なんつーからかい甲斐の無いヤツ…」[r]
+#【Rin】
+"...Aren't you supposed to be a teacher? Normally you'd deny it,[r]
+right? You're such an easy target for teasing..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1271,21 +1274,21 @@
 
 [tb_chara_shake  name="hajime_2"  direction="x"  count="2"  swing="10"  time="300"  ]
 [tb_start_text mode=1 ]
-#【創】
-「…え…？　え？？」[p]
+#【So】
+"...Eh...? Eh??"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_12.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-（それに比べてこの子はホント純粋みたいね…）[p]
+#【Rin】
+(Compared to her, this kid really seems pure...)[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_04.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ハイハイ！ これで目的は済んだんだから[r]
-バカップルはさっさと帰りなさい」[r]
+#【Rin】
+"Alright alright! Now that we've accomplished our goal, you lovebirds[r]
+better head home quickly."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1296,15 +1299,15 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「此処から先は魔法戦士の仕事だからさ」[p]
+#【Rin】
+"From here on out, it's a job for a magical warrior."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_16.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_05_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…！」[p]
+#【Hitomi】
+"...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1318,10 +1321,9 @@
 [chara_show  name="rin_2"  time="250"  wait="true"  storage="chara/15/rin3_02.png"  width="656"  height="600"  left="328"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【リン】
-「…奮戦してたハジメに加勢もしなかった奴等が[r]
-雁首-がんくび-揃えてノコノコと戻って来たって事は[r]
-覚悟が出来たって事かしら？」[r]
+#【Rin】
+"...So, the ones who didn't help Hajime in his fierce battle but are[r]
+now lining up to return have finally prepared themselves, I suppose?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1329,25 +1331,24 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【ゆらぎ生徒】
-『ああ！今度はコッチの番だ！ブッ殺すぜ魔法戦士！』[p]
+#【Fluctuating Student】
+"Yeah! It's our turn this time! We'll kill you, magical warrior!"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_2"  time="50"  cross="false"  storage="chara/15/rin3_01.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「ハッ、いかにも雑魚っぽいセリフね！」[p]
+#【Rin】
+"Hah, such a small-fry thing to say!"[p]
 [_tb_end_text]
 
 [chara_show  name="saeko"  time="50"  wait="true"  storage="chara/11/saeko_2_28.png"  width="438"  height="600"  left="560"  top="0"  reflect="false"  ]
 [chara_show  name="hitomi_1"  time="50"  wait="true"  storage="chara/3/hitomi_2_13_3.png"  width="406"  height="600"  left="458"  top="8"  reflect="false"  ]
 [chara_show  name="hajime_2"  time="50"  wait="true"  storage="chara/22/hajime2_04.png"  width="800"  height="600"  left="340"  top="44"  reflect="false"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ホラ！瞳はお仲間連れて脱出する！[r]
-ハジメもまだ少しはヤれるでしょ？[r]
-瞳に手を貸してやんなさい！」[r]
+#【Rin】
+"Look! Hitomi, take your friends and escape! Hajime can still fight a[r]
+bit, right? Give Hitomi a hand!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1355,8 +1356,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【創】
-「は、はい！」[p]
+#【So】
+"Y-Yes!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1365,20 +1366,22 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「支援武器を受け取ったら必ず加勢に戻るわ！油断しないでね、リンちゃん！」[p]
+#【Hitomi】
+"Once I receive the support weapon, I'll definitely come back to[r]
+assist! Don't let your guard down, Rin-chan!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_3.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「邪魔なダケだっつーの！ いいから小虎たちと一緒に公園に避難してなさい！」[p]
+#【Rin】
+"You'd just be in the way! Just evacuate to the park with Kotora and[r]
+the others!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_10.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「かぁ～っ、可愛くないんだからぁ！」[p]
+#【Hitomi】
+"Grrr, you're not cute at all!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1389,16 +1392,15 @@
 [chara_mod  name="rin_2"  time="50"  cross="false"  storage="chara/15/rin3_03.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「ったく！一言多い女ねぇ…！」[p]
+#【Rin】
+"Geez! Always have to have the last word, don't you...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_2"  time="50"  cross="false"  storage="chara/15/rin3_02.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ほら！ブッ殺すンでしょ？[r]
-掛かって来なさいよ！」[r]
+#【Rin】
+"Come on! You said you were going to kill me, right? Bring it on!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1407,24 +1409,24 @@
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [tb_start_text mode=1 ]
-#【ゆらぎ生徒】
-『…へへ、裏切り者の始末が先だぜ』[p]
+#【Fluctuating Student】
+"...Heh, we've got to deal with the traitor first."[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [chara_hide  name="rin_2"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="rin_1"  time="50"  wait="true"  storage="chara/13/rin2_15_2.png"  width="375"  height="600"  left="375"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「な…」[p]
+#【Rin】
+"Wha..."[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/swing2.ogg"  ]
 [chara_hide  name="rin_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="rin_2"  time="50"  wait="true"  storage="chara/15/rin3_03.png"  width="656"  height="600"  left="138"  top="0"  reflect="true"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「チィ…ッ」[p]
+#【Rin】
+"Tch...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1437,10 +1439,9 @@
 [mask_off  time="250"  effect="slideOutLeft"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「だぁ！もう邪魔っ！[r]
-創くん、冴子の目ぇ覚ましてやってくれる？[r]
-コイツ自分で歩かせた方が早いわ」[r]
+#【Hitomi】
+"Ugh! You're such a nuisance! So-kun, can you wake up Saeko? It'll be[r]
+faster if she walks on her own."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1448,8 +1449,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【創】
-「え、はい…」[p]
+#【So】
+"Eh, yes..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1463,25 +1464,25 @@
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_3_02_2.png"  width="406"  height="600"  left="108"  top="-2"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ッ！？……一瞬…月明かりが…今の何…？」[p]
+#【Hitomi】
+"Huh!?... For a moment... the moonlight... What was that...?"[p]
 [_tb_end_text]
 
 [chara_show  name="hajime_2"  time="50"  wait="true"  storage="chara/22/hajime2_03.png"  width="800"  height="600"  left="94"  top="0"  reflect="true"  ]
 [tb_start_text mode=1 ]
-#【創】
-「…ここに “ 罠 ” は無かったはず…まさか？！」[p]
+#【So】
+"...There shouldn't have been a trap here... Could it be?!"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「罠？！」[p]
+#【Hitomi】
+"A trap?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【創】
-「――ッ！ 先生危ないッ！！ 」[p]
+#【So】
+"--Ah! Teacher, look out!!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1506,28 +1507,28 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ハジメくん！」[p]
+#【Hitomi】
+"Hajime-kun!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/dosyu1.ogg"  ]
 [tb_chara_shake  name="hajime_2"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_start_text mode=1 ]
-#【創】
-「ガハぁっ？！」[p]
+#【So】
+"Gahaah?!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_15.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「く…っ」[p]
+#【Hitomi】
+"Ugh...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【創】
-「き…来ちゃダメだ…！ 早く…ここから…」[p]
+#【So】
+"No... don't come...! Quickly... get away from here..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1539,15 +1540,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「…ア゛・・・ッ」[p]
+#【So】
+"...Agh...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_14.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（足元の影から槍みたいな触手が…っ[r]
-こんなのどうすりゃいいのよ！？）[r]
+#【Hitomi】
+(Tentacles like spears are coming from the shadows at my feet... What[r]
+am I supposed to do with this!?)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1555,8 +1556,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【リン】
-「瞳！ハジメ！」[p]
+#【Rin】
+"Hitomi! Hajime!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1567,8 +1568,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「リンちゃん！ 創君を…！」[p]
+#【Hitomi】
+"Rin-chan! So-kun is...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1583,8 +1584,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳＆リン】
-『！！？』[p]
+#【Hitomi & Rin】
+"!!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1599,15 +1600,15 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ハジメくんっ！！」[p]
+#【Hitomi】
+"Hajime-kun!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_move  name="rin_1"  anim="false"  time="50"  effect="default"  wait="true"  left="42"  top="0"  width="375"  height="600"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「ば、バカ！！」[p]
+#【Rin】
+"You idiot!!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1622,9 +1623,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳＆リン】
-「ッ！？」[r]
-「うぅ、しまったぁ…っ」[r]
+#【Hitomi & Rin】
+"Ah!?" "Ugh, damn it...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1642,9 +1642,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「足が闇の中に飲み込まれて行く！？[r]
-リンちゃん何とかして！このままじゃ…」[r]
+#【Hitomi】
+"My legs are being swallowed by the darkness!? Rin-chan, do something![r]
+At this rate..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1653,8 +1653,8 @@
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15_2.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「焦らせンなっつの！ 今魔法を―…」[p]
+#【Rin】
+"Don't rush me! I'm about to cast a spell..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1663,8 +1663,8 @@
 [tb_chara_shake  name="rin_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「フﾋｬア!? ど、どこ潜り込んで…ッ」[p]
+#【Rin】
+"Fhyaah!? Where did it dive into...?!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1673,8 +1673,8 @@
 [chara_move  name="hitomi_1"  anim="false"  time="50"  effect="default"  wait="true"  top="300"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「もが!? …ぅ…くっそぉ……ッ」[p]
+#【Rin】
+"Mogah!? ...Ugh... damn it...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1692,7 +1692,7 @@
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？】
-「・・・フッ、あはははははははは！」[p]
+"...Huh, ahahahahahaha!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1704,9 +1704,10 @@
 [bg  time="1000"  method="crossfade"  storage="haikei/roka03_7.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【ゆらぎ生徒達】
-『やったねマイカイくん！作戦成功だ！』[r]
-『…罠のポイントを動かせるんなら最初からやって欲しかったぜ、大体率先して戦ってくれるンじゃなかったのかよ？』[r]
+#【Fluctuating Students】
+"We did it, Maikai-kun! The plan was a success!" "If we could move the[r]
+trap's point from the beginning, I wish you'd done it earlier. Weren't[r]
+you supposed to lead the fight from the start?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1715,10 +1716,10 @@
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「敵を騙すには先ず味方からと言うでしょう？[r]
-現に裏切り者の創君を釣り餌に邪魔者を罠に掛けられた、[r]
-結果オーライで良いじゃありませんか」[r]
+#【Rose】
+"To deceive the enemy, first deceive your allies, right? We used the[r]
+traitor So-kun as bait and caught the nuisances in a trap. The result[r]
+is all right, isn't it?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1727,16 +1728,15 @@
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_05.png"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「それより、お楽しみの時間にしては如何です？」[p]
+#【Rose】
+"How about we move on to the fun part?"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_04.png"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=3 ]
-#【ゆらぎ生徒達】
-『…へへ♪…まぁ、そうだな』[r]
-『俺達の勝ちに違いはないか…』[r]
+#【Fluctuating Students】
+"...Hehe♪... Well, yeah." "There's no doubt we're winning..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1750,18 +1750,19 @@
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_09.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「…チッ、クズ共が！テメェ等が捨て身で挑んでりゃ隙見てもっと早くに仕留められたんだろうが！」[p]
-「創は結局僕を裏切るし、あんなアバズレの何処が良いんだか！　胸糞悪い…っ」[p]
+#【Rose】
+"...Tch, you scumbags! If you had been willing to sacrifice yourselves[r]
+from the start, we could have taken them down much earlier!" "So ends[r]
+up betraying me, and what's so good about that slut anyway! It makes[r]
+me sick...ugh."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_10.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「まぁイイさ、全ては『あの人』の為…[r]
-どうせ僕以外は全員死ぬんだから！[r]
-アッハハハハハハハハハハッ！♥」[r]
+#【Rose】
+"Well, it's fine. Everything is for 'that person'... After all,[r]
+everyone but me is going to die! Ahahahahahaha!♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1789,10 +1790,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「くぬぉおっ、ふん！フゥぅん…ッ！[r]
-クッ…姿勢を変えることさえ出来ない！[r]
-何だってのよ此処は？どうなってんの！？」[r]
+#【Hitomi】
+"Knuohh, huh! Fuuuhn...! Ugh... I can't even change my posture! What[r]
+is this place? What's happening?!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1802,25 +1802,29 @@
 [resetfont  ]
 [bg  time="250"  method="crossfade"  storage="cg11/cg33_02.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「下手に暴れたら余計沈み込むって言ってンでしょ!?」[p]
-「此処はきっとアンタの追ってた行方不明者達の隠し場所だった空間よ！」[p]
+#【Rin】
+"I told you thrashing about will only make you sink deeper! This place[r]
+must be the hidden space where those missing people you were chasing[r]
+ended up!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「はぁ！？ こんなドロドロのウネウネで臭っさいうえにジメジメした沼みたいな所が！？」[p]
+#【Hitomi】
+"Hah!? A place like this that's slimy, stinky, and damp like a[r]
+swamp?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【リン】
-「それはこの空間の正体が既に何十人と犠牲者の血肉と魂を取り込んだ怪物の腹の中だから…！」[p]
+#【Rin】
+"That's because the true nature of this space is the belly of a[r]
+monster that has already absorbed the flesh and souls of dozens of[r]
+victims...!"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「え゛…腹の中って…嘘でしょ！？」[p]
+#【Hitomi】
+"Eh... Inside its belly... You're kidding, right?!"[p]
 [_tb_end_text]
 
 [mask  time="250"  effect="fadeIn"  color="0x000000"  ]
@@ -1828,33 +1832,37 @@
 [wait  time="10"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「この学園は半年も前から周到に準備されてた “ 蠱毒-こどく- ” の壷の中なのよ！」[p]
+#【Rin】
+"This school has been meticulously prepared as a 'Kodoku' pot for over[r]
+half a year!"[p]
 [_tb_end_text]
 
 [bg  time="250"  method="crossfade"  storage="haikei/school07.jpg"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「恐らく学園中央の地下！未だ『実体化』こそしてないけど確かに “ 居る ” わ！」[p]
+#【Rin】
+"Probably right beneath the center of the school! It hasn't[r]
+'materialized' yet, but it's definitely 'there'!"[p]
 [_tb_end_text]
 
 [bg  time="250"  method="crossfade"  storage="haikei/school15_02.jpg"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「すくすく育ったでっかいゆらぎがね！」[p]
+#【Rin】
+"A huge fluctuation that has grown rapidly!"[p]
 [_tb_end_text]
 
 [bg  time="250"  method="crossfade"  storage="haikei/roka03_2.jpg"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「連中は校舎内に “ 力場 ” を発生させて有事の際は道を繋いだソイツの腹の中に潜んでたのよ！」[p]
+#【Rin】
+"They've been hiding inside the belly of that thing by generating a[r]
+'force field' inside the school building and connecting paths in case[r]
+of emergency!"[p]
 [_tb_end_text]
 
 [bg  time="250"  method="crossfade"  storage="haikei/room05_2.jpg"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「同時に獲物を誘い込んで[r]
-人知れず喰らってもいたってワケ！」[r]
+#【Rin】
+"At the same time, they were luring in prey and consuming them without[r]
+anyone knowing!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1870,8 +1878,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「だ、だったら尚更急いで脱出しなきゃヤバいじゃないの！ふんぬぅぅうっ！！」[p]
+#【Hitomi】
+"Then we need to hurry and escape even more! Hnnnuuuuhhh!!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1879,10 +1887,9 @@
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【リン】
-「違う！その逆！腹の中ってコトはつまり[r]
-外から手が出せないコイツを内側から破れる[r]
-チャンスだってコトよ！」[r]
+#【Rin】
+"No, the opposite! Being inside its belly means this is our chance to[r]
+break it from the inside since we can't reach it from the outside!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1890,8 +1897,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「そんな姿勢でヤれるのリンちゃん？！」[r]
+#【Hitomi】
+"Can you do it in that position, Rin-chan?!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1899,9 +1906,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【リン】
-「裸同然の恥ずかしい姿でいるアンタの[r]
-100倍マシだっつーのっ！」[r]
+#【Rin】
+"It's a hundred times better than being in an almost naked and[r]
+embarrassing state like you are!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1909,19 +1916,20 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「うぅ・・・っ」[p]
+#【Hitomi】
+"Ugh..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【リン】
-「兎に角アタシは集中してコイツの泣き所に魔法を叩き込むからアンタはじっとしてる！イイわね！？」[p]
+#【Rin】
+"Anyway, I need to concentrate and hit its weak spot with magic, so[r]
+you just stay still! Got it?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「…わかったわよ、何度も助けてくれた[r]
-リンちゃん大明神様を信じますぅ！」[r]
+#【Hitomi】
+"...Understood. I believe in Rin-chan Daishin-sama who has saved me[r]
+many times!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1929,8 +1937,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【リン】
-「よろしい！」[p]
+#【Rin】
+"Good!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1941,9 +1949,9 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（……そうよ、大丈夫、まだ何とかなる！[r]
-冴子も創くんだってきっと無事のは……ず…？）[r]
+#【Hitomi】
+(...That's right, it'll be okay, we can still manage! Saeko and So-kun[r]
+must be safe too... huh...?)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1958,25 +1966,26 @@
 [font  size="45"  color="0xffffff"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「い゛・・・！？」[p]
+#【Hitomi】
+"Eh...?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「り…リンちゃん？ 何か下から出て来たんだけど…？」[p]
+#【Hitomi】
+"Rin-chan? Something's coming up from below...?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【リン】
-「じゃあ頑張って耐えて」[p]
+#【Rin】
+"Then hang in there and endure it."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（いやいやいや！これ ワキャワキャ ウゾウゾ してて生理的に[r]
-ムリだって！ 女の子が絡み付かれてイイ代物じゃな―…）[r]
+#【Hitomi】
+(No no no! This squirming and wriggling is just too much for me[r]
+physiologically! It's not something a girl should be entangled[r]
+with...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1993,22 +2002,21 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ぅひっ!?あ゛うぅぅ～～ッ!?!?」[p]
+#【Hitomi】
+"Uhih!? Ahhhhh~!?!?"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「・・・っ」[p]
+#【Rin】
+"..."[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/kiss2.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（く、喰らい付き！？吸い付かれた！？[r]
-熱い…！ 乳首メチャクチャ甘噛みされて[r]
-クチュクチュ転がされてる゛ぅ～っ！！？）[r]
+#【Hitomi】
+(Ku, it's biting!? Sucking on me!? It's hot...! My nipples are being[r]
+sweetly nibbled and rolled around~!!?)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2023,16 +2031,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「おォ゛う゛ッ？！？」[p]
+#【Hitomi】
+"Oooh?!?!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/kiss2.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…え…うそ……今、私イッた…？[r]
-まだ吸い付かれて舐めしゃぶられて[r]
-ホンの数秒なのに？？）[r]
+#【Hitomi】
+(...Eh... no way... did I just come...? It's only been a few seconds[r]
+of being sucked and licked??)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2048,15 +2055,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「んひぃい゛～～っ！？」[p]
+#【Hitomi】
+"Nhihiiii~!?"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/drinking1.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（や…やっぱりイッてる！気持ち良い…っ！[r]
-っていうか何か ゴクゴク 飲んでる！？）[r]
+#【Hitomi】
+(Y-Yeah, I'm coming! It feels good...! And what's this gulping sound[r]
+I'm hearing?!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2074,16 +2081,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「くふぅっ？！♥」[p]
+#【Hitomi】
+"Kufuu?!♥"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（は…ハァア！？ 母乳ぅ！？？[r]
-嘘でしょ!? 凄っごい勢いで出てる…！[r]
-乳首ジンジンに痺れてて…キモチイィ…っ）[r]
+#【Hitomi】
+(Ha... Haa!? Breast milk?! No way!? It's coming out with such[r]
+force...! My nipples are tingling and it feels good...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2092,16 +2098,16 @@
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu03.ogg"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「フゥ――ッ、フゥ――ッ」[p]
+#【Hitomi】
+"Fuu--, Fuu--"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…ぅ゛…こ、こんなキモいのに吸い付かれてたってのにぃ…[r]
-…お…おマンコ……疼いてきちゃった……）[r]
+#【Hitomi】
+(...Ugh... even though it's so gross to be sucked on like this...[r]
+...my pussy... is starting to throb...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2122,15 +2128,14 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ほわハァっ!? ぉオおお゛～っ!♥」[p]
+#【Hitomi】
+"Hwaah!? Oooh~!♥"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/drinking1.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「はっ　はぁっ　ふはぁっ！？[r]
-もう１本出てきた！なんで私ばっか!?」[r]
+#【Hitomi】
+"Hah hah hah!? Another one came out! Why is it only me!? "[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2140,28 +2145,33 @@
 [resetfont  ]
 [tb_start_text mode=1 ]
 #
-乳房に喰らい付いた不気味な触手は左右で独立しているかと思えば突然咥えた乳首を噛み、吸い、引っ張り、乳房ごと深く揉み込むといった動作を同時に繰り出し常に鮮烈な快感を叩きつけ、[p]
-股下に現れた触手は先端の触腕をニチャニチャとコチラに見せ付ける様に蠢かしながら今にも大事な所に飛び付いて来そうな動きで危機感を煽り立ててくる…[p]
-追い詰められた焦りはそのまま興奮となり肉体の感度は鋭さを増し心身を蝕む…迫る絶望級の快楽責めを前に最早耐える事など不可能であった…。[p]
+The eerie tentacles that clung to her breasts seemed to move[r]
+independently, suddenly biting, sucking, pulling on her nipples, and[r]
+deeply kneading her breasts all at once, constantly delivering intense[r]
+pleasure. The tentacle that appeared between her legs showed off its[r]
+slimy tip, writhing as if it was about to pounce on her most sensitive[r]
+spot, heightening her sense of danger... The desperation of being[r]
+cornered quickly turned into excitement, and the sensitivity of her[r]
+flesh sharpened, eroding her mind and body... Facing the impending[r]
+pleasure of despair, resistance was already impossible...[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「リンちゃん！急いでリンちゃぁんっ！」[p]
+#【Hitomi】
+"Rin-chan! Hurry up, Rin-chaaan!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【リン】
-「………っ」[p]
+#【Rin】
+"..."[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu02.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（ヤバイ ヤバイ ヤバイってばぁ！[r]
-乳首だけでもう気が変になりそうなのに[r]
-股間にまで吸い付かれちゃったら…私…っ）[r]
+#【Hitomi】
+(This is bad, this is so bad! Just my nipples alone are making me lose[r]
+my mind, but if my crotch gets sucked on too... I...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2171,15 +2181,15 @@
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu05.ogg"  ]
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「リ、リンちゃっ…は、早く…ッ、も゛…もぉ…」[p]
+#【Hitomi】
+"Ri, Rin-cha...hurry... Ah, more... moah..."[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/kiss2.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（・・・限・・・界ぃ・・・～～ッ）[p]
+#【Hitomi】
+(...I'm at my... limit...～～)[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2189,14 +2199,14 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…ご…ゴメン…、この空間…魔法封じられてる…みたい…」[p]
+#【Rin】
+"...Sorry... this space... seems to have magic sealed..."[p]
 [_tb_end_text]
 
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「そ、そんな今さｒ――…」[p]
+#【Hitomi】
+"So, at such a time--..."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2210,21 +2220,20 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「あ゛オぉお゛おオオォォ…ッ!!?♥♥」[p]
+#【Hitomi】
+"Aaahhh~!!?♥♥"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/dosyu2.ogg"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「ひとみ！？」[p]
+#【Rin】
+"Hitomi!?"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu02.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ぬ゛がへぇっ?♥ おっほォお゛お!!♥[r]
-イグ イグ イギゅううぅぅ～～っ!★♥」[r]
+#【Hitomi】
+"I can't hold back anymore!? Ahh~! I'm cumming, I'm cumming~!★♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2242,26 +2251,31 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「ぅ・・・っ」[p]
+#【Rin】
+"Ugh..."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu01.ogg"  ]
 [tb_start_text mode=1 ]
 #
-我慢の堰-せき-を破った快楽の津波を発散し沈めようにも自由を奪われた四肢がそれを許さないからか、[p]
-先ほどまで自分の直ぐ横で懸命に耐えていた筈の女性が突如発狂したかの様に白目をむき頭と腰を激しく振り乱し、唾液と愛液を撒き散らしながら獣の咆哮に似た嬌声を上げる壮絶な絶頂の様は[p]
-幾度かの挑戦の結果 己の武器が封じられている事を悟り、それでも冷静さを欠くまいとしていた戦士を同じ女として動揺させた。[p]
+The wave of pleasure that broke through the dam of endurance could not[r]
+be suppressed, perhaps because her limbs, deprived of freedom, would[r]
+not allow it. The woman who had been enduring desperately right beside[r]
+her until a moment ago suddenly went mad, rolling her eyes back,[r]
+violently shaking her head and hips, spraying saliva and love juices[r]
+while letting out a beast-like scream during her intense climax. The[r]
+result of several challenges made her realize that her own weapons[r]
+were sealed, and even though she tried to remain calm, the sight of[r]
+the warrior being shaken as a woman.[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu04.ogg"  loop="true"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「お゛おぉオ゛凄い…♥しゅごいぃ！♥[r]
-クリちゃんも食べられてぅ！ムチャムチャ[r]
-食-は-まれへぅう！♥いひぃいいっ♥★♥」[r]
+#【Hitomi】
+"Ohh, it's amazing...♥ So amazing!♥ My clit is being eaten too! It's[r]
+being chewed and sucked so hard!♥ Ahh~!♥★♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2271,14 +2285,14 @@
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/gokuri2.ogg"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「……ゴク…っ」[p]
+#【Rin】
+"...Gulp..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【リン】
-（人間にこの空間に満ちた瘴気とゆらぎの毒は堪えられない！[r]
-このままだと瞳は発狂死しちゃう！…というか…）[r]
+#【Rin】
+(Humans can't withstand the miasma and fluctuations filled in this[r]
+space! At this rate, Hitomi will die in madness! ...Or rather...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2292,22 +2306,25 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-（…アタシも確実に…ヤバい…っ）[p]
+#【Rin】
+(...I'm definitely... in trouble too...)[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-精神集中の最中から聞こえていた陵辱音と次第に蕩けて行った仲間の悲鳴…そして空間を満たす淫らな瘴気に自分の肉体も徐々に蝕まれていることは気付いていた…[p]
-脱出さえ叶えば何事も無かった様に振る舞い、恥辱を怒りに戦い抜く自信があったが………[p]
+She had been aware of the sounds of humiliation and the screams of her[r]
+melting comrade during her mental concentration... and that her own[r]
+body was gradually being eroded by the lewd miasma filling the space.[r]
+She had been confident that if she could escape, she would act as if[r]
+nothing had happened and fight through the shame with anger...[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=3 ]
-#【ゆらぎ生徒の声】
-『ギャハハ！ 瞳先生は堕ちたなぁ♪』[r]
-『次はテメェの番だぜ魔法戦士ィ！』[r]
+#【Voice of the Fluctuating Student】
+"Gyahahaha! Teacher Hitomi has fallen♪ Next up is your turn, magical[r]
+warrior!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2315,8 +2332,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【リン】
-「！？」[p]
+#【Rin】
+"!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2328,9 +2345,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「…チッ…アンタ等さっきの雑魚ゆらぎね!?[r]
-よくもあんな汚い罠を…ッ」[r]
+#【Rin】
+"...Tch... You're just some lowly fluctuations from earlier, huh? How[r]
+dare you set such a filthy trap..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2339,9 +2356,9 @@
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【ゆらぎ生徒の声】
-『オイ、口の利き方に気をつけろよ、[r]
-瞳先生を速攻喰っちまってもイイんだぜ？』[r]
+#【Voice of the Fluctuating Student】
+"Hey, watch your mouth. We could easily devour Teacher Hitomi too, you[r]
+know?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2351,10 +2368,9 @@
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/drinking1.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「おほぉっ♥く、クリ…良いィ！♥[r]
-コリコリむしゃぶられて、ハヘぇ♥[r]
-ジュルジュルぅ♥ぎもぢいい～ッ♥♥」[r]
+#【Hitomi】
+"Ohh~♥ My clit feels so good!♥ It's being nibbled and sucked on so[r]
+much!♥ Ahh~!♥ It feels so good~!♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2364,10 +2380,9 @@
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu05.ogg"  ]
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【リン】
-「…ッ、戦士を舐めンじゃないわよ…？[r]
-そいつとは昨日知り合ったばかりだし、[r]
-人間の生き死になんて私達には関係無いん…」[r]
+#【Rin】
+"...Don't underestimate a warrior...? I just met that girl yesterday,[r]
+and human life or death doesn't matter to us..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2380,24 +2395,24 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ヘひィッ？♥あ゛へぇえ!?♥♥」[p]
+#【Hitomi】
+"Hee!?♥ Ahh~!?♥♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「や、止めなさいっ！」[p]
+#【Rin】
+"No, stop it!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=3 ]
-#【ゆらぎ生徒の声】
-『ハハ！お前が超の付く甘ちゃんだって事は割れてんだよ！[r]
-散々調子に乗ったことを俺達に詫びるなら今の内だぜぇ？[r]
-少しは長生きさせてやる！』[r]
+#【Voice of the Wavering Student】
+"Haha! It's clear you're a total softie! If you apologize for all the[r]
+cocky things you've done to us now, we might let you live a little[r]
+longer!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2405,9 +2420,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【リン】
-（クソ…ムカつく…ッ[r]
-何をしようがヤルことを変える気なんかサラサラ無いクセに！）[r]
+#【Rin】
+(Damn it... It's infuriating... They have no intention of changing[r]
+what they're going to do no matter what!）[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2415,10 +2430,10 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【リン】
-（悔しいけど脱出は絶望的だ…でもきっと…ううん、[r]
-アイと秋俊なら絶対に気付いて助けに来てくれる…[r]
-癪-しゃく-だけど、今はそれまで耐えるしかない…！）[r]
+#【Rin】
+(It's frustrating but escape is hopeless... But surely... no, Ai and[r]
+Akihiro will definitely notice and come to save us... As much as it[r]
+irks me, all I can do now is endure until then...!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2426,9 +2441,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【リン】
-「…フン、アタシをいたぶってる暇なんかあるのかしら？！[r]
-アンタ等こそ調子に乗ってると……」[r]
+#【Rin】
+"...Hmph, do you even have time to be tormenting me?! You're getting[r]
+too carried away..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2444,21 +2459,26 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「う゛っ！？」[p]
+#【Rin】
+"Ugh!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
 #
-虚勢さえ張らせまいということか、背後から伸び出した触手が噴き出した粘液が少女の臀部を襲う、[p]
-冷たい液体の感触を感じた筈なのに一瞬で肌を焼く劇薬の症状に感じられてしまうのは、ソレが強烈な催淫効果をもたらす “ ゆらぎの毒 ” である事の証明だ、[p]
-そんな劇物を不意打ちで最もデリケートな箇所にブチ撒けられた戸惑いも大きいが、何より毒粘液の与える熱と危険な疼きが、負けん気の強い少女の言葉を遮った。[p]
+As if to prevent any bravado, a tentacle extended from behind and[r]
+sprayed a sticky liquid on the girl's buttocks. She should have felt[r]
+the touch of the cold liquid but instead felt the symptoms of a[r]
+burning poison because it was proof that it contained a potent[r]
+aphrodisiac known as "fluctuation poison." The confusion from being[r]
+ambushed with such a toxic substance in her most delicate spot was[r]
+significant, but above all, the heat and dangerous throbbing from the[r]
+poison cut off the strong-willed girl's words.[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【ゆらぎ生徒の声】
-『言ったよなぁ、クチの利き方には気を付けろってよぉ！』[p]
+#【Voice of the Fluctuating Student】
+"I told you to watch your mouth!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -2470,14 +2490,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「フぅ゛ッ?!?」[p]
+#【Rin】
+"Fuuuh?!?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【リン】
-（熱っつぅ!? コレ…瞳が塗りたくられてるのより明らかに臭いもキツいし濃度も濃い…っ[r]
-なんつートコにぶっ掛けてくれてンのよ…）[r]
+#【Rin】
+(It's so hot!? This... is clearly smellier and more concentrated than[r]
+what was smeared on Hitomi... And why did they have to splash it[r]
+there...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2485,9 +2506,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【ゆらぎ生徒の声】
-『ケヘヘ…尻穴がヒクヒク震えてるぜ？[r]
-お前、ケツ穴が弱いんだろ・・・？』[r]
+#【Voice of the Fluctuating Student】
+"Kehehe... Your ass is twitching and trembling, huh? You've got a weak[r]
+spot there, don't you...?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2496,15 +2517,16 @@
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/heartbeats.ogg"  loop="true"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…ッ」[p]
+#【Rin】
+"..."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【ゆらぎ生徒の声】
-『さっき沈む前に魔法使ってりゃ簡単に抜け出せた筈なのに、[r]
-間抜けな声上げて集中切らしてたよなぁ？』[r]
+#【Voice of the Fluctuating Student】
+"You could've easily escaped if you used your magic before sinking.[r]
+But you lost focus with that stupid scream earlier, right? What was it[r]
+again? 'Fhyaaa?!'"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2514,19 +2536,19 @@
 [font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=1 ]
-#【ゆらぎ生徒の声】
-『「フヒャア？！」だっけぇ～？』[p]
+#【Voice of the Fluctuating Student】
+"That was it~?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【リン】
-「～～～ッ」[p]
+#【Rin】
+"～～～"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【ゆらぎ生徒の声】
-『これが最後だ、謝るなら今の内だぜ？[r]
-謝れば少しは手加減してやる』[r]
+#【Voice of the Fluctuating Student】
+"This is your last chance to apologize, you know? If you apologize[r]
+now, I might go a bit easier on you."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2535,10 +2557,9 @@
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【リン】
-「…精々そうやって調子コイてなさい…！[r]
-後で殺してくれって泣いて頼もうが[r]
-トコトン細切れにしてすり潰してやるから!!」[r]
+#【Rin】
+"...Do your worst...! No matter how much you beg and cry for death[r]
+later, I'll grind you into pieces!!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2547,9 +2568,9 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【ゆらぎ生徒の声】
-『・・・・・・あっそ、なら仕方ねぇ、[r]
-“ 特上処刑コース ” をお見舞いしてやる…』[r]
+#【Voice of the Fluctuating Student】
+"...Oh really? Then there's no helping it, I'll give you the 'special[r]
+execution course'..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2558,8 +2579,8 @@
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/diving1.ogg"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「・・・え・・・ちょ…と・・・？」[p]
+#【Rin】
+"...eh...wait...what?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2571,37 +2592,41 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「！？？」[p]
+#【Rin】
+"!??"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
 #
-触手が犇-ひし-めくぬかるんだ異空間の肉壁を波打たせながら這い出し迫って来たモノを目にした瞬間、空意地を張っていた少女の顔から血の気が引いた…[p]
-先端の時点で自分の腕より遥かに太く…根元に向かって厚みを増す幹の直径は肉壁に至る頃には自分の太腿よりも大きく、はち切れんばかりに怒張していた、[p]
-何処まで使用するつもりなのか判らないが、1/3も入らぬ内に腹を破り自分を絶命足らしめる程の凶器であることダケはひと目で解ってしまった…。[p]
+The moment Rin saw the thing that crawled out from the undulating[r]
+flesh walls of the muddy, tentacle-infested otherworldly space, the[r]
+color drained from her face. The tip was already much thicker than her[r]
+arm, and as it neared the base, the diameter of the trunk became[r]
+larger than her own thigh, swollen and engorged. She didn't know how[r]
+much of it was intended to be used, but she understood at a glance[r]
+that even a third of it would tear through her belly and bring about[r]
+her demise.[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=1 ]
-#【ゆらぎ生徒の声】
-『クンクン……ん？…この尻穴……』[p]
+#【Voice of the Fluctuating Student】
+"Sniff sniff...huh?...this asshole..."[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「ヒッ!?　か、嗅ぐなバカ！ この変態っ！」[p]
+#【Rin】
+"Hic!? Don't sniff it, idiot! You pervert!"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/dosyu2.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「んやぁ！止めないでぇ！もっとぉ！[r]
-オッパイとおまんこジュルジュルして♥[r]
-いっぱいヂュパヂュパしてぇ～っ！♥」[r]
+#【Hitomi】
+"Nyahh! Don't stop! More! Slobber all over my tits and pussy♥ Pump it[r]
+in deep~♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2611,9 +2636,9 @@
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【ゆらぎ生徒の声】
-『おっと…ついコッチの穴に気を取られちまってたぜ、[r]
-直ぐに２人ともヨガリ狂わせてやる…♪ 』[r]
+#【Voice of the Fluctuating Student】
+"Oops... I got too focused on this hole here, but I'll make both of[r]
+you scream in ecstasy soon enough...♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2622,9 +2647,9 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ばっ?! バカッ！しっかりしなさいよ瞳！[r]
-アンタ仲間とハジメのこと忘れたの！？」[r]
+#【Rin】
+"Bah?! Idiot! Get a grip, Hitomi! Have you forgotten about your[r]
+comrades and Hajime?!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2633,10 +2658,9 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「しやないっ！ いやないぃ♥[r]
-ヒトミぃ、ヌルヌルコリコリちゅぱちゅぱ[r]
-しゃれたいのぉ～っ！！♥♥」[r]
+#【Hitomi】
+"It's not like that! No, it's not♥ Hitomi wants to slurp and nibble on[r]
+the slippery and hard♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2645,16 +2669,15 @@
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【リン】
-「うぅ！？ か、完全に…」[p]
+#【Rin】
+"Ugh!? She's completely..."[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/eating2_2.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【ゆらぎ生徒の声】
-『出来上がったみたいだなぁ♪[r]
-さぁイクぜぇ～？魔法戦士ぃ～♥』[r]
+#【Voice of the Fluctuating Student】
+"Looks like she's ready♪ Now, shall we go? Magical warrior~♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2663,9 +2686,8 @@
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ま…まさか…ちょ、ウソでしょ!?[r]
-そんな太いの入らな…」[r]
+#【Rin】
+"No way...you're kidding, right!? That's too thick to fit..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2682,9 +2704,8 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン＆瞳】
-「い゛いぃいイイイィィッ?!?」[r]
-「ンぉ゛オぉお～～～っ♥♥♥」[r]
+#【Rin & Hitomi】
+"Eeeek?!?" "Nooo~♥♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2701,16 +2722,15 @@
 [tb_show_message_window  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dressing1.ogg"  ]
 [tb_start_text mode=1 ]
-#【ゆらぎ生徒の声】
-『…ふぅ…思った通りだ、この穴すげぇ具合が良い…』[p]
+#【Voice of the Fluctuating Student】
+"...Phew...just as I thought, this hole feels amazing..."[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dorodoro.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「い゛ッひっ?! う、動ご…っ…うぎぃい!?[r]
-ぬ゛…抜いで…っ…もぉヌぃ……？！」[r]
+#【Rin】
+"Eek?! Don't move it...ughh!? Pull it out...it's too much...?!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2728,9 +2748,8 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン＆瞳】
-「おっほぉｫオっ！？？」[r]
-「はへぇっ♥オッパイきたぁ♥」[r]
+#【Rin & Hitomi】
+"Ohhho!??" "Hehe♥ My tits are getting it♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2740,15 +2759,14 @@
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dorodoro.ogg"  ]
 [tb_start_text mode=1 ]
-#【ゆらぎ生徒の声】
-『…気に入った、この尻穴、オレのモノにする…！』[p]
+#【Voice of the Fluctuating Student】
+"...I like it. This asshole is mine now...!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ひぃ～…っ　ひぃ～…っ」[r]
-（…じょ…冗談じゃない…アタシのオシリだっつの…っ）[r]
+#【Rin】
+"Eee~... Eee~..." (This has to be a joke... That's my ass...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2756,9 +2774,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【リン】
-（で、でも…嬲り殺す気が無いんなら…[r]
-アイと秋俊が助けに来る時間稼ぎにはなる…かも…？）[r]
+#【Rin】
+(But if he doesn't intend to kill me... maybe Ai and Akitoshi will[r]
+have time to come save us...maybe...?)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2777,9 +2795,8 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン＆瞳】
-「おっごぉぉおオッ!!?」[r]
-「アヒィィィイイイっ★♥」[r]
+#【Rin & Hitomi】
+"Ooohh!!?" "Ahhiiii♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2788,8 +2805,8 @@
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/eaten_by_a_monster2.ogg"  ]
 [tb_start_text mode=1 ]
-#【リン】
-（……いや……ムリ……！）[p]
+#【Rin】
+(...No...it's impossible...!)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -2802,9 +2819,8 @@
 [tb_show_message_window  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン＆瞳】
-「きヒィぃぃイいイイっ!!!??」[r]
-「オホぉ!♥ 奥ぅ！♥おぐキタぁぁアあああッ!!♥♥♥」[r]
+#【Rin & Hitomi】
+"Eeeek!!!??" "Ohh!♥ Deeper!♥ It's cominggg♥♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2814,9 +2830,9 @@
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  loop="false"  ]
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【リン】
-（こ…こんなの助けが来るまでなんてとても持たない…！[r]
-もうお尻イッてるし…深い所でも感じ始めちゃってる゛♥）[r]
+#【Rin】
+(I can't last until help arrives like this...! My ass is already[r]
+coming...and I'm starting to feel it deep inside♥)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2826,10 +2842,10 @@
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dorodoro.ogg"  loop="false"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-（今直ぐ助けが来てくれないと私のお尻[r]
-トロトロのおマンコ同然にされてトイレの[r]
-度にイキ狂う変態になっちゃう…!♥）[r]
+#【Rin】
+(If help doesn't come right now, my ass will be turned into a dripping[r]
+wet pussy, and I'll become a pervert who cums wildly every time I go[r]
+to the toilet...!♥)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2837,8 +2853,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【リン】
-（そ…そんな惨めな最後だけは…っ）[p]
+#【Rin】
+(I can't end up in such a miserable state...)[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2849,10 +2865,9 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【リン】
-「んぉ♥…も…もう、こうさん！ひっ♥ 降参よ！[r]
-あやまるから！…も…もう…おほぅっ!?♥[r]
-も、フヒぃ♥もうすこ…し…ゆ…ゆっく…っ 」[r]
+#【Rin】
+"Noo♥...I give up, So! Eek♥ I apologize! Just stop...ohh!? I can't[r]
+take it anymore♥ Just a little more...please...slow down..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2862,9 +2877,8 @@
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dosyu1.ogg"  loop="false"  ]
 [font  size="43"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「アァン♥ダメぇ！もっとぉ！♥[r]
-もっと激しく突いてぇ～～っ♥♥ 」[r]
+#【Hitomi】
+"Aaahn♥ No way! More!♥ Thrust harder~~♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2874,14 +2888,14 @@
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  loop="false"  ]
 [tb_start_text mode=1 ]
-#【ゆらぎ生徒の声】
-『へへ…任せな♪ このまま突き殺してやる…！』[p]
+#【Voice of the Fluctuating Student】
+"Hehe...leave it to me♪ I'll thrust you to death just like this...!"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「ひっ!? こ、このバカぁ！」[p]
+#【Rin】
+"Eek!? You idiot!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2894,9 +2908,8 @@
 [tb_show_message_window  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン＆瞳】
-「ぃひぃいイイいいィイイいイッ?!♥」[r]
-「ほぉおおぉおオオォぉおオっ!!♥♥」[r]
+#【Rin & Hitomi】
+"Eeeek?!♥" "Oooohhh!!♥♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2908,9 +2921,9 @@
 [bg  time="500"  method="crossfade"  storage="cg11/cg33_18.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「あ…アハっ♥アハハ！もうダメぇっ♪♥[r]
-ヒトミのバカぁ！バカバカぁっ♥アンタなんか助けるんじゃなかったわよぉ！」[r]
+#【Rin】
+"Ah...Ahaha! It's no use♪ Hitomi you idiot! I shouldn't have bothered[r]
+saving you!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2919,10 +2932,9 @@
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dressing1.ogg"  loop="false"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ア゛ハァ♥らってキモチイイんらもん♥[r]
-ずっとイッてゅの！しあわしぇらのぉ♥[r]
-しゅごぃのくゆう♥いっぱいイグぅう♥♥」[r]
+#【Hitomi】
+"Aha♥ It feels so good♥ I'm cumming all the time! It's so blissful♥[r]
+I'm going to cum lots♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2931,10 +2943,9 @@
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/eaten_by_a_monster2.ogg"  loop="false"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「イヒぃ♥アタシだってずっとイッてるし♥[r]
-なのにオシリどんどん良くなるしィ！♥♥[r]
-もうイイ！知らないっ全部どうでもイイ♥」[r]
+#【Rin】
+"Ehee♥ I've been cumming non-stop too♥ And my ass just keeps feeling[r]
+better!♥♥ That's it! I don't care anymore about anything else♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2942,10 +2953,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【リン】
-「うヒはァッ♥もっとお尻ホジッてぇ！[r]
-深いトコまでベロベロ舐めてぇっ!♥[r]
-お尻あげるから！好きにしてイイからぁ!♥」[r]
+#【Rin】
+"Uhihaa♥ Dig deeper into my ass! Lick me all the way inside!♥ I'm[r]
+offering my ass! Do whatever you want with it!♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2953,10 +2963,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「ヒトミもあげちゃうぅ！♥[r]
-ヒトミのコトぜんぶあげちゃうからぁ！[r]
-のこさずたべてぇ～～っ★♥♥」[r]
+#【Hitomi】
+"Hitomi will give herself too!♥ I'll give you everything about me! Eat[r]
+me up without leaving anything behind~~★♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2964,9 +2973,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【リン＆瞳】
-「イグっ♥ お゛じり゛イグ イグ イグぅ!♥」[r]
-「子宮ぅ♥おっぱひとろけりゅぅうう♥♥」[r]
+#【Rin & Hitomi】
+"Cumming♥ My ass is cumming, cumming, cumming!♥" "My womb♥ My tits are[r]
+melting awayyy♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2985,9 +2994,8 @@
 [tb_show_message_window  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン＆瞳】
-「あヒィぃぃイ゛イィ～ッ♪♥♥♥」[r]
-「ンォ゛オほおオォォ～ッ★♥♥♥」[r]
+#【Rin & Hitomi】
+"Ahhiiii~~♪♥♥♥" "Nooohoo~~★♥♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3018,16 +3026,16 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・ヒ…♥・・・・ひ♥…～～…ッ♥・・・……」[p]
+#【Hitomi】
+"...Hi...♥...hi♥...~~...♥..."[p]
 [_tb_end_text]
 
 [playse  volume="80"  time="1000"  buf="4"  storage="se02/dosyu2.ogg"  loop="false"  ]
 [tb_start_text mode=3 ]
-#【ゆらぎ生徒の声】
-『プハァ♥これだけ体内を毒汁で満たされたんだ、[r]
-加えてこの空間の瘴気…もう正気には戻れないだろう、[r]
-俺達も残りの戦士と邪魔者の狩りを加勢しに行こうぜ』[r]
+#【Voice of the Fluctuating Student】
+"Puhah♥ With your body filled with this much poison, and the miasma in[r]
+this space... you won't be able to return to your senses. Let's go[r]
+help hunt down the remaining warriors and nuisances."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3036,18 +3044,18 @@
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/kerakera.ogg"  loop="false"  ]
 [tb_start_text mode=1 ]
-#【ゆらぎ生徒の声】
-『ああ…残りの連中もこうしてやろう…！』[p]
+#【Voice of the Fluctuating Student】
+"Aah... Let's do the same to the rest of them...!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【リン】
-「う゛ぅ～…も…もっろォ♥おひりぃ♥オマンコもぉ…♥」[p]
+#【Rin】
+"Uuu~...more...moreee♥ My butt♥ My pussy too...♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・・・・・…・・・……」[p]
+#【Hitomi】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]

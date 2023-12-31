@@ -16,11 +16,11 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #
-―――真っ暗だった視界の奥に薄ぼんやりと景色が浮かぶ…[p]
-人通りの少ない土地にポツンと建てられた古いアパート…[p]
-裏手には整備の行き届いていない風化しそうな墓地が見える…[p]
-この寂しい景色には見覚えがある…[p]
-間違いない、コレは『あの子の記憶』だ―――…[p]
+---In the depths of my darkened vision, a faint landscape begins to[r]
+emerge... An old apartment stands alone in a sparsely populated[r]
+area... Behind it, I can see a neglected, weathered graveyard... This[r]
+lonely scenery is familiar to me... Without a doubt, this is "that[r]
+child's memory"---...[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -29,8 +29,7 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #【？？】
-『○月×日：[r]
-お父さんが僕と母さんを残して何処かへ行ってしまった。』[r]
+"○Month ×Day: Dad left mom and me behind and went somewhere."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -39,8 +38,8 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『母さんはきっと直ぐに帰って来てくれると言ったけど、[r]
-綺麗だった顔は涙でボロボロのくしゃくしゃだった。』[r]
+"Mom said he would surely come back soon, but her once beautiful face[r]
+was tear-streaked and crumpled."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -49,8 +48,7 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『僕の顔もくしゃくしゃ[r]
-お父さん、早く帰ってきて下さい』[r]
+"My face is crumpled too. Dad, please come back soon."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -59,9 +57,8 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『○月×日：[r]
-今日も母さんはお仕事で帰りが遅い。[r]
-１人で食べるゴハンは味がしない』[r]
+"○Month ×Day: Mom is late coming home from work again today. Meals[r]
+eaten alone have no taste."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -70,8 +67,8 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『でも、母さんが困った顔をするから[r]
-僕は何も言わないでガマンする』[r]
+"But I don't say anything because I don't want to worry mom, so I just[r]
+endure it."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -80,9 +77,8 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『○月×日：[r]
-久し振りに母さんが笑った。[r]
-何か良い事があったみたい、良かった』[r]
+"○Month ×Day: Mom smiled for the first time in a long while. It seems[r]
+like something good happened, thank goodness."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -91,8 +87,7 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『○月×日：[r]
-母さんが知らない男の人を連れてきた。』[r]
+"○Month ×Day: Mom brought home a man I don't know."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -101,24 +96,12 @@
 
 [tb_start_text mode=1 ]
 #【？？】
-『男の人が僕を見る目が冷たい…嫌な感じだ。』[p]
+"The man looks at me with cold eyes... It's an unpleasant feeling."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 #【？？】
-『○月×日：[r]
-また、あの男に殴られた。』[r]
-[_tb_end_text]
-
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
-
-[tb_start_text mode=3 ]
-#【？？】
-『僕は何もしていないし、何も言っていないのに[r]
-僕の目が気に入らないと言う。[r]
-母さんは困った顔をするけど、助けてくれない…』[r]
+"○Month ×Day: I got hit by that man again."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -127,8 +110,8 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『○月×日：[r]
-母さんがあの男と出かけたきり帰って来なくなった』[r]
+"I didn't do anything, I didn't say anything, but he says he doesn't[r]
+like my eyes. Mom looks troubled but doesn't help me..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -137,8 +120,7 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『最初は２日に１度帰ってきてくれたのに[r]
-もう５日目…お腹が減った…』[r]
+"○Month ×Day: Mom hasn't come back since she went out with that man."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -147,8 +129,8 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『――１週間…未だ帰って来ない…[r]
-水道の水も出ないまま…どうしてだろう…』[r]
+"At first, she would come back every two days, but now it's been five[r]
+days... I'm hungry..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -157,8 +139,18 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『――――今日で９日目、外に出ちゃダメと言われていたけど[r]
-もう我慢出来ない…でも、ドアが開かない…どうして？』[r]
+"--One week... She still hasn't returned... The water isn't running[r]
+anymore... Why...?"[p]
+[_tb_end_text]
+
+[tb_start_tyrano_code]
+[p]
+[_tb_end_tyrano_code]
+
+[tb_start_text mode=3 ]
+#【？？】
+"----It's the ninth day today, I was told not to go outside but I[r]
+can't stand it anymore... But the door won't open... Why?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -168,9 +160,8 @@
 [stopbgm  time="2000"  fadeout="true"  ]
 [tb_start_text mode=3 ]
 #【？？】
-『――――――今日で…何日目だろう…、[r]
-ドアの向こうで誰かの話し声が聞こえる…[r]
-助けて欲しいのに……声が出ない……』[r]
+"------How many days has it been today...? I can hear someone talking[r]
+beyond the door... I want to be helped... but I can't make a sound..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -179,23 +170,25 @@
 
 [tb_start_text mode=1 ]
 #【？？】
-――――――――――…とても眠い…[p]
-誰かが僕を…呼んでいる…気がする…[p]
-母さん？ 父さん…？　…知らない声…ダ……[p]
-――――――――――――――――死にたくない…[p]
+----------...I'm so sleepy... It feels like someone is... calling[r]
+me... Mom? Dad...? ...An unfamiliar voice... Da... ----------------I[r]
+don't want to die...[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #【？？】
-死にたくない 寂しい 死にたくなイ 死にたくナイ 死にたクナイ 死にタクナイ 寒い 死ニタクナイ シニタクナイ ヒモジイ シニタクナイ シニタクナイ シニタクナイヨ カアサン タスケテ… [p]
+I don't want to die. I'm lonely. I don't want to die. I don't want to[r]
+die. I don't want to die. I'm cold. I don't want to die. I don't want[r]
+to die. It's cold. I don't want to die. I don't want to die. Mom, help[r]
+me...[p]
 [_tb_end_text]
 
 [font  size="15"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【？？】
-シニタクナイ…ボクハ何ノ為ニ生マレタノ…？[r]
-…シニタクナイ…アノ頃ニ戻リタイ……[r]
-……シニタクナイ…… シニ…タク……ナ――――…[r]
+I don't want to die... What was I born for...? ...I don't want to[r]
+die... I want to go back to those times... ...I don't want to die...[r]
+Die... Want... No----...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -204,7 +197,7 @@
 
 [tb_start_text mode=1 ]
 #
-・・・・・・・・・・・・・・・・・・・・・・・[p]
+...[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -217,8 +210,7 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #【？？】
-『○月×日[r]
-やっと母さんが帰って来た！』[r]
+"○Month ×Day Mom finally came back!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -227,8 +219,8 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『…あの男も一緒だ、２人とも僕を見て驚いている[r]
-どうしたんだろう？』[r]
+"...That man is with her, they both look surprised to see me. What[r]
+happened?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -237,9 +229,8 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『急に男が怒鳴りながら向かって来た…[r]
-脅えている？怖がってる？？[r]
-それを怒りで誤魔化そうとしているのが ワ カ ル …』 [r]
+"Suddenly the man starts yelling and comes at me... Is he scared?[r]
+Frightened?? He's trying to cover it up with anger, I can tell..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -248,8 +239,8 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『母さんは脅えた目で僕を見ている…[r]
-何で？ どうして？ 僕、４０日間も良い子にしてたのに…』[r]
+"Mom looks at me with frightened eyes... Why? What's wrong? I've been[r]
+a good boy for 40 days..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -258,9 +249,9 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『奥の部屋に逃げた僕を男が追い掛けて来た、[r]
-手に台所にあった包丁を持ってる…[r]
-危ない…ソレは何でも切れる…危ないヤツだ…』[r]
+"The man chases me into the back room, holding a kitchen knife in his[r]
+hand... It's dangerous... That thing can cut anything... He's[r]
+dangerous..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -273,14 +264,15 @@
 [mask_off  time="750"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #【？？】
-……男に包丁で刺された…このままじゃコロサレル…[p]
-仕方ないからヤリ返した……だって…シカタナイから…[p]
+...I was stabbed by the man with the knife... I'll be killed if this[r]
+continues... There was no choice but to fight back... Because... there[r]
+was no other way..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 #【？？】
-『母さんが悲鳴を上げている…聞いたことのないヒドイ声だ[r]
-顔もひどい…母さんって、こんな顔だったっけ？』[r]
+"Mom is screaming... It's a terrible sound that I've never heard[r]
+before. Her face is awful too... Did mom always look like this?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -289,9 +281,9 @@
 
 [tb_start_text mode=3 ]
 #【？？】
-『母さんに似た人が何か叫んでる…[r]
-良く聞こえない、心臓の音がうるさくて、[r]
-でも、とても酷い事を言われた気がする…』[r]
+"Someone who looks like mom is shouting something... I can't hear[r]
+well, the sound of my heart is too loud, but I feel like she said[r]
+something terrible..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -301,12 +293,11 @@
 [bg  time="500"  method="crossfade"  storage="sozai_05red.jpg"  ]
 [tb_start_text mode=1 ]
 #【？？】
-―――――真っ赤だ…辺り一面…[p]
-何も見えない…聞こえない…[p]
-また気を失っていたみたいだ…[p]
-……何かが光ってる…コレは包丁…？[p]
-絵本で見た悪い鬼を退治するサムライが持ってた剣？[p]
-光るモノをよく見てみる……あぁ…そうか…[p]
+-----Everything is red... All around me... I can't see anything...[r]
+Can't hear anything... It seems like I passed out again...[r]
+...Something is shining... Is this a knife? The sword carried by the[r]
+samurai who slays evil demons in picture books? Looking closely at the[r]
+shiny object... Ahh... I see..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -315,9 +306,8 @@
 [tb_show_message_window  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【創】
-『コレは…ぼく…[r]
-僕は…バケモノ…なのか…』[r]
+#【So】
+"This is... me... Am I... a monster...?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -330,8 +320,8 @@
 [chara_show  name="hitomi_3"  time="750"  wait="true"  storage="chara/19/hitomi5_03.png"  width="800"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（……ハジメ君…）[p]
+#【Hitomi】
+(...Hajime-kun...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -340,44 +330,44 @@
 [tb_show_message_window  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano40.ogg"  ]
 [tb_start_text mode=1 ]
-#【創】
-『…瞳先生、僕は一体…何の為に生まれて来たんでしょうか…』[p]
+#【So】
+"...Hitomi-sensei, what was I born for?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_06_04.png"  ]
 [chara_mod  name="hitomi_3"  time="250"  cross="false"  storage="chara/19/hitomi5_01.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（・・・・・・）[p]
+#【Hitomi】
+(...)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="250"  cross="false"  storage="chara/19/hitomi5_06.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（そんなの決まってるでしょ？）[p]
+#【Hitomi】
+(That's obvious, isn't it?)[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_04_4.png"  ]
 [bg  time="500"  method="crossfade"  storage="sozai_06.jpg"  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（誰かを愛し、愛される為よ！）[p]
+#【Hitomi】
+(To love someone and be loved in return!)[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_3"  time="250"  cross="false"  storage="chara/19/hitomi5_07.png"  ]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_04_5.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『・・・愛…？』[p]
+#【So】
+"...Love...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="250"  cross="false"  storage="chara/19/hitomi5_06.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（そう、人はね？ 不完全な生き物なの。[r]
-完璧そうに見える人でも何かが欠けていたりする…）[r]
+#【Hitomi】
+(Yes, you see? Humans are imperfect creatures. Even those who seem[r]
+perfect are missing something...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -385,10 +375,10 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（だから誰かを何かを好きになって[r]
-愛して愛されて、その欠けた何かを埋めたくなるのよ[r]
-そうしないと寂しくって、とても独りじゃ生きられないの）[r]
+#【Hitomi】
+(That's why we come to like someone or something, to love and be[r]
+loved, trying to fill that missing piece. Without that, we feel lonely[r]
+and can hardly live alone.)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -397,22 +387,22 @@
 
 [chara_mod  name="hitomi_3"  time="250"  cross="false"  storage="chara/19/hitomi5_07.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『…誰かを、何かを　好き　に……』[p]
+#【So】
+"...To like someone, something..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_06_03.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『…瞳先生…、僕ね、瞳先生が「皆で食事に行こう」って言ってくれた時……』[p]
+#【So】
+"...Hitomi-sensei..., you know, when you said 'Let's all go out for a[r]
+meal together'..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_06_07.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-『すごく…ドキドキしました…[r]
-あぁ…瞳先生って…素敵だなって…[r]
-僕達のことに気付いている筈なのに…って』[r]
+#【So】
+"I was so... nervous... Ahh... Hitomi-sensei, you're... wonderful...[r]
+Even though you must be aware of us..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -420,27 +410,27 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【創】
-『瞳先生となら…もしかしたら……って……！』[p]
+#【So】
+"With Hitomi-sensei... maybe... just maybe...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="250"  cross="false"  storage="chara/19/hitomi5_11.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（………創くん…）[p]
+#【Hitomi】
+(...So-kun...)[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_06_08.png"  ]
 [bg  time="500"  method="crossfade"  storage="sozai_07.jpg"  ]
 [tb_start_text mode=1 ]
-#【創】
-『………もっと早く…貴女と出会い…たかっ……た……』[p]
+#【So】
+"...I wish I had met you... sooner..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_03.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（え…？）[p]
+#【Hitomi】
+(Eh...?)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -452,8 +442,8 @@
 [stopbgm  time="1500"  fadeout="true"  ]
 [font  size="50"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-『ちょっと待ったぁあッ!!!』[p]
+#【Hitomi】
+"Hold on a second!!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -467,18 +457,17 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-『…え！？ えぇっ？？』[p]
+#【So】
+"...Eh!? What??"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano37.ogg"  ]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi4_03_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-『ちょっとぉ～？[r]
-ナニ勝手に消えちゃおうとしてるの創くぅん!?[r]
-まだ先生の話 終わってないんだけどぉ！？』[r]
+#【Hitomi】
+"Hey now~? What do you think you're doing disappearing on your own,[r]
+So-kun!? I haven't finished talking yet, you know!?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -486,15 +475,15 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【創】
-『…えっ？ だ、だって僕…もう死んじゃってて…』[p]
+#【So】
+"...Eh? But I'm already dead..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-『じゃあなに？ これは最後のお別れの挨拶ってワケ？[r]
-そんな寂しいコト言わないでよ!? 言ったばかりでしょ？[r]
-人間寂しいと生きていけないんだって！』[r]
+#【Hitomi】
+"So what? Is this your way of saying goodbye for the last time? Don't[r]
+say such sad things!? Didn't I just say it? Humans can't live with[r]
+loneliness!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -503,9 +492,9 @@
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_01.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-『だ、だから僕はもう死んでしまってるんです！[r]
-肉体も魂の殆ども取り込まれてしまって…っ』[r]
+#【So】
+"That's why I'm already dead! My body and almost all of my soul have[r]
+been consumed..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -513,10 +502,10 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【創】
-『今先生と話している状況だって奇跡的なんですよ？[r]
-その特殊なスーツのお陰で僕の血を通じて僕の心の欠片を[r]
-先生の精神に送り込む事は出来たけど、もう限界が…』[r]
+#【So】
+"The fact that I'm even talking to you now is a miracle, you know?[r]
+Thanks to that special suit, I was able to send fragments of my heart[r]
+through my blood into your mind, but there's a limit..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -528,9 +517,9 @@
 [tb_chara_shake  name="hitomi_3"  direction="y"  count="2"  swing="20"  time="100"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-『諦めたらソコで人生終了よ？！[r]
-何もしないまま死んで良いの！？』[r]
+#【Hitomi】
+"If you give up now, that's the end of your life, isn't it?! Are you[r]
+okay with dying without doing anything!?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -540,9 +529,9 @@
 [resetfont  ]
 [stopse  time="1000"  buf="0"  ]
 [tb_start_text mode=3 ]
-#【創】
-『そんなの…僕だって未だ生きていたかったですよっ[r]
-だけど、もう僕には何も出来ないんだ…！』[r]
+#【So】
+"I... I wanted to live too, you know! But there's nothing I can do[r]
+anymore...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -551,36 +540,35 @@
 
 [chara_mod  name="hitomi_3"  time="250"  cross="false"  storage="chara/19/hitomi5_06.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-『あら、此処でだって出来ることは有るわよ？』[p]
+#【Hitomi】
+"Oh, there are things you can do even here, you know?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="250"  cross="false"  storage="chara/19/hitomi5_07.png"  ]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_04_12.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『え…？』[p]
+#【So】
+"Eh...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_10.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-『愛を…教えてあげる…♥』[p]
+#【Hitomi】
+"I'll teach you... about love...♥"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_11.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_05_3.png"  ]
 [tb_chara_shake  name="hajime"  direction="y"  count="1"  swing="20"  time="100"  ]
 [tb_start_text mode=1 ]
-#【創】
-『！？』[p]
+#【So】
+"!?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_10.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-『言った筈よ？[r]
-キミも愛される為に生まれて来たの』[r]
+#【Hitomi】
+"Didn't I tell you? You were born to be loved too."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -593,9 +581,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-『さぁ！がんばって！[r]
-もっと私の心の深い所までいらっしゃい♡』[r]
+#【Hitomi】
+"Come on! Try harder! Come deeper into my heart♡"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -605,8 +592,8 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_7.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『あ…あぁぁ……っ』[p]
+#【So】
+"Ah... ahhhh...!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -618,8 +605,8 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-『瞳せんせぇ――――っ！』[p]
+#【So】
+"Hitomi-sensei----!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -639,21 +626,20 @@
 [bg  time="250"  method="crossfade"  storage="cg11/cg21_04.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・・・・・ン゛フ・・・♡」[p]
+#【Hitomi】
+'...Nngh...♡'[p]
 [_tb_end_text]
 
 [bg  time="250"  method="crossfade"  storage="cg11/cg21_02.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…？！…え？……今…笑った…？」[p]
+#【Kotora】
+'...?!...Eh?...Did she just laugh...?'[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【冴子】
-「何だと！？ そんな不自然なことが…[r]
-ま、まさかもうスーツの着用に耐え切れなくなって[r]
-脳がイカレたんじゃあ……？！」[r]
+#【Saeko】
+'What the heck?! Such an unnatural thing... Could it be her brain's[r]
+gone haywire from not being able to withstand the suit anymore?!'[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -662,9 +648,8 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「そ、そんなっ！ 起きてよ瞳！[r]
-瞳ぃ――――――…！」[r]
+#【Kotora】
+'No way! Wake up, Hitomi! Hitomiii------...!'[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -679,8 +664,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「―――ムムッ！？」[p]
+#【Hitomi】
+'---Mmmh!?'[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -689,8 +674,8 @@
 [bg  time="1000"  method="crossfade"  storage="haikei/room02.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【創】
-「…ぁ…う？　ひ…瞳先生…？…どうしたんですか？」[p]
+#【So】
+'...Ah...uh? Hi... Hitomi-sensei...? What happened?'[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -700,15 +685,16 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「今…ちょっとトラちゃんに呼ばれた気が…幻聴？」[p]
+#【Hitomi】
+'Just now... I thought I heard Tora-chan calling me... An auditory[r]
+hallucination?'[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg27_03.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-「いえ、あの…言い難いんですけど[r]
-現実の方だと皆さん先生を心配して呼んでます…」[r]
+#【So】
+'No, umm... It's hard to say but in reality, everyone is worried and[r]
+calling for you...'[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -717,14 +703,15 @@
 
 [bg  time="250"  method="crossfade"  storage="cg11/cg27_04.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「あ、やっぱり？」[p]
+#【Hitomi】
+'Ah, really?'[p]
 [_tb_end_text]
 
 [bg  time="250"  method="crossfade"  storage="cg11/cg27_05.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「でもでもぉ、このイメージの世界と現実とは時間の流れとかゼンゼン違うんでしょ？」[p]
+#【Hitomi】
+'But but, the flow of time in this world of images and reality is[r]
+totally different, right?'[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/munyu1.ogg"  ]
@@ -732,10 +719,10 @@
 [bg  time="0"  method="crossfade"  storage="sozai_03pink.jpg"  ]
 [bg  time="750"  method="crossfade"  storage="cg11/cg27_01.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-「アッ…そ、それは…まぁ…夢みたいな…ものですから…[r]
-ここでの体感…ンっ…時間…を…現実での…イッ…[r]
-一瞬にまで縮めるのは…か、簡単…ですけど…ﾊｧ…ﾊｧ…」[r]
+#【So】
+'Ah... that is... well... it's like a dream... The body sensation[r]
+here... Nngh... time... can be condensed to a moment in reality...[r]
+Haah... Haah...'[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -744,9 +731,8 @@
 
 [bg  time="250"  method="crossfade"  storage="cg11/cg27_05.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-「で、でも…僕なんかに構わず…[r]
-早く戻ってあげるべきなんじゃ？」[r]
+#【So】
+'But... shouldn't you go back without worrying about someone like me?'[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -755,9 +741,9 @@
 
 [bg  time="250"  method="crossfade"  storage="cg11/cg27_04.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ええー？始めたばかりなのにもう止めちゃうの？[r]
-淋しいなぁ、先生もっと創くんと一緒に居たいのにぃ」[r]
+#【Hitomi】
+'Eeh-? We've just started and you want to stop already? I'm lonely, I[r]
+want to be with So-kun more.'[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -766,9 +752,9 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu03.ogg"  ]
 [tb_start_text mode=3 ]
-#【創】
-「ハ…ゥ…♡ い、いえ…僕はただ…[r]
-先生のご迷ゎくぅ♥…には…なりたく無い…から…っ」[r]
+#【So】
+'Ha... Uhh...♡ No, I just don't want to be a bother to you,[r]
+sensei♥...'[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -777,9 +763,9 @@
 
 [bg  time="250"  method="crossfade"  storage="cg11/cg27_05.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「もう！また格好ばかり付けちゃって！[r]
-夢の中でくらい素直になっちゃいな…さい♥」[r]
+#【Hitomi】
+'Oh come on! Stop trying to look cool! Be honest for once in your[r]
+dreams at least♥'[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -798,8 +784,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「ふわわぁあ！？」[p]
+#【So】
+'Fuwaaaah!?'[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -807,9 +793,8 @@
 [stopse  time="1000"  buf="1"  ]
 [bg  time="250"  method="crossfade"  storage="cg11/cg27_01.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「フフ、良い声♥[r]
-どう？ 先生のおっぱいキモチイイでしょ～？」[r]
+#【Hitomi】
+'Hehe, such a nice voice♥ How is it? Do my breasts feel good~?'[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -817,9 +802,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【創】
-「は・・・…はい…暖かくって…ぷにゅぷにゅで…[r]
-ち…ちん◎んが溶けちゃいそう…です…っ」[r]
+#【So】
+'Yes... they're warm and squishy... My cock feels like it's going to[r]
+melt away...'[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -827,15 +812,15 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「つづき、したいでしょう？」[p]
+#【Hitomi】
+"You want to continue, don't you?"[p]
 [_tb_end_text]
 
 [bg  time="250"  method="crossfade"  storage="cg11/cg27_05.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-「し…したい…です…。[r]
-でも、本当に…良いんですか？ 僕なんかと…こんな…」[r]
+#【So】
+"I... I do... want to... But, is it really... okay? With someone like[r]
+me... doing this kind of..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -844,9 +829,9 @@
 
 [bg  time="250"  method="crossfade"  storage="cg11/cg27_03.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ああ～…まぁ、[r]
-現実だとバレたら青少年健全育成条例違反で御用…かな？」[r]
+#【Hitomi】
+"Ahh~... Well, if we get caught in reality, it would be a violation of[r]
+the Youth Healthy Development Ordinance, right?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -854,10 +839,10 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「オマケに冴子は上に報告しようとするだろうし[r]
-眺めてﾊｧﾊｧしてるだけの瞬ちゃんをどうこう言えなくなるし[r]
-トラちゃんに軽蔑されちゃうかもしれない危険性が…あるわね」[r]
+#【Hitomi】
+"Plus, Saeko would probably report us, and it would make it hard to[r]
+say anything about Shun-chan who's just watching and panting, and[r]
+there's a risk that Tora-chan might despise me..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -865,17 +850,16 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【創】
-「・・・・・・せんせェ…」[p]
+#【So】
+"...Sensei..."[p]
 [_tb_end_text]
 
 [bg  time="250"  method="crossfade"  storage="cg11/cg27_04.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「で、でもコレは私の夢の中でしょ?![r]
-セーフよセーフ！むしろやりたい放題！[r]
-安心して！？優しくするからっ！」[r]
+#【Hitomi】
+"But, this is inside my dream, right?! It's safe, safe! We can do[r]
+whatever we want! Don't worry! I'll be gentle!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -884,10 +868,10 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【創】
-「僕が言いたいのはそういうコトじゃ無くて、[r]
-僕みたいな人間じゃ無い奴とこういうコトするの[r]
-抵抗とか無いんですか？って…」[r]
+#【So】
+"What I wanted to say wasn't about that, but... don't you feel any[r]
+resistance doing this kind of thing with someone who isn't human like[r]
+me?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -897,10 +881,9 @@
 [stopbgm  time="1500"  fadeout="false"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「え？無いけど？[r]
-むしろずっとこうしてあげたいって[r]
-思ってて願ったり叶ったりなんだけど…」[r]
+#【Hitomi】
+"Eh? Not at all? On the contrary, I've always wanted to do this with[r]
+you, so it's like a wish come true..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -909,31 +892,31 @@
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【創】
-「え…」[p]
+#【So】
+"Eh..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「創くんは私みたいな年上とするのは嫌？」[p]
+#【Hitomi】
+"Do you dislike doing it with an older woman like me?"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【創】
-「そ、そんな事ない！ したい…！[r]
+#【So】
+"No, that's not it! I want to...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【創】
-………です……///」[p]
+#【So】
+"...want to...///"[p]
 [_tb_end_text]
 
 [bg  time="250"  method="crossfade"  storage="cg11/cg27_05.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「よかった♥じゃあ何の問題も無いってコトで…♥」[p]
+#【Hitomi】
+"Thank goodness♥ Then there's no problem at all...♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -948,16 +931,16 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「んはぁっ？！」[p]
+#【So】
+"Nnhah?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「…私ね、昨晩リンちゃんから話を聞いて[r]
-自分なりに『ゆらぎ』という存在の事を考えてみたの」[r]
+#【Hitomi】
+"...You know, last night I heard a story from Rin-chan and I've been[r]
+thinking about the existence called 'Yuragi'"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -966,9 +949,9 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu03.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ゆらぎって、[r]
-『強烈な思いが本来の生命のあり方を変質させて生まれる』らしいんだけど、生まれてもとても弱い存在な事が殆どなんですって」[r]
+#【Hitomi】
+"'Yuragi' seems to be born when 'intense emotions alter the natural[r]
+state of life', but they're mostly very weak beings once they're born"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -977,9 +960,10 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu02.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「人に悪さするのも元から強い恨みを抱いていたり人の善く無い感情の影響を受けちゃった子とからしいの、[r]
-つまり本来はとてもピュアな存在なんだと思うのよ」[r]
+#【Hitomi】
+"'The ones that cause harm to people are those who were born with[r]
+strong grudges or were influenced by people's negative emotions. In[r]
+other words, they're originally very pure beings, I think"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -988,9 +972,9 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【創】
-「や…っ…ちょ……ふわぁ♥[r]
-そ、そんな真面目な話しながら…こんな…んンぅう～…っ」[r]
+#【So】
+"Ya...h... wait... fuwah♥ Don't talk about such serious things while[r]
+doing... this... Nnghh~...uh"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -998,14 +982,16 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「要は生まれ持った資質と育った環境次第…それって結局は人間や他の動物とそんなに変わらないものなんじゃないかしら？って」[p]
+#【Hitomi】
+"In the end, it depends on the innate qualities and the environment[r]
+they grow up in... Isn't that essentially no different from humans or[r]
+other animals?"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=1 ]
-#【創】
-「あっ…アァ……ぁ♥　も…もぅ……っ」[p]
+#【So】
+"Ah... Aah... ah♥ Mo... more...uh"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
@@ -1013,9 +999,10 @@
 [stopse  time="1000"  buf="0"  ]
 [stopse  time="1000"  buf="1"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「それにこうして嘘が吐けない心の中で話が出来るなんて[r]
-お互いの事を理解し合える素敵なチカラだと思わない？」[r]
+#【Hitomi】
+"Besides, being able to talk from the heart without lying like this is[r]
+a wonderful power that allows us to understand each other better,[r]
+don't you think?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1024,9 +1011,9 @@
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg27_05.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-「…はぁ…はぁ…っ[r]
-そ、そんなコト…考えたことも無かった…です…」[r]
+#【So】
+"...haah... haah...uh That's something I've never even thought[r]
+about..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1035,10 +1022,10 @@
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg27_04.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「貴方はとても感受性が豊かで立派な人間なのよ創くん。[r]
-過ちを悔いて償うなんて大人だって出来る人は僅かなんだから[r]
-もっと自分に自信を持っていいのよ？」[r]
+#【Hitomi】
+"You're a very sensitive and admirable human being, So-kun. Even[r]
+adults who can regret and atone for their mistakes are few and far[r]
+between, so you should have more confidence in yourself?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1046,21 +1033,21 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【創】
-「…瞳先生…！」[p]
+#【So】
+"...Hitomi-sensei...!"[p]
 [_tb_end_text]
 
 [stopbgm  time="1500"  fadeout="false"  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg27_05.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「それにオチ◎チンも凄ぉく立派だし♥」[p]
+#【Hitomi】
+"And your cock is also incredibly splendid♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【創】
-「え゛？」[p]
+#【So】
+"Eh?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1076,17 +1063,17 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「はひぁっ?!♥」[p]
+#【So】
+"Hahiya?!♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  loop="false"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu01.ogg"  loop="false"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「可愛い顔してこぉんな凶器を所持しちゃってるなんて！[r]
-知ってたらもっと早く個人授業してあげたのに♪」[r]
+#【Hitomi】
+"Such a cute face and yet possessing such a dangerous weapon! If I had[r]
+known, I would have given you private lessons much sooner♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1104,9 +1091,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【創】
-「ま゛っ♥ やめ…イっ♥[r]
-イッちゃふぅう～～ッ♥♥」[r]
+#【So】
+"Ma♥ Stop... I'm gonna cum! I'm cumminggg~♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1134,9 +1120,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「アン♥ すっごい♪[r]
-噴水みたいだったわよ創くん♥」[r]
+#【Hitomi】
+"Ahn♥ Amazing♪ It was like a fountain just now, So-kun♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1144,15 +1129,15 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【創】
-「ハァ！ハァ！ハァ…♥」[p]
+#【So】
+"Haa! Haa! Haa...♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ヌフフ♪ 気持ち良かったみたいね♥[r]
-でもパイズリは此処からが本番なの…よ♪」[r]
+#【Hitomi】
+"Nufufu♪ It seems you felt good♥ But the real deal with titjobs starts[r]
+here...♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1170,8 +1155,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「うわわぁ!? せせっ…先生ぇ？！」[p]
+#【So】
+"Uwawaa!? Se-se-se... Sensei?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1179,10 +1164,9 @@
 [wait  time="250"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「エッヘヘぇ♥どう？ [r]
-創くんのエッチなお汁で滑りが良くなったから[r]
-さっきより更に気持ちいいでしょう？」[r]
+#【Hitomi】
+"Ehehe♥ How is it? Your naughty juice made it more slippery, so it[r]
+feels even better than before, right?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1193,15 +1177,14 @@
 [wait  time="250"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=1 ]
-#【創】
-「そ…そんな…っ　イッたばかりなの…にぃっ♥」[p]
+#【So】
+"Th-that's... I just came... and yet♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「もう♪ そんなこと言ってぇ♥[r]
-ビンビンの元気なオチン◎ンがまだまだ出し足りない！[r]
-って暴れてるのちゃ～んと解ってるンだから♥」[r]
+#【Hitomi】
+"Oh come on♪ Don't say that♥ Your rock-hard cock is still raging to[r]
+release more! It's clearly telling me so♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1209,15 +1192,15 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【創】
-「ぁぅ…///」[p]
+#【So】
+"Auu...///"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu01.ogg"  loop="true"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「んふ♡…気持ちいい♥ それに凄く濃いセーエキの匂い…[r]
-先生とってもイケナイ気分になって来ちゃった♥」[r]
+#【Hitomi】
+"Nfu♡... It feels good♥ And the smell of your thick semen... It's[r]
+making me feel so naughty♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1226,42 +1209,41 @@
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg27_10.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「はじめクン…キス…しよう？」[p]
+#【Hitomi】
+"Meigui-kun... Shall we kiss?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【創】
-「えっ！？」[p]
+#【So】
+"Eh!?"[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg27_11.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ほら、んー…♡」[p]
+#【Hitomi】
+"Here, nnn...♡"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【創】
-「でっでも、キスって…！」[p]
+#【So】
+"But, a kiss...!"[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg27_10.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「恋人同士がするもの？」[p]
+#【Hitomi】
+"Something lovers do?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【創】
-「…ぅ…うん」[p]
+#【So】
+"...uh... yeah."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「じゃあ、[r]
-今だけ先生は創くんの恋人よ♥」[r]
+#【Hitomi】
+"Then, just for now, I'll be your lover♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1270,8 +1252,8 @@
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg27_11.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-「…！」[p]
+#【So】
+"...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1281,47 +1263,47 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #
-ちゅっ♡[p]
+Chu♡[p]
 [_tb_end_text]
 
 [bg  time="750"  method="crossfade"  storage="cg11/cg27_13.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「はふ…♡…あむっ♥」[p]
+#【Hitomi】
+"Hafu...♡...amuu♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【創】
-「んぅ　はぁ♡　ちゅっ　チュ♥」[p]
+#【So】
+"Nuu haa♡ Chu Chu♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「そうよ、もっと舌を絡めて…そう、上手♥」[p]
+#【Hitomi】
+"That's right, twine our tongues more... like that, good♥"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu03.ogg"  ]
 [tb_start_text mode=1 ]
-#【創】
-「ぷはぁ！ あっ♥ んちゅ！♥ はぁ…っ♥」[p]
+#【So】
+"Phuaa! Ah♥ Nchu!♥ Haa...♥"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [wait  time="250"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=1 ]
-#【創】
-「せ、せんせぇ…ぼく…また……アッ♥」[p]
+#【So】
+"Se-sensei... I'm... again... Ahh♥"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「イイのよ♥ イキたい時に…好きに出して…！[r]
-何度でも導いてあげる♥ イカせてあげるから♥」[r]
+#【Hitomi】
+"It's okay♥ Let it out whenever you want to...! I'll lead you there♥[r]
+I'll make you cum♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1330,8 +1312,8 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「あっ♥ ああぁ――――っ！♥♥」[p]
+#【So】
+"Ah♥ Ahhhh----!♥♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1351,8 +1333,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「あはっ♥　暖ったかーい♪♥」[p]
+#【Hitomi】
+"Ahaa♥ It's so warm♪♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1360,10 +1342,10 @@
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu01.ogg"  loop="true"  ]
 [bg  time="0"  method="crossfade"  storage="cg11/cg27_15.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「でもまだまだ出そうね♥[r]
-おっぱいでいっぱぁいシコシコして[r]
-尿道に残った分もしごき出して あ げ る ♥」[r]
+#【Hitomi】
+"But it looks like there's still more to come out♥ I'll stroke your[r]
+cock with my breasts until every last drop is milked from your[r]
+urethra♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1386,9 +1368,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【創】
-「ンぅッ？♥ はぉオっ♥ すごっ♥[r]
-止まんないよ゛ぉお…！♥♥ 」[r]
+#【So】
+"Nuu!? Haa! Amazing♥ It won't stop...!♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1423,9 +1404,9 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/dorodoro.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【創】
-「はぁ…はぁ…あぁ…と…とまんない…♥[r]
-おちんち◎…壊れちゃっ…た…ﾊｧ…ﾊｧ… 」[r]
+#【So】
+"Haa... haa... ahh... it won't stop...♥ My cock... it's broken...[r]
+haa... haa..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1433,14 +1414,13 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「ホントに元気ね、まだコッチコチ♥」[p]
+#【Hitomi】
+"You really are full of energy, still so stiff♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「でも安心して？[r]
-先生、壊れちゃったオ◎ンチンを治すの得意だから♥」[r]
+#【Hitomi】
+"But don't worry? I'm good at fixing broken cocks♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1449,8 +1429,8 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「というワケで攻守交替ぁ～い♪♥」[p]
+#【Hitomi】
+"And with that, let's switch roles～♪♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1462,9 +1442,9 @@
 [tb_cg  id="cg040"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「さぁ個人授業（レッスン）もいよいよ大詰めよ、[r]
-今度は先生を気持ちよくして…♥」[r]
+#【Hitomi】
+"Now, our private lesson is reaching its climax. This time, make me[r]
+feel good...♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1473,8 +1453,8 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「ふぁい！ あむぅ♥ 」[p]
+#【So】
+"Yes ma'am! Amuu♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1486,15 +1466,14 @@
 [bg  time="1500"  method="crossfade"  storage="cg11/cg28_03.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「あん♥ もう、おっぱいばっかり…♥ 」[p]
+#【Hitomi】
+"Ahn♥ You're all about the breasts again...♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「でも先生ね？ 創くんの熱ぅいセーエキをいっぱい[r]
-ドピュドピュ掛けて貰ったお陰で[r]
-もうアソコがジンジン疼いて仕方ないの♥ 」[r]
+#【Hitomi】
+"But you know what, So-kun? Thanks to all the hot semen you sprayed on[r]
+me, my pussy is throbbing uncontrollably♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1503,16 +1482,16 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「 お チ ン チ ン …ちょうだぃ♥ 」[p]
+#【Hitomi】
+"Give me your cock... please♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg28_01.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「ふぁ、ふぁいっ！ 」[p]
+#【So】
+"Ye-yes!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1522,16 +1501,15 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「 やぁん♥ 内股グニグニされてるぅ♥ 」[p]
+#【Hitomi】
+"Ahhn♥ My inner thighs are being rubbed so much♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「 もっと左…もう少し下よ♥[r]
-焦らなくても良いけど、早く探し当ててくれないと[r]
-先生淋しくて泣いちゃうかもぉ 」[r]
+#【Hitomi】
+"More to the left... a little lower♥ You don't have to rush, but if[r]
+you don't find it soon, I might get lonely and start crying♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1539,8 +1517,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【創】
-「んふぁっ！ こ、ここ？ 此処でふかぁっ！？」[p]
+#【So】
+"Nfahh! Here, is this the place? Is it here!?"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1552,9 +1530,8 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「 アハっ♪ くすぐったぁい♥[r]
-でもざんねん☆其処はソケイ部よ、もぉっと下♥ 」[r]
+#【Hitomi】
+"Ahaha♪ That tickles♥ But too bad☆ That's the groin area, go lower♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1563,17 +1540,16 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「は、はいっ！」[p]
+#【So】
+"Yes ma'am!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg28_02.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…それにしても凄いおチンチンだわ…♥[r]
-さっきよりおっきくなってるかも、[r]
-最後まで大人の余裕で受け止めてあげられるかしら？）[r]
+#【Hitomi】
+(...Still, what an amazing cock...♥ It might be even bigger than[r]
+before. Can I maintain my composure as an adult until the end?)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1582,14 +1558,14 @@
 
 [playse  volume="80"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…あっ？」[p]
+#【Hitomi】
+"...Ah?"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「こっ、此処だぁ――――っ！ 」[p]
+#【So】
+"Here, this is it----!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1603,14 +1579,14 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ァはあぁぁあああっ♥♥！」[p]
+#【Hitomi】
+"Ahaaaaahhhhhhhhhhh♥♥!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=1 ]
-#【創】
-「うわぁ？！ あ、熱い！ 締ま…るぅっ 」[p]
+#【So】
+"Uwaa?! Ah, it's hot! It's clenching..."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1618,14 +1594,14 @@
 [font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/eating2_2.ogg"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「あ…はぁ…♥ はぁァあん♥」[p]
+#【Hitomi】
+"Ah... haa...♥ Haaaan♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「す…すっごぉい♥ 奥までいっぱい…♥[r]
-ひと突きで軽くイカされちゃったぁ♥」[r]
+#【Hitomi】
+"It's amazing♥ Filling me up all the way to the back...♥ With just one[r]
+thrust, I almost came lightly♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1634,10 +1610,9 @@
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg28_06.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「良いわ創くん！ すっごく良い♥[r]
-先生の見込んだ通り、ううん！[r]
-それ以上だわ♥」[r]
+#【Hitomi】
+"That's good, So-kun! It's really good♥ You've exceeded even my[r]
+expectations, no! Even more than that♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1646,9 +1621,9 @@
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【創】
-「せ…せんせぇ…！[r]
-でも僕…入れたダケでもう…イッちゃいそう…でっ 」[r]
+#【So】
+"Se...Sensei...! But I...just by putting it in, I'm already about to[r]
+cum..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1656,10 +1631,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「ダメ！ 未だダメよ！ 一緒にイこ？[r]
-１番気持ち良いタイミングで！[r]
-夢の中なら何でも出来る筈でしょ？」[r]
+#【Hitomi】
+"No! Not yet! Shall we cum together? At the most pleasurable moment![r]
+We can do anything in a dream, right?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1667,10 +1641,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【創】
-「あぁぁ♥やっぱり瞳先生は凄いや！♥[r]
-ゆらぎの僕よりこの空間を、この刻-とき-を理解して[r]
-掌握し始めてる…！」[r]
+#【So】
+"Ahh♥ You're amazing, Hitomi-sensei! You're beginning to grasp this[r]
+space, this moment, better than the wavering me...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1678,9 +1651,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「そ、そう？ 何か良くワカンないけど、[r]
-創くんが一緒に居てくれるからかなぁ…なんてね♥」[r]
+#【Hitomi】
+"Is that so? I don't quite understand, but maybe it's because you're[r]
+with me, So-kun... just kidding♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1689,9 +1662,8 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【創】
-「なら…僕の全てを…先生にあげます…！[r]
-僕を受け入れてください！ 先生ぇ♥」[r]
+#【So】
+"Then...I'll give you my everything...! Please accept me! Sensei♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1710,10 +1682,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「あぁアンっ！ すっごぉい！♥[r]
-初めての腰使いじゃないみたいっ[r]
-奥が突き崩されちゃうぅ！♥」[r]
+#【Hitomi】
+"Ahh! That's amazing♥ It doesn't feel like your first time using your[r]
+hips. My insides are being smashed♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1722,8 +1693,8 @@
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【創】
-「先生っ もっと！ もっと僕と一緒にィ…！」[p]
+#【So】
+"Sensei, more! More with me...!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1736,10 +1707,9 @@
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/eating1.ogg"  loop="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ふあぁあ？ ナニコレぇ？ 創くんの感覚…！？[r]
-創くんのおチンチンが感じてる私のおマンコの感触が♥[r]
-創くんのキモチイイが流れ込んで来るぅ？！」[r]
+#【Hitomi】
+"Fuaaah? What's this? So-kun's sensations...!? The feeling of my pussy[r]
+that So-kun's cock is feeling♥ So-kun's pleasure is flowing into me?!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1748,9 +1718,9 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【創】
-「先生っ 瞳先生ぇ！ 僕もっと生きたい！[r]
-先生と一緒に生きていたいよ！！」[r]
+#【So】
+"Sensei, Hitomi-sensei! I want to live more! I want to live together[r]
+with you!!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1762,10 +1732,9 @@
 [bg  time="0"  method="crossfade"  storage="cg11/cg28_09.png"  ]
 [font  size="33"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「あふあぁっ？ すごぃ！♥[r]
-溶けちゃう♥ オマンコとオチンチンが♥[r]
-心とカラダがとろとろに溶けちゃうぅ～ッ♥」[r]
+#【Hitomi】
+"Afuaah? That's incredible♥ Melting♥ Our pussies and cocks♥ Our hearts[r]
+and bodies are melting into goo~♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1775,15 +1744,14 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-「瞳先生ぇ――っ！」[p]
+#【So】
+"Hitomi-sensei--!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/eating1.ogg"  loop="false"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「創くん！ キて！ 先生の…[r]
-瞳の中に…いっぱい来てぇ――っ♥！」[r]
+#【Hitomi】
+"So-kun! Cum! Inside of me... inside Hitomi... fill me up--♥!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1793,9 +1761,8 @@
 [resetfont  ]
 [font  size="44"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ああァあっ♪♥[r]
-イクぅう～～～～～ッ♡♥♥」[r]
+#【Hitomi】
+"Aaah♪ I'm cumming~~~♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1831,13 +1798,13 @@
 [wait  time="2500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…はぁ…はぁ…♡　はじめ…くぅん…♡」[p]
+#【Hitomi】
+"...haa...haa...♡ Hajime...kun...♡"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【創】
-「…ひと…み…せんせぇ……♡」[p]
+#【So】
+"...Hito...mi...sensei...♡"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1846,8 +1813,8 @@
 [bg  time="2500"  method="crossfade"  storage="sozai_01_siro.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【創】
-（―――――――…ありがとう……。）[p]
+#【So】
+(-------...thank you...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1867,8 +1834,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「ぬん！」[p]
+#【Sapodou】
+"Nun!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1883,39 +1850,43 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #
-中庭の片隅で、少女が変貌した巨大な樹木を思わせる異形から走る根を叩き返し奮闘する漢の姿があった。[p]
+In a corner of the courtyard, there was a man struggling to fend off[r]
+the roots running from a monstrous tree-like transformation of a girl.[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-だが戦況は余りに劣勢、更なる成長の為に養分を求めているのだろうか、叩き返しても蹴散らしても触手は怯まず地を這い迫って来る…[p]
+But the situation was dire. Perhaps seeking nutrients for further[r]
+growth, the tentacles kept crawling forward undeterred, no matter how[r]
+much they were beaten back or scattered...[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-如何に人を超えるチカラを身に宿す巨漢の護りであっても、行動不能の味方を庇いながらでは後退せざるを得ない厳しい状況なのは明白であった。[p]
+Even for a giant man with superhuman strength, it was clear that[r]
+protecting incapacitated allies forced him into a retreat.[p]
 [_tb_end_text]
 
 [chara_show  name="kuzu_2"  time="50"  wait="false"  storage="chara/2/kuzu_1_10.png"  width="688"  height="600"  left="158"  top="33"  reflect="true"  ]
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="2"  swing="20"  time="100"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「ゲンさん、もう限界だ！撤退しよう！」[p]
+#【Kuzu】
+"Gen-san, we're at our limit! Let's retreat!"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「ならぬ！」[p]
+#【Sabato】
+"That won't do!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_05.png"  ]
 [tb_start_text mode=3 ]
-#【沙婆斗】
-「アレが外へ解き放たれれば世は混沌と化す！[r]
-何としても此処で食い止めねばならん！」[r]
+#【Sapodou】
+"If that thing is released outside, the world will descend into chaos![r]
+We must stop it here at all costs!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1924,8 +1895,8 @@
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「つっても…」[p]
+#【Kuzu】
+"But still..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1939,8 +1910,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【沙婆斗＆葛生】
-「！？」[p]
+#【Sapo & Kuzo】
+"！？"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1954,10 +1925,9 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber25.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【マイカイ】
-「ぅ…はぁ、はぁ…き、来た！[r]
-繋がったぞ…冥界に…！[r]
-あの人の魂の波動を感じる！」[r]
+#【Maikai】
+"Ugh...haa, haa...it's here! We've connected...to the underworld...! I[r]
+can feel that person's soul's vibrations!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1966,9 +1936,9 @@
 
 [bg  time="750"  method="crossfade"  storage="haikei/nakaniwa_04.png"  ]
 [tb_start_text mode=3 ]
-#【マイカイ】
-「帰って来るんだ！ あの人が！[r]
-今度こそ世界を破壊するために…！」[r]
+#【Maikai】
+"Come back! That person is coming back! This time for sure, to destroy[r]
+the world...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1980,13 +1950,13 @@
 [bg  time="750"  method="crossfade"  storage="haikei/nakaniwa_06.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「くっそー！ 止めろッつってんのよ！」[p]
+#【Rin】
+"Damn it-! I said stop it!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【アイ】
-「うああぁああああああッ！！」[p]
+#【Ai】
+"Uwaaaaaaahhhhhhhhh!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2003,9 +1973,8 @@
 [tb_show_message_window  ]
 [font  size="37"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【マイカイ】
-「アハッ！ アハハハハハハハハ！[r]
-何て心地良いんだぁ―――っ！！」[r]
+#【Maikai】
+"Ahah! Ahahahahahahaha! What a pleasant feeling---!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2032,33 +2001,33 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【黒尽くめの男】
-「・・・・・・」[p]
+#【Man in Black】
+"..."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「シン！」[p]
+#【Ai】
+"Shin!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【リン】
-「舞い戻って来たわね、あんチクショウ！」[p]
+#【Rin】
+"He's come back, that bastard!"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【マイカイ】
-『アハ♪ おかえり！シン!!』[p]
+#【Maikai】
+"Aha♪ Welcome back, Shin!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="sin"  time="250"  cross="false"  storage="chara/24/sin_02.png"  ]
 [tb_start_text mode=1 ]
-#【シン】
-「………“マイ”…か、俺を呼び戻したのは…」[p]
+#【Shin】
+"...'Mai...is it you who called me back...'"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -2070,10 +2039,10 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【マイ】
-『そうだよ♪ 万が一の為に貴方が教えてくれた通りに[r]
-常世と幽世<かくりょ>を繋いで、[r]
-掻き集めた魂と魔力を使って…！』[r]
+#【Mai】
+"That's right♪ Just as you taught me in case of emergency, I connected[r]
+the living world and the spirit world and used the gathered souls and[r]
+magical power...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2081,14 +2050,14 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【シン】
-「…そうか…上出来だ」[p]
+#【Shin】
+"...I see...well done."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【マイ】
-『アハっ♥』[p]
+#【Mai】
+"Ahah♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -2106,13 +2075,14 @@
 [mask_off  time="250"  effect="slideOutRight"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…！ 傷を受けてる…メグ姉様との戦いの傷が癒えてないんだわ！？」[p]
+#【Rin】
+"...! He's wounded... The injuries from the fight with Megu-nee[r]
+haven't healed yet!?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【アイ】
-「なら今度こそ確実に殺してやる！」[p]
+#【Ai】
+"Then this time we'll make sure to kill him!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2125,8 +2095,8 @@
 [mask_off  time="250"  effect="slideOutRight"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【シン】
-「・・・ふん」[p]
+#【Shin】
+"...Hmph."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -2138,13 +2108,13 @@
 [chara_show  name="rin_2"  time="50"  wait="true"  storage="chara/15/rin3_03.png"  width="656"  height="600"  left="345"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「チィ！」[p]
+#【Rin】
+"Tch!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【アイ】
-「逃がすか…ッ？！」[p]
+#【Ai】
+"You think you can escape...?!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -2155,14 +2125,14 @@
 [chara_show  name="rin_1"  time="50"  wait="true"  storage="chara/13/rin2_15_2.png"  width="375"  height="600"  left="474"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「……あいつ！」[p]
+#【Ai】
+"...that guy!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【マイ】
-『ボクのシンに手を出すんじゃねぇよブス！[r]
-お前らの相手なんか触手<こいつ>で十分なんだよ！』[r]
+#【Mai】
+"Don't you dare lay a hand on my Shin, you ugly bitch! Tentacles are[r]
+more than enough to deal with the likes of you!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2182,9 +2152,8 @@
 [chara_mod  name="sin"  time="250"  cross="false"  storage="chara/24/sin_02.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【シン】
-「…あまり燥<はしゃ>ぐな…[r]
-今、メグにまで出て来られるのは好ましくない」[r]
+#【Shin】
+"...Don't get too excited... It's not good if Meg shows up right now."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2192,9 +2161,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【シン】
-「…もっとも…この場に居ないところを見ると、[r]
-『向こう』で動けずにいる様だがな」[r]
+#【Shin】
+"...Although... considering she's not here, it seems she's unable to[r]
+move on "the other side"."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2203,9 +2172,9 @@
 
 [chara_mod  name="sin"  time="250"  cross="false"  storage="chara/24/sin_03.png"  ]
 [tb_start_text mode=3 ]
-#【シン】
-「のこのこ舞い戻って拘束されたか？[r]
-相変わらず甘いオンナだ…、ククッ…」[r]
+#【Shin】
+"Did she carelessly come back and get restrained? She's as naive as[r]
+ever... Heh..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2214,8 +2183,8 @@
 
 [chara_mod  name="sin"  time="250"  cross="false"  storage="chara/24/sin_02.png"  ]
 [tb_start_text mode=1 ]
-#【シン】
-「…マイ、後はお前の好きにしろ…」[p]
+#【Shin】
+"...Mai, do as you please from here on..."[p]
 [_tb_end_text]
 
 [chara_mod  name="sin"  time="250"  cross="false"  storage="chara/24/sin_01.png"  ]
@@ -2226,10 +2195,9 @@
 [chara_show  name="sonota"  time="250"  wait="true"  storage="chara/6/mai_01.png"  width="800"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【マイ】
-『待ってよシン！[r]
-何が来たってボクが何とかする！[r]
-それよりとても大切な話があるんだ！』[r]
+#【Mai】
+"Wait, Shin! Whatever comes, I'll handle it! More importantly, there's[r]
+something very important I need to tell you!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2237,15 +2205,14 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【シン】
-「………」[p]
+#【Shin】
+"..."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【マイ】
-『マユ様も呼ぼうよ！[r]
-もう準備は出来てるんだ！♪』[r]
+#【Mai】
+"Let's call Lady Mayu too! Everything is ready!♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2253,16 +2220,16 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【シン】
-「……………」[p]
+#【Shin】
+"..."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【マイ】
-『前に話してくれたよね？仮初めの肉体で再誕するより[r]
-優れた依り代<よりしろ>を使って再臨すれば[r]
-より強く現世に顕現-けんげん-出来るって！』[r]
+#【Mai】
+"You told me before, right? If we use a superior vessel instead of a[r]
+temporary body for rebirth, we can manifest more strongly in this[r]
+world!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2271,9 +2238,9 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【マイ】
-『だからボクを！ボクを使って再臨させて!? 大丈夫！ 力ならまだ残ってるよ！[r]
-全部計算尽くだからね！ アハハハハ♪』[r]
+#【Mai】
+"So use me! Let me be the vessel for your return!? It's okay! I still[r]
+have strength left! Everything is calculated to perfection! Ahahaha♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2281,8 +2248,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【シン】
-「…………………」[p]
+#【Shin】
+"..."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2295,8 +2262,8 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【マイ】
-『初めて見た時からずっと憧れてたんだ…！』[p]
+#【Mai】
+"I've admired you ever since the first time I saw you...!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -2305,10 +2272,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【マイ】
-『あの透き通るような白い肌！[r]
-美しく煌く銀の髪に黄金の瞳！[r]
-何者にも穢せない神聖さ！』[r]
+#【Mai】
+"That translucent white skin! The beautifully shining silver hair and[r]
+golden eyes! A holiness that no one can defile!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2325,9 +2291,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【マイ】
-『ボクはマユ様の様に成りたい！[r]
-ううん！マユ様に生りたいのっ！』[r]
+#【Mai】
+"I want to become like Lady Mayu! No, I want to be reborn as Lady[r]
+Mayu!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2336,14 +2302,13 @@
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【マイ】
-『そうすればボクは貴方の大切な妹として生まれ変わることが出来る…♥』[p]
+#【Mai】
+"That way, I can be reborn as your precious sister...♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【マイ】
-『マユ様になってこの世を変えることが…！[r]
-魂を救済する事が出来るんだ♪』[r]
+#【Mai】
+"And as Lady Mayu, I can change this world...! I can save souls♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2358,10 +2323,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【マイ】
-『さぁ！お願いシン！[r]
-ボクをマユ様の依り代にして！[r]
-ボクを貴方のマユにして！♥』[r]
+#【Mai】
+"Come on! Please, Shin! Make me the vessel for Lady Mayu! Turn me into[r]
+your Mayu!♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2382,53 +2346,53 @@
 [tb_show_message_window  ]
 [font  size="50"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【シン】
-「…つけあがるな」[p]
+#【Shin】
+"...Don't get ahead of yourself."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg26_03.png"  ]
 [tb_start_text mode=1 ]
-#【マイ】
-『・・・・・・え・・・』[p]
+#【Mai】
+"...eh..."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【シン】
-「器を知れ」[p]
+#【Shin】
+"Know your place."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="sonota"  time="250"  cross="false"  storage="chara/6/sin_01.png"  ]
 [tb_start_text mode=1 ]
-#【マイ】
-『……………』[p]
+#【Mai】
+"..."[p]
 [_tb_end_text]
 
 [chara_hide_all  time="500"  wait="true"  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg26_04.png"  ]
 [tb_start_text mode=1 ]
-#【マイ】
-『…え……な…なんで…？ どうして？ シン…』[p]
+#【Mai】
+"...eh...why...? Why? Shin..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【マイ】
-『……ボク…言われた通りにやったよ…？』[p]
+#【Mai】
+"...I did everything you told me to...?"[p]
 [_tb_end_text]
 
 [playbgm  volume="80"  time="1000"  loop="true"  storage="taste_xxx02.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="cg11/cg26_05.png"  ]
 [tb_start_text mode=1 ]
-#【マイ】
-『…瑠璃男にだって…クラスの男共にだって負けないくらい頑張ったんだよ？！』[p]
+#【Mai】
+"...I even worked as hard as Rurio and the boys in class, didn't I?!"[p]
 [_tb_end_text]
 
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【マイ】
-『 シンの為に…っ！』[p]
+#【Mai】
+"For Shin's sake...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2438,9 +2402,9 @@
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_1_17.png"  width="363"  height="600"  reflect="false"  left="523"  top="0"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【冴子】
-「…どうやらあの黒尽くめの男が全ての元凶だった様だな！[r]
-離れていても解るぞ…」[r]
+#【Saeko】
+"...It seems that man in black is the root of all evil! I can tell[r]
+even from a distance..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2451,22 +2415,23 @@
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_5_09.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「あの目は自分以外の存在を道具としか見ていない下衆野郎の眼だ！」[p]
+#【Saeko】
+"Those eyes see everything other than himself as mere tools, the eyes[r]
+of a despicable man!"[p]
 [_tb_end_text]
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_5_10.png"  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「気をつけろ小虎…奴は格が違うぞ！」[p]
+#【Saeko】
+"Be careful, Kotora... he's on a different level!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/slash02.ogg"  ]
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_2_08.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「……っ」[p]
+#【Kotora】
+"...!"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
@@ -2478,8 +2443,7 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #【？】
-「……冴子、トラちゃん[r]
-…危ないから２人は下がってて」[r]
+"...Saeko, Kotora-chan... it's dangerous, so you two stay back."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2489,15 +2453,15 @@
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_16_2.png"  ]
 [tb_chara_shake  name="saeko"  direction="y"  count="1"  swing="20"  time="100"  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「ぅえっ？！」[p]
+#【Saeko】
+"Huh?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_1_19.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…………ぁ…」[p]
+#【Kotora】
+"...ah..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -2508,8 +2472,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「……あ…♪」[p]
+#【Kotora】
+"...ah...♪"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2520,9 +2484,8 @@
 [font  size="30"  color="0xffffff"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【マイ】
-『ねぇ何で？！[r]
-どうしてボクじゃダメなの！？』[r]
+#【Mai】
+"Hey, why?! Why am I not good enough?!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2530,9 +2493,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【マイ】
-『ボクが穢れているから！？[r]
-ち…父親に…汚されてるから！？』[r]
+#【Mai】
+"Is it because I'm tainted?! Is it... because my father... defiled[r]
+me?!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2540,10 +2503,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【マイ】
-『だからあの時も瑠璃男を選んだの!?[r]
-だからボクに冷たいの？！[r]
-ねぇ！？ 教えてよぉ…っ！！』[r]
+#【Mai】
+"Is that why you chose Ruri-o back then?! Is that why you're cold to[r]
+me?! Tell me...!!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2560,10 +2522,10 @@
 [chara_show  name="kuzu_2"  time="250"  wait="true"  storage="chara/2/kuzu_1_10.png"  width="688"  height="600"  reflect="true"  left="123"  top="0"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【葛生】
-（～～ッ…先遣と外チームの調べ通りかよ…！[r]
-ワケありの少年少女達だと解っちゃいたが[r]
-胸クソ悪ィ話を聞いちまったぜ…っ）[r]
+#【Kuzu】
+"(Damn... just as the advance team and the outside team reported... I[r]
+knew they were troubled boys and girls, but this is a sickening[r]
+story...)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2571,9 +2533,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【葛生】
-（ マ イ ち ゃ ん も例に漏れずの犠牲者で[r]
-しかも今、無残に使い捨てられようとしてやがる！）[r]
+#【Kuzu】
+"(Mai-chan is just another victim, and now she's being cruelly[r]
+discarded!)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2583,10 +2545,8 @@
 [chara_mod  name="kuzu_2"  time="250"  cross="false"  storage="chara/2/kuzu_2_06.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-（こんな事が赦されていい訳ゃ無ぇ！[r]
-男の風上にも置けねぇぜ！[r]
-赤眼鏡のロン毛野郎ぉお…ッ!!）[r]
+#【Kuzu】
+"(This can't be forgiven! That red-glasses long-haired bastard...!!)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2596,9 +2556,9 @@
 [resetfont  ]
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_02.png"  ]
 [tb_start_text mode=3 ]
-#【沙婆斗】
-「…早まるな瞬作、隙を見せればたちまち飲まれるぞ！[r]
-あの男、今この時にも儂らを『観察』しておる…！」[r]
+#【Sapodou】
+"...Don't be hasty, Shunsaku. If you show an opening, you'll be[r]
+swallowed up in no time! That man is observing us even now...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2608,30 +2568,30 @@
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_01.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_2_03.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「…っ、了解ッス…。」[p]
+#【Kuzu】
+"...Understood..."[p]
 [_tb_end_text]
 
 [chara_move  name="sabato"  anim="true"  time="300"  effect="easeInQuad"  wait="false"  left="110"  top="0"  width="800"  height="600"  ]
 [chara_move  name="kuzu_2"  anim="true"  time="300"  effect="easeInQuad"  wait="true"  left="230"  top="0"  width="688"  height="600"  ]
 [chara_show  name="sonota"  time="250"  wait="true"  storage="chara/6/sin_01.png"  width="800"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【シン】
-「………」[p]
+#【Shin】
+"..."[p]
 [_tb_end_text]
 
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_07.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「…ヌ…？！」[p]
+#【Sapodou】
+"...Hm...?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="sonota"  time="250"  cross="false"  storage="chara/6/sin_02.png"  ]
 [tb_start_text mode=1 ]
-#【シン】
-「………まさか…こんな世界に未だ存在していたとは…」[p]
+#【Shin】
+"...I can't believe such a world still exists..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -2647,8 +2607,8 @@
 [chara_show  name="sonota"  time="250"  wait="true"  storage="chara/6/sin_03.png"  width="800"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【シン】
-「…これはこれは……フッ…ハハハ……！」[p]
+#【Shin】
+"Well, well... Huh... Hahaha...!"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
@@ -2658,9 +2618,8 @@
 [bg  time="500"  method="crossfade"  storage="cg11/cg26_04.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【マイ】
-『……なぁに？[r]
-何がそんなに可笑しいのさぁ！? シン！』[r]
+#【Mai】
+"...What? What's so funny?! Shin!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2670,10 +2629,10 @@
 [resetfont  ]
 [chara_show  name="sonota"  time="250"  wait="true"  storage="chara/6/sin_02.png"  width="800"  height="600"  ]
 [tb_start_text mode=3 ]
-#【シン】
-「…マイ、お前のその嫉妬深さ卑屈さ…[r]
-身の程を弁-わきま-えぬ浅ましさ、[r]
-どれを取ってもマユの依り代には程遠い」[r]
+#【Shin】
+"...Mai, your jealousy, your pettiness... Your shamelessness in not[r]
+knowing your place, none of it is close to being worthy of Mayu's[r]
+vessel."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2683,8 +2642,8 @@
 [chara_hide_all  time="250"  wait="true"  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg26_06.png"  ]
 [tb_start_text mode=1 ]
-#【マイ】
-『…グ…ッ……ギッ』[p]
+#【Mai】
+"...Guh... Gik."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -2694,22 +2653,22 @@
 [chara_show  name="sonota"  time="250"  wait="true"  storage="chara/6/sin_02.png"  width="800"  height="600"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【シン】
-「だが、そんなお前を今１度褒めてやる」[p]
+#【Shin】
+"However, I'll praise you once more."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【マイ】
-『…！』[p]
+#【Mai】
+"..."[p]
 [_tb_end_text]
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [chara_mod  name="sonota"  time="250"  cross="false"  storage="chara/6/sin_03.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【シン】
-「お陰で依り代は見つかった[r]
-よくやった、よくやったぞ、マイ」[r]
+#【Shin】
+"Thanks to you, I've found the vessel. Well done, well done indeed,[r]
+Mai."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2719,19 +2678,18 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/heartbeats.ogg"  loop="true"  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg26_08.png"  ]
 [tb_start_text mode=1 ]
-#【マイ】
-『――――…』[p]
+#【Mai】
+"----..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【シン】
-「後は精々足掻くがいい」[p]
+#【Shin】
+"Now, struggle as much as you like."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【シン】
-「聞き分けの無い小娘らしく[r]
-地団駄でも踏んで喚き散らしていろ」[r]
+#【Shin】
+"Scream and stomp like the disobedient little girl you are."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2739,8 +2697,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【シン】
-『…死ぬまで…な…！』[p]
+#【Shin】
+"...Until you die... huh...!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -2755,15 +2713,15 @@
 [chara_show  name="ai_2"  time="50"  wait="true"  storage="chara/17/ai03_01.png"  width="560"  height="600"  left="300"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「貴様ぁッ！」[p]
+#【Ai】
+"You bastard!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
 [chara_show  name="rin_2"  time="50"  wait="true"  storage="chara/15/rin3_01.png"  width="656"  height="600"  left="463"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「下衆が…！」[p]
+#【Rin】
+"Scum...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2779,29 +2737,28 @@
 [mask_off  time="750"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…く…ぅぅッ……逃げられた…！」[p]
+#【Rin】
+"...Guh... Ugh... He got away...!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【アイ】
-「…まんまと解き放ってしまうなんて…っ」[p]
+#【Ai】
+"...To think we let him unleash it...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_21.png"  ]
 [tb_chara_shake  name="ai_1"  direction="y"  count="1"  swing="20"  time="200"  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「くそぉおおおぉっ!!」[p]
+#【Ai・Shujun】
+"Damn it all!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【マイ】
-『………ア゛ハ♪　アハハッ♪[r]
-アッハハハハハハはハハｈハハッ！♪』[r]
+#【Mai】
+"...Ahaha♪ Ahaha♪ Ahahahahahaha♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2812,8 +2769,8 @@
 [chara_show  name="rin_1"  time="0"  wait="true"  storage="chara/13/rin2_15_2.png"  width="375"  height="600"  left=""  top=""  reflect="false"  ]
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai02_05_17.png"  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊＆リン】
-『……っ』[p]
+#【Ai & Akishun & Rin】
+"..."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2822,10 +2779,9 @@
 [bg  time="500"  method="crossfade"  storage="cg11/cg26_09.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【マイ】
-『…ひどい…ヒドイ酷い非道ィ…！[r]
-ワタシ…あなたこそが救いだと信じて…[r]
-あっは！…あはははは……は………♥』[r]
+#【Mai】
+"...It's cruel... So cruel and heartless...! I believed... you were my[r]
+salvation... Ahaha!... Ahahaha... ha...♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2839,8 +2795,8 @@
 [tb_show_message_window  ]
 [font  size="50"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【マイ】
-『ワ゛ア゛ア゛ｱ゛ア゛アア゛ア゛ｱ゛゛ｱ゛―――ッ!!!!』[p]
+#【Mai】
+"Waaaaaahhhhhhh!!!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2871,16 +2827,16 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『・・・ヨクモ・・・』[p]
+#【Bewitching Tree・Rose】
+"...How admirable..."[p]
 [_tb_end_text]
 
 [bg  time="250"  method="puffIn"  storage="cg11/cg26_16.png"  ]
 [tb_start_text mode=3 ]
-#【妖樹・玫瑰】
-『ヨクモ ヨクモ ヨクモ ヨクモ [r]
-ヨクモ ヨクモ ヨクモ ヨクモ [r]
-ヨクモヨクモヨクモ ヨクモッ!!!』[r]
+#【Demon Tree・Rose】
+"How admirable, how admirable, how admirable, how admirable, how[r]
+admirable, how admirable, how admirable, how admirable, how[r]
+admirable!!!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2889,10 +2845,9 @@
 
 [bg  time="250"  method="puffIn"  storage="cg11/cg26_16.png"  ]
 [tb_start_text mode=3 ]
-#【妖樹・玫瑰】
-『ユルサナイユルサナイユルサナイ[r]
-ユルサナイユルサナイユルサナイ[r]
-ユルサナイィイッ!!!!』[r]
+#【Bewitching Tree・Meigui】
+"I won't forgive, won't forgive, won't forgive, won't forgive, won't[r]
+forgive, won't forgive, won't forgiveee!!!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2903,31 +2858,31 @@
 [font  size="50"  color="0xffffff"  ]
 [bg  time="50"  method="puffIn"  storage="cg11/cg26_16.png"  ]
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『憎イ!!!!』[p]
+#【Demon Tree・Meigui】
+"Hateful!!!!"[p]
 [_tb_end_text]
 
 [bg  time="50"  method="puffIn"  storage="cg11/cg26_16.png"  ]
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『全て！』[p]
+#【Bewitching Tree・Rose】
+"Everything!"[p]
 [_tb_end_text]
 
 [bg  time="50"  method="puffIn"  storage="cg11/cg26_16.png"  ]
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『打チ屠ス！！』[p]
+#【Bewitching Tree・Meigui】
+"I'll slaughter them all!!"[p]
 [_tb_end_text]
 
 [bg  time="250"  method="bounceIn"  storage="cg11/cg26_16.png"  ]
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『破壊スル！』[p]
+#【Bewitching Tree・Meigui】
+"I'll destroy!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『ウァアアアアァアアアアアアアアアアアッ!!!!』[p]
+#【Bewitching Tree・Meigui】
+"Waaaaaaaaaaaaaaaaaaaaah!!!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2965,14 +2920,16 @@
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai02_05_18.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【アイ（秋俊）】
-「…結局、瑠璃男の時と同じに見境なく破壊し始めたか！」[p]
+#【Ai (Akito)】
+"...In the end, just like with Ruri-o, you've started destroying[r]
+indiscriminately!"[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai02_05_17.png"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「だけど魔法は使えない！先に結界をどうにかしないと！」[p]
+#【Ai】
+"But we can't use magic! We have to do something about the barrier[r]
+first!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -2981,9 +2938,8 @@
 [chara_show  name="rin_2"  time="50"  wait="true"  storage="chara/15/rin3_03.png"  width="656"  height="600"  reflect="true"  left="140"  top="0"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【リン】
-「アタシが気を引いとくから[r]
-アンタ達は結界を探してブッ壊しなさい！」[r]
+#【Rin】
+"I'll distract him while you guys find and break the barrier!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2995,16 +2951,16 @@
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai02_05_18.png"  ]
 [tb_chara_shake  name="ai_1"  direction="y"  count="1"  swing="20"  time="100"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「待ってリン！貴女まだ受けたダメージが…っ」[p]
+#【Ai】
+"Wait, Rin! You're still hurt from the damage you took..."[p]
 [_tb_end_text]
 
 [chara_hide_all  time="0"  wait="true"  ]
 [chara_show  name="ai_2"  time="50"  wait="true"  storage="chara/17/ai03_01.png"  width="560"  height="600"  reflect="true"  left="169"  top="0"  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「１人で行くな！！」[p]
+#【Ai・Shujun】
+"Don't go alone!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3019,8 +2975,8 @@
 [tb_show_message_window  ]
 [font  size="50"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『シャアァァァアアッ!!!!』[p]
+#【Bewitching Tree・Rose】
+"Shaaaaaaa!!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3052,8 +3008,8 @@
 [tb_show_message_window  ]
 [font  size="51"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『ｵｫｵｵｵｵｵｫｫｫｵｵｵｯ!!!!』[p]
+#【Bewitching Tree・Rose】
+"Ooooooooh!!!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3071,13 +3027,13 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「このぉおおおッ!!」[p]
+#【Ai・Shuushun】
+"Youuuuu!!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【リン】
-「大人しくしろっつってンのよぉッ！」[p]
+#【Rin】
+"I said calm down!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3100,9 +3056,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「ぅおわぁああっ？！[r]
-た、頼んますから逃げて下さいゲンさん！」[r]
+#【Kuzu】
+"Uowaaaah?! P-Please run away, Gen-san!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3110,9 +3065,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【葛生】
-「アンタに何かあったらオレは綺沙ちゃんや[r]
-ほむらのヤツに顔向け出来無ぇ！」[r]
+#【Kuzu】
+"If something happens to you, I won't be able to face Kisa-chan or[r]
+Homura!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3120,9 +3075,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【葛生】
-「夜明けには軍が来てくれる！[r]
-一旦下がって体勢を整えましょう！」[r]
+#【Kuzu】
+"The army will come at dawn! Let's fall back and regroup for now!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3132,14 +3086,14 @@
 
 [chara_mod  name="sabato"  time="250"  cross="false"  storage="chara/18/sabato_11.png"  ]
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「……止むを得ぬ、一時退却…」[p]
+#【Sabato】
+"...It can't be helped, we'll retreat for now..."[p]
 [_tb_end_text]
 
 [font  size="50"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？】
-「いいえ、まだよ！」[p]
+"No, not yet!"[p]
 [_tb_end_text]
 
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_05.png"  ]
@@ -3147,8 +3101,8 @@
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="2"  swing="20"  time="100"  ]
 [stopbgm  time="1500"  fadeout="true"  ]
 [tb_start_text mode=1 ]
-#【沙婆斗＆葛生】
-「？！」[p]
+#【Sapo & Kuzo】
+"?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3166,23 +3120,23 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「…ひ、瞳…先生！！」[p]
+#【Kuzu】
+"...H-Hitomi... Sensei!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_02.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="1"  swing="20"  time="200"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「良かった！オレぁ今度ばかりはマジで殉職しちまったんじゃねぇかと…！」[p]
+#【Kuzu】
+"Thank goodness! I really thought I might have died this time...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_04.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「感動のハグなら後でタップリしてあげる。[r]
-でも今は２人に急いで『ポイント』へ向かって欲しいの」[r]
+#【Hitomi】
+"I'll give you a big hug later. But right now, I need you two to hurry[r]
+to the 'Point'."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3192,14 +3146,14 @@
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_03.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「ポ…ポイント？ 突然何の話だ？」[p]
+#【Kuzu】
+"Po...Point? What are you talking about all of a sudden?"[p]
 [_tb_end_text]
 
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_03.png"  ]
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「『結界』を支えている力場か？」[p]
+#【Sabato】
+"The power field that's supporting the barrier?"[p]
 [_tb_end_text]
 
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_04.png"  ]
@@ -3207,17 +3161,17 @@
 [chara_show  name="kuzu_2"  time="50"  wait="true"  storage="chara/2/kuzu_1_07_2.png"  width="688"  height="600"  left="-110"  top="0"  reflect="true"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「結界…！ するってぇと、まさか？！」[p]
+#【Kuzu】
+"Barrier...! Could it be?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_02.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「呪詛結果を破壊しない限りこの戦いに勝ち目は無い、[r]
-既に冴子とトラちゃんがポイントへ向かったわ！[r]
-２人に協力して『礎石』を破壊して頂戴！」[r]
+#【Hitomi】
+"We have no chance of winning this fight unless we destroy the curse[r]
+barrier. Saeko and Kotora-chan are already on their way to the Point![r]
+Please help them and destroy the 'Keystone'!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3227,23 +3181,23 @@
 [chara_hide  name="kuzu_2"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="kuzu_2"  time="50"  wait="true"  storage="chara/2/kuzu_1_07_2.png"  width="688"  height="600"  left="102"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「？！」[p]
+#【Kuzu】
+"?!"[p]
 [_tb_end_text]
 
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_07.png"  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「場所は！？」[p]
+#【Sabato】
+"Where is it?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「Ａ棟校舎裏に冴子！[r]
-トラちゃんはグラウンドの倉庫よ！」[r]
+#【Hitomi】
+"Saeko is behind building A, and Kotora-chan is at the warehouse on[r]
+the grounds!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3253,8 +3207,8 @@
 [resetfont  ]
 [font  size="55"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「承知！」[p]
+#【Sabato】
+"Understood!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3267,10 +3221,10 @@
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="1"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「…先生アンタ何で急に…？[r]
-結界の情報なんて一体何処っから！？[r]
-頭打って妙な電波でも拾っちまったんじゃ…」[r]
+#【Kuzu】
+"...Sensei, why all of a sudden...? Where did you get information[r]
+about the barrier? Did you hit your head and start picking up strange[r]
+signals or something...?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3286,8 +3240,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「つべこべ言わず瞬ちゃんは校舎裏ッ!!!」[p]
+#【Hitomi】
+"Stop complaining and get to the back of the school building, Shun-[r]
+chan!!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3295,16 +3250,16 @@
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="100"  ]
 [chara_move  name="kuzu_2"  anim="false"  time="300"  effect="default"  wait="true"  left="0"  top="0"  width="688"  height="600"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「……ッ」[p]
+#【Kuzu】
+"...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_03.png"  ]
 [chara_hide  name="kuzu_2"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="kuzu_2"  time="50"  wait="true"  storage="chara/2/kuzu_2_03.png"  width="688"  height="600"  reflect="true"  left="-272"  top="0"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「…死んでくれるなよな、先生…！」[p]
+#【Kuzu】
+"...Don't die on us, Sensei...!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -3317,8 +3272,8 @@
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_04.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…頼んだわよ、みんな！」[p]
+#【Hitomi】
+"...I'm counting on you all!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="ugoki04.ogg"  ]
@@ -3326,9 +3281,8 @@
 [tb_chara_shake  name="hitomi_3"  direction="y"  count="1"  swing="20"  time="200"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「さぁ！あの子の目を覚まさせるわよ！[r]
-力を貸して、創くん！」[r]
+#【Hitomi】
+"Now! Let's wake that child up! Lend me your strength, So-kun!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3336,8 +3290,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【創】
-（はい！瞳先生！）[p]
+#【So】
+(Yes! Hitomi-sensei!)[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3363,8 +3317,8 @@
 [tb_chara_shake  name="kotora_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「うぅ…!? 直ぐ目の前…なのに…っ」[p]
+#【Kotora】
+"Ugh...!? It's right in front of me... but..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -3377,9 +3331,9 @@
 [tb_chara_shake  name="kotora_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「見えない壁に押し戻されて…まるで台風…！[r]
-これ以上…近付け…ない……ッ」[r]
+#【Kotora】
+"I'm being pushed back by an invisible wall... like a typhoon...! I[r]
+can't get any closer...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3390,10 +3344,9 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-（…でも、負けない！[r]
-瞳や沙婆斗や皆があれだけ体を張って戦っているのに[r]
-私だけ何も出来ままで居られないんだから…っ）[r]
+#【Kotora】
+(...But I won't lose! Hitomi, Sabato, and everyone else are fighting[r]
+so hard, I can't just do nothing...!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3407,8 +3360,8 @@
 [chara_move  name="kotora_1"  anim="true"  time="300"  effect="easeInQuad"  wait="true"  left="516"  top="0"  width="363"  height="600"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「う・・・く・・・っ」[p]
+#【Kotora】
+"Ugh...kuh..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -3421,8 +3374,8 @@
 [tb_chara_shake  name="kotora_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「ああッ・・・き、綺沙ぁ……っ」[p]
+#【Kotora】
+"Aah... Kisa...!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -3454,14 +3407,14 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「沙婆斗！」[p]
+#【Kotora】
+"Sabato!"[p]
 [_tb_end_text]
 
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_07.png"  ]
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「ぬんッ！」[p]
+#【Sapodou】
+"Nunh!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3472,8 +3425,9 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #
-小虎の正面に飛び込みざま繰り出された沙婆斗の剛拳、[r]
-その拳圧が空を裂き、遮っていた壁が一瞬掻き消された。[r]
+As Sabato's powerful fist flew in front of Kotora, the pressure from[r]
+the punch tore through the air, momentarily erasing the wall that was[r]
+blocking her.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3482,8 +3436,8 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「小虎！」[p]
+#【Sabato】
+"Kotora!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3496,8 +3450,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「やあぁッ！」[p]
+#【Kotora】
+"Yaaah!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3517,22 +3471,22 @@
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_2_06.png"  width="363"  height="600"  left="447"  top="103"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「ハァ！ ハァ！ ハァ…！」[p]
+#【Kotora】
+"Haa! Haa! Haa...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_1_19_2.png"  ]
 [tb_chara_shake  name="kotora_1"  direction="y"  count="1"  swing="30"  time="150"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…やった！」[p]
+#【Kotora】
+"...I did it!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「うむ。」[p]
+#【Sabato】
+"Hmm."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -3548,25 +3502,25 @@
 [tb_show_message_window  ]
 [font  size="50"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『…グ…ゥ…!!?』[p]
+#【Bewitching Tree・Rose】
+"...Guh...guh...!!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【アイ（秋俊）】
-「何だ！？ 様子が…？」[p]
+#【Ai (Akito)】
+"What's happening!? The situation is...?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【アイ】
-「魔力の流入が止まり掛けてる！？」[p]
+#【Ai】
+"The flow of magical power is stopping!?"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「もしかして、あいつ等…！」[p]
+#【Rin】
+"Could it be, those guys...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3583,8 +3537,8 @@
 [tb_chara_shake  name="saeko"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「チィ…あと一歩だってのに…っ」[p]
+#【Saeko】
+"Tch...just one step away...!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -3597,17 +3551,16 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「加勢するぜぇ冴子先生ッ！」[p]
+#【Kuzu】
+"I'm coming to help, Saeko-sensei!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_5_05.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【冴子】
-「でかした葛生！[r]
-丁度 そ う い う の が欲しかったのよ♪」[r]
+#【Saeko】
+"Good job, Kuzuryu! That's exactly what I needed♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3625,15 +3578,15 @@
 [tb_show_message_window  ]
 [font  size="41"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「はれっ？！」[p]
+#【Kuzu】
+"Huh?!"[p]
 [_tb_end_text]
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_5_03.png"  ]
 [chara_move  name="saeko"  anim="false"  time="50"  effect="default"  wait="true"  left="442"  top="0"  width="438"  height="600"  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「うらぁアアァァアッ！！」[p]
+#【Saeko】
+"Uraaaaahhhhh!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3653,21 +3606,21 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「ふぅ！」[p]
+#【Saeko】
+"Phew!"[p]
 [_tb_end_text]
 
 [chara_mod  name="saeko"  time="250"  cross="false"  storage="chara/11/saeko_2_22.png"  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「ざまぁ見ろ、粉々だ！」[p]
+#【Saeko】
+"Serves you right, shattered to pieces!"[p]
 [_tb_end_text]
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_18.png"  ]
 [tb_start_text mode=3 ]
-#【冴子】
-「ボサッとするな葛生！[r]
-結界は消えた筈だ！急いで戻るぞ！」[r]
+#【Saeko】
+"Don't space out, Kuzuryu! The barrier should be gone! Let's hurry[r]
+back!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3682,8 +3635,8 @@
 [stopse  time="1500"  buf="0"  fadeout="true"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「……お…オレの棍も…粉々なんですけど……」[p]
+#【Kuzu】
+"...My...my staff is also...shattered..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -3705,8 +3658,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『？！ …チカラ…ガ……？！』[p]
+#【Bewitching Tree・Rose】
+"?! ...Power...is...?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3716,29 +3669,29 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="taste_xxx04.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【リン】
-「これで思う存分魔法を叩き込んでやれるわ！[r]
+#【Rin】
+"Now we can hit it with all our magic to our heart's content!"[p]
 [_tb_end_text]
 
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-覚悟なさい！」[p]
+#【Rin】
+"Prepare yourself!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『ッ？！』[p]
+#【Bewitching Tree・Meigui】
+"?! What?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「斬空-ザンクウ-！」[p]
+#【Ai・Shujun】
+"Zankuu!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【リン】
-「六花-リッカ-！」[p]
+#【Rin】
+"Rikka!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3765,30 +3718,36 @@
 [tb_show_message_window  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『ゴア゛ァッ!? オノレ…ッ？』[p]
+#【Bewitching Tree・Meigui】
+"Goahhh!? You...what?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
 #
-鋭い風の刃が閃き６枚の花弁が可憐に舞う様に飛来し、護りのために展開されていた触手を微塵に切り飛ばす[p]
+Sharp blades of wind flashed as six petals danced gracefully through[r]
+the air, slicing the tentacles that had been deployed for protection[r]
+into dust.[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-空けられた風穴から迫る2人の少女…その如実に動きが変わった戦士の気迫に圧されたのか発狂していた筈の異形の少女は堪らず身を丸め更に守りを固めようとした…が、[p]
+The two girls advancing through the cleared path of wind... Perhaps[r]
+overwhelmed by the spirit of the warriors whose movements had[r]
+drastically changed, the grotesque girl who was supposed to be in a[r]
+frenzy curled up and tried to fortify her defenses even more... but,[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-勢いに乗った２つの影は既にその懐に潜り込み、次なる魔法の詠唱を終えていた。[p]
+The two shadows, riding on their momentum, had already slipped into[r]
+her bosom and finished chanting their next spell.[p]
 [_tb_end_text]
 
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「嶽穿-ガクセン-！！」[p]
+#【Rin】
+"Gakusen!!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -3798,8 +3757,8 @@
 [quake  time="300"  count="3"  hmax="0"  wait="true"  vmax="30"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「動奮-ドウフン-！！」[p]
+#【Ai・Shujun】
+"Doufun!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3811,20 +3770,23 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『グガアァッ！キサマら…ぁ…！？』[p]
+#【Demon Tree・Meigui】
+"Gugahhh! You guys...ah...!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
 #
-突と打の強烈な物理魔法によってまたも抉じ開けられた守り…無防備にされたという認識から脳裏を過ぎった次なる一撃への恐怖をなぞる様に、ソレは容赦無く怯んだ怪物に叩き込まれた。[p]
+The defense that had been gouged open once again by the intense[r]
+physical magic of thrust and strike... The next blow that crossed her[r]
+mind out of the realization that she had been left defenseless was[r]
+mercilessly slammed into the recoiling monster.[p]
 [_tb_end_text]
 
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊＆リン】
-「怒鎚-イカヅチ-ィイイイッ!!!」[p]
+#【Ai & Akishun & Rin】
+"Ikazuchi-iiiiii!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -3841,8 +3803,8 @@
 [quake  time="250"  count="2"  hmax="0"  wait="true"  vmax="20"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『……クッ…うゥ…ぅ……つ、強い…このまま…では…っ』[p]
+#【Bewitching Tree・Meigui】
+"...Kuh...uuu...so strong...at this rate...!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -3857,8 +3819,9 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…チッ、ダルマのヤツより丈夫ね。サイズ的には半年前の1/10程度だけど流石に一筋縄じゃ行かないか…」[p]
+#【Rin】
+"...Tch, he's tougher than that Daruma guy. He's only about 1/10th the[r]
+size from half a year ago, but still not a pushover..."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_09.png"  ]
@@ -3869,17 +3832,16 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「リン！こうなったら…！」[p]
+#【Ai・Shujun】
+"Rin! At this point...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_2.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_03.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「わーかってる！[r]
-ちょっとキツいけど妖花の時に比べれば軽いモンよ、[r]
-サッサと封印して終わりにしましょ！」[r]
+#【Rin】
+"I know! It's a bit tough, but it's nothing compared to the Youka[r]
+incident. Let's quickly seal it and finish this!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -3898,8 +3860,8 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン＆アイ・秋俊】
-「！？」[p]
+#【Rin & Ai - Akishun】
+"!?"[p]
 [_tb_end_text]
 
 [resetfont  ]

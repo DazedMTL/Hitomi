@@ -17,9 +17,9 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #
-※「あとがき」は基本ギャグですが[r]
-一部本編後のキャラクターが登場するため[r]
-一度エンディングまでご覧になることをオススメします。[r]
+The "Afterword" is primarily comedic, but as it features characters[r]
+from after the main story, we recommend viewing it after reaching the[r]
+ending.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -40,8 +40,7 @@
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？？】
-あんた・・・・[p]
-今しあわせか？[p]
+Are you... happy right now?[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -55,14 +54,12 @@
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？？】
-ほ～　そりゃケッコウ。[p]
-けどな・・・・[p]
+Ho~ That's great. But...[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 #【？？？】
-そうじゃない人間もいるってコトを[r]
-頭に入れといてくれ・・・・[r]
+Just keep in mind that there are people out there who aren't...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -71,13 +68,12 @@
 
 [tb_start_text mode=1 ]
 #【？？？】
-おっと説教じみちまったな。[p]
+Oops, I started preaching there.[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 #【？？？】
-ま　も少し　オレの話に[r]
-つきあってくれ・・・・[r]
+Well, stick with me for a bit longer and listen to my story...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -94,13 +90,12 @@
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？？】
-そいつは　お気の毒様・・・・[p]
+That's unfortunate for them...[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 #【？？？】
-けど　あんたの人生は[r]
-あんたのモンだ・・・・[r]
+But your life is your own...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -109,8 +104,8 @@
 
 [tb_start_text mode=3 ]
 #【？？？】
-誰も手をかしちゃくれねーよ。[r]
-自力で何とかしな。[r]
+No one's going to lend you a hand. You've got to figure it out on your[r]
+own.[p]
 
 [_tb_end_text]
 
@@ -120,13 +115,12 @@
 
 [tb_start_text mode=1 ]
 #【？？？】
-おっと説教じみちまったな。[p]
+Oops, I started preaching there.[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 #【？？？】
-ま　も少し　オレの話に[r]
-つきあってくれ・・・・[r]
+Well, stick with me for a bit longer and listen to my story...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -143,8 +137,7 @@
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？？】
-「お父さ―――ん！」[p]
-「どこにいるの――？」[p]
+"Daddy---!" "Where are you--?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -158,7 +151,7 @@
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？？】
-「お父さん！」[p]
+"Dad!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -171,8 +164,7 @@
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【？？？】
-「…その時既に[r]
-親父は　息を引き取っていた。」[r]
+"...By that time, my father had already passed away."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -184,9 +176,8 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #【？？？】
-「親父は　勇かんな機動隊員で[r]
-暴走集団クルセイダーズと[r]
-戦っていた・・・・」[r]
+"My father was a brave riot police officer who fought against the[r]
+biker gang Crusaders..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -198,8 +189,7 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #【？？？】
-「こんな出来事が[r]
-待ち受けているとも知らずに・・・・」[r]
+"Unaware that such an event was waiting for him..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -209,9 +199,9 @@
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_7.png"  ]
 [tb_start_text mode=3 ]
-#【ハジメくん】
-「…ねぇ、マイちゃん…[r]
-あのヒトさっきから１人で何を言ってるの？」[r]
+#【Hajime-kun】
+"...Hey, Mai-chan... What's that person been mumbling about all by[r]
+themselves?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -220,37 +210,37 @@
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [tb_start_text mode=1 ]
-#【マイちゃん】
-「…たぶん、地獄の亡者ってヤツだろう」[p]
-「地獄で罪の清算も出来ず、ああしてレトロゲームのフレーズを呟きながら、永遠に辺獄-りんぼ-を彷徨-さまよ-っているのさ」[p]
-「なぁに、無視しとけば大丈夫だよ」[p]
+#【Mai-chan】
+"...Probably a lost soul from hell. Unable to atone for their sins in[r]
+hell, they wander the limbo forever, muttering phrases from retro[r]
+games. Don't worry, just ignore it and you'll be fine."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_02_3.png"  ]
 [tb_start_text mode=1 ]
-#【創くん】
-「ホント？ 凄くこっち見てるんだけど…」[p]
+#【So-kun】
+"Really? They keep looking this way though..."[p]
 [_tb_end_text]
 
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？？】
-「・・・・・・・・・」ｺｰﾎｰ[p]
+"..." *cough*[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
 [tb_start_text mode=1 ]
-#【マイちゃん】
-「怖いの？ やっぱり着いて来たこと後悔した？」[p]
+#【Mai-chan】
+"Scared? Are you regretting following me here?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_7.png"  ]
 [tb_start_text mode=3 ]
-#【ハジメくん】
-「…いや、後悔はしてないけど…[r]
-アレは怖いでしょ…絶対フツウじゃないもん」[r]
+#【Hajime-kun】
+"...No, I don't regret it, but... That's definitely scary... It's not[r]
+normal."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -259,29 +249,29 @@
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_2_02.png"  ]
 [tb_start_text mode=1 ]
-#【マイちゃん】
-「もう！カワイイなぁハジメくんは♥」[p]
+#【Mai-chan】
+"Oh my! You're so cute, Hajime-kun♥"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_2_01.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime2_03.png"  ]
 [tb_start_text mode=1 ]
-#【ハジメくん】
-「からかわないでよ」[p]
+#【Hajime-kun】
+"Don't tease me."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [tb_start_text mode=1 ]
-#【マイちゃん】
-「ふふ♥」[p]
+#【Mai-chan】
+"Fufu♥"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【？？？】
-「…まるで話が通じない…[r]
-これがジェネレーションギャップか…[r]
-無理もない…もう26年も昔の…」[r]
+"...It's like they can't understand a word I'm saying... Is this the[r]
+generation gap...? It can't be helped... It's been 26 years after[r]
+all..."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -292,17 +282,18 @@
 [stopbgm  time="1500"  fadeout="true"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_06.png"  ]
 [tb_start_text mode=1 ]
-#【マイちゃん】
-「さっきからウルセェよ雑音」[p]
-「何なんだテメェは？ どうせザコ亡者だろ？」[p]
-「エンマ出せよ閻魔大王！サッサと地獄巡りして罪清算して地上に戻るんだからよ！」[p]
+#【Mai-chan】
+"You've been noisy since a while ago. What do you want? You're just a[r]
+weak lost soul, aren't you? Call forth the King of Hell! Hurry up and[r]
+go on your hell tour to atone for your sins and return to the[r]
+surface!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_7.png"  ]
 [tb_start_text mode=3 ]
-#【ハジメくん】
-「ちょ、ちょっとマイちゃん…っ[r]
-初対面の人にそんな言い方はよくないよ!?」[r]
+#【Hajime-kun】
+"Hey, Mai-chan... That's not a nice way to talk to someone you've just[r]
+met!?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -311,30 +302,30 @@
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [tb_start_text mode=1 ]
-#【マイちゃん】
-「・・・・・・・・」[p]
+#【Mai-chan】
+"..."[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  ]
 [chara_hide  name="maikai"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="maikai"  time="50"  wait="true"  storage="chara/7/maikai_7_02.png"  width="313"  height="600"  left="364"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【マイちゃん】
-「わかったよ」[p]
-「で？ オジサン私達に何か用？」[p]
+#【Mai-chan】
+"Alright, I get it. So? Mister, do you need something from us?"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_7_01.png"  ]
 [tb_start_text mode=1 ]
 #【？？？】
-「いや、君達というか購入してくれた人達に、ちょっとね？」[p]
+"No, not from you guys specifically, but rather the people who bought[r]
+this..."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_7_02.png"  ]
 [tb_start_text mode=1 ]
-#【マイちゃん】
-「ああ、そういうアレ。なら私達はカンケー無いでしょ？」[p]
-「行こ、ハジメくん」[p]
+#【Mai-chan】
+"Ah, I see. That thing. Then it has nothing to do with us, right?[r]
+Let's go, Hajime-kun."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -346,8 +337,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【ハジメくん】
-「うゎあ!? 待ってよマイちゃん！」[p]
+#【Hajime-kun】
+"Whoa!? Wait for me, Mai-chan!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -359,14 +350,14 @@
 [chara_show  name="gaku_2"  time="250"  wait="true"  storage="chara/21/fusi.png"  width="563"  height="600"  left="235"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【マイちゃん】
-「やっぱり怖いんじゃないの？クスクス♥」[p]
+#【Mai-chan】
+"You really are scared, aren't you? Teehee♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【ハジメくん】
-「あんなヌルテカなHENTAIと一緒に放置されたら[r]
-誰だって怖いよ…っ」[r]
+#【Hajime-kun】
+"Anyone would be scared if they were left alone with such a slimy[r]
+HENTAI..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -374,9 +365,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【マイちゃん】
-「ごめんゴメン♥[r]
-さぁ、気を取り直して地獄デートのつづきしよっか♥」[r]
+#【Mai-chan】
+"Sorry, sorry♥ Now, let's get back to our hellish date♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -384,8 +374,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【ハジメくん】
-「…う、うん…♥」[p]
+#【Hajime-kun】
+"...Yeah...♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -398,9 +388,10 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #【？？？】
-「・・・あとがきでスルーされる事が多くなった・・・」[p]
-「これが時代というものなのか…無理もない…この作品だって20年は昔のゲームを題材にしているのだから…」[p]
-「少年達よ、いつか何処かでまた逢おう…」[p]
+"...I've been skipped over a lot in afterwords..." "Is this what they[r]
+call the times changing? It can't be helped... This work is based on a[r]
+game from 20 years ago after all..." "Young lads, let's meet again[r]
+somewhere someday..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -412,8 +403,7 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #　
-「この度は拙作『瞳』をご購入いただき[r]
-ありがとうございました！」[r]
+"Thank you very much for purchasing my humble work 'Hitomi'!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -422,35 +412,50 @@
 
 [tb_start_text mode=1 ]
 #　
-当初の予定より大幅に完成が遅れてしまい、各支援サイトにてご支援下さった支援者の皆様、期待と励ましの暖かいコメントを下さった方々には大変申し訳なく思っております。[p]
-しかし、こうして一応の完成に至れたのは紛れも無く支えて下さった皆様のお陰です。この場を借りてお礼申し上げます。[p]
-ありがとうございました！m(_ _)m[p]
-さて、今作は如何でしたでしょうか？[p]
-『ＤＥＶＯＵＲ』から３年…すっかり呆けてしまっておりましたが『ご覧の有様だよ！』から早10年ということで製作に踏み切ったのが今作です。[p]
+The completion of this work was significantly delayed compared to the[r]
+original schedule, and I feel terribly sorry for the supporters on[r]
+various crowdfunding sites and those who provided warm comments of[r]
+expectation and encouragement. However, it is undeniably thanks to[r]
+everyone's support that we were able to reach this point of[r]
+completion. I would like to take this opportunity to express my[r]
+gratitude. Thank you very much! m(_ _)m So, how did you find this[r]
+work? It's been 3 years since "DEVOUR"... I've become quite senile,[r]
+but it's been 10 years since "As You See!" and that prompted me to[r]
+start working on this project.[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="cg03/cg06_01.png"  ]
 [tb_start_text mode=1 ]
 #　
-きっかけは2018年3月3日にTwitter有志により行われた『#第１回チキチキこの先生がセクシーだろ選手権』に投稿した瞳のイラストでした（↑）[p]
-ゲーム用に塗り直してありますが、他のＣＧに比べ線が荒いのにはそういった経緯があります。[p]
-当時は指定されていた投稿日に間に合わせる事が出来ず下塗り段階の未完成品でしたが、それでも沢山の反応を頂き、[p]
-久しぶりにcolors作品トークでキャッキャウフフ出来たことでテンションが上がり、久しぶりに「一丁やってみっかぁ！」で同年４月から勢いだけで製作開始しました。[p]
-下準備一切なし！ネタは潜入捜査に入った学園で瞳が少年達にホヒンホヒンにされるという事のみ！！[p]
-ただ、以前から『瞳』と『アイ』はきっといつの日にかクロスオーバーするであろう（公式には「いろもんvol.1」で声のみで共演済み）と期待していたため、[p]
-少年達が『ゆらぎ』であるという設定と、後半でアイたち魔法戦士組と出会って共闘するという構想はもうこの時点で既にありました。[p]
+The catalyst was an illustration of Hitomi I posted on Twitter on[r]
+March 3, 2018, for the "#1st Sexy Sensei Championship" (↑). It's been[r]
+repainted for the game, but the lines are rougher compared to other[r]
+CGs due to these circumstances. At the time, I couldn't finish it by[r]
+the designated posting date and it was incomplete, but it still[r]
+received a lot of responses, and I was thrilled to have a giggly chat[r]
+about Colors works after a long time, which led me to start production[r]
+in April of the same year with nothing but momentum. No preparation at[r]
+all! The only idea was that Hitomi, infiltrating a school, gets teased[r]
+by the boys!! However, I had always hoped that "Hitomi" and "Ai" would[r]
+cross over someday (they had already unofficially met in "Iromon[r]
+vol.1" with voice only), so I had already planned for the boys to be[r]
+"Yuragi" and for Hitomi to team up with Ai and the magical warriors in[r]
+the latter half.[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg25_05.png"  ]
 [tb_start_text mode=1 ]
 #　
-少年達が敵なのだから、アイ2の『瑠璃男』と彼が何処からともなく引き連れてきた少年ゆらぎ達約30名と彼が支配していたアルケー社の一派閥を設定に組み込み、[p]
+Since the boys were enemies, I incorporated into the setting about 30[r]
+Yuragi boys led by "Rurio" from "Ai 2" and a faction of the Alkae[r]
+company he controlled.[p]
 [_tb_end_text]
 
 [chara_show  name="gaku"  time="250"  wait="true"  storage="chara/5/gaku_1_01.png"  width="500"  height="600"  left="228"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #　
-オリジナルキャラ・博山が支配する『ゆらぎ少年を量産している産土学園』という設定が誕生しました。[p]
+This led to the creation of the setting for "Santu Gakuen," controlled[r]
+by the original character Hakuyama, which mass-produces Yuragi boys.[p]
 [_tb_end_text]
 
 [chara_show  name="hajime"  time="250"  wait="true"  storage="chara/9/hajime2_01.png"  width="375"  height="600"  left=""  top=""  reflect="false"  ]
@@ -458,29 +463,40 @@
 [chara_show  name="futoshi"  time="250"  wait="true"  storage="chara/8/futoshi_1_01.png"  width="375"  height="600"  left="418"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #　
-オリジナル生徒キャラクターはこの3人。マイカイとフトシは『魔法少女アイ・原画集』の資料に描かれていた少年達をモチーフに描きました。[p]
-名前の由来は瑠璃男から因-ちな-みました。[p]
-アイ2プレイ時から「瑠璃男」という名前がどうも本名の様に思えず、今作用に『七宝』に因んだモノだと勝手に妄想…[p]
-『選ばれし少年達にはそれぞれ七宝の名が与えられている』という設定を捏造しました。[p]
-法華経における七宝『金、銀、瑪瑙-メノウ-、瑠璃-ルリ-、硨磲-シャコ-、真珠、玫瑰-マイカイ-』・・・[p]
-マイカイくんはストレートに。ハジメくんには『銀』を苗字に付けました。なんか後4人くらいで話が引っ張れそうですね（セコイ；）[p]
-フトシは最初から倒されるべき敵として誕生。チンコがデカいダケの竿担当、衣装はほぼほぼジャイアンです。[p]
+These are the three original student characters. Maikai and Futoshi[r]
+were drawn based on motifs of boys depicted in the "Magical Girl Ai.[r]
+Original Art Collection." Their names are derived from Rurio. Ever[r]
+since playing Ai 2, I've imagined that Rurio's name wasn't his real[r]
+name, so I fantasized that it was inspired by "Shippo" (Seven[r]
+Treasures)... I fabricated a setting where "each of the chosen boys is[r]
+given a name from the Seven Treasures." The Seven Treasures in the[r]
+Lotus Sutra are "gold, silver, agate, lapis lazuli, coral, pearl, and[r]
+rose quartz"... Maikai-kun's name is straightforward. For Hajime-kun,[r]
+I added "silver" to his surname. It seems like we could stretch the[r]
+story with about four more boys (cheeky;). Futoshi was created to be[r]
+an enemy destined to be defeated. He's just a pole-bearer with a big[r]
+cock, and his outfit is almost Gian's.[p]
 [_tb_end_text]
 
 [chara_hide_all  time="250"  wait="true"  ]
 [bg  time="250"  method="crossfade"  storage="haikei/roziura05.png"  ]
 [tb_start_text mode=1 ]
 #　
-フトシ君はこのカットのためダケに生まれたと言っても過言ではありません。[p]
-敬虔なアイファンの人ならピン！と来たのではないでしょうか？[p]
-そうです。このカットは魔法少女アイ・原画集の資料画像にあった『魔法少女アイ3』の構想を元に描いたものなのです。[p]
-フトシくんがゆらぎ化したデザインも、ほぼほぼ資料を参考にしてます。[p]
-「じゃあなにか？お前は勝手に3を作ったのだとでも言いたいの？」とお叱りを受けそうですがそんなつもりはサラサラありません。[p]
-真の『参』となる『アイ3』は、公式の手によってしか生み出されるべきではない！と思っております。[p]
-私は、私の焦がれを作品にぶつけているだけなのです。[p]
-「あんなシチュエーション、こんなシーンがあったかも」という『参』に対する絶望と無念感を少しでも発散させたい、ただそれだけです。[p]
-そんな愛憎なのか情念なのか怨念なのか自分でももう良く解らないモノがブチ撒けられたこの作品で、少しでもニヤニヤして頂けたなら本望であります。[p]
-さて、まだまだ語りたい事はありますが…『つづき』は『アイ編』に込めさせて頂きたいと思います。[p]
+It's no exaggeration to say that Futoshi-kun was born just for this[r]
+cut. If you're a devout Ai fan, you might have guessed it! Yes, this[r]
+cut is based on a concept for "Magical Girl Ai 3" found in the[r]
+original art collection of Magical Girl Ai. Futoshi-kun's Yuragi-[r]
+transformed design is also mostly based on that material. "So what?[r]
+Are you saying you made up 3 on your own?" I might be scolded for[r]
+thinking so, but that's not my intention at all. The true "Ai 3"[r]
+should only be brought to life by official hands! That's what I[r]
+believe. I'm just channeling my yearning into my work. "Such[r]
+situations, such scenes might have existed..." I just want to vent a[r]
+little bit of my despair and frustration towards "San" or "3." If this[r]
+work filled with love-hate emotions or passionate feelings or grudges[r]
+has made you smirk even a little bit, then I am satisfied. Well,[r]
+there's still much more I'd like to talk about... but I'd like to save[r]
+the "continuation" for the "Ai chapter."[p]
 [_tb_end_text]
 
 [bg  time="1000"  method="crossfade"  storage="sozai_09.png"  ]
@@ -489,31 +505,42 @@
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin2_13.png"  width="375"  height="600"  left="447"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
 #　
-各支援サイトをご覧頂いていた方々は既にご存知かもしれませんが、本作『瞳』は別称：『瞳編』であり、後日『アイ編』の追加製作を予定しております。[p]
-内容は今作の裏側で人知れず戦っていたアイと秋俊達のお話で[p]
-『※アイ2のハッピーエンド路線』で、アイ2ラストバトル後に向こう世界を混乱させた『妖獣』を退治しにアイ・リン・メグが帰還する所から始まります。[p]
-アイ2プラスではアイが向こう世界の混乱に乗じてメグを探しに、そして秋俊に会うために勝手に出てきてしまった事が本人の口から語られましたがトンでもねぇ話です；[p]
-敵前逃亡…厳格な向こう世界の法に背いてると思われます、きっと厳罰を受けるでしょうが、そういう損な役回りはメグ姉ちゃんが何とかしてくれるでしょう（おい；）[p]
-とにかく気になって気になって仕方がなった部分…きっと『参』ないし『3』で全てが判明するんだと信じていた私の無念感をぶつけたいと思っています。[p]
-『瞳』の現ヴァージョンは『1.00』ですがアイ編をＯ型-おーがた-アップデートして『2.00』にする予定です。[p]
-その際、販売価格を少し上げさせていただきますが、ＤＬ販売サイトに会員登録されている方なら無料で再ダウンロードによるアップデートが可能です。[p]
-完全に身勝手で低俗な二次創作作品になる事が予想されますことを、先にお断りさせていただきます…。[p]
+As those who have been following various support sites may already[r]
+know, this work "Hitomi" is also known as "Hitomi chapter," and we[r]
+plan to add an "Ai chapter" later on. The content will be about Ai and[r]
+Akishun fighting secretly behind the scenes of this work, starting[r]
+from their return after defeating the "demon beast" that caused chaos[r]
+in the other world after the last battle of "Ai 2," following the[r]
+"happy ending route" of Ai 2. In Ai 2 Plus, Ai talked about how she[r]
+came out on her own to find Meg and meet Akishun amidst the chaos of[r]
+the other world, but that's a ridiculous story; deserting in front of[r]
+an enemy... She seems to be violating the strict laws of the other[r]
+world and will surely be punished severely, but Meg Onee-san will[r]
+probably take care of it (hey;). Anyway, it's a part that has been[r]
+bothering me so much... I believe that everything will be revealed in[r]
+"San" or "3," and I want to channel my frustration into it. The[r]
+current version of "Hitomi" is "1.00," but we plan to update it with[r]
+an O-type update to "2.00" when we add the Ai chapter. At that time,[r]
+we will slightly increase the selling price, but if you are registered[r]
+on a DL sales site, you can update for free by re-downloading. Please[r]
+note in advance that it is expected to become a completely selfish and[r]
+vulgar fan-made work...[p]
 [_tb_end_text]
 
 [chara_hide_all  time="500"  wait="true"  ]
 [chara_show  name="gaku_2"  time="250"  wait="true"  storage="chara/21/fusi.png"  width="563"  height="600"  left="238"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【不死者Ｏ】
-「では、また『アイ編』でお会いしましょう！」[p]
-「まぁ今作が爆死したらお蔵入りするんですけどね!?」[p]
-「その時はまた何年か後に情熱が再燃するまでお待ち頂けたらなぁと存じます…」[p]
-「ここまでお付き合い頂き誠にありがとうございました！」[p]
+#【Undying O】
+"Then, let's meet again in the 'Ai chapter'!" "Well, if this work[r]
+bombs, it'll be shelved!?" "If that happens, please wait until my[r]
+passion reignites in a few years..." "Thank you very much for sticking[r]
+with us this far!"[p]
 [_tb_end_text]
 
 [font  size="55"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【不死者Ｏ】
-「したらな！」[p]
+#【Undying O】
+"See ya!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -536,8 +563,7 @@
 [showmenubutton]
 
 [tb_start_text mode=1 ]
-showmenubutton[p]
-上のティラノスクリプトをタイトルに差し込むことで[p]
-以降のページにメニューへのリンクアイコンが表示される。[p]
+By inserting the above TyranoScript into the title, a menu link icon[r]
+will be displayed on subsequent pages.[p]
 [_tb_end_text]
 

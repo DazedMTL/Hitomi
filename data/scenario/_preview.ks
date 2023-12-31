@@ -14,8 +14,8 @@
 [chara_move  name="ai_1"  anim="true"  time="10"  effect="easeInQuad"  wait="false"  left="-137"  top="0"  width="375"  height="600"  ]
 [mask_off time=10]
 [tb_start_text mode=1 ]
-#【小虎】
-「…向こうは向こうで何してるんだか、まったく」[p]
+#【Kotora】
+"I wonder what they're up to over there, really..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -27,8 +27,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-（綺沙、今度の手紙には騒がしい連中の愉快な話をいっぱい書いて送るからね♪）[p]
+#【Kotora】
+(Kisa, I'll write you a letter full of fun stories about these noisy[r]
+folks next time♪)[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -38,9 +39,13 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #
-私立産土学園における任務はこうして幕を下ろした。[p]
-世間には『学園を私物化し国家転覆級のテロを画策していた首謀者・博山岩男が学園地下に密かに蓄えていた爆発物を起爆させ証拠隠滅を図り死亡した』…と報じられた。[p]
-またも闇に葬られた事件…しかし、これさえも後に訪れる大事件の予兆に過ぎないことを、瞳達は知る由もなかった……。[p]
+The mission at the private Sanjogakuen came to a close like this. It[r]
+was reported to the public that "The mastermind, Iwayama Iwao, who had[r]
+been scheming a national overthrow level of terrorism by privatizing[r]
+the academy, died attempting to destroy evidence by detonating[r]
+explosives secretly stored beneath the school"... Another case buried[r]
+in darkness... However, Hitomi and the others had no way of knowing[r]
+that this was merely a prelude to a much larger incident to come...[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -53,9 +58,8 @@
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #
-原作：colors[r]
-★『特命教師 瞳』シリーズ[r]
-★『魔法少女アイ』シリーズ[r]
+colors ★ "Special Mission Teacher Hitomi" Series ★ "Magical Girl Ai"[r]
+Series[p]
 [_tb_end_text]
 
 [wait  time="3000"  ]
@@ -65,8 +69,7 @@
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #
-メイン背景素材：[r]
-★きまぐれアフター[r]
+★ Whimsical After[p]
 
 
 [_tb_end_text]
@@ -77,9 +80,7 @@
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #
-ＢＧＭ：[r]
-★Melodic Taste[r]
-★魔王魂[r]
+★ Melodic Taste ★ Demon Soul[p]
 [_tb_end_text]
 
 [wait  time="3000"  ]
@@ -88,9 +89,7 @@
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #
-効果音素材：[r]
-★無料効果音で遊ぼう！[r]
-★On-Jin ～音人～[r]
+★ Let's Play with Free Sound Effects! ★ On-Jin ~Sound People~[p]
 [_tb_end_text]
 
 [wait  time="3000"  ]
@@ -99,9 +98,7 @@
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #
-★DOVA-SYNDROME[r]
-★ポケットサウンド[r]
-★OtoLogic[r]
+★ DOVA-SYNDROME ★ Pocket Sound ★ OtoLogic[p]
 [_tb_end_text]
 
 [wait  time="3000"  ]
@@ -110,9 +107,7 @@
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #
-効果音加工・変換ツール：[r]
-★mp3DirectCut[r]
-★EcoDecoTooL[r]
+★ mp3DirectCut ★ EcoDecoTool[p]
 [_tb_end_text]
 
 [wait  time="3000"  ]
@@ -121,8 +116,7 @@
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #
-ゲーム製作ツール：[r]
-★ティラノビルダー[r]
+★ TyranoBuilder[p]
 [_tb_end_text]
 
 [wait  time="3000"  ]
@@ -132,7 +126,7 @@
 [tb_start_text mode=3 ]
 #
 
-製作：赤月赤座堂／不死者Ｏ[r]
+Akatsuki Akazado / Immortal O[p]
 [_tb_end_text]
 
 [wait  time="3000"  ]
@@ -146,18 +140,24 @@
 [s  ]
 [tb_start_text mode=1 ]
 #
-世間には『学園を私物化し国家転覆級のテロを画策していた首謀者・博山岩男が、学園地下に密かに蓄えていた爆発物を起爆させ証拠の隠滅を図り死亡した』と報じられた。[p]
-いう体裁を取り、詳細は伏せられた。[p]
+It was reported to the public that "The mastermind, Iwayama Iwao, who[r]
+had been scheming a national overthrow level of terrorism by[r]
+privatizing the academy, died attempting to destroy evidence by[r]
+detonating explosives secretly stored beneath the school." The details[r]
+were kept under wraps under this pretense.[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-私立産土学園における失踪事件の調査過程で発生した危険思想組織との戦闘は、協力者との[p]
+The battle with a dangerous ideological organization that occurred[r]
+during the investigation of a disappearance incident at the private[r]
+Sanjogakuen was...[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 #
-ゆらぎってのは、強烈な思いが本来の生命のあり方を変質させて生まれるのよ。その意味では、怨念だって近いでしょ[r]
+Fluctuations are born when intense emotions alter the original state[r]
+of life. In that sense, grudges are similar, aren't they?[p]
 [_tb_end_text]
 
 [s  ]

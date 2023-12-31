@@ -10,7 +10,8 @@
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #
-――翌、PM17：45/産土学園前500ｍ地点[p]
+--The following day, PM 17:45 / 500 meters in front of Santochi[r]
+Academy[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -19,28 +20,30 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「…………」[p]
+#【Kuzu】
+"..."[p]
 [_tb_end_text]
 
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_1_02.png"  width="363"  height="600"  left="374"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…支援班から入電、到着まで後１時間だそうよ」[p]
+#【Kotora】
+"We've just received a transmission from the support team; they'll[r]
+arrive in an hour."[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_01.png"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_11_3.png"  width="406"  height="600"  left="474"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「流石司令だわ、これならあの子達と一緒に突入できるかも！」[p]
+#【Hitomi】
+"As expected of the commander, with this we might be able to breach[r]
+with those kids!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_01_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「監視班は何て言ってるの瞬ちゃん？[r]
-そろそろ無関係の生徒は下校しきったかしら？」[r]
+#【Hitomi】
+"What's the surveillance team saying, Shun-chan? Have all the[r]
+unrelated students gone home by now?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -50,29 +53,29 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_01.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「…………返事が無ぇ……」[p]
+#【Kuzu】
+"...No response..."[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/heartbeats.ogg"  loop="true"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_10.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「？！」[p]
+#【Kotora】
+"?![p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「…何ですって!?」[p]
+#【Hitomi】
+"...What did you say!?"[p]
 [_tb_end_text]
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「ついさっきまで異常は無かったんだ…[r]
-急に、一斉に黙りこくっちまって、何度も呼び掛けてるが…[r]
-誰からも応答が返って来ねぇ…っ」[r]
+#【Kuzu】
+"There was nothing unusual until just a moment ago... Suddenly, they[r]
+all went silent, and despite repeated calls... no one is[r]
+responding..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -84,8 +87,8 @@
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_17.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [tb_start_text mode=1 ]
-#【瞳＆小虎】
-「・・・・・・っ」[p]
+#【Hitomi & Kotora】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -97,22 +100,22 @@
 [chara_mod  name="rin_1"  time="250"  cross="false"  storage="chara/13/rin1_24.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「・・・行くわよ、アイ」[p]
+#【Rin】
+"We're going, Ai."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="250"  cross="false"  storage="chara/13/rin1_24_2.png"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_04.png"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「うん。行こう秋俊」[p]
+#【Ai】
+"Yeah. Let's go, Qiushun."[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_03.png"  ]
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_13.png"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「…ああ！」[p]
+#【Qiushun】
+"...Yeah!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -121,16 +124,16 @@
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_1_16.png"  width="363"  height="600"  reflect="true"  left="-54"  top="0"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…待って、未だ確認が…っ」[p]
+#【Kotora】
+"Wait, we still need to confirm..."[p]
 [_tb_end_text]
 
 [chara_show  name="ai_1"  time="250"  wait="false"  storage="chara/12/ai01_05.png"  width="375"  height="600"  left="388"  top="0"  reflect="false"  ]
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin1_24_2.png"  width="375"  height="600"  left="534"  top="-2"  reflect="false"  ]
 [tb_start_text mode=3 ]
-#【アイ】
-「…無駄だよ、作戦は気付かれてたんだ。[r]
-コレは連中からの誘いの合図」[r]
+#【Ai】
+"It's no use, they knew about our plan. This is a signal inviting us[r]
+from them."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -140,14 +143,14 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_03.png"  ]
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_1_19.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…じゃあ…監視は全員……？！」[p]
+#【Kotora】
+"...then... all the surveillance team...?!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="true"  storage="chara/3/hitomi_1_15_04.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「……クッ」[p]
+#【Hitomi】
+"...Grr."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -161,14 +164,14 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「ひとみッ！？」[p]
+#【Kotora】
+"Hitomi!?"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_05.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「ったく、鉄砲玉かっての！」[p]
+#【Rin】
+"Seriously, what a bunch of hotheads!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -180,9 +183,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「クソッ！ 何てこった！[r]
-オレ達も行くぞ兄ちゃん！！」[r]
+#【Kuzu】
+"Damn it! What the hell! We're going too, big bro!!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -212,12 +214,16 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #
-油断すると嗚咽と共に胃の内容物まで吐き出してしまいそうになる血生臭さと、その原因がひと目で理解できるものの…素直に受け止めるには余りにも残酷な光景が其処にあった…[p]
+The stench of blood was so strong that it threatened to bring up the[r]
+contents of one's stomach along with a gag reflex, and the sight that[r]
+caused it was all too clear... yet too cruel to accept at face value.[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-校門の上に遺棄された残骸から流れ滴り落ちる未だドス黒く変色していない液体が、この惨状がつい今しがた此処に描かれたものである事を静かに物語っている。[p]
+The liquid still dark and uncoagulated, dripping down from the remains[r]
+left atop the school gate, silently told the tale of this tragedy[r]
+having just unfolded.[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -225,9 +231,8 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「・・・・・・・・・ッ[r]
-マジかよ…此処までやンのか………」[r]
+#【Kuzu】
+"...Damn it... they went this far..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -238,8 +243,8 @@
 [chara_show  name="hitomi_1"  time="250"  wait="false"  storage="chara/3/hitomi_1_08_5.png"  width="406"  height="600"  left="230"  top="0"  reflect="false"  ]
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_1_19.png"  width="363"  height="600"  left="515"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【瞳＆小虎】
-「・・・・・・」[p]
+#【Hitomi & Kotora】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -250,32 +255,37 @@
 [tb_show_message_window  ]
 [chara_mod  name="rin_1"  time="250"  cross="false"  storage="chara/13/rin1_24.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…随分と派手な歓迎ね…直接襲って来ないあたり、半年前にアパートを襲撃して来た一団の失敗から少しは学習したって事かしら」[p]
+#【Rin】
+"...Quite the flashy welcome... They've learned a bit from their[r]
+failure half a year ago when they attacked the apartment, not[r]
+attacking us directly this time."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【リン】
-「あの時の連中も此処で人工的に増やされたモノだったとすると、これできっちり “ 後始末 ” を付けられそうね」[p]
+#【Rin】
+"If those guys back then were also artificially increased here, then[r]
+this might be our chance to properly 'clean up'."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_24_2.png"  ]
 [chara_show  name="akitoshi"  time="250"  wait="true"  storage="chara/16/akitoshi_04.png"  width="344"  height="600"  reflect="true"  left=""  top=""  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「…だが “ 瑠璃男 ” は相当な強さのゆらぎ…いや、ゆらぎを超えた存在だった。 きっとこの先にはアイツ以上の存在が居る筈だ、もしかすると…あの男も……」[p]
+#【Qiushun】
+"...But 'Lapis Lazuli Man' was an entity of considerable strength, no,[r]
+beyond fluctuation. There must be beings stronger than him ahead,[r]
+maybe even... that man..."[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_05.png"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「シンはメグ姉さまが倒した筈…、もし生きていたのなら…」[p]
+#【Ai】
+"Shin should have been defeated by Megu-nee... if he's still alive..."[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_04.png"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「此処の奴等諸共、今度こそ私が確実に潰す！」[p]
+#【Ai】
+"I'll crush them all for sure this time, along with everyone here!"[p]
 [_tb_end_text]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
@@ -283,8 +293,8 @@
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_16.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「 翼竜装纏<よくりゅうそうてん>！」[p]
+#【Ai】
+"Wing Dragon Envelopment!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -307,36 +317,36 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「・・・・・・な・・・??!」[p]
+#【Kotora】
+"...what...??!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「へ…変身した…！？」[p]
+#【Hitomi】
+"He... she transformed...!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_hide  name="kotora_1"  time="250"  wait="false"  pos_mode="false"  ]
 [chara_show  name="kuzu_2"  time="250"  wait="true"  storage="chara/2/kuzu_1_07_2.png"  width="688"  height="600"  left="-138"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「…………………………………………………………イイ……」[p]
+#【Kuzu】
+"...Nice..."[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_6.png"  ]
 [chara_move  name="ai_1"  anim="false"  time="250"  effect="default"  wait="true"  left="289"  top="0"  width="375"  height="600"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「………っ」[p]
+#【Ai】
+"..."[p]
 [_tb_end_text]
 
 [chara_hide  name="hitomi_1"  time="250"  wait="false"  pos_mode="false"  ]
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin1_05.png"  width="375"  height="600"  left="480"  top="0"  reflect="false"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「瞬作！ 気が散るからコッチ見るな！」[p]
+#【Rin】
+"Shun-saku! Don't look this way, it's distracting!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -344,17 +354,16 @@
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_01.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="1"  swing="20"  time="100"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「べ、別にやましい気持ちで見てなんか…っ」[p]
+#【Kuzu】
+"I-I'm not looking with any bad intentions...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_03_2.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="2"  swing="20"  time="100"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「うっさい！ [r]
-いいからアッチ向けっての！」[r]
+#【Rin】
+"Shut up! Just face that way!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -365,23 +374,23 @@
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="2"  swing="20"  time="100"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「・・・何だよ・・・・・減るもんじゃあるめぇし・・・」[p]
+#【Kuzu】
+"...What's the big deal... it's not like I'm losing anything..."[p]
 [_tb_end_text]
 
 [chara_hide  name="kuzu_2"  time="250"  wait="false"  pos_mode="false"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_14.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_11.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…ったく、ギャラリー多いとやり辛いったらないわ…」[p]
+#【Rin】
+"Seriously, it's hard to do anything with such a crowd watching..."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_24.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「 翼竜装纏<よくりゅうそうてん>！」[p]
+#【Rin】
+"Wing Dragon Envelopment!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -403,8 +412,8 @@
 [chara_show  name="kuzu_2"  time="500"  wait="true"  storage="chara/2/kuzu_1_11_04.png"  width="688"  height="600"  left="-130"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「………すげぇ…、どういう仕組みかゼンゼン解らねぇ」[p]
+#【Kuzu】
+"...Amazing... I have no idea how this works."[p]
 [_tb_end_text]
 
 [chara_hide  name="rin_1"  time="0"  wait="true"  pos_mode="false"  ]
@@ -413,14 +422,14 @@
 [chara_move  name="rin_1"  anim="false"  time="50"  effect="default"  wait="true"  left="315"  top="0"  width="375"  height="600"  ]
 [tb_chara_shake  name="rin_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「……ッ」[p]
+#【Rin】
+"...Hmph."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08_3.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…事が済んだらアンタの記憶は念入りに消しとくわ」[p]
+#【Rin】
+"...Once this is over, I'll thoroughly erase your memory."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08_2.png"  ]
@@ -429,22 +438,22 @@
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="1"  swing="20"  time="100"  ]
 [stopse  time="1000"  buf="0"  fadeout="true"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「何でそう俺にだけ風当たり強いんだよ!?」[p]
+#【Kuzu】
+"Why are you always so harsh on me?!"[p]
 [_tb_end_text]
 
 [chara_show  name="akitoshi"  time="250"  wait="true"  storage="chara/16/akitoshi_04_2.png"  width="344"  height="600"  reflect="false"  left="572"  top="0"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-（…オレを見ている様だ…）[p]
+#【Qiushun】
+"(...It seems like she's looking at me...)"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="1"  swing="20"  time="100"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「秋俊！ あんたもさっさとアイと合体しなさいよ！[r]
-最初から全力で片付けに行くんだから！」[r]
+#【Rin】
+"Qiushun! Hurry up and merge with Ai already! We're going full force[r]
+from the start!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -453,8 +462,8 @@
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_17.png"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「…ああ、うん」[p]
+#【Qiushun】
+"...Ah, yeah."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -464,21 +473,21 @@
 [chara_move  name="kuzu_2"  anim="false"  time="300"  effect="default"  wait="true"  left="225"  top="0"  width="688"  height="600"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「・・・アイちゃんと・・・合体・・・だと？」[p]
+#【Kuzu】
+"...Merge... with Ai-chan?"[p]
 [_tb_end_text]
 
 [chara_show  name="kotora_1"  time="250"  wait="false"  storage="chara/4/kotora_1_16.png"  width="363"  height="600"  reflect="true"  left="54"  top="0"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「今度は何を…？」[p]
+#【Kotora】
+"What's happening now...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_17.png"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_14_5.png"  width="406"  height="600"  reflect="true"  left="-77"  top="0"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・・・・・・・」[p]
+#【Hitomi】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -490,8 +499,8 @@
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_02.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「・・・アイ…！」[p]
+#【Qiushun】
+"...Ai...!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -502,19 +511,19 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #
-差し出した右手は空しく宙を泳いだ。[p]
+His outstretched right hand swam emptily through the air.[p]
 [_tb_end_text]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_03.png"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「え…？」[p]
+#【Qiushun】
+"Eh...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai02_05_12.png"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「・・・・・・・・・・此処じゃ・・・ヤダ・・・」[p]
+#【Ai】
+"...Not here... I don't want to..."[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_11.png"  ]
@@ -523,9 +532,8 @@
 [chara_move  name="ai_1"  anim="false"  time="50"  effect="default"  wait="true"  left="333"  top="0"  width="375"  height="600"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ナニ恥ずかしがってンの!?[r]
-真面目にやんなさいよ！」[r]
+#【Rin】
+"What are you embarrassed about!? Get serious and do it!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -535,16 +543,16 @@
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_5.png"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「…だって、アレ…」[p]
+#【Ai】
+"...But, that..."[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_6.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08_4.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_14.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「・・・・・・・・」[p]
+#【Rin】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -557,14 +565,14 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【３人】
-『・・・じぃ～・・・・・・』[p]
+#【Three people】
+"...staring..."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【リン】
-「……………やっぱ邪魔ね、あいつ等…」[p]
+#【Rin】
+"...They really are a nuisance, those guys..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -576,14 +584,14 @@
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin2_04.png"  width="375"  height="600"  left="246"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「……いいわ、合体はアンタ達の問題だし判断は任せる」[p]
+#【Rin】
+"...Fine, merging is your issue, so I'll leave the decision to you."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「それじゃあ行くわよ！」[p]
+#【Rin】
+"Let's go then!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
@@ -591,8 +599,8 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_09.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ええ！」[p]
+#【Hitomi】
+"Yes!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -602,34 +610,39 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_2.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「ちょっと、瞳？！」[p]
+#【Kotora】
+"Wait, Hitomi?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「なに付いて行こうとしてんだよ先生！ 支援班が到着するまでは専門家に任せるって打ち合わせだっただろ?!」[p]
+#【Kuzu】
+"What are you trying to follow them for, Teach?! Didn't we agree to[r]
+leave it to the specialists until the support squad arrives?!"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…２人の言う通りよ、この状況で怯まない根性は大したものだけど、仲間を殺られて怒りに駆られているのなら敵の思う壺！」[p]
+#【Rin】
+"...You're right, it's impressive that you're not flinching in this[r]
+situation, but if you're driven by anger over your comrades being[r]
+killed, that's exactly what the enemy wants!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【リン】
-「アンタは此処で武器とやらの到着を大人しく待ちなさい。その間に出来るだけ敵の数を減らしておいてあげるから」[p]
+#【Rin】
+"You should just wait here quietly for the arrival of your so-called[r]
+weapons. In the meantime, I'll try to reduce the number of enemies as[r]
+much as possible."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_16.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「未だ無関係の生徒が校内に残っているかもしれないでしょ？[r]
-私なら特別クラス全員の顔を覚えているし校内の案内も出来る、[r]
-足手纏いにはならないわ！」[r]
+#【Hitomi】
+"There might still be unrelated students left inside the school,[r]
+right? I remember all the faces of the special class students and can[r]
+guide through the school, so I won't be in the way!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -639,16 +652,19 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_04.png"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「…確かに、無関係の人間を人質として利用されるとやり辛いな。 魔法戦士の戦法は基本正体を隠しての強襲型…その逆や待ち伏せる相手には何時も苦戦させられてる…」[p]
+#【Qiushun】
+"...Indeed, it's difficult to act if unrelated people are taken[r]
+hostage. The tactics of a magical warrior are basically to strike from[r]
+hiding... we always struggle against opponents who do the opposite or[r]
+ambush us..."[p]
 [_tb_end_text]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_02.png"  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-「…だけど、生身で立ち向かうのは無謀すぎる。[r]
-ゆらぎか人間かの嗅ぎ分けはこの２人にも出来るし[r]
-瞳さんは此処で仲間と待ってるべきだ」[r]
+#【Qiushun】
+"...But facing them with just our flesh and blood is too reckless.[r]
+These two can also sniff out whether they're Yuragi or humans, so Miss[r]
+Hitomi should stay here and wait with her comrades."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -658,27 +674,30 @@
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_04.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「そうそう、学園の構図だってもう頭に入れてるし、アンタに出来る事なんて何も無いの！ 面倒だからこれ以上ゴネないでよね？」[p]
+#【Rin】
+"Exactly, I've already memorized the layout of the academy, and[r]
+there's nothing you can do that I can't! It's a hassle, so don't make[r]
+a fuss anymore, okay?"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「さもなきゃ此処で眠らせるわよ…？」[p]
+#【Rin】
+"Otherwise, I'll put you to sleep right here...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_16.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_3.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「もしかして私の実力を見誤ってない？ 昨日はワケも解らず不覚を取っちゃったけど、今日の私は本気も本気よ」[p]
+#【Hitomi】
+"Are you perhaps underestimating my strength? I was caught off guard[r]
+yesterday without understanding why, but today I'm dead serious."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「変身だって出来ちゃうんだから！」[p]
+#【Hitomi】
+"I can even transform!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -688,9 +707,9 @@
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_03.png"  ]
 [stopbgm  time="1500"  fadeout="true"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ハァ～？ 変身？ この状況に錯乱でもしてんの？[r]
-出来るモンならやって御覧なさいよ」[r]
+#【Rin】
+"Hah? Transform? Are you delirious in this situation? If you can do[r]
+it, then go ahead and show me."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -703,9 +722,8 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_11_3.png"  ]
 [font  size="33"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「フッ、いいわ。[r]
-見せてあげる、私の真の姿を…！」[r]
+#【Kotora】
+"Heh, fine. I'll show you my true form...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -717,8 +735,8 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08_4.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_03.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「・・・・・・」[p]
+#【Rin】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -729,9 +747,10 @@
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_1_17.png"  width="363"  height="600"  reflect="true"  left="271"  top="0"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「お…おい庭野、瞳先生の変身って…真の姿って何だ？[r]
-そんな事出来るなんて聞いて無ぇぞ?!」[r]
+#【Kuzu】
+"Hey... Hey Niwano, what's this about Hitomi-sensei transforming...[r]
+her true form? I've never heard anything about her being able to do[r]
+that?!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -740,8 +759,9 @@
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「わ、私だって初耳よ！ でも、いくら瞳でもこんな状況で冗談なんか言わない筈だし…」[p]
+#【Kotora】
+"I-I'm just as surprised! But even Hitomi wouldn't joke about[r]
+something like that in this situation..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -754,15 +774,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「瞳、変ぇ～ん身…っ！」[p]
+#【Hitomi】
+"Hitomi, transfor~m...!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_16_06.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「たあっ!!」[p]
+#【Hitomi】
+"Taaah!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -787,8 +807,8 @@
 [tb_show_message_window  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「特命教師 瞳、参上ぉ♥」[p]
+#【Hitomi】
+"Special Mission Teacher Hitomi, at your service♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -801,15 +821,15 @@
 [chara_show  name="akitoshi"  time="500"  wait="true"  storage="chara/16/akitoshi_08.png"  width="344"  height="600"  left="569"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「……ジャ、ジャージ…？」[p]
+#【Qiushun】
+"...Ja, Ja-Ja...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="true"  storage="chara/3/hitomi_2_13_7.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「フ、確かに見た目こそジャージだけど、[r]
-これこそウチの組織が開発したバトルスーツ！」[r]
+#【Hitomi】
+"Hmph, it may look like a jersey, but this is the battle suit[r]
+developed by our organization!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -817,9 +837,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「動き易さをとことん追求したピッチリ極薄素材でありながら、[r]
-そこそこの防刃性能あり！」[r]
+#【Hitomi】
+"It's made from an ultra-thin material that's been optimized for ease[r]
+of movement, yet it has a decent level of blade resistance!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -828,9 +848,10 @@
 
 [chara_mod  name="hitomi_1"  time="250"  cross="true"  storage="chara/3/hitomi_3_02_10.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「更に常時着用しているこのパワーグローヴもしなやかで頑強！[r]
-衝撃を受け流し、また渾身の一撃を放っても拳を痛めない！」[r]
+#【Hitomi】
+"Furthermore, these power gloves I'm always wearing are both flexible[r]
+and sturdy! They deflect impacts and protect my fists even when I[r]
+unleash my full power!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -839,9 +860,9 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「そこに私の拳法が加われば鬼に金棒！[r]
-矢でも鉄砲でも持って来ぉ～い！」[r]
+#【Hitomi】
+"Add my martial arts to the mix and it's like giving a demon a club![r]
+Bring on the arrows and guns～!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -852,9 +873,8 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="true"  storage="chara/3/hitomi_2_05_5.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「こぉれこそが私の真の姿！[r]
-あ、恐れ入ったかぁ～～っ!!」[r]
+#【Hitomi】
+"This is my true form! Ah, are you impressed now～～?!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -866,14 +886,16 @@
 [chara_hide  name="hitomi_1"  time="0"  wait="false"  pos_mode="false"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_2_13_6.png"  width="406"  height="600"  reflect="true"  left="200"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「……って、アレ？ リンちゃんとアイちゃんは…？」[p]
+#【Hitomi】
+"...Wait, huh? Where are Rin-chan and Ai-chan...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_04.png"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「…すみません、瞳さんが早着替えを済ませて着地した辺りで学園に突入して行きました。 オレは引止めてろと言われまして…」[p]
+#【Qiushun】
+"...I'm sorry, Hitomi-san. They stormed into the school right after[r]
+you finished your quick change and landed. I was told to hold you[r]
+back..."[p]
 [_tb_end_text]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_04_2.png"  ]
@@ -883,29 +905,32 @@
 [stopse  time="1000"  buf="0"  fadeout="true"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ひどっ」[p]
+#【Hitomi】
+"That's terrible"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_show  name="kuzu_2"  time="500"  wait="true"  storage="chara/2/kuzu_1_08_2.png"  width="688"  height="600"  left="-83"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「…酷ぇのはどっちだよ…こんな状況で一発芸かましてりゃそりゃ見捨てられるって！」[p]
+#【Kuzu】
+"...Who's the terrible one here...? Pulling a stunt like that in this[r]
+situation, no wonder they left you behind!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【葛生】
-「 ったく…何が変身だよ、変身ヒロインの変身にはもっと夢と希望が詰まってんだよ、魔法少女を舐めんじゃねぇぞッ!?」[p]
+#【Kuzu】
+"Seriously... What kind of transformation was that? Transformations of[r]
+magical heroines are supposed to be filled with dreams and hope, don't[r]
+underestimate magical girls!?"[p]
 [_tb_end_text]
 
 [chara_hide  name="hitomi_1"  time="0"  wait="false"  pos_mode="false"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_2_13_6.png"  width="406"  height="600"  reflect="false"  left="200"  top=""  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「お、怒るトコそこなの？ 一応誤解が無い様に言っておくけど、[r]
-この変身ネタは以前に冴子がやったのを真似ただけであって、[r]
-別に私が考えたわけじゃあ無いのよ…？」[r]
+#【Hitomi】
+"Oh, is that what you're upset about? Just to clear up any[r]
+misunderstandings, this transformation gag was something Saeko did[r]
+before that I'm just imitating, it's not something I came up with...?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -914,46 +939,48 @@
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_02.png"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「それじゃオレは行きますけど、支援が届くまで無茶しちゃ駄目ですからね!?」[p]
+#【Qiushun】
+"Then I'll be going now, but don't do anything reckless until backup[r]
+arrives, okay!?"[p]
 [_tb_end_text]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_14.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="true"  storage="chara/3/hitomi_2_13_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（とうとう無視されちゃった…練習したのに……）[p]
+#【Hitomi】
+(I've been completely ignored... after all that practice...)[p]
 [_tb_end_text]
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「兄ちゃんこそ１人で大丈夫かよ？ 戦えねぇんだろ？」[p]
+#【Kuzu】
+"Are you sure you'll be okay on your own, big bro? You can't fight,[r]
+right?"[p]
 [_tb_end_text]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_17.png"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「アイが途中で待ってくれてる筈ですから！」[p]
+#【Qiushun】
+"Ai should be waiting for me halfway!"[p]
 [_tb_end_text]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_18.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_09_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「なるほど…信頼し合ってるってワケだ、妬けるね。」[p]
+#【Kuzu】
+"I see... You trust each other, that's enviable."[p]
 [_tb_end_text]
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「ヘマすんじゃねぇぜ、秋俊！」[p]
+#【Kuzu】
+"Don't screw up, Qiushun!"[p]
 [_tb_end_text]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_17.png"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「皆さんも気を付けて！」[p]
+#【Qiushun】
+"Everyone, take care as well!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -967,22 +994,23 @@
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…トラちゃん、支援班の到着まであと何分？」[p]
+#【Hitomi】
+"...Tora-chan, how many minutes until the support team arrives?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_3.png"  ]
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_1_10.png"  width="363"  height="600"  left="500"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「約４5分よ、あの３人を引き止めるために一芝居打ったんでしょうけど、乗り込んじゃ駄目だからね?!」[p]
+#【Kotora】
+"About 45 minutes. You put on quite a show to hold those three back,[r]
+but you can't just barge in there, okay?!"[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_09.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「いいえ、もう行くわ」[p]
+#【Hitomi】
+"No, I'm going now."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_3.png"  ]
@@ -991,17 +1019,18 @@
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「司令との約束を忘れたの!?」[p]
+#【Kotora】
+"Did you forget the promise you made with the commander!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_17.png"  ]
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「瞳先生よぉ、今回の敵はマジで洒落になって無ぇって！[r]
-度を越えちまってる！ 冴子先生達の身を案じる気持ちは良く解るが、頼むから無茶しねぇでくれよ！」[r]
+#【Kuzu】
+"Hitomi-sensei, the enemy we're facing this time is seriously no joke![r]
+They've crossed the line! I understand you're worried about Saeko-[r]
+sensei and the others, but please don't do anything reckless!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1010,9 +1039,10 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_03_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「冴子も勿論心配よ、だけど同じくらい心配な子が居るの。[r]
-あの子は戦わせちゃいけない…そう感じるのよ」[r]
+#【Hitomi】
+"Of course I'm worried about Saeko, but there's another child I'm just[r]
+as concerned about. That child shouldn't be made to fight... I feel[r]
+that strongly."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1023,21 +1053,21 @@
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…昨日会ったばかりの子にどうしてそこまで…っ」[p]
+#【Kotora】
+"...Why do you care so much about a child you only met yesterday...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_1.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…見えたのよ…」[p]
+#【Hitomi】
+"...I saw it..."[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_19.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_06_2.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…見えたって…？」[p]
+#【Kotora】
+"...Saw what...?"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1051,9 +1081,10 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「…創くんと心で会話した時、彼が私の経歴や近況を覗いた様に[r]
-私も彼の冷たく暗い過去を垣間見てしまったの…」[r]
+#【Hitomi】
+"...When I had a heart-to-heart talk with So-kun, just as he peeked[r]
+into my background and recent events, I also caught a glimpse of his[r]
+cold and dark past..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1073,9 +1104,9 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「…彼は世界を憎んでる…[r]
-だけど同じ位救いを求めてもいると感じたの」[r]
+#【Hitomi】
+"...He hates the world... But I felt that he's seeking salvation just[r]
+as much."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1084,10 +1115,9 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「戦いじゃあの子の心は救えない！[r]
-そしてあの子を止められるのは[r]
-一瞬でも通じ合った私だけなのよ！」[r]
+#【Hitomi】
+"A fight won't save that child's heart! And the only one who can stop[r]
+him is me, who connected with him even for a moment!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1095,8 +1125,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「だから…っ」[p]
+#【Hitomi】
+"That's why...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1113,13 +1143,13 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「………おっ始まったか…！」[p]
+#【Kuzu】
+"...Oh, it's starting...!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「………っ」[p]
+#【Hitomi】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1130,9 +1160,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「……行って、瞳。[r]
-私と瞬作は此処で支援班を待つから！」[r]
+#【Kotora】
+"...Go, Hitomi. Shunsaku and I will wait here for the support team!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1145,22 +1174,22 @@
 [chara_hide  name="hitomi_1"  time="0"  wait="false"  pos_mode="false"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_2_08_2.png"  width="406"  height="600"  reflect="true"  left="200"  top=""  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「トラちゃん…！ でも此処じゃ何が起きるか…っ」[p]
+#【Hitomi】
+"Tora-chan...! But anything could happen here..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【葛生】
-「・・・・・・」[p]
+#【Kuzu】
+"..."[p]
 [_tb_end_text]
 
 [playse  volume="80"  time="1000"  buf="0"  storage="musenki.ogg"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07.png"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「…コチラ突入班、状況が変わった。[r]
-支援物資は直接学園正門付近に投下してくれ、[r]
-追加人員は要らねぇ、オーバー！」[r]
+#【Kuzu】
+"...This is the assault team, the situation has changed. Drop the[r]
+support supplies directly near the school's main gate; we don't need[r]
+additional personnel, over!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1172,16 +1201,16 @@
 [chara_hide  name="hitomi_1"  time="0"  wait="false"  pos_mode="false"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_2_08_2.png"  width="406"  height="600"  reflect="false"  left="200"  top=""  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「瞬ちゃんまで!? 駄目よ！ ２人は公園で待機してて！」[p]
+#【Hitomi】
+"Even Shun-chan!? No! You two stay put in the park!"[p]
 [_tb_end_text]
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07.png"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「いい加減生徒扱いは止してくれよ…[r]
-オレ達は危険を共にするチーム、一蓮托生だ。[r]
-オレ達は命を懸けて戦うアンタに命を懸けてぇンだよ！」[r]
+#【Kuzu】
+"Enough with treating us like students already... We're a team that[r]
+faces danger together, in life and death. We're ready to risk our[r]
+lives for you who fights with your life on the line!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1193,9 +1222,9 @@
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_1_20.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「忘れないで瞳… “ 全員で無事に帰る ” [r]
-それが司令との約束よ！」[r]
+#【Kotora】
+"Don't forget, Hitomi... 'We all return home safely.' That's the[r]
+promise with the commander!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1211,9 +1240,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ありがとう２人とも♪[r]
-帰ったらキスしたげる♥」[r]
+#【Hitomi】
+"Thank you both♪ I'll give you a kiss when we get back♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1224,15 +1252,14 @@
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_03.png"  ]
 [tb_start_text mode=1 ]
-#【小虎＆葛生】
-『 いやソレはいい!! 』[p]
+#【Little Tiger & Kuzo】
+"No, that's okay!!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_14.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「テレるなテレるな！[r]
-じゃあ、行ってきまーす！」[r]
+#【Hitomi】
+"Don't be shy! Well then, I'm off!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1252,9 +1279,9 @@
 [stopbgm  time="1500"  fadeout="true"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「…結局最後は瞳先生頼みになっちまうんだよなぁ…[r]
-非力な自分<テメェ>が恨めしいぜ…っ」[r]
+#【Kuzu】
+"...In the end, we always rely on Miss Hitomi... I hate how powerless[r]
+I am..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1262,8 +1289,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【小虎】
-「………」[p]
+#【Kotora】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1272,15 +1299,19 @@
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「…ん？ コチラ突入班、現場待機チーム。…あぁ、応援人員か…そうだ、現場は危険なんで物資だけ投下したら合流ポイントで待機しておいてくれ」[p]
+#【Kuzu】
+"...Hm? This is the assault team, the on-site waiting team... Ah, the[r]
+support personnel... Yeah, the site is dangerous, so just drop the[r]
+supplies and wait at the rendezvous point."[p]
 [_tb_end_text]
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「…は!? 物資と一緒に直接乗り込む?! 待て待て何言ってンだ！[r]
-周囲は住宅ばかりでヘリが降りられる所なんか無ぇし、既に監視が犠牲になってて危険なんだ！ 校庭にも降りられ無ぇよ！」[r]
+#【Kuzu】
+"...What?! Board directly with the supplies?! Wait, wait, what are you[r]
+saying! The area is all residential; there's nowhere for a heli to[r]
+land, and we've already had casualties, it's dangerous! You can't land[r]
+in the schoolyard either!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1290,14 +1321,15 @@
 [playse  volume="80"  time="1000"  buf="0"  storage="musenki.ogg"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_09.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「あン？ 強行だぁ？ 現場の判断が優先だろ！ 誰だそんな瞳先生みたいな無茶言ってる奴は!?」[p]
+#【Kuzu】
+"What? A forced entry? The on-site decision takes precedence! Who's[r]
+the one saying such reckless things like Miss Hitomi?!"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【通信機からの声】
-『………儂<ワシ>だ…』[p]
+#【Voice from the communicator】
+"...It's me..."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1305,15 +1337,15 @@
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="2"  swing="20"  time="100"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「…へッ?! ハ…?! …そ、その声は…！」[p]
+#【Kuzu】
+"...Huh?! Ha...?! ...That voice is...!"[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  fadeout="false"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_02_2.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「・・・！」[p]
+#【Kotora】
+"..."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1332,9 +1364,11 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…先ずは無事に学園の中心地点・中庭に到着…と。[r]
-こんな目立つ場所に居るのは危険だけど、逆に学園の何処で今何が起こっているのか、そのおおよその位置が特定できる！）[r]
+#【Hitomi】
+"(First, I need to safely reach the central courtyard of the[r]
+academy... It's dangerous to be in such an exposed place, but[r]
+conversely, I can figure out approximately where and what is happening[r]
+in the school!) "[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1342,9 +1376,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（さぁ、信じて送り出してもらった以上、[r]
-昨夜みたいなヘマは出来ないわよ瞳…！）[r]
+#【Hitomi】
+"(Now that they've sent me off with their trust, I can't afford to[r]
+make a blunder like last night, Hitomi...!) "[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1353,8 +1387,8 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（何とかして創君を探さなくちゃ！）[p]
+#【Hitomi】
+"(I have to find So-kun somehow!) "[p]
 [_tb_end_text]
 
 [resetfont  ]

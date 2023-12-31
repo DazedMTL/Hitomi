@@ -9,33 +9,34 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/suzu.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【店員】
-「いらっしゃいま…あ！ 貴女は…っ」[p]
+#【Clerk】
+"Welcome... Oh! You are...!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「すみません、２人の女の子を連れたサングラスの…」[p]
+#【Hitomi】
+"Excuse me, have you seen two girls with a man wearing sunglasses...?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【店員】
-「こちらです！」[p]
+#【Clerk】
+"Right this way!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「…？　なに慌ててるんだろ？」[p]
+#【Hitomi】
+"...? Why are you in such a hurry?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【小虎】
-「瞬作のヤツ、何かやらかしたんじゃ…」[p]
+#【Kotora】
+"That Shun guy, did he do something...?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【秋俊】
-「…いや…これ多分ウチの……あぁ…嫌な予感がするなぁ…」[p]
+#【Qiushun】
+"...No...this is probably our...ah...I have a bad feeling about[r]
+this..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -46,8 +47,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「グァツガツ…もぐもぐ…！」[p]
+#【Rin】
+"Chomp chomp... munch munch...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -57,33 +58,33 @@
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_08.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「はむ…はむ…もく…もむ…」[p]
+#【Ai】
+"Nom... nom... chew... munch..."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_10.png"  ]
 [tb_chara_shake  name="rin_1"  direction="x"  count="3"  swing="10"  time="100"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…ウップ……ぐぬぅ～っ！」[p]
+#【Rin】
+"...Urp... gnuuuh~!"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_03_2.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…もぐもぐもぐ……っ」[p]
+#【Rin】
+"...munch munch munch...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_02.png"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「………」[p]
+#【Ai】
+"..."[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_09.png"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「ミルキーソフトパフェ、おかわり」[p]
+#【Ai】
+"Milky-soft parfait, another serving please."[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_08.png"  ]
@@ -91,15 +92,15 @@
 [tb_chara_shake  name="rin_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「うグゥう…？！」[p]
+#【Rin】
+"Ughuu...?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「…あいよ～…甘皇イチゴ２倍トッピングね～…[r]
-これでアイちゃんがまた逆転～んと…」[r]
+#【Kuzu】
+"...Alrighty... Sweet Emperor strawberry with double topping, eh~...[r]
+With this, Ai-chan might make a comeback~..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -110,8 +111,8 @@
 [tb_chara_shake  name="rin_1"  direction="y"  count="1"  swing="20"  time="100"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「ふんがっ！ んぐ…んぐ…っ」[p]
+#【Rin】
+"Hngh! Ngh... ngh...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -119,9 +120,8 @@
 [tb_chara_shake  name="rin_1"  direction="y"  count="1"  swing="20"  time="100"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「果肉タップリ・夕張メロンシャーベット[r]
-おかわりっ！」[r]
+#【Rin】
+"Fruit-packed Yubari melon sherbet, another serving please!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -131,9 +131,9 @@
 [resetfont  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_06.png"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「ほんとメロン好きだねぇ…[r]
-でも、ちゃんと食べ終わってから言おうねぇ～」[r]
+#【Kuzu】
+"You really love melon, huh... But make sure to finish eating before[r]
+you order more~"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -144,9 +144,8 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_03_2.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="2"  swing="20"  time="100"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「食べれるから言ってンだっつの！[r]
-黙って追加する！」[r]
+#【Rin】
+"I'm saying it because I can eat it! Just add it without talking!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -155,8 +154,8 @@
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「へーい、へいへい…店員さ～ん…」[p]
+#【Kuzu】
+"Yes, yes... Waiter~..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -165,15 +164,15 @@
 [chara_show  name="hitomi_1"  time="500"  wait="true"  storage="chara/3/hitomi_1_07_2.png"  width="406"  height="600"  reflect="true"  left="170"  top="0"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…はれ？ まだ食べ終わってなかったの？」[p]
+#【Hitomi】
+"...Huh? You haven't finished eating yet?"[p]
 [_tb_end_text]
 
 [chara_show  name="kotora_1"  time="500"  wait="true"  storage="chara/4/kotora_1_14.png"  width="363"  height="600"  reflect="true"  left="8"  top="0"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「何か妙な空気に…[r]
-というか、アレから２時間近く経ってるんだけど…」[r]
+#【Kotora】
+"Something feels off here... Besides, it's been nearly two hours since[r]
+then..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -183,8 +182,8 @@
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14_2.png"  ]
 [chara_show  name="akitoshi"  time="250"  wait="true"  storage="chara/16/akitoshi_04.png"  width="344"  height="600"  reflect="true"  left="-109"  top="0"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「・・・やっぱり・・・」[p]
+#【Qiushun】
+"...As I thought..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -193,9 +192,9 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「…んぉ？ おぅ、店員さん。 オーダーだよオーダー…[r]
-さっきのをもう１セットずつおくんな…」[r]
+#【Kuzu】
+"...Huh? Oh, hey, waiter. An order, an order... Another set of what we[r]
+had before, please..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -205,9 +204,10 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_03.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「…どしたの瞬ちゃん？ 只でさえヒョロいのに[r]
-ちょっと見ない間に随分やつれちゃって…」[r]
+#【Hitomi】
+"...What's wrong, Shun-chan? You're already skinny as it is, and[r]
+you've gotten even more haggard in the short time I haven't seen[r]
+you..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -215,47 +215,47 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【葛生】
-「…へ？　あ…あぁ、なんだ、先生か…遅かったな…」[p]
+#【Kuzu】
+"...Eh? Oh...ah, it's you, teacher... You're late..."[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…あの子たち…なにしてんの…？」[p]
+#【Kotora】
+"...What are those kids doing...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「……何って…大食い勝負だょ……」[p]
+#【Kuzu】
+"...What do you mean what... They're having an eating contest..."[p]
 [_tb_end_text]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_04.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「はぁ？ 何それ、瞳じゃあるまいし」[p]
+#【Kotora】
+"Huh? What's that about, it's not like you're Hitomi."[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14_2.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「えー？ 何で私が引き合いに出されるのよぅ」[p]
+#【Hitomi】
+"Eh? Why am I being brought into this?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-（むしろ何で自覚が無いのよ…）[p]
+#【Kotora】
+(Rather, how can she not be aware of it...)[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【葛生】
-「…いやぁ、ソレが２人とも凄ぇんだわ…[r]
-あんなナリして瞳先生並にスポスポ食っちまうんだよ、[r]
-いや、もしかすると先生以上かもしれねぇ…」[r]
+#【Kuzu】
+"...No, seriously, both of them are amazing... Despite how they look,[r]
+they can eat as much as Teacher Hitomi, no, maybe even more than[r]
+her..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -266,25 +266,25 @@
 [tb_chara_shake  name="kotora_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「スポスポって…わたしゃバキュームカーかい！」[p]
+#【Hitomi】
+"As much as me? Am I some kind of vacuum cleaner?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【小虎】
-「…嘘でしょ…？」[p]
+#【Kotora】
+"...You're kidding, right...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_12_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ジョークに決まってるじゃないの」[p]
+#【Hitomi】
+"It's obviously a joke."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【葛生】
-「って思うじゃん？[r]
-所がどっこい２人合わせて20皿は平らげてるんだなコレが」[r]
+#【Kuzu】
+"You'd think so, right? But nope, together they've polished off at[r]
+least 20 plates."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -296,15 +296,15 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…やだ…怖い…」[p]
+#【Kotora】
+"...No way... That's scary..."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「待ってよ、私そんなにドカ食いしないわよ？[r]
-……打ち上げの時なら兎も角…」[r]
+#【Hitomi】
+"Wait a minute, I don't binge eat like that! ...Except maybe at a wrap[r]
+party..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -312,22 +312,24 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【葛生】
-「最初の内は胃袋どうなってんだ？って興味で食べるの眺めてたんだが、２時間延々と食べるの見てたら何かもう感動で胸に熱く込み上げるモノが…ウップ…」[p]
+#【Kuzu】
+"At first I was just curious about how their stomachs worked, watching[r]
+them eat. But after watching them eat non-stop for two hours, I felt[r]
+something stirring in my heart with emotion... Urp..."[p]
 [_tb_end_text]
 
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="1"  swing="20"  time="100"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…瞬ちゃんは少食過ぎるのよ…」[p]
+#【Hitomi】
+"...Shun-chan, you eat too little..."[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14_2.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「瞬作！ 注文～ん！」[p]
+#【Rin】
+"Shun! Order~!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -338,14 +340,14 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「あひっ、ハイ…ただ今…」[p]
+#【Kuzu】
+"Ah, yes... right away..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「…すっかりアゴで使われとる…[r]
-こりゃ将来も誰かの尻に敷かれるタイプね」[r]
+#【Hitomi】
+"...She's completely at their beck and call... She's definitely the[r]
+type to be under someone's thumb in the future."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -354,27 +356,30 @@
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「どう収拾付けるのコレ、私達の言う事聞くの？」[p]
+#【Kotora】
+"How are we going to handle this, will they listen to us?"[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14_2.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「おなか一杯になったら止めるんじゃないの？」[p]
+#【Hitomi】
+"Won't they stop when their stomachs are full?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「いやそれが勝負に拘っちゃってて一進一退…アイちゃん優勢なんだがリンちゃんも実質水物にシフトして喰い付いて…もう暫くあのままなんじゃねぇかなぁ…」[p]
+#【Kuzu】
+"No, that's the thing, they're so focused on the competition it's at a[r]
+stalemate... Ai-chan has the upper hand, but Rin-chan has shifted to[r]
+mostly liquids and is keeping up... It might stay like this for a[r]
+while..."[p]
 [_tb_end_text]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_04.png"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「・・・・・・止めてきます・・・」[p]
+#【Qiushun】
+"...I'll go stop them..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -385,14 +390,14 @@
 [wait  time="1500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「・・・で、あの兄<あん>ちゃん、誰よ？」[p]
+#【Kuzu】
+"...So, who's that guy?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「なんでもあの２人の保護者らしいわよ、お手並み拝見ね♪」[p]
+#【Hitomi】
+"Apparently he's the guardian of those two, let's see what he can do♪"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -407,20 +412,20 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「・・・・・・・・・・・」[p]
+#【Rin】
+"..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【アイ】
-「………」[p]
+#【Ai】
+"..."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="250"  cross="false"  storage="chara/13/rin1_03_2.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「あぁもう！」[p]
+#【Rin】
+"Ah, enough!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -432,23 +437,24 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「瞬作！ おかわりどうなってん…」[p]
+#【Rin】
+"Shun! What's happening with the refills..."[p]
 [_tb_end_text]
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [chara_mod  name="rin_1"  time="500"  cross="false"  storage="chara/13/rin1_14.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「・・・の・・・・よ？」[p]
+#【Rin】
+"...right?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  ]
 [chara_show  name="akitoshi"  time="500"  wait="true"  storage="chara/16/akitoshi_12.png"  width="344"  height="600"  reflect="true"  left="-54"  top="0"  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-「…まさかこんな所で他所様に迷惑掛けてたとは…っ」[r]
+#【Qiushun】
+"...I can't believe they're causing trouble for others in a place like[r]
+this..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -460,8 +466,8 @@
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_13.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「お前らなぁ……」[p]
+#【Qiushun】
+"You guys..."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -469,13 +475,13 @@
 [tb_chara_shake  name="rin_1"  direction="y"  count="3"  swing="20"  time="100"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「うぇっ？！？」[p]
+#【Rin】
+"Eh?!?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【アイ】
-「……アキトシ……！」[p]
+#【Ai】
+"...Akitoshi...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -483,9 +489,8 @@
 [tb_chara_shake  name="rin_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「あっ…あわあァあ？！ あ、あんた…[r]
-ななな何でこんなトコに居るのよぉ!?」[r]
+#【Rin】
+"Ah...awawa?! Ah, you... why are you here?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -496,9 +501,9 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber41.ogg"  fadein="true"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_12.png"  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-「探しに来たに決まってんだろ！[r]
-ったく、人の気も知らないで…」[r]
+#【Qiushun】
+"I came looking for you! Seriously, you don't think about how others[r]
+feel..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -507,10 +512,9 @@
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_05.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「あ、アタシは別にタカったりなんかしてないわよ？！[r]
-アイツ等がお礼に食事を奢るって言うし、[r]
-アイだってお腹の虫キュウキュウ鳴らすもんだから…っ」[r]
+#【Rin】
+"I-I didn't take advantage of anyone, okay?! They said they'd treat us[r]
+to a meal as thanks, and Ai was so hungry her stomach was growling..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -519,9 +523,8 @@
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_12_2.png"  ]
 [tb_start_text mode=3 ]
-#【アイ】
-「…ッ！？[r]
-食事の話に食い付いたのはリンが先だったでしょ?!」[r]
+#【Ai】
+"...Huh?! It was Rin who jumped at the meal first, wasn't it?!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -530,8 +533,9 @@
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_10.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「あぁもう知るかっつの！ 大体アタシはアンタ等の痴話喧嘩に巻き込まれた側なのよ?! 何しようが関係ないっつーの！」[p]
+#【Rin】
+"Ah, I don't care anymore! Besides, I got dragged into your lovers'[r]
+quarrel, okay?! What I do is none of your business!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -546,14 +550,14 @@
 [chara_mod  name="ai_1"  time="750"  cross="false"  storage="chara/12/ai01_14.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【アイ＆秋俊】
-「………っ」[p]
+#【Ai & Qiushun】
+"..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【葛生】
-（…え…ちょっと待ってくれ、痴話喧嘩って……え？[r]
-まさかアイちゃんとあの兄ちゃんがデキ……えっ？？）[r]
+#【Kuzu】
+"(...Eh...wait a minute, lovers' quarrel...eh? Don't tell me Ai-chan[r]
+and that guy are...eh??)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -561,29 +565,29 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【小虎】
-（葛生、五月蝿い）[p]
+#【Kotora】
+"(Kuzu, you're being noisy.)"[p]
 [_tb_end_text]
 
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano40.ogg"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_04.png"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「…心配したんだぞ、２人だけで行っちまうから…」[p]
+#【Qiushun】
+"...I was worried about you two going off alone..."[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_14_2.png"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「…だって…邪魔になるって思ったから…」[p]
+#【Ai】
+"...Because I thought I'd be in the way..."[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_14.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_05.png"  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-「だから、あれは本当に誤解なんだって、[r]
-宮広とも紫とも…誰とも何も無かったんだ！」[r]
+#【Qiushun】
+"That's why I'm telling you it was all a misunderstanding, nothing[r]
+happened with Miyahiro or Murasaki...with anyone!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -592,10 +596,9 @@
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_14.png"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-（オイオイオイ…オイオイオイオイオイッ？！[r]
-あンの兄ちゃん３股掛けてやがんのかよ？！ うらやま…[r]
-いや、アイちゃんが可哀想じゃねぇか！ 許せねぇ…っ）[r]
+#【Kuzu】
+"(Oi oi oi...oi oi oi oi oi?! Is that guy really juggling three[r]
+girls?! I'm jealous... no, poor Ai-chan! That's unforgivable...)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -603,19 +606,19 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【小虎】
-（だから静かにしてなさいって！）[p]
+#【Kotora】
+"(That's why I'm telling you to be quiet!)"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（…ハァ…私も人前でイチャイチャしたいなぁ…）[p]
+#【Hitomi】
+"(...Sigh...I want to be lovey-dovey in public too...)"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【葛生】
-（き、綺沙ちゃん…ボクが間違ってたよ…[r]
-ひと時でも心揺らいでしまったボクをどうか許しておくれ！）[r]
+#【Kuzu】
+"(Ki, Kisa-chan...I was wrong... Please forgive me for even a moment[r]
+of wavering!)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -623,8 +626,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【小虎】
-（……もうっ！）[p]
+#【Kotora】
+"(...Ugh!)"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -635,21 +638,21 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【店員】
-「お客さま！？」[p]
+#【Clerk】
+"Excuse me, customers!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【リン】
-（………あいつ等何やってんの……？）[p]
+#【Rin】
+"(...What are they even doing...?)"[p]
 [_tb_end_text]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_04.png"  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-「…とにかく、一緒に帰ろうぜ？[r]
-折角久し振りに逢えたんだ、落ち着いて話がしたい」[r]
+#【Qiushun】
+"...Anyway, let's go home together? It's been a while since we've met,[r]
+I want to talk calmly."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -659,8 +662,8 @@
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_14.png"  ]
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_15.png"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「…… “ 帰る ” ……？」[p]
+#【Ai】
+"... 'Go home' ...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_13.png"  ]
@@ -668,9 +671,8 @@
 [wait  time="250"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_14_2.png"  ]
 [tb_start_text mode=3 ]
-#【アイ】
-「…いいの…？[r]
-私…また直ぐに居なくなるかもしれないんだよ…？」[r]
+#【Ai】
+"...Is it okay? I might disappear again soon..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -681,9 +683,9 @@
 [chara_move  name="akitoshi"  anim="false"  time="300"  effect="easeInExpo"  wait="true"  left="48"  top="0"  width="344"  height="600"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_10.png"  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-「それでも構わない。何度でも、何時までも待つさ！[r]
-だから…オレの所に帰って来てくれ…」[r]
+#【Qiushun】
+"Even so, it doesn't matter. I'll wait forever, as many times as it[r]
+takes! So...please come back to me..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -702,8 +704,8 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「こんな所で…恥ずかしいでしょ……ばか……っ」[p]
+#【Ai】
+"In a place like this...it's embarrassing...you idiot..."[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_14_5.png"  ]
@@ -712,13 +714,13 @@
 [chara_mod  name="rin_1"  time="750"  cross="false"  storage="chara/13/rin1_22.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「………………」[p]
+#【Rin】
+"..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【小虎】
-（・・・・・・・・・あの子・・・）[p]
+#【Kotora】
+"(...That girl...)"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -735,9 +737,9 @@
 [chara_show  name="hitomi_1"  time="500"  wait="true"  storage="chara/3/hitomi_1_10.png"  width="406"  height="600"  reflect="true"  left="100"  top="0"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「…思ってた通り、ヤルじゃないのよ秋俊くん♪[r]
-ごちそうさま♥」[r]
+#【Hitomi】
+"...Just as I thought, you're quite something, Akishun-kun♪ Thank you[r]
+for the meal♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -747,21 +749,21 @@
 [chara_show  name="akitoshi"  time="250"  wait="true"  storage="chara/16/akitoshi_08.png"  width="344"  height="600"  left="417"  top="0"  reflect="false"  ]
 [chara_show  name="ai_1"  time="250"  wait="true"  storage="chara/12/ai01_12.png"  width="375"  height="600"  left="545"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「い…いや…そのぉ……」[p]
+#【Qiushun】
+"No...I mean...uh..."[p]
 [_tb_end_text]
 
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_1_10.png"  width="363"  height="600"  reflect="true"  left="-44"  top="0"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「茶化さないの！」[p]
+#【Kotora】
+"Don't make fun!"[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_09.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_06.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「はぁーい」[p]
+#【Hitomi】
+"Yes, sir!"[p]
 [_tb_end_text]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_09.png"  ]
@@ -769,9 +771,9 @@
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_3.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「所で、今後の件でミーティングを開きたいんだけど、[r]
-この後大丈夫かな？」[r]
+#【Hitomi】
+"By the way, I'd like to hold a meeting about our future plans. Are[r]
+you available after this?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -781,9 +783,9 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_4.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_02.png"  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-「良いですよ、オレも現状を把握しておきたいんで。[r]
-出来れば終電までに終わって貰えると助かりますが…」[r]
+#【Qiushun】
+"That's fine, I also want to grasp the current situation. It would[r]
+help if we could finish before the last train..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -793,16 +795,17 @@
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「何ならタクシー代も出すわよ？ 超VIP待遇なんだから♪」[p]
+#【Hitomi】
+"If it helps, I can even cover your taxi fare? It's super VIP[r]
+treatment♪"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_03.png"  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-「そんな！ これ以上お世話になるわけにはいきませんよ！[r]
-２人の食事代もちゃんとお支払いします！」[r]
+#【Qiushun】
+"No way! I can't keep imposing on you like this! I'll properly pay for[r]
+both of our meals!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -813,9 +816,9 @@
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin1_14.png"  width="375"  height="600"  left="298"  top="-2"  reflect="false"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_07.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「えー…何でよ？ 助けたお礼に奢って貰ったのよ？[r]
-正当報酬なのにそれじゃ意味無いじゃん」[r]
+#【Rin】
+"Eh...why? We treated you as a thank you for helping us. It's a[r]
+rightful reward, otherwise it's meaningless."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -825,10 +828,10 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_13.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_04.png"  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-「あのなぁ、人間の社会にはいろいろあるんだ。[r]
-持ちつ持たれつで成り立っている世の中とはいえ、[r]
-自分で何とか出来る内は自分で何とかすべきなんだよ」[r]
+#【Qiushun】
+"Look, there are various things in human society. Even though it's[r]
+based on give and take, one should manage on their own as much as they[r]
+can."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -837,16 +840,17 @@
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_14.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「それはまぁ…そーだけど…」[p]
+#【Rin】
+"That is...well...true but..."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_13.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_4.png"  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-「だろ？ 助けて貰うのは本当に困った時だ。[r]
-まぁその窮地を誰かに支えて貰える様に普段から親切を欠かさない様にするってのも大事だけどな」[r]
+#【Qiushun】
+"Right? You ask for help only when you're really in trouble. And it's[r]
+also important to be kind regularly so that someone will support you[r]
+in your time of need."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -855,9 +859,9 @@
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_10.png"  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-「その点、瞳さんを助けたのは良い事だ。[r]
-お陰でオレもこうしてお前達を見つけることが出来たしな」[r]
+#【Qiushun】
+"In that sense, helping Hitomi-san was a good thing. Thanks to that, I[r]
+was able to find you guys like this."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -869,9 +873,9 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_13.png"  ]
 [chara_show  name="kuzu_2"  time="250"  wait="true"  storage="chara/2/kuzu_1_08.png"  width="688"  height="600"  left="-158"  top="0"  reflect="false"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「ほーう？ 流石はイケメンの兄ちゃんだ、[r]
-俺もそういうカッコイイ台詞を言ってみたいモンだぜ」[r]
+#【Kuzu】
+"Ho-ho? As expected from the handsome guy, I'd like to say cool lines[r]
+like that too."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -881,14 +885,14 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（あらら…嫉妬の権化…）[p]
+#【Hitomi】
+"(Oh dear...the embodiment of jealousy...)"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「ほんじゃ、ほれ、会計レシート」[p]
+#【Kuzu】
+"Well then, here, the bill receipt."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -896,14 +900,14 @@
 [chara_show  name="akitoshi"  time="50"  wait="true"  storage="chara/16/akitoshi_03.png"  width="344"  height="600"  left="417"  ]
 [chara_move  name="ai_1"  anim="false"  time="300"  effect="default"  wait="true"  left="600"  top="0"  width="375"  height="600"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「あ、どうも……えーっと…」[p]
+#【Qiushun】
+"Ah, thank you...uh..."[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_14.png"  ]
 [tb_start_text mode=1 ]
-#【アイ＆リン】
-「・・・・・・・」[p]
+#【Ai & Rin】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -915,8 +919,8 @@
 [tb_show_message_window  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「ご…５万…ッ?!?」[p]
+#【Qiushun】
+"Go...50,000...?!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -931,8 +935,8 @@
 [tb_show_message_window  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「・・・待て」[p]
+#【Qiushun】
+"...Wait."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -943,9 +947,9 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-「ウチのエンゲル係数がお前達が居たピーク時でさえ30％[r]
-約４万だった事は知ってるな？」[r]
+#【Qiushun】
+"You know that even at the peak time when you guys were here, our[r]
+Engel's coefficient was 30%, about 40,000 yen, right?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -953,72 +957,77 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（…ワーォ、苦学生…）[p]
+#【Hitomi】
+"(...Wow, the struggling student...)"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【秋俊】
-「一晩で５万オーバーって、お前ら何を食った…？」[p]
+#【Qiushun】
+"Over 50,000 yen in one night...what did you guys eat...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_14.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…だって瞬作が何頼んでも良いって言うからさぁ…」[p]
+#【Rin】
+"...Well, Shunsaku said we could order anything we wanted..."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_13.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「瞬ちゃん…」[p]
+#【Hitomi】
+"Shun-chan..."[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_08.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「どうせ両手に花とか思って浮かれてたんでしょ、アンタ」[p]
+#【Kotora】
+"You were probably just excited about having a girl on each arm,[r]
+weren't you?"[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「いや、俺だってこんなに食う子達だと知ってりゃ大盤振る舞いなんかしねぇよ？！」[p]
+#【Kuzu】
+"No way, if I knew these girls could eat this much, I wouldn't have[r]
+been so generous?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【葛生】
-「こんな綺沙ちゃんと同じ位のパッと見可愛い女の子達が、まさか合計金額勝負とか初めて高い料理を連荘した挙句、エキサイトして大食いにシフトするなんて普通思わねぇだろ?!」[p]
+#【Kuzu】
+"Who would normally think that girls who look as cute as Kisa-chan at[r]
+first glance would start a total amount contest and keep ordering[r]
+expensive dishes one after another, getting excited and shifting to a[r]
+big eating spree?!"[p]
 
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「思えっこねぇよっ！」[p]
+#【Kuzu】
+"You wouldn't think that at all!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_08.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「それでも焚き付けた責任とってアンタが払いなさいよ」[p]
+#【Kotora】
+"Even so, you should take responsibility for egging them on and pay[r]
+for it yourself."[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「…初めからそのつもりだよ」[p]
+#【Kuzu】
+"...I was planning to do that from the start."[p]
 [_tb_end_text]
 
 [chara_hide  name="akitoshi"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="akitoshi"  time="50"  wait="true"  storage="chara/16/akitoshi_04.png"  width="344"  height="600"  left="276"  top="0"  reflect="false"  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-「いや、支払いはオレが…[r]
-こういう事も想定して貯金下ろして出て来たんで」[r]
+#【Qiushun】
+"No, I'll pay... I took out savings anticipating something like this."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1029,9 +1038,9 @@
 [chara_move  name="kotora_1"  anim="false"  time="250"  effect="default"  wait="true"  left="-149"  top="0"  width="363"  height="600"  ]
 [chara_move  name="kuzu_2"  anim="false"  time="250"  effect="default"  wait="true"  left="-19"  top="0"  width="688"  height="600"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「まぁまぁ、強がるなって兄ちゃん。[r]
-此処は言いだしっぺの俺が持つからよ！」[r]
+#【Kuzu】
+"Come on, don't be so stubborn, bro. Since I'm the one who suggested[r]
+it, I'll cover it!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1040,9 +1049,8 @@
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_02.png"  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-「いえ、こいつ等はオレの家族みたいなもんなんで、[r]
-オレが払います！」[r]
+#【Qiushun】
+"No, these girls are like family to me, so I'll pay!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1062,8 +1070,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【秋俊＆瞬作】
-『じゃあ割り勘で』[p]
+#【Akishun & Shunsaku】
+"Then let's split the bill."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1071,8 +1079,8 @@
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_03.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【秋俊＆瞬作】
-『 あ 』[p]
+#【Akishun & Shunsaku】
+"Ah"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1081,60 +1089,60 @@
 [tb_show_message_window  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_09_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「・・・ふっ」[p]
+#【Kuzu】
+"...Hmph."[p]
 [_tb_end_text]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_17.png"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-「・・・ハハ…っ」[p]
+#【Qiushun】
+"...Haha...h."[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  ]
 [chara_hide  name="kuzu_2"  time="250"  wait="false"  pos_mode="false"  ]
 [chara_hide  name="akitoshi"  time="250"  wait="true"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「肝の据わった兄ちゃんだ、気に入ったぜ」[p]
+#【Kuzu】
+"You're a brother with guts, I like that."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【秋俊】
-「いえ、瞬作さんの男気には敵いませんよ」[p]
+#【Qiushun】
+"No, I'm no match for Shunsaku-san's manliness."[p]
 [_tb_end_text]
 
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【秋俊＆瞬作】
-『 ハッハッハ！ 』[p]
+#【Akishun & Shunsaku】
+"Hahahaha!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_03_12.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「男同士の友情ってステキね…♥」[p]
+#【Hitomi】
+"The friendship between men is so wonderful...♥"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_11.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…その締めはちょっと強引過ぎない？」[p]
+#【Rin】
+"...Isn't that conclusion a bit too forceful?"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_12.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_08.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「身から出た錆」[p]
+#【Kotora】
+"You reap what you sow."[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_13_2.png"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「……ごちそうさまでした。」[p]
+#【Ai】
+"...Thank you for the meal."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1148,13 +1156,13 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【店員】
-「ありがとうございましたー！」[p]
+#【Clerk】
+"Thank you very much-!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【店員】
-（…嵐の様な一団だったなぁ…）[p]
+#【Clerk】
+"(...They were like a stormy bunch...)"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]

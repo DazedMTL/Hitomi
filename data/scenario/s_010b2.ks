@@ -17,9 +17,9 @@
 [wait  time="3000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（………？…あれ…？…どうしたんだろ…すごく静かだわ…[r]
-暗くて…何も見えないし…カラダも…動かない……）[r]
+#【Hitomi】
+(...? ...What's going on...? It's so quiet... It's dark and... I can't[r]
+see anything... My body... won't move...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -27,8 +27,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（…もしかして…私、死んじゃった…？）[p]
+#【Hitomi】
+(...Could it be... Did I die...?)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -40,8 +40,8 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（……あ…でも……なんだろ……何か…気持ちいい……）[p]
+#【Hitomi】
+(...Ah... But... What's this... Something feels... good...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -52,9 +52,9 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…ンっ♥……ハァ……ン…♥」[p]
-（あ…声は出る…なら体も動かせるはず…？）[p]
+#【Hitomi】
+"...Mmm♥... Haa... Nn...♥" (Ah... I can make a sound... Then I should[r]
+be able to move my body, right...?)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -63,8 +63,9 @@
 [quake  time="300"  count="3"  hmax="5"  wait="true"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（あれ？…ダメだ…金縛り？…何かが絡み付いてる…？）[p]
+#【Hitomi】
+(What? ...No good... Am I paralyzed? ...Is something entwined around[r]
+me...?)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -74,10 +75,9 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（それにしても…あぁ…気持ち…イイ…♥[r]
-全身を隅々までオイルマッサージされてるみたい♥[r]
-…だけど…私何してたんだっけ……？）[r]
+#【Hitomi】
+(But still... Ahh... It feels... good...♥ It's like my whole body is[r]
+being massaged with oil♥ ...But what was I doing again...?)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -95,24 +95,24 @@
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_1_19.png"  width="363"  height="600"  left="318"  top="0"  reflect="true"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（……そうだ、私…私達は…戦ってたんだ…！）[p]
+#【Hitomi】
+(...That's right, we were... We were fighting...!)[p]
 [_tb_end_text]
 
 [chara_hide_all  time="500"  wait="true"  ]
 [chara_show  name="hajime"  time="250"  wait="true"  storage="chara/9/hajime_1_06_06.png"  width="375"  height="600"  reflect="true"  left=""  top=""  ]
 [chara_show  name="gaku"  time="250"  wait="true"  storage="chara/5/gaku_2_02.png"  width="500"  height="600"  left="190"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…博山…ッ…よくもハジメ君を…！）[p]
+#【Hitomi】
+(...Hakuyama...! How dare you do that to Hajime-kun...!)[p]
 [_tb_end_text]
 
 [chara_hide_all  time="500"  wait="true"  ]
 [chara_show  name="maikai"  time="250"  wait="true"  storage="chara/7/maikai_1_10.png"  width="313"  height="600"  left="231"  top="0"  reflect="false"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（そして…マイカイ…ッ）[p]
+#【Hitomi】
+(And then... Maikai...!)[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -129,8 +129,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ハッ！？ …ここは…！？」[p]
+#【Hitomi】
+"Huh!? ...Where is this...!?"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -139,28 +139,38 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ぅひゃっ!? なっ、何よコレ!?」[p]
+#【Hitomi】
+"Eek!? What the, what is this!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
 #
-まるで巨大なヒルの様なモノがヌラヌラと自分の全身を這い回っている…目覚めとしては最悪の部類に入る状況の筈だが驚く事にそれほど嫌悪感は込み上げて来なかった。[p]
-原因は既にカラダを包み込んでいる異常なまでの心地良さ…[p]
-暖かく、赤子を愛でるかの様に優しく、それでいて的確に性感を捉え刺激してくる おおよそ人間には不可能な愛撫が生む感触が、　嫌悪と不快感を感じる端から舐め取り快感に塗り替えている…[p]
-不気味な色合いと光沢をまとった触手に対する警戒感も削ぎ落とされ『抵抗すべきでは？』という思考も過-よぎ-ってはくれるものの、やはり快楽の前に成す術なく溶かされ消えてゆく…[p]
+Something resembling a giant leech was slimily crawling all over her[r]
+body... Waking up to such a situation should have been one of the[r]
+worst scenarios imaginable, yet surprisingly, she didn't feel as much[r]
+disgust as one would expect. The cause was the abnormal comfort that[r]
+already enveloped her body... Warm, gentle as if cherishing a baby,[r]
+yet precisely targeting and stimulating her erogenous zones. The[r]
+sensations produced by caresses that would be nearly impossible for a[r]
+human being were licking away any feelings of disgust and discomfort,[r]
+painting them over with pleasure... The tentacles, with their eerie[r]
+color and gloss, were diminishing any sense of caution and the thought[r]
+"Shouldn't I resist?" did cross her mind, but still, before the[r]
+pleasure, she was helplessly dissolved and faded away...[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（ま…不味い！ コレはスーツの副作用だ…！）[p]
-（以前着用した時も感覚が敏感になり過ぎて意識しちゃうと止まらなかった…どれだけの間気を失ってたんだろ!? こんなにヌルヌルくちゅくちゅされちゃったら…あぁ…気が変になっちゃう…♥）[p]
+#【Hitomi】
+(This is bad! This must be a side effect of the suit...! The last time[r]
+I wore it, my senses became too sensitive and once I focused on it, I[r]
+couldn't stop... How long was I unconscious for!? Being slimed and[r]
+squelched like this... Ahh... It's driving me crazy...♥)[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「あっ♥…ぁァ…♥ ハァ…ハァ……♥」[p]
+#【Hitomi】
+"Ah♥... Ahh...♥ Haa... Haa...♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -172,7 +182,7 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #【？？】
-「…ひっ♥…ン゛ハァ♪♥……ア゛アぁあアッ♥」[p]
+"...hic♥... Nghaa♪♥... Aahaaah♥"[p]
 [_tb_end_text]
 
 [playse  volume="80"  time="1000"  buf="1"  storage="se02/dosyu2.ogg"  ]
@@ -182,13 +192,13 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（人の声！ 私の他に誰か近くにいたの！？）[p]
+#【Hitomi】
+(Someone's voice! Is there someone else near me!?)[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・・・・・・・え・・・？」[p]
+#【Hitomi】
+"...Eh...?"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -200,57 +210,67 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「と…トラちゃん…！？」[p]
+#【Hitomi】
+"Ko... Kotora-chan...!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu05.ogg"  ]
 [tb_start_text mode=1 ]
 #
-気絶から目覚めるや否や押し寄せてきた強烈な快楽の中、辛うじて正常さを取り戻してきた聴覚が捉えた声の正体…[p]
-自分同様、いや、既にそれ以上の量の触手達に群がられる仲間の姿がそこにあった[p]
+Amidst the intense pleasure that surged upon waking up, her hearing,[r]
+which had barely returned to normal, caught the voice of a comrade who[r]
+was being swarmed by tentacles just like herself, if not more so.[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/kiss2.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「おぶぅっ?! プぁっ♥あっ♥アッ♪アハァあ♥」[p]
+#【Kotora】
+"Obuu?! Pua♥ Ah♥ Aah♪ Ahhaa♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/drinking_a_soup.ogg"  ]
 [tb_start_text mode=1 ]
 #
-人間の顔を継ぎ接ぎしたかの様な不気味な集合体と化している地面に四肢を飲み込まれ、無防備にされた顔面を分厚い舌の様な触手でベロベロに嘗め回され[p]
-丸出しにされた未だ控えめの胸の突起は幾度も啄-つい-ばまれたのだろう痛々しいほどに赤く腫れて驚いた事に乳汁を滴らせていた。[p]
-だが下で待ち構えている巨大な口はお構いなしに乳房に吸い付き時折舌でせっついて少女の青い膨らみが必死に生成した白色の体液を啜り続けている…[p]
+Her limbs swallowed by the ground that seemed to be a grotesque[r]
+amalgamation of human faces, her face was vulnerably licked all over[r]
+by thick tentacle tongues. Her still modest breasts were exposed and[r]
+seemed painfully red and swollen from being pecked at repeatedly,[r]
+shockingly dripping with milk. Yet the giant mouth below paid no heed[r]
+as it sucked on her breasts and occasionally prodded them with its[r]
+tongue, relentlessly slurping up the white fluid desperately produced[r]
+by the girl's tender flesh.[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/kiss2.ogg"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「あ゛っ♥ア゛がぁ?! ヒッ♥ ふああ゛！♥」[p]
+#【Kotora】
+"Agh♥ Agaa?! Hic♥ Fuahaa!♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu02.ogg"  loop="true"  ]
 [tb_start_text mode=1 ]
 #
-胸だけでも相当の陵辱に思えたが下半身に群がる触手の動きはその比ではなかった、[p]
-完全に獲物を奪い合う肉食動物の肉をむさぼる獰猛な動き…動けない自分の位置からでは見ることが出来ないが、[p]
-少女が慎ましく整えていた髪を振り乱し、口から自分の物かももう解らない涎汁を撒き散らして呻いている様子からも[p]
-激しい粘液の飛沫-しぶき-を上げ大小様々な触手が代わる代わる入り乱れているその下で少女の可憐な肉穴と窄-すぼ-まりが底の底まで蹂躙されていることは明白であった。[p]
+The violation of her breasts alone seemed severe enough, but the[r]
+movements of the tentacles swarming her lower half were incomparable[r]
+in their ferocity, resembling carnivorous animals savagely devouring[r]
+their prey. Although she couldn't see from her immobile position, the[r]
+way the girl thrashed her neatly groomed hair wildly, drooling saliva[r]
+that might not even be her own, and moaning indicated that various[r]
+tentacles of different sizes were chaotically entering and exiting[r]
+below her, clearly ravaging her delicate pussy and tight ass to their[r]
+very depths.[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dosyu1.ogg"  loop="false"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「イきゅう♥まらイきゅぅぅ～っ♥[r]
-くひゃあア♥ あ゛ハァ～～っ♥♥」[r]
+#【Kotora】
+"I'm cumming♥ My pussy's cumming～♥ Kyahaa♥ Ahhaa～～♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -258,9 +278,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「トラちゃん！[r]
-しっかりしてトラちゃん！！」[r]
+#【Hitomi】
+"Kotora-chan! Hang in there, Kotora-chan!!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -268,10 +287,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【小虎】
-「そこっ♥ソコぉ!♥いっぱいキモチイイ♥[r]
-コトラのおひり♥ おマンコぉっ♥[r]
-もっとイジメへ♥イッパイにしてぇ！」[r]
+#【Kotora】
+"There♥ There!♥ It feels so good♥ My butt♥ My pussy♥ Please torment me[r]
+more♥ Fill me up!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -280,25 +298,27 @@
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・・・・・・っ」[p]
+#【Hitomi】
+"..."[p]
 [_tb_end_text]
 
 [playse  volume="80"  time="1000"  buf="2"  storage="se02/mizu02.ogg"  loop="true"  ]
 [tb_start_text mode=1 ]
 #
-今にも壊されてしまいそうな大切な仲間である少女の身を案じて精一杯声を振り絞ったものの、[p]
-彼女の意識は激しい魔性の陵辱によって遥か遠い所に追いやられてしまっているのか、まるで意に介してくれる様子はなかった。[p]
-その余りに蕩けきった恍惚の表情で夢中で甘い悲鳴を紡ぎ続けている様を観ていると、[p]
-声をかけた自分がまるで恋人との逢瀬-おうせ-に水をさす邪魔者にでもなってしまったかのような謎の罪悪感さえ感じてしまう…[p]
+Despite her best efforts to call out with concern for her precious[r]
+comrade who seemed on the verge of breaking, the girl's consciousness[r]
+seemed to have been pushed far away by the intense demonic violation,[r]
+showing no sign of acknowledging her. Watching her continue to spin[r]
+sweet screams in ecstasy with an utterly melted expression of bliss[r]
+made Hitomi feel an odd sense of guilt as if she had become an[r]
+intruder pouring water on a lover's tryst.[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/kiss2.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「おぉう゛♥もっと舐めて♥吸ってぇ♥[r]
-コリコリちゅぱちゅぱ♥ ン゛あァっ♪♥」[r]
+#【Kotora】
+"Ooh♥ Lick me more♥ Suck it♥ Nibble nibble slurp slurp♥ Nghaa♪♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -307,21 +327,21 @@
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・・・・トラちゃん・・・」[p]
+#【Hitomi】
+"...Kotora-chan..."[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu05.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？】
-「ん゛ォオ?! うぶっ♥ ンぐぅう～～♥♥」[p]
+"Ngooh?! Ubuh♥ Nguu～～♥♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・えっ！？」[p]
+#【Hitomi】
+"...Eh!?"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -333,47 +353,54 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「冴子…！」[p]
+#【Hitomi】
+"Saeko...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dosyu1.ogg"  ]
 [tb_start_text mode=1 ]
 #
-普段のタカビーな姿からは想像もつかない少女の痴態と乱れっぷりを呆然と眺めることしか出来ずに居たが、[p]
-驚いたことに少女の直ぐ上では同僚であり頼れるライバルだった女性が宙吊りにされた形で全身を貪られていた。[p]
-目は淀みドロドロの粘液汁を全身に塗りたくられ不思議と薄明るいこの異空間の中で触手達に突かれるままに体を揺らし甘い呻き声を漏らしている…[p]
+She could only stare in astonishment at the debauchery and disarray of[r]
+the girl who was usually so haughty. To her surprise, right above the[r]
+girl, a woman who was a colleague and a reliable rival was being[r]
+devoured in mid-air. Her eyes clouded over as she was smeared with[r]
+thick mucus all over her body, swaying to the thrusts of the tentacles[r]
+in this strangely lit otherworldly space and letting out sweet moans.[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/drinking1.ogg"  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「ウぅん♥ゴクッ ごふっ!?ん゛んンンぅ♥」[p]
+#【Saeko】
+"Mmm♥ Gulp! Gofu!? NnnnNnnu♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「冴……っ」[p]
+#【Hitomi】
+"Saeko..."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/diving1.ogg"  ]
 [tb_start_text mode=1 ]
 #
-腹部はまるで妊娠でもしたかの様に大きく膨らみ、膣と尻穴から極太の触手が入れ替わりで引き抜かれる度に大量の濁り汁を噴出しているその様子からも、[p]
-既に彼女が相当な量を注がれ、真下で嬌声を上げている少女同様に快楽の虜と化していることは明白だった…[p]
-声をかけた所でどうにもならない状況…しかし、捨て置くことなど出来るはずもない[p]
-現に触手達は冴子に対し一切加減する様子などなく、ひたすらに彼女の引き締まった肉体をその身に纏ったスーツの様にボロ布にでも変えん勢いで殺到し続けている[p]
+Her abdomen was swollen as if she were pregnant, and every time thick[r]
+tentacles were pulled out from her vagina and anus, they spewed out[r]
+copious amounts of murky fluid. It was clear that she had already been[r]
+filled with a considerable amount and had become a slave to pleasure[r]
+just like the girl moaning below her. Even if Hitomi called out to[r]
+her, it wouldn't change the situation. Nevertheless, she couldn't just[r]
+abandon them. The tentacles showed no sign of relenting against Saeko;[r]
+they continued to swarm over her toned body as if they would tear it[r]
+apart like tattered cloth.[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dressing1.ogg"  ]
 [tb_start_text mode=3 ]
-#【冴子】
-「おっごぉ!♥ ごぇっぷ…ジュぶル♥[r]
-うぼぉオォぉ～～～っ♥♥♥ 」[r]
+#【Saeko】
+"Ohh!♥ Gulp... Jubble♥ Ubooooh～～～♥♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -383,9 +410,9 @@
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dosyu1.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（このままじゃ２人とも死んじゃう！[r]
-何とか…何とかしなくちゃ……何とか！………あ…？）[r]
+#【Hitomi】
+(At this rate, both of them will die! I have to do something...[r]
+Anything! ...Ah...?)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -395,8 +422,11 @@
 [bg  time="500"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [tb_start_text mode=1 ]
 #
-既に身動きが取れない以上、目を凝らし何か現状脱出の手段を周囲に探し求めるのは正しい行動である筈だが、今だけはソレが裏目に出た[p]
-小虎と冴子が陵辱されている位置から自分を挟んで丁度反対側になる肉壁の片隅に、もうひと組の蠢く人影をみつけてしまったのだ[p]
+Being unable to move already, it should have been right to search for[r]
+any means of escape in her surroundings. But just for now, that action[r]
+backfired as she caught sight of another pair writhing in the corner[r]
+of the flesh wall on the exact opposite side from where Kotora and[r]
+Saeko were being violated.[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -409,9 +439,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【アイ】
-「う゛あぁっ♥もう入らなぃ…裂けちゃうっ[r]
-ア゛ッ…子宮口ぉ吸い付いて…アアァッ♥」[r]
+#【Ai】
+"Ugh♥ It won't fit anymore... I'm going to split open... Ahh... My[r]
+cervix is being sucked on... Aaah♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -420,9 +450,9 @@
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dressing1.ogg"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ぐぅぅ…やめてって…言ってるのにぃ…っ[r]
-おォ!?♥ お尻壊れ゛ち゛ゃうぅっ！」[r]
+#【Rin】
+"Guu... Stop it... I'm telling you to stop... Oh!?♥ My butt is going[r]
+to break!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -431,26 +461,29 @@
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu05.ogg"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…嘘でしょ…あの子達まで……）[p]
+#【Hitomi】
+(...You've got to be kidding... Even those two... )[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
 #
-探していたのはまさにこの２人だった。[p]
-今回の戦いの頼もし過ぎる助っ人である彼女達が無事ならば、きっとまだ何とかなるはず！[p]
-…だが、その光景を目にしてしまったことで、自分が気を失っている間に大局が決してしまっていた事を理解してしまった。[p]
-流石にまだ正気は保っている様だがそれももう限界の状態だったのだろう、２人もやはりコチラに気付いている様子さえ見せず[p]
-まるで『全てはもう終わってしまっている』と見る者に言い聞かせ諦めるよう諭してさえいるかの様に快楽に屈服し肉欲に狂っていった…[p]
+She had been searching for these two people. If these overly reliable[r]
+helpers in the fight were safe, surely something could still be done![r]
+...But having witnessed that scene, she realized that the overall[r]
+situation had been decided while she was unconscious. It seemed they[r]
+were still sane, but that was probably at its limit, as neither of[r]
+them showed any sign of noticing her, succumbing to pleasure and going[r]
+mad with lust as if to convince any onlooker that "everything was[r]
+already over"...[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dosyu1.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【アイ】
-「溶けちゃう！フあァ♥ そんなに熱いのドプドプ注がれたら…アぉオっ♥ダメぇ!♥[r]
-こんな快感子宮に教え込ませないでぇッ♥」[r]
+#【Ai】
+"I'm melting! Haa♥ If you keep pumping something so hot inside me like[r]
+this... Aah♥ No!♥ Don't teach my womb such pleasure!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -459,8 +492,9 @@
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dressing1.ogg"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「こ…こんな…ふぉ!? こっ こんなのって…おホぁっ♥ 嫌なのに…イヤなのにぃ…っ♥」[p]
+#【Rin】
+"Th-this... Foh!? This kind of thing... Ohh♥ I hate it... I hate it[r]
+but...♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -473,9 +507,8 @@
 [tb_show_message_window  ]
 [font  size="46"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【アイ＆リン】
-「ああ゛あアぁ～～ッ!♥♥♥」[r]
-「フヒャアアァ～～っ♪♥♥♥」[r]
+#【Ai & Rin】
+"Aaaaah～～♥♥♥" "Fhyaaa～～♪♥♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -489,15 +522,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「オっ♥ オォぉ…♥ ぎも゛ぢい゛ぃ…♥」[p]
+#【Rin】
+"Oh♥ Ooh...♥ It feels so weird...♥"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【アイ】
-「あっ…アひゅ…はひぁ…♥ アハ…ぁ♥[r]
-お…オマンコ……溶けひゃった…ぁ…★ 」[r]
+#【Ai】
+"Ah... Ahhyu... Hahiya...♥ Aha...♥ Oh... My pussy... It's melting...[r]
+Ah...★"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -506,9 +539,9 @@
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【リン】
-「う…うぅ～っ、まける゛…もんですか…、たたかぅの…[r]
-つぎ…次イッたら…も…戻れなく…な゛る゛ぅ…♥」[r]
+#【Rin】
+"Uu... Uuu～, I won't lose... I'll keep fighting... Next time I come...[r]
+I won't be able to return...♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -529,9 +562,8 @@
 [tb_show_message_window  ]
 [font  size="46"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【アイ＆リン】
-「ん゛へア゛ぁ～～ッ♥♥♥」[r]
-「イひぃイイイィイッ♥♥♥」[r]
+#【Ai & Rin】
+"Nheaa～～♥♥♥" "Iyiiiiiiii♥♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -542,21 +574,29 @@
 [playse  volume="100"  time="1000"  buf="5"  storage="se02/dosyu1.ogg"  ]
 [tb_start_text mode=1 ]
 #
-２人の少女の薄いお腹が再び ボコン！ と膨らみ、直後に激しい飛沫-しぶき-が２人と触手の接合部から噴き出した[p]
-子宮と腸の奥深くで放たれたらしい濁汁は未だに注がれ続けているのかドポドポと止め処なく溢れ出し、膨らんでいた２人の腹は緩やかに元の大きさに収まってゆく…[p]
-だが全身を激しく痙攣させ陸に上がった魚の様に口をパクつかせるばかりにされた２人を見ていると、まるで注がれた汁が全身に行き渡っているかのように錯覚される光景だった…[p]
+The two girls' slender bellies swelled up again with a 'bump!', and[r]
+immediately after, a violent spray burst forth from where they were[r]
+joined with the tentacles. The murky fluid that seemed to have been[r]
+released deep within their wombs and intestines continued to be poured[r]
+in without stopping, overflowing ceaselessly, and the swollen bellies[r]
+of the two gradually returned to their original size... However,[r]
+seeing them convulsing violently all over and gasping like fish out of[r]
+water, it almost seemed as if the fluid that had been poured into them[r]
+was spreading throughout their entire bodies...[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/diving1.ogg"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「ふぁ♥ ンはァ…あったかぃ♥ ダメ…子宮…放してくれない…　ずっとドプドプ♥フぁァ♥逃げられなぃ♥」[p]
+#【Ai】
+"Faa♥ Nhaa... It's so warm♥ No... My womb won't let go... It keeps[r]
+pumping♥ Faa♥ I can't escape♥"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dosyu1.ogg"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…ア…アハ…♥…イイ♥ぜんぜんイクの止まんない♥…ぇへ……ぁハハは♥ 」[p]
+#【Rin】
+"...Ah... Aha...♥ It feels good♥ I can't stop coming♥ ...Ehe...[r]
+Ahahaha♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -569,46 +609,51 @@
 [mask_off  time="1500"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「……………そんな……」[p]
+#【Hitomi】
+"...Such a thing..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-―――全滅―――……[p]
-恐らくは最悪である筈の状況、最低の結末である筈が、恐怖も絶望も不思議と感じられなかったのは[p]
+---Total Annihilation--- Perhaps it was supposed to be the worst[r]
+situation, the lowest of outcomes, but strangely she felt neither fear[r]
+nor despair because[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg35_01.png"  ]
 [tb_start_text mode=1 ]
 #
-仲間達が揃って悦楽の海で溺れ[p]
+her comrades were drowning in a sea of ecstasy,[p]
 
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg36_01.png"  ]
 [tb_start_text mode=1 ]
 #
-苦しむ所か善がり狂い[p]
+not suffering but moaning in madness,[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg37_02.png"  ]
 [tb_start_text mode=1 ]
 #
-オンナとして満たされた証拠である最上級の悦びの声を上げているからに他ならなかった…[p]
+raising their voices in the highest pleasure as proof that they were[r]
+fulfilled as women...[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg21_09.png"  ]
 [tb_start_text mode=1 ]
 #
-むしろ、気を失っていた間から触手の怪しい粘液とスーツの副作用で火照りに火照らされた肉体は、仲間たちの痴態を前に１人放置されているこの状況に不満さえ感じているのか、[p]
-ナーバスな感情どころか危険な欲求と願望と期待のサインを全開で脳に送り付けて来た[p]
+Rather, her body, which had been heated up by the suspicious mucus of[r]
+the tentacles and the side effects of the suit since she had been[r]
+unconscious, might even feel dissatisfied with being left alone in[r]
+this situation, as her brain was bombarded with dangerous desires and[r]
+expectations instead of nervous emotions.[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="4"  storage="se02/gokuri2.ogg"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（・・・わたしは？・・・私も・・・私には来ないの…？！）[p]
+#【Hitomi】
+(...What about me? ...Me too... Won't it come for me too?!)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -618,8 +663,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「あっ？ あぁ…！？」[p]
+#【Hitomi】
+"Ah? Ahh...!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -633,57 +678,70 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #
-空間全体が蠢き捕らえた獲物の体位を器用に変えてくる…[p]
-無防備に自慢の胸を突き出す姿勢で宙吊りにされると直ぐに真下の地面が沸き立ち、マグマの様な音と共に仲間達を襲っていた不気味な顔が浮かび上がって来た[p]
+The entire space writhed and adeptly changed the positions of its[r]
+captured prey. As soon as she was suspended in mid-air in a vulnerable[r]
+position with her proud breasts thrust out, the ground below her[r]
+bubbled up with a sound like magma, and the eerie faces that had been[r]
+attacking her comrades emerged.[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「…う……ゴクリ………え…？……あれ…？！」[p]
+#【Hitomi】
+"...Uh... Gulp... Eh? ...That...?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-直ぐ真下にまで迫られてようやくある事に気が付く、[p]
-肉の地面に浮かび上がった巨大な顔に見覚えがあるのだ[p]
-たった１日だけだったが授業で何度か面と向かって問答を交わした相手の顔を捜査官である自分が見紛うはずがない…[p]
+It was only when she was approached right below her that she realized[r]
+something. She recognized the giant face that emerged from the flesh[r]
+ground. She had only faced him in class for one day, but there was no[r]
+way she could mistake the face of someone she had interacted with[r]
+several times as an investigator.[p]
 [_tb_end_text]
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [stopse  time="1000"  buf="3"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…ひ…聖くん…？」[p]
+#【Hitomi】
+"...Hi... Sei-kun...?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
 #
-ハッとして直ぐにまだ続々と増え続けている顔達に目を向けると、ほぼ全ての顔に見覚えがある事に気付いた。[p]
+She snapped to attention and looked at the faces that were still[r]
+increasing in number, realizing that she recognized almost all of[r]
+them.[p]
 [_tb_end_text]
 
 [playbgm  volume="80"  time="1000"  loop="true"  storage="taste_xxx02.ogg"  ]
 [tb_start_text mode=1 ]
 #
-特別クラスの生徒、失踪者リストの資料に載っていた学園生徒と教職員、そして別チームの同僚…全て今回の事件に巻き込まれた犠牲者達に間違いなかった…[p]
+Students from the special class, people listed on the missing persons[r]
+list from the academy, and colleagues from other teams... All were[r]
+undoubtedly victims involved in this incident.[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「…そ…そんな……」[p]
+#【Hitomi】
+"...Such a thing..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-ここで死ねば、自分も、仲間達もこうなる…[p]
-気付けば仲間達の痴態とスーツの副作用の所為で痺れていたアタマは冷静さを取り戻し、急速に脱出へ向けた抵抗へ意識の舵を切ろうとしていた[p]
+If she died here, she and her comrades would end up like this.[r]
+Realizing this, her mind, which had been numbed by her comrades'[r]
+debauchery and the side effects of the suit, regained its composure[r]
+and desperately tried to steer her consciousness towards resistance[r]
+and escape.[p]
 [_tb_end_text]
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [tb_start_text mode=1 ]
 #
-だが、この終わっている状況を覆すことなど神でもなければ不可能なことだった…[p]
+But overturning this hopeless situation was impossible unless one was[r]
+a god...[p]
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="taste_xxx05.ogg"  ]
@@ -691,17 +749,23 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ハぅっ！？？」[p]
+#【Hitomi】
+"Hau!??"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/eating2.ogg"  loop="true"  ]
 [tb_start_text mode=1 ]
 #
-ジュルン！と両の乳房が巨大な口に丸呑みにされ、正常に戻りつつあった意識がカウンターでも合わせられたかのような痛烈な衝撃で一瞬の内に快楽のマットに沈められた[p]
-獲物を陵辱することがこの空間に取り込まれてしまった者達の意思によるものなのか、そもそも此処が何処なのか…思考したいアタマに不安と期待と快楽が入り乱れ意識は混濁してゆく…[p]
-ただ、戸惑うまま混沌と狂気の世界に独り取り残されたていた自分にも、とうとう最後の時が訪れてしまった事はわかった…[p]
+With a slurp! Both of her breasts were swallowed whole by a giant[r]
+mouth, and her consciousness, which had been returning to normal, was[r]
+plunged into a mat of pleasure by a sharp shock as if timed with a[r]
+counter. Whether it was the will of those who had been taken into this[r]
+space to disgrace their prey or what this place even was in the first[r]
+place, her mind wanted to think but was muddled by anxiety,[r]
+expectation, and pleasure as her consciousness clouded over. She just[r]
+knew that her time had finally come as she was left alone in a world[r]
+of chaos and madness.[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -712,16 +776,16 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「あッ、ハァあ！？ くっ！ ひぃっ？？」[p]
+#【Hitomi】
+"Ah! Haa!? Kuh! Hii!?"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（熱い…スーツの副作用だけじゃない、[r]
-やっぱりこの粘液には人を狂わせる効果があるんだ…！[r]
-お、おっぱいが…スーツの中で溶けちゃいそぅ…ッ）[r]
+#【Hitomi】
+(It's hot... It's not just the side effects of the suit; this mucus[r]
+must have an effect that drives people mad...! My breasts are going to[r]
+melt inside the suit...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -737,16 +801,18 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ん゛ぐぅ?! ぎ…ッ…くっ、ふぅ!?」[p]
+#【Hitomi】
+"Ngu?! Gi... Kuh, fuu!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
 #
-満を持して始まってしまった陵辱に待ち焦がれた肉体は勝手に喜びに打ち震え「素直になれ」と幸せ信号を脳髄に叩きつけて来る[p]
-だが流されれば終わる…しかし耐えた所で救いは訪れない…[p]
-理性と本能・忍耐と欲望のせめぎ合いに必死で藻掻いていると、予想だにしないものが先に根を上げた[p]
+As the long-awaited disgrace began, her body eagerly trembled with joy[r]
+and hammered 'be honest' signals into her brainstem. But if she gave[r]
+in, it would be over... Yet even if she resisted, salvation wouldn't[r]
+come. Desperately struggling with reason and instinct, endurance and[r]
+desire, something unexpected gave way first.[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -757,21 +823,24 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…ッ？！」[p]
+#【Hitomi】
+"...?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
 #
-激戦による損傷か、それとも塗り込まれ続けた粘液の効力か、諸刃の剣ではあれど現状最後の頼みの綱だったパワードスーツが引き裂かれた。[p]
-小さなヒビ割れや穴がダムを決壊させる様に、破れた箇所に群がり押し入る触手のせいで見る間に穴は拡げられてゆく…[p]
+Whether due to damage from fierce battles or the potency of the mucus[r]
+that had been smeared on continuously, the power suit—which was a[r]
+double-edged sword but also her last hope—was torn apart. Small cracks[r]
+and holes expanded rapidly as tentacles crowded into the torn areas[r]
+and forced their way in.[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ひっ?! や、ヤメ…ッ」[p]
+#【Hitomi】
+"Hih?! No, Stop it..."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -785,9 +854,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「んはァっ!? ハおぉオ?!? [r]
-フヒぃイイィィ～～～ッ!!?」[r]
+#【Hitomi】
+"Nhaa!? Haa ohh?!? Fuhiiii~!!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -797,9 +865,15 @@
 
 [tb_start_text mode=1 ]
 #
-すっかり丸出しにされた股間に触手達が殺到する…蕩けていた秘裂を容易く割り開き、緩んでいた窄まりを押し開いて、そこに何があるわけでも無い筈なのに一様に最奥を目指し突き進んで来る[p]
-こうなると持ち前の耐久力だけが頼みの綱だが、スーツの副作用と触手汁の相乗効果は凄まじく、[p]
-まだ比較的細めの触手にしか集-たか-られていないというのに早くも肉体は絶頂に追いやられ、意識も見えている景色までも深い霧に覆われたかの様に霞んでゆく…[p]
+Tentacles rushed towards her fully exposed crotch... They easily split[r]
+her melting slit and pushed apart her loosened tightness, aiming[r]
+uniformly for the deepest part as if something was there, and[r]
+advanced. Her inherent endurance was her only hope, but the combined[r]
+effects of the suit's side effects and the tentacle mucus were[r]
+tremendous. Even though only the relatively thinner tentacles had[r]
+gathered, her body was already being driven to climax, and her[r]
+consciousness, along with the scenery she could see, became hazy as if[r]
+covered by a deep fog...[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -810,10 +884,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…そ…想像を超えてる…！[r]
-こんなにキモチイイだなんて…[r]
-こんな快感が存在していただなんて!♥）[r]
+#【Hitomi】
+(It's... beyond imagination...! I never knew it could feel this[r]
+good... That such pleasure existed!♥)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -828,18 +901,17 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「くほぉ!?♥ はへぁあァアっ♥」[p]
+#【Hitomi】
+"Kuho!?♥ Hahaaah♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（激しすぎる…全身が食べられてる！[r]
-貪られまくってるっ!♥ [r]
-こんなの耐えられるワケ無い!!♥）[r]
+#【Hitomi】
+(It's too intense... My whole body is being devoured! I'm being[r]
+ravaged!♥ There's no way I can endure this!!♥)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -849,9 +921,9 @@
 [resetfont  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg37_02.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（だってあの子達でさえあんなにヨガリ狂ってるもん！[r]
-今更私だけ耐えるなんてムリでムダに決まってるじゃない！）[r]
+#【Hitomi】
+(Even those kids were writhing in ecstasy! It's impossible and[r]
+pointless for me to resist now!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -861,15 +933,15 @@
 [bg  time="500"  method="crossfade"  storage="cg11/cg36_01.png"  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（冴子も！）[p]
+#【Hitomi】
+(Saeko too!)[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg35_01.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（トラちゃんも！[r]
-自分達ダケこんなに気持ちイイ思いをしてなんてズルイ！♥）[r]
+#【Hitomi】
+(Kotora-chan too! It's not fair that only they get to feel this[r]
+good!♥)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -880,10 +952,10 @@
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg38_05.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ハァァ～…っ♥ もう独りぼっちなんてイヤぁ！[r]
-私だってイクぅ！もう何度もイってるけど[r]
-もっともっとイクの！イッてみんなに追いつくのォ♥」[r]
+#【Hitomi】
+"Haaa~...♥ I don't want to be alone anymore! I'm going to cum too![r]
+I've already cum several times but I'm going to cum more! I'll catch[r]
+up with everyone♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -897,15 +969,14 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ンヒぃぃィイイイいッ!!♪♥♥」[p]
+#【Hitomi】
+"Nhiyiiiiii!!♪♥♥"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ハァッ♥ハァッ♥すごい…スッゴぉイ♥[r]
-イッてるのに、まだ良くなるぅ！♥」[r]
+#【Hitomi】
+"Haa♥ Haa♥ Amazing... It's getting even better while I'm cumming!♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -914,9 +985,8 @@
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ねぇ!? もっとちょうだい!♥[r]
-私のマンコとオシリにも頂戴よぉ！♥」[r]
+#【Hitomi】
+"Hey!? Give me more!♥ Give it to my pussy and butt too!♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -926,10 +996,9 @@
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/eating2_2.ogg"  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg38_07.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「あるんでしょお？ 太っとい触手ぅ!♥[r]
-どっちの穴でもイイからっ♥[r]
-両方でもイイからぁん!♥あるなら早く…」[r]
+#【Hitomi】
+"You have them, right? Thick tentacles!♥ I don't care which hole, or[r]
+even both at the same time! If you have them, hurry up..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -948,10 +1017,8 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「クほぉおおおオオぉォおっ??!♥[r]
-ヒッ、イッひぃぃ!??♥ んぉ゛♥[r]
-おっほぉおおぉォ～ッ!!♥♥♥」[r]
+#【Hitomi】
+"Kuhoohooooooh??!♥ Hih, Ihiyii!?♥ Noh♥ Ohhooohoo~!!♥♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -978,9 +1045,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「カふぁっ?!♥ あっ…か…っ[r]
-ハァ！はぁ！ハヒュっ♥ はひゅぅ…♥」[r]
+#【Hitomi】
+"Kafah?!♥ Ah... ka... Haa! Haa! Hahyuu♥ Hahyuu...♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1000,8 +1066,8 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「フギィぃいいいぃ～ッ♥♥♥」[p]
+#【Hitomi】
+"Fugyiiiiii~!!♥♥♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1013,8 +1079,8 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…ヒッ♥…ぃヒッ♥…ハァ～…ハァ～…♥」[p]
+#【Hitomi】
+"...Hih♥... Hih♥... Haa~... Haa~...♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1025,14 +1091,14 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ぁ…あは…は♥…おひり…ポッカリら…♥」[p]
+#【Hitomi】
+"Ah... aha... ha♥... my butt... it's gaping open...♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「ねぇ～？ こんろは前りも挿入りぇてぇ～？♥[r]
-さびしいのぉ～♥ ねぇ～！ お・ね・が・い～っ♥」[r]
+#【Hitomi】
+"Hey~? Can you insert it in the front too~?♥ I'm lonely~♥ Hey~![r]
+Please~♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1042,12 +1108,12 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/diving1.ogg"  ]
 [tb_start_text mode=1 ]
 #【？？】
-（・・・・・・・・ン・・・セ・・・ェ・・）[p]
+(...N...Se...e..)[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「ふぇ…？」[p]
+#【Hitomi】
+"Fe...?"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1057,15 +1123,14 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【顔】
-（・・・セ・・・ン・・・セ・・ェ・・・）[p]
+#【Face】
+(...Se...N...Se..e...)[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「・・・…あ…、アハぁ♥ [r]
-そこに居たのね、ハジメくんっ♪」[r]
+#【Hitomi】
+"...Ah... Aha♥ There you are, Hajime-kun♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1074,21 +1139,19 @@
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【創の顔】
-（・・・・・・・・・・・）[p]
+#【So's face】
+(...)[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「ゴメンね…ヒドイ目に遭わせて…」[p]
+#【Hitomi】
+"I'm sorry... for putting you through such a terrible experience..."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「でももうダイジョブよ♥[r]
-もう何処にも行ったりしないわ♥[r]
-ココにはみんな居るんだもの♥」[r]
+#【Hitomi】
+"But it's okay now♥ I won't go anywhere anymore♥ Everyone is here♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1096,8 +1159,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「もう寂しくなんかないのよ♥」[p]
+#【Hitomi】
+"I'm not lonely anymore♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1107,14 +1170,14 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【創の顔】
-（・・・センセェ・・・）[p]
+#【So's face】
+(...Sensei...)[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「ンフ♥ 創くんも私とシたいのね？[r]
-私もずっと創くんとエッチしたかったわ♥」[r]
+#【Hitomi】
+"Nfu♥ So-kun wants to do it with me too, right? I've always wanted to[r]
+have sex with So-kun too♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1122,8 +1185,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「ああ…ハジメくぅ～ん♥」[p]
+#【Hitomi】
+"Aah... Hajime-kuu~n♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1134,9 +1197,8 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ちゅっ♥ ちゅぷ♥ ヂュルル…♥ アん♥[r]
-ハジメくんのヨダレおいひぃ～♥」[r]
+#【Hitomi】
+"Chu♥ Chupu♥ Jururu...♥ Ahn♥ Hajime-kun's drool tastes so good~♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1145,9 +1207,9 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「すきぃ♥ 好きよハジメくん♥[r]
-もうずっと先生と、ヒトミと一緒にいよ♥」[r]
+#【Hitomi】
+"I love you♥ I love you, Hajime-kun♥ Let's always be together with[r]
+Sensei and Hitomi from now on♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1155,8 +1217,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【創の顔】
-（センセェェエエ・・・！）[p]
+#【So's face】
+(Senseeeei...!)[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1172,8 +1234,8 @@
 [tb_show_message_window  ]
 [font  size="50"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「おっほォおッ!?♥」[p]
+#【Hitomi】
+"Ohhooh!?♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1185,9 +1247,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ァ゛…ッ…アハっ♥ そ、そうよね…？[r]
-ヒイキは良くないよね、え゛へへぇ★」[r]
+#【Hitomi】
+"Ah... Ahaha♥ That's right, isn't it...? Playing favorites isn't good,[r]
+ehehe★"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1196,10 +1258,9 @@
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「先生はミンナのセンセイだもん♥[r]
-みんなのモノよ♥[r]
-皆で一緒にエッチしましょ♥」[r]
+#【Hitomi】
+"Sensei belongs to everyone♥ I'm everyone's property♥ Let's all have[r]
+sex together♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1220,9 +1281,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「おゥふっ?!♥ ぐへぅ?? わ゛…わたし…[r]
-こんなに満たされたの…初めてぇ…♥」[r]
+#【Hitomi】
+"Oufu?!♥ Guheu?? Wa... I've never felt so fulfilled before...♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1237,10 +1297,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ホへぇ♥ も…もっと深くぅ！♥[r]
-まだゼンゼンだいじょうぶだから！[r]
-もっとイッパイきてぇ！♥」[r]
+#【Hitomi】
+"Hohee♥ Go deeper!♥ I'm still totally fine! Come fill me up more!♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1249,8 +1307,8 @@
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/eaten_by_a_monster2.ogg"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「アハぁアアアアァァ♪♥♥」[p]
+#【Hitomi】
+"Ahahaaaah♪♥♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1277,10 +1335,9 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ア゛ヘえ゛ぇ…♥ し…幸しぇ～♥[r]
-もっとしてぇ♥ 今のもっとちょうだぁい♥[r]
-もっとイッパイになりたいのぉ～っ♥♥」[r]
+#【Hitomi】
+"Aheee...♥ So happy~♥ Do it more♥ Give me even more of what we just[r]
+did! I want to be filled up more~!!♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1288,8 +1345,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「ぅひハァあぁ～～～♪♥♥♥」[p]
+#【Hitomi】
+"Uhihaaah~♪♥♥♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1311,9 +1368,9 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #（瞳）
-（…あれからどれだけ経つのか解らない…）[p]
-（１時間も経ってないかもしれないし…）[p]
-（もうずっと長いこと浸っている気もする…）[p]
+(...I have no idea how much time has passed since then...) (It might[r]
+not even have been an hour...) (Or it feels like I've been soaking in[r]
+this for a long time...)[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="4"  storage="se02/diving1.ogg"  ]
@@ -1321,7 +1378,8 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
 #（瞳）
-（…ただ１つわかるのは…今がとても幸せだということ♥）[p]
+(...The only thing I know for sure... is that I'm very happy right[r]
+now♥)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1337,8 +1395,8 @@
 [wait  time="2500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…ここはステキな場所…あったかくって…きもちよくって…）[p]
+#【Hitomi】
+(...This is a wonderful place... warm... and feels so good...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1348,8 +1406,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…そして…みんながいる…♥）[p]
+#【Hitomi】
+(...And... everyone is here...♥)[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1361,14 +1419,14 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（……リンちゃんも……）[p]
+#【Hitomi】
+(...Rin-chan too...)[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「んブっ♥ ンォ♥ ン゛ぅ～♥」[p]
+#【Rin】
+"Nbuu♥ Ngo♥ Nguu~♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1380,8 +1438,8 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「ぐも゛ォ゛ぶぅ゛ぅ～ッ♥♥♥」[p]
+#【Rin】
+"Gumoobuu~♥♥♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1390,8 +1448,8 @@
 [bg  time="1500"  method="crossfade"  storage="cg11/cg39_05.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（……冴子もウットリしてるし……）[p]
+#【Hitomi】
+(...Saeko is also looking blissful...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1404,8 +1462,8 @@
 [playse  volume="100"  time="1000"  buf="4"  storage="se02/dosyu2.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「んぐぅ!♥ ンフ♥ くふぅン♥♥」[p]
+#【Saeko】
+"Nguu!♥ Nfu♥ Kufuun♥♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1414,16 +1472,15 @@
 [bg  time="1500"  method="crossfade"  storage="cg11/cg39_07.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（トラちゃんも とっても気持ち良さそう♥）[p]
+#【Hitomi】
+(Kotora-chan also looks like she's feeling really good♥)[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="5"  storage="se02/diving1.ogg"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「ぷぁっ♥ ぐるじぃ…でも…も゛っとぉ…っ[r]
-もっと欲しぃの！ お尻とおマンコのおくぅ！[r]
-もっと奥までえぐってぇ！♥♥」[r]
+#【Kotora】
+"Puaa♥ Gurujii... but... more... I want more! Deeper in my ass and[r]
+pussy! Dig deeper inside me!♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1440,8 +1497,8 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「ア゛・・・ぁ★・・・い・・・イィ・・・♥」[p]
+#【Kotora】
+"Aa... ah★... i... Ii...♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1449,9 +1506,8 @@
 [bg  time="1500"  method="crossfade"  storage="cg11/cg39_09.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【アイ】
-「ホっ♥ ぉホァっ♪ い…好い゛♥[r]
-子宮ぅ♥ しきゅぅじゅぽじゅぽぉっ♥」[r]
+#【Ai】
+"Ho♥ Ohhoa♪ i... love it♥ Womb♥ Shikyuu jupo jupoah♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1459,10 +1515,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【アイ】
-「しゅ…好ゅきぃ♥ オマンコじゅぷじゅぷ♥ らいしゅきぃ♥[r]
-もっとくらはい♥アイのおマンコもっと溶かし…フぁっ?[r]
-アッ♪ アアあァぁ～～～っ♥♥♥」[r]
+#【Ai】
+"Shu... love you♥ Pussy jup jup♥ Love you so much♥ More inside me♥[r]
+Melt Ai's pussy more... Faa? Ahh♪ Aaaah~♥♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1482,14 +1537,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「ぉ゛…♥…ォお…っ♥…～～っ♥」[p]
+#【Ai】
+"Ooh...♥...Oh...♥...~~♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（フフ♥ アイちゃんたらカラッポになってた子宮をまた満たして貰って凄く幸せそう♥）[p]
+#【Hitomi】
+(Hehe♥ Ai-chan looks so happy getting her once empty womb filled[r]
+again♥)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1497,9 +1553,10 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（ア…♥ 子宮の中の触手おちんちんがまた膨らんでキタ♥）[p]
-（私もまたイク♥ オマンコ満たされて幸せになるぅ♥）[p]
+#【Hitomi】
+(Ah...♥ The tentacle dick inside the womb is swelling up again♥ I'm[r]
+going to cum again too♥ My pussy is being filled and I'm becoming[r]
+happy♥)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1515,23 +1572,23 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ふぁアぁぁ…♪♥」[p]
+#【Hitomi】
+"Fuaaah...♪♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
 [bg  time="1000"  method="crossfade"  storage="cg11/cg39_02.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…あハァ♥…きもちイイ…♥）[p]
+#【Hitomi】
+(...Ahhaa♥...feels so good...♥)[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（このままずっとずぅ～っとココに居たい♥）[p]
-（…みんな…一緒に…）[p]
+#【Hitomi】
+(I want to stay here forever and ever like this♥) (...with[r]
+everyone...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1542,8 +1599,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…みんな…ひとつ…に…♥）[p]
+#【Hitomi】
+(...all of us... becoming one...♥)[p]
 [_tb_end_text]
 
 [resetfont  ]

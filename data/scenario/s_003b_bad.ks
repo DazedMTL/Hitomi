@@ -16,64 +16,65 @@
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_09_2.png"  width="406"  height="600"  reflect="true"  left=""  top=""  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「おまたせ～♪」[p]
+#【Hitomi】
+"Sorry to keep you waiting~♪"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09.png"  ]
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_1_13_4.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…流石に時間通りね」[p]
+#【Kotora】
+"...As expected, right on time."[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_1_01_2.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_06.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「たはは、お昼はゴメンね～？みっともない声聞かせちゃって」[p]
+#【Hitomi】
+"Teehee, sorry about lunch, okay? I let out such an embarrassing[r]
+voice."[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_1_08.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「お陰様で緊張感が台無しになりましたっ！」[p]
+#【Kotora】
+"Thanks to you, all the tension is ruined!"[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_14_7.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「心配させちゃって本当にごめんね…トラちゃん…」[p]
+#【Hitomi】
+"I'm really sorry for worrying you... Tora-chan..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_10.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「そ、そんな真面目に謝らなくってイイわよ！」[p]
+#【Kotora】
+"You don't need to apologize so seriously!"[p]
 [_tb_end_text]
 
 [chara_hide  name="kotora_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="kotora_1"  time="50"  wait="true"  storage="chara/4/kotora_1_14.png"  width="363"  height="600"  reflect="true"  left="435"  top="0"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「別に心配だってしてないし！ 調子狂うわね、もう！」[p]
+#【Kotora】
+"It's not like I was worried or anything! You're throwing me off,[r]
+really!"[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14_2.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「トラちゃん…♥」[p]
+#【Hitomi】
+"Tora-chan...♥"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_1.png"  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【？？？】
-「へ～、良い子じゃん♥[r]
-ちょっとクチは悪いけど♪」[r]
+"Heh~, what a good girl♥ A bit foul-mouthed though♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -83,8 +84,8 @@
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [tb_chara_shake  name="kotora_1"  direction="y"  count="1"  swing="20"  time="100"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「ッ？！」[p]
+#【Kotora】
+"Huh?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -108,8 +109,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「な…っ、コイツら何時の間に！？」[p]
+#【Kotora】
+"Wha... When did these guys get here?!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -117,9 +118,9 @@
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_2_08.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【小虎】
-（特別教室の生徒…！[r]
-まさか初日から仕掛けて来るなんて！）[r]
+#【Kotora】
+(The students from the special classroom...! To think they'd make a[r]
+move on the first day!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -127,10 +128,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【小虎】
-（しかもまた気配を感じさせず、[r]
-物陰から沸き出すみたいに！[r]
-それに “ 影 ” が！ 影がまるで――…）[r]
+#【Kotora】
+(And again, without letting their presence be felt, they appear out of[r]
+the shadows! And that "shadow"... The shadow is just like--...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -139,10 +139,9 @@
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-「あららららナイフなんて隠し持ってるよ」[r]
-「イケナイなぁ～じゅうとうほうイハンじゃん」[r]
-「コレはお仕置きが必要だね♥」[r]
+#【Students】
+"Oh dear, hiding a knife? That's naughty~ It's a violation of the[r]
+firearms and swords law. Looks like someone needs a punishment♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -153,10 +152,9 @@
 [resetfont  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「随分と積極的なのね！[r]
-今までよく騒ぎにならなかったものだわ？[r]
-けど、それももうお終いよ！」[r]
+#【Kotora】
+"You're quite forward, aren't you! How has this not caused a commotion[r]
+before? But that ends now!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -164,10 +162,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【小虎】
-「この場所は私達の仲間が監視している！[r]
-もう事件への関与は否定させない！[r]
-大人しく観念なさいっ！」[r]
+#【Kotora】
+"This place is being monitored by our comrades! We won't let you deny[r]
+your involvement in the incident any longer! Just give up quietly!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -179,32 +176,33 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [stopbgm  time="1500"  fadeout="true"  ]
 [tb_start_text mode=1 ]
-#【生徒】
-「ココを監視してた奴ならもう居ないよ」[p]
+#【Student】
+"The guy who was monitoring this place is no longer here."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【小虎】
-「？！」[p]
+#【Kotora】
+"?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【生徒】
-「“ 誰が何処で監視してるか ” …新しい配置情報は全ぇ～んぶ教えて貰ったからね♪」[p]
+#【Student】
+"Who's watching where... We've been told all the new arrangement[r]
+information♪"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [font  size="50"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【生徒】
-「ねぇ？ 瞳せんせい♥」[p]
+#【Student】
+"Right? Hitomi-sensei♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_2_05.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「そんな言葉で私が動揺するとでも―――」[p]
+#【Kotora】
+"As if words like that would make me falter---"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -214,15 +212,15 @@
 [tb_chara_shake  name="kotora_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「？！ ちょ、瞳！？ 何を…っ」[p]
+#【Kotora】
+"?! Wait, Hitomi?! What are you...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_17_01.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…フ、ウフフ…ゴメンね♥ トラちゃん」[p]
+#【Hitomi】
+"...Hehehe... Sorry♥ Tora-chan"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -233,8 +231,8 @@
 [tb_chara_shake  name="kotora_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「あぅッ？！ …ぇ…ひ、ひと…み？」[p]
+#【Kotora】
+"Ah?! ...Eh... Hi-Hitomi?"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -250,20 +248,20 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「きゃっ！？」[p]
+#【Kotora】
+"Kyah?!"[p]
 [_tb_end_text]
 
 [playse  volume="80"  time="1000"  buf="0"  storage="se02/gyuu1.ogg"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…痛ッ!? 嫌っ、どうしたの瞳！？ 」[p]
+#【Kotora】
+"...Ouch!? No, what's wrong, Hitomi?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【小虎】
-（熱いっ…瞳の体温…それに凄く湿っぽくて…[r]
-体臭も…臭くて…甘い…？…このニオイは……）[r]
+#【Kotora】
+(It's hot... Hitomi's body heat... and it's very damp... The body odor[r]
+is also... smelly... sweet...? What is this scent...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -274,8 +272,8 @@
 [mask  time="0"  effect="fadeIn"  color="0xff66ff"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「んぁっ?! 乳首をそんな強く…瞳…やめ…っ 」[p]
+#【Kotora】
+"Nnah?! Don't pinch my nipples so hard... Hitomi... stop..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -283,37 +281,37 @@
 [bg  time="1000"  method="crossfade"  storage="cg11/cg14_02.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【生徒】
-「ハハハ！ もう抵抗できなくなってやんの、チョれぇ～♪」[p]
+#【Student】
+"Hahaha! She can't resist anymore, what a pushover~♪"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【小虎】
-「ッ?!」[p]
+#【Kotora】
+"Huh?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【小虎】
-（か…完全に囲まれた…！）[p]
+#【Kotora】
+(I'm... completely surrounded...!)[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg14_03.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「ひ…瞳…まさか…本当に…？」[p]
+#【Kotora】
+"Hi-Hitomi... don't tell me... for real...?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「フフフ♥ だから最初にも謝ったじゃない、ゴ メ ン って 」[p]
+#【Hitomi】
+"Hehehe♥ That's why I apologized first, remember? I said I'm sorry."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【小虎】
-「…昼間おかしかったのは…そんな…[r]
-だって潜入初日の…半日でこんな……っ」[r]
+#【Kotora】
+"...It was strange during the day... such a thing... On the first day[r]
+of infiltration, in just half a day..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -321,9 +319,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「怖がらなくてイイのよ♪[r]
-直ぐトラちゃんにも理解できるから♥」[r]
+#【Hitomi】
+"Don't be scared♪ You'll understand soon enough, Tora-chan♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -332,8 +329,8 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ほぉら、フぅ～…♥」[p]
+#【Hitomi】
+"Here, hoo~...♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -346,45 +343,53 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「……は……ぁ………！？」[p]
+#【Kotora】
+"...Ha...ah...?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-背後から抱きつかれ、未だ成長の途上にある胸を緩急をつけて捏ね繰られながら耳元で囁かれる…それだけでも身を委ねたくなる程に心地良かったが、[p]
+Being hugged from behind and having her still-developing breasts[r]
+kneaded with varying intensity while being whispered in her ear was[r]
+enough to make her want to surrender to the comfort, but as soon as[r]
+she was hit with a breath that seemed to concentrate that abnormal[r]
+heat and bewitching scent, her heart leaped and she felt her[r]
+consciousness being painted with happiness.[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-その原因に違いない異常な熱気と妖しい香りを濃縮した様な吐息を吹きかけられた途端、心臓は跳ね上がり意識が幸せ色に塗り潰されるのを感じた[p]
+The pleasure assaulting her from her modest yet sensitive breasts,[r]
+which were being kneaded in a lewd manner, increased its dangerous[r]
+allure along with the rise in body temperature and heartbeat.[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-クリュクリュとイヤらしく捏ねられ続けている控え目だが敏感な乳房から襲い来る快美感も、体温と鼓動の上昇と共にその危険な魅力を増してゆく…。[p]
+The pleasure assaulting her from her modest yet sensitive breasts,[r]
+which were being kneaded in a lewd manner, increased its dangerous[r]
+allure along with the rise in body temperature and heartbeat.[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【小虎】
-「…あ……ぁ…ぁ……？」[p]
+#【Kotora】
+"...Ah...ah...?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「…どう？ 凄いでしょ？」[p]
+#【Hitomi】
+"...How is it? Amazing, right?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【小虎】
-「……ゃ…ゃめ…♡…正…気…に……っ」[p]
+#【Kotora】
+"...Stop...♡...I'm...losing...my...mind..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「あれぇ～？ 気持ち良くなぁい？[r]
-トラちゃんの可愛いオッパイちゃんは[r]
-先っちょコリコリにして凄ぉく悦んでるのに♥」[r]
+#【Hitomi】
+"Aww~? Aren't you feeling good? Your cute little breasts are getting[r]
+all perky and seem to be enjoying it a lot♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -408,9 +413,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「ふわぁっ♡!?[r]
-…ぁ…ぇ…？…おっぱい…濡れて…？」[r]
+#【Kotora】
+"Fwah♡!? ...Ah...eh...? My breasts...are wet...?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -419,9 +423,9 @@
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ほぉ～ら♥ もっとして！ってオッパイがおねだりしてる♥[r]
-トラちゃんも素直になって一緒に愉しみましょう？」[r]
+#【Hitomi】
+"Look♥ Your breasts are begging for more!♥ Let's be honest and enjoy[r]
+this together, shall we?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -429,14 +433,14 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【小虎】
-「…ち…違…っ…わた…し……」[p]
+#【Kotora】
+"...It's...not...me..."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ハァ～♥」[p]
+#【Hitomi】
+"Haa~♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -447,20 +451,20 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…か…はぁ…♡……ひと…み…目……さま…し…て…」[p]
+#【Kotora】
+"...My...heart's...racing...♡ Hitomi...wake...up..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「……っ…」[p]
+#【Hitomi】
+"...!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【生徒達】
-「チッ、意外に粘るな」[r]
-「それなりに経験積ンでるんだろね、大したもんだ」[r]
-「もっと責めろよ瞳ぃ、もう中出ししてやんないぞー？」[r]
+#【Students】
+"Tch, she's more resilient than expected." "She must have some[r]
+experience to hold out like this, impressive." "Come on, Hitomi, don't[r]
+hold back, let's finish inside already-?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -470,14 +474,14 @@
 [stopbgm  time="1500"  fadeout="true"  ]
 [tb_start_text mode=1 ]
 #【？？？】
-「…これこれ諸君、屋上は立ち入り禁止ですよ？」[p]
+"...Now, now, gentlemen, the rooftop is off-limits, you know?"[p]
 
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【生徒達】
-『！！？』[p]
+#【Students】
+"!!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -489,9 +493,8 @@
 [chara_show  name="gaku"  time="750"  wait="true"  storage="chara/5/gaku_1_01_3.png"  width="500"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-（げぇぇ…来ちゃったよ学園長…）[r]
-（折角いい所だったのに…）[r]
+#【Students】
+(Geez...the principal's here...) (And we were at the good part...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -500,9 +503,9 @@
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_4.png"  ]
 [tb_start_text mode=3 ]
-#【博山】
-「“逢魔が刻” は “戦士” が最も警戒を密にする時刻です、[r]
-気取られる危険性があります。早々に済ませておしまいなさい」[r]
+#【Boshan】
+"The witching hour is when warriors must be most vigilant, as there is[r]
+a risk of being detected. Finish up quickly."[p]
 
 [_tb_end_text]
 
@@ -512,9 +515,9 @@
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_3.png"  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-（…だから力を使わず瞳に相手させてンじゃん！）[r]
-（止せ止せ、玫瑰くんと学園長には逆らえねぇよ）[r]
+#【Students】
+(...That's why we're letting Hitomi handle it without using powers!)[r]
+(Stop it, stop it, we can't go against Meigui-kun and the principal)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -522,9 +525,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【生徒達】
-「…だってさ、瞳先生。早いトコ堕としちゃってよ」[r]
-「遠慮せずやっちまえーっ！」[r]
+#【Students】
+"...You heard him, Professor Hitomi. Hurry up and break her." "Don't[r]
+hold back, just do it-!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -539,9 +542,8 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…っ……トラちゃん…やっぱり…このままじゃダメだ[r]
-…抵抗…しなくちゃ――…！）[r]
+#【Hitomi】
+(...!...Tora-chan...this can't go on...I must resist--...!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -556,9 +558,8 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「はむ♥ はふっ♥ チュっ♥[r]
-あぁん…トラちゃぁ～ん♥♥」[r]
+#【Hitomi】
+"Mmm♥ Hah♥ Kiss♥ Ahn...Tora-chaaan♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -567,9 +568,8 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「あぷ…っ…はぷ…♡ ふぁ…ちゅる♡[r]
-んぁ……ひ…と……みぃ……♥」[r]
+#【Kotora】
+"Mmph...hah♡ Fwaah...slurp♡ Nn...Hi...to...mi...♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -577,9 +577,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（こ…これは演技…隙を突いて…逃げる…[r]
-お願い、耐えてトラちゃん…耐えろ私…っ）[r]
+#【Hitomi】
+(This is an act...I need to find an opening to escape... Please[r]
+endure, Tora-chan...hold on, me...!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -588,9 +588,9 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「や、やっぱりトラちゃんは良い匂いだわ…お日様みたい♥[r]
-ヨダレも…ん♥…ジュル♥　凄く…オイシィ♥」[r]
+#【Hitomi】
+"Yeah, Tora-chan really does smell nice...like the sun♥ And your drool[r]
+is...mm♥...so tasty♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -599,10 +599,9 @@
 
 [playse  volume="80"  time="1000"  buf="0"  storage="se02/eating1.ogg"  loop="true"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「ぷぁっ…あむ…♡ ふみゅ…♡[r]
-ひとみの…も…ひゅごく…ン…ヌルヌルれ…ゴク…っ[r]
-…ぉ…おぃひぃ……♥…れ…れも…らめ……」[r]
+#【Kotora】
+"Pwah...am♡ Mmm♡ Hitomi's is also so slippery and[r]
+delicious...gulp...ah...oh my goodness...♥...that's enough..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -610,9 +609,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【生徒達】
-「オホっ♪ 良いぞ良いぞぉ～！」[r]
-「ニヤニヤ…」[r]
+#【Students】
+"Oh ho♪ That's the way!" "Grinning..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -620,14 +618,15 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（…よし、魅入ってる。この調子で隙を突いてトラちゃんを抱えて屋上から飛び降りれば…）[p]
+#【Hitomi】
+(...Good, they're mesmerized. If I can find an opening, I'll grab[r]
+Tora-chan and jump off the rooftop...)[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【学園長】
-「…やれやれ。」[p]
+#【School Principal】
+"...Good grief."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -642,9 +641,8 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳＆小虎】
-「ハヘぇっ?!♥」[r]
-「ひゃうぅ??♥」[r]
+#【Hitomi & Kotora】
+"Gasp?!♥" "Eek??♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -653,8 +651,8 @@
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（・・・あ…――――…）[p]
+#【Hitomi】
+(...Ah...----...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -663,9 +661,8 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/eating2_2.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-「あーッ!? 学園長!?」[r]
-「外でチカラを使うのは――！」[r]
+#【Students】
+"Ah-!? The principal!?" "You're not supposed to use powers outside--!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -674,9 +671,9 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【博山】
-「“ 早々に ” と念を押したでしょう？[r]
-安心なさい、触手一本ダケですよ」[r]
+#【Boshan】
+"I did emphasize 'quickly,' didn't I? Don't worry, it's just one[r]
+tentacle."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -686,9 +683,8 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [bg  time="1000"  method="fadeIn"  storage="cg11/cg15_03.png"  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-「それならオレ達にやらせて下さいよー」[r]
-「僕らが先に手を付けたんですよ？！」[r]
+#【Students】
+"Then let us do it, please-" "We were the ones who started with her?!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -696,14 +692,13 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（ぁ…ぁああ♥ 触手が…♥ 触手ぅ♪♥）[p]
+#【Hitomi】
+(Ah...ahhh♥ The tentacles...♥ Tentacles♪♥)[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【博山】
-「フフフ…残念ながら、[r]
-庭野くんは私が最初に目を付けていたのですよ」[r]
+#【Boshan】
+"Hahaha...unfortunately for you, I had my eye on Niino-kun first."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -712,15 +707,14 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/eating2_2.ogg"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…ひっ♥…ぁひっ♥」[p]
+#【Kotora】
+"...Eek!♥ ...Ah!♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（あぁ…弄-まさぐ-られてる…♥[r]
-トラちゃんのアソコ…パンティーの上からコリコリって♥[r]
-わ…私も…私にもぉ……っ♥）[r]
+#【Hitomi】
+(Ah...she's being fondled...♥ Tora-chan's crotch is being rubbed[r]
+through her panties♥ I want it too...I want it tooo...!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -729,8 +723,8 @@
 
 [tb_start_text mode=3 ]
 #
-小さな肉体が抱いた胸の中でビクビクと激しく震え[r]
-甘い声色の交じった悦びの悲鳴を上げている…[r]
+Her small body trembled violently within the embrace, and she let out[r]
+a scream of joy mixed with sweet moans.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -739,7 +733,11 @@
 
 [tb_start_text mode=1 ]
 #
-あの甘美で凶悪な悦楽の前に最後の支えまでも屈した事を理解した瞬間、戦うためそして仲間を救うため学園の闇に挑んだオンナの意識は肉欲の底なし沼へと引き戻され、完全に沈んだ…。[p]
+The moment she realized that even her last support had succumbed to[r]
+that sweet and vicious pleasure, the consciousness of the woman who[r]
+had challenged the darkness of the academy to fight and save her[r]
+friends was pulled back into the bottomless swamp of carnal desires[r]
+and completely submerged.[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -754,9 +752,13 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「あひぃ～～～～～～っ♥あっ♥[r]
-あ゛っ♥ あ゛あぁ～～～っ!♥」[r]
+#【Kotora】
+"Ahhiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii[r]
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiieeeeeeeeeeeeeeeeeeeeeeeeee[r]
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee[r]
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee[r]
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee[r]
+ee!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -764,10 +766,10 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「お゛っほぉォ♥ キタぁ！♥[r]
-肉ヤスリ！肉鋸-にくノコ-ぉ♪♥[r]
-コレ大好きなのぉ～～～っ！♥♥」[r]
+#【Hitomi】
+"Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh[r]
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh! The saw![r]
+The flesh saw! I love this so much~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -777,10 +779,10 @@
 [resetfont  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「いっ♥イきゅ♥ヒダと…く、クリ…ふぉっ♥[r]
-ジュリジュリ！♥ ジュブジュブに擦ゅりゃりぇて♥[r]
-イクの…止まら…な…あ゛っ♥ あ゛ああぁ～っ♥」[r]
+#【Kotora】
+"Eek! I'm cumming! The ridges and clit are being rubbed so hard! It's[r]
+grinding and gushing! I can't stop[r]
+cumming...ahhhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -789,9 +791,9 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「トラちゃん♥んちゅう♥あぁキちゃう♥[r]
-イッてるのに凄いのキちゃうぅっ♥」[r]
+#【Hitomi】
+"Tora-chan♥ nchu♥ Ah, I'm going to cum♥ I'm still cumming but it feels[r]
+so amazing♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -799,9 +801,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【小虎】
-「ぷぇあっ♥ぷぁあ♥ イグぅ♥[r]
-好きぃ♥ コりぇ好ゅきぃ♥」[r]
+#【Kotora】
+"Puea♥ Pua♥ I'm cumming♥ I love it♥ I really love this♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -809,10 +810,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【小虎】
-「も、もっとひてっ♥[r]
-ゴリゅゴリゅ擦ゅっへ！♥[r]
-イぐ♥いくいぐイグぅ～～っ♥♥」[r]
+#【Kotora】
+"More, hit me more♥ Rub it, grind it hard!♥ I'm cumming, cumming,[r]
+cummingggg♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -830,8 +830,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳＆小虎】
-「あ゛ぁ゛あああぁっ♪♥♥」[p]
+#【Pupil & Little Tiger】
+"Aaaaaahhh♪♥♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -844,19 +844,19 @@
 [wait  time="2500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…は……♥…ふぁ…ぁ…♥」[p]
+#【Kotora】
+"...Ha...♥...Fua...ah...♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【博山】
-「グフフ…、特命教師…他愛ないものだ」[p]
+#【Boshan】
+"Gufufu... Special mission teacher... such a trivial thing."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【博山】
-「おいでなさい庭野くん。[r]
-学園長室でタップリと生徒指導のつづきをしてあげよう」[r]
+#【Boshan】
+"Come here, Niino-kun. Let's continue our student guidance in the[r]
+principal's office."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -864,14 +864,13 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【小虎】
-「……ふぁ…ふぁい…♥」[p]
+#【Kotora】
+"...Fua...fai...♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【生徒達】
-「えぇ！？」[r]
-「そ、そんなぁ！」[r]
+#【Students】
+"Eh!?" "That's...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -879,10 +878,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【博山】
-「私も餓え乾いているのですよ、[r]
-貴方達には丈夫で極上の教師が居るではありませんか、[r]
-出来るだけ長く愛でて差し上げなさい。」[r]
+#【Boshan】
+"I too am starving and parched. You have a sturdy and superb teacher,[r]
+don't you? Cherish her as long as possible."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -890,13 +888,13 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【博山】
-「さぁ、行きますよ庭野くん」[p]
+#【Boshan】
+"Now, let's go, Niino-kun."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【小虎】
-「はい…がくえんちょぉ…♥」[p]
+#【Kotora】
+"Yes... Principal...♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -905,8 +903,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「フォッホッホッホッホッホ！」[p]
+#【Boshan】
+"Fohohohohoho!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -915,10 +913,9 @@
 [bg  time="1000"  method="crossfade"  storage="haikei/okujyou04_2.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-「ちぇー…ツイてなかったなぁ…」[r]
-「おうぼうだよねぇ、あの子もカワイソウに」[r]
-「学園長の相手なんて１日も持たねぇよ…勿体無ぇ」[r]
+#【Students】
+"Che-... Just our luck..." "Poor thing, that girl too" "She won't last[r]
+a day with the principal... such a waste"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -926,9 +923,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【生徒達】
-「しゃーない、暫くは瞳先生で我慢するか」[r]
-「僕らが飽きるのが先か、壊れるのが先か…」[r]
+#【Students】
+"Can't be helped, guess we'll have to make do with Teacher Hitomi for[r]
+a while" "Which will come first, us getting bored or her breaking..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -937,10 +934,9 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-「オイ、教室戻って続きするぞ、瞳！」[r]
-「このイライラを全部注ぎ込んでやるぜ！」[r]
-「ほら、起きろ家畜教師っ！」[r]
+#【Students】
+"Oi, let's go back to the classroom and continue, Hitomi!" "We'll pour[r]
+all this frustration into you!" "Come on, get up, livestock teacher!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -952,8 +948,8 @@
 [chara_show  name="hitomi_1"  time="1000"  wait="true"  storage="chara/3/hitomi_1_14_7.png"  width="406"  height="600"  left="181"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「………は…は…ぃ…」[p]
+#【Hitomi】
+"...Ha...ha...i..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -965,7 +961,7 @@
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #
-―――　１週間後　―――[p]
+--- One week later ---[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -992,17 +988,16 @@
 [tb_show_message_window  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_5_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…お…おはよう…ございまぁす♥」[p]
+#【Hitomi】
+"...Good...morning...everyone♥"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_5_1.png"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-「へぇ…今日はバニーガールか、イイねぇ♪」[r]
-「誰が用意したんだ？」[r]
-「オレ オレ！」「やるじゃん」[r]
+#【Students】
+"Heh... Bunny girl today, huh? Nice♪" "Who prepared this?" "Me me!"[r]
+"Nice one"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1022,23 +1017,23 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_5_2.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ま…まずは出席を…」[p]
+#【Hitomi】
+"First... let's take attendance..."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【生徒】
-「はい！今日も全員出席してまーす！」[p]
+#【Student】
+"Yes! Everyone is present today too!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-（なんせ連日連夜みんなでヤリまくりだからな）[r]
-（ついさっきまで秘密教室でハメてたんだもんね♪）[r]
-（まんこが乾く暇も無いってなぁ♥）[r]
+#【Students】
+"(After all, we've been going at it night and day)" "(We were just[r]
+fucking in the secret classroom until now♪)" "(Her pussy doesn't even[r]
+have time to dry up, man♥)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1046,14 +1041,14 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「…そ、それじゃあ今日の授業は…えーっとぉ…」[p]
+#【Hitomi】
+"...So, today's lesson is... umm..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 #
-ゆらゆらと焦点の定まらない視線を教卓に落とし、[r]
-１週間前に新しく作られた日程表を読み上げる…[r]
+Her gaze, unfocused and wavering, fell upon the lectern as she read[r]
+from the schedule that had been created a week ago...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1062,9 +1057,9 @@
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「１時間目が教室で種付けゲーム♥[r]
-２時間目は視聴覚室で交尾写真の撮影会…♥」[r]
+#【Hitomi】
+"First period is breeding games in the classroom♥ Second period is a[r]
+mating photo shoot in the audio-visual room...♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1072,9 +1067,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「3時間目にアナルでチンポ当てゲームをしてぇ♪[r]
-4時間目の体育は倉庫で蒸れ蒸れエッチ♥」[r]
+#【Hitomi】
+"Third period we'll play the dick guessing game with anal♪ Fourth[r]
+period of PE is steamy sex in the storage room♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1088,8 +1083,9 @@
 [wait  time="10"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「皆のザーメンミルクをご馳走して貰うフェラチオタイムでお昼を終えたら午後から学園内を夕方までお散歩エッチ♥」[p]
+#【Hitomi】
+"After enjoying everyone's semen milk for lunch during blowjob time,[r]
+we'll have outdoor sex walks around the school until evening♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1101,14 +1097,15 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「さ…最後は秘密教室に戻って朝まで触手責め…♥」[p]
+#【Hitomi】
+"And... finally we'll return to the secret classroom for tentacle[r]
+torment until morning...♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「 ハァ ハァ ハァ♥ たまんない♥[r]
-今日も１日エッチな先生を可愛がってね♥」[r]
+#【Hitomi】
+"Haa Haa Haa♥ Can't wait♥ Please take care of your naughty teacher all[r]
+day long♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1117,8 +1114,9 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=1 ]
-#【生徒】
-「よぉっし！じゃあ今朝の続きからって事で俺からだ！」[p]
+#【Student】
+"Alright! Then let's pick up where we left off this morning, starting[r]
+with me!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1140,9 +1138,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ンはぁァア…♪♥[r]
-や…やっとおちんぽキたぁ～っ♥」[r]
+#【Hitomi】
+"Nhaaah...♪♥ Ah... finally a dick has come~♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1151,14 +1148,16 @@
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【生徒】
-「うぉっ！ すっげぇ！ もう何百回も姦されてンのに未だこんなに絡んで締め付けて来るなんて…っ」[p]
+#【Student】
+"Whoa! Amazing! Even after being fucked hundreds of times, she still[r]
+clings and tightens like this...!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【生徒】
-「それに食っても食っても沸いて来る精気の回復力…！[r]
-マジで極上の牝教師だぜ！ ウヒヒヒヒ♪！」[r]
+#【Student】
+"And the recovery power of her spirit that keeps bubbling up no matter[r]
+how much she eats...! She's seriously a top-notch female teacher![r]
+Uhihihihi♪!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1176,9 +1175,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「お゛っ♥ おぉ…奥ぅ♥ イイ！[r]
-子宮口ぉ勝手に吸い付いちゃぅう♥」[r]
+#【Hitomi】
+"Ohh♥ Oh... deep inside♥ It feels good! My cervix is sucking on it by[r]
+itself♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1188,14 +1187,15 @@
 [playse  volume="100"  time="1000"  buf="5"  storage="se02/dressing1.ogg"  ]
 [bg  time="750"  method="crossfade"  storage="cg11/cg16_03.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「逃がさない♥このまま精液ドピュッてくれるまで放してあげないンだからぁ♥」[p]
+#【Hitomi】
+"I won't let you escape♥ I won't let go until you spurt your semen[r]
+inside me♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【生徒】
-「くぉっ？！ 牝豚が調子乗りやがって…！[r]
-なら朝一番の新鮮絞り汁をクレてやらぁ!!」[r]
+#【Student】
+"Quo?! This bitch pig getting cocky...! Then take this fresh squeezed[r]
+juice from the first thing in the morning!!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1207,10 +1207,9 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg16_02.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「おぉン♥ ちょ、ちょうだいっ♥[r]
-デカチンポの特濃ミルク♪♥[r]
-子宮に飲ませてぇ～っ♥♥」[r]
+#【Hitomi】
+"Oohn♥ Give it, give it to me♥ Thick cock milk♪ Let me drink it with[r]
+my womb~♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1219,8 +1218,8 @@
 
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【生徒】
-「ウォオ…は、孕めぇえッ！！！」[p]
+#【Student】
+"Uooh... get pregnant!!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1245,8 +1244,8 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「あっへぇえ～～～っ♪☆」[p]
+#【Hitomi】
+"Aheee~~~♪☆"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1273,16 +1272,16 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…あ♥…アハァ♥ きもち…イィ…☆」[p]
+#【Hitomi】
+"...Ah♥... Ahh♥ It feels... good...☆"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-「…また一発で孕んじゃったよ…」[r]
-「丈夫ではあるけど、すっかり堕ちて馴染んじゃったね」[r]
-「こうなるとちょっとつまんねーな」[r]
+#【Students】
+"...She got knocked up with just one shot again..." "She's sturdy, but[r]
+she's completely fallen and become accustomed to it, huh?" "It gets a[r]
+bit boring once it comes to this."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1290,15 +1289,15 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【生徒】
-「ねぇ玫瑰くん、新しいのが欲しいよ、何とかならない？」[p]
+#【Student】
+"Hey Meigui-kun, I want a new one, can't you do something?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【玫瑰】
-「…ふっ、そうですねぇ…瞳先生のお陰で[r]
-みんな見違えるほどチカラを付けましたから、[r]
-そろそろ戦士狩りの準備でもしましょうか♪」[r]
+#【Rose】
+"...Hmph, indeed... Thanks to Teacher Hitomi, everyone has gained[r]
+remarkable strength, so perhaps it's time to start preparing for the[r]
+warrior hunt♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1308,9 +1307,8 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-『おぉ―――！！！』[r]
-「ついに！」[r]
+#【Students】
+"Oh---!!! Finally!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1319,9 +1317,9 @@
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「それまでもう少し瞳先生を使って切磋琢磨して下さい。[r]
-もうコレしか残って無いんですから」[r]
+#【Rose】
+"Until then, please continue to hone your skills using Teacher Hitomi.[r]
+After all, she's all that's left."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1330,10 +1328,8 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-「うん！」[r]
-「わかった！」[r]
-「了解ぁーい♪」[r]
+#【Students】
+"Yeah!" "Got it!" "Roger that♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1341,8 +1337,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【生徒】
-「んじゃ、リセットしてゲーム再開だぁ！」[p]
+#【Student】
+"Then, let's reset and resume the game!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1352,9 +1348,8 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「……お…ほぉ…♥　ご…ゴメン…[r]
-ゴメンねトラちゃん…冴…子ぉ…♥」[r]
+#【Hitomi】
+"...Oh... hoo...♥ So... Sorry... Sorry, Tora-chan... Saeko...♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]

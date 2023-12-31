@@ -18,13 +18,13 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #【？？】
-「・・・生徒達の仕上がり具合は如何ですか？」[p]
+"...How are the students' progress coming along?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 #【？？】
-「先生が良い餌を仕入れてくれたお陰で上々ですよ、[r]
-特に…フフっ。　太志君は化けましたね」[r]
+"Thanks to the excellent bait you've provided, teacher, they're doing[r]
+very well, especially... Heheh. Taishi-kun has really transformed."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -34,25 +34,26 @@
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？】
-「ほぅ、あの子が…」[p]
+"Ho, that child has...?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
 #【？？】
-「ええ。元々の性欲の強さと女の扱いの巧さを皆に認められて僕の代わりに皆を牽引したり…」[p]
+"Yes. His natural sexual appetite and skill with women have been[r]
+recognized by everyone, and he's taken the lead in my place..."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？】
-「フフフ、なかなか “ 良い養分 ” になってくれそうです…♪」[p]
+"Hehehe, he seems to be turning into quite the "good nourishment"...♪"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 #【？？】
-「ホッホッホ！ それは良かった！[r]
-では、計画も順調なのですね…？」[r]
+"Ho ho ho! That's wonderful! Then, the plan is proceeding[r]
+smoothly...?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -66,32 +67,34 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「…はい。明日… “ 連中 ” を誘い込みます」[p]
+#【Rose】
+"...Yes. Tomorrow... we'll lure "them" in."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="maikai"  time="250"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [chara_show  name="gaku"  time="250"  wait="true"  storage="chara/5/gaku_1_01_5.png"  width="500"  height="600"  left="-22"  top="0"  reflect="true"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「…ふむ、解りました。君の判断に任せましょう」[p]
+#【Boshan】
+"...Hmm, understood. I'll leave it to your judgment."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「そこで今夜は計画前夜の景気付けにクラスの皆でパーティーを催すのですが、太志君が拾ってくれた恩を返したいので是非 学園長先生にも参加して欲しいそうです」[p]
+#【Rose】
+"So tonight, as a prelude to our plan, we're having a party with[r]
+everyone in the class. Taishi-kun wants to repay the favor you did for[r]
+him by picking him up, so he insists that you, the headmaster, must[r]
+attend."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_02.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【博山】
-「ハッハッハ、それはそれは！[r]
-喜んで参加させていただきましょう。[r]
-期待していますよ、玫瑰くん！」[r]
+#【Boshan】
+"Ha ha ha, well then! I'd be delighted to participate. I'm looking[r]
+forward to it, Meigui-kun!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -101,8 +104,8 @@
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01.png"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「はい、全てこの僕にお任せ下さい」[p]
+#【Boshan】
+"Yes, leave everything to me."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -124,17 +127,17 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【生徒達】
-『博山学園長先生！ようこそーっ!!♪』[p]
+#【Students】
+"Headmaster Boshan! Welcome!!♪"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_show  name="gaku"  time="250"  wait="true"  storage="chara/5/gaku_1_02.png"  width="500"  height="600"  left="457"  top="0"  reflect="false"  ]
 [font  size="32"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【博山】
-「やぁ皆こんばんは！全員見違えましたねぇ！[r]
-立派に成長してくれて私はとても嬉しいです！」[r]
+#【Boshan】
+"Ah, good evening everyone! You all look unrecognizable! I'm very[r]
+happy to see how well you've grown!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -142,9 +145,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【博山】
-「パーティーに招待してくれたことも[r]
-心から感謝しますよ♪」[r]
+#【Boshan】
+"I'm truly grateful for being invited to the party♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -156,9 +158,8 @@
 [chara_show  name="futoshi"  time="250"  wait="true"  storage="chara/8/futoshi_1_02.png"  width="375"  height="600"  left="70"  top="0"  reflect="false"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【太志】
-「さぁ “ お前たち ” ！ [r]
-学園長先生がお見えだぞ！」[r]
+#【Taishi】
+"Now, "you guys"! The headmaster has arrived!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -186,37 +187,37 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「ほぅ！ これは・・・！」[p]
+#【Boshan】
+"Ho! This is...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_6_02.png"  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「ハッ…ハッ…くぅ～ん♥」[p]
+#【Saeko】
+"Ha... Ha... Kuu~n♥"[p]
 [_tb_end_text]
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_6_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_5_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「あは♥ いらっしゃいませぇ♥」[p]
+#【Hitomi】
+"Aha♥ Welcome♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_5_1.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_3_02.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「今宵は私達を存分にお召し上がり下さいませニャン♥」[p]
+#【Kotora】
+"Tonight, please enjoy us to your heart's content, Nyan♥"[p]
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_3_01.png"  ]
 [chara_show  name="futoshi"  time="250"  wait="true"  storage="chara/8/futoshi_1_02.png"  width="375"  height="600"  left="-134"  top="0"  reflect="false"  ]
 [tb_start_text mode=3 ]
-#【太志】
-「アレから１週間、皆でみっちり仕込んだメス奴隷だよ♪[r]
-まぁ、ほとんどボクが仕上げた様なもんなんだけど…」[r]
+#【Taishi】
+"It's been a week since then, and we've thoroughly trained these[r]
+female slaves. Well, it's mostly my handiwork..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -226,9 +227,8 @@
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_08.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【太志】
-「今夜はコイツ等の仕上がり具合を[r]
-じっくり楽しんでいってね♪」[r]
+#【Taishi】
+"Tonight, please take your time and enjoy their progress♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -239,16 +239,15 @@
 [chara_hide  name="futoshi"  time="250"  wait="true"  pos_mode="false"  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_02_2.png"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「ほほぅ♥ ではその成果を見せて頂きましょうか！」[p]
+#【Boshan】
+"Ho ho♥ Then let's see the fruits of your labor!"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【太志】
-「へへへ♪ さぁ３人とも！[r]
-学園長先生をおもてなししてあげるんだ！[r]
-ソソウの無い様にね！」[r]
+#【Taishi】
+"Hehehe♪ Come on, all three of you! Entertain the headmaster! Don't be[r]
+negligent!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -263,8 +262,8 @@
 [tb_show_message_window  ]
 [font  size="50"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳・小虎・冴子】
-『 ハイ…♥ 』[p]
+#【Hitomi, Kotora, Saeko】
+"Yes...♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -282,8 +281,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【３匹】
-『 ハァ・・・ハァ・・・♥ 』[p]
+#【Three animals】
+"Ha... Ha...♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -296,8 +295,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…ハァ♥　すごいおチンポぉ♥」[p]
+#【Kotora】
+"...Haa♥ Such an amazing dick♥"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -308,9 +307,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【冴子】
-「クン クン…アァ♥ なんてイイ匂い♥[r]
-鼻の奥にヅンとクる♥ 脳が痺れちゃぅ♥」[r]
+#【Saeko】
+"Sniff sniff... Ahh♥ What a nice smell♥ It hits deep in my nose♥ My[r]
+brain is tingling♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -318,9 +317,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「熱気もすっごぉい♥[r]
-今にもはち切れちゃいそう♥」[r]
+#【Hitomi】
+"The heat is so intense♥ It feels like it's going to burst any[r]
+moment♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -328,9 +327,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「では早速♥[r]
-御奉仕させて いただきまぁ～す♥」[r]
+#【Hitomi】
+"Then without further ado♥ Let me serve you♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -347,10 +345,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【冴子】
-「ペロペロ♥…きゅうん♥ 熱ぅい♥[r]
-おちんぽキャンディー舐めてる舌のほうが[r]
-溶かされちゃいそぅだわぁ♥」[r]
+#【Saeko】
+"Lick lick♥... Kyuun♥ It's so hot♥ This dick candy is melting my[r]
+tongue more than itself♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -359,10 +356,9 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu01.ogg"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「ふわぁ♥濃いドロドロがいっぱぁい♥[r]
-はぷ♥ 凄ゅごく美味ひぃ♥ 舌が…ちゅぷ♥[r]
-止まんにゃいニャ♥ ふにゃァ♥」[r]
+#【Kotora】
+"Fwaa♥ It's full of thick and creamy♥ Hap♥ It's so delicious♥ My[r]
+tongue can't stop... Chup♥ Nyaa♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -373,9 +369,9 @@
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu04.ogg"  ]
 [font  size="33"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「アん♥ 全部舐めちゃダメよトラちゃん♥[r]
-カリの裏に溜まった分は私のなんだからぁ♥」[r]
+#【Hitomi】
+"Ahn♥ You can't lick it all up, Tora-chan♥ The part that's accumulated[r]
+under the ridge is mine♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -385,13 +381,16 @@
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/drinking_a_soup.ogg"  ]
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【博山】
-「ほぉ…常人なら嗅いだだけで昏倒を免れぬ私のイチモツ臭に全く動じぬとは大した調教成果です、加えてシワや筋の隙間１つ１つまで丹念に舌を這わせ、チンポを愛で慈しんでいる…！」[p]
+#【Boshan】
+"Ho... The training results are impressive indeed; they're completely[r]
+unfazed by the smell of my manhood that would knock out an ordinary[r]
+person just by smelling it. Moreover, they meticulously lick every[r]
+crease and wrinkle, adoring and cherishing the dick...!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【博山】
-「コレは…ムゥ…並の男ではひとたまりもありません…な…」[p]
+#【Boshan】
+"This is... Mmm... No ordinary man could withstand this..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -402,10 +401,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「あっ♥ 先走りの おつゆ が出てきたぁ♥[r]
-プルっプルで綺麗で凄い香り…♥[r]
-なんて美味しそうなドロップ飴っ♥」[r]
+#【Hitomi】
+"Ah♥ The pre-cum is coming out♥ It's so shiny and smells amazing...♥[r]
+What a delicious looking drop candy♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -423,15 +421,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ンぷ♥ ほプっ♥ ジュブるルっ♪」[p]
+#【Hitomi】
+"Nmp♥ Hop♥ Jyubururu♪"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「はむ…クチゅ♥ ひとみ…ずるいニャ、[r]
-いいもん、おチンポチーズぜんぶ小虎が食べちゃうもん♥ うニャぁン♥」[r]
+#【Kotora】
+"Ham... Kuchyu♥ Hitomi... that's unfair Nya, fine then, Kotora will[r]
+eat all the dick-cheese♥ Unyaaan♥"[p]
 
 [_tb_end_text]
 
@@ -441,10 +439,9 @@
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/drinking_a_soup.ogg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ンぉおン♥ 熱ちゅぅひ♥[r]
-お口のにゃか美味ひはれイっふぁい♥[r]
-はムむぅぅ～～～っ♥ヂュチゅううっ♥」[r]
+#【Hitomi】
+"Nooon♥ It's so hot and tasty♥ My mouth is full of flavor♥ Hamumu～～～♥[r]
+Jyuchuuu♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -453,10 +450,9 @@
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/kiss2.ogg"  ]
 [tb_start_text mode=3 ]
-#【冴子】
-「ハフッ♪ ワふぅん♥[r]
-たっぷたぷの金玉ぁ♪ 重ぉ～い♥[r]
-イッパイ出してくらはぁいっ♥♥」[r]
+#【Saeko】
+"Hafu♪ Wafuun♥ These heavy balls♪ So full♥ Please let out lots for[r]
+meee♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -465,10 +461,9 @@
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/drinking_a_soup.ogg"  ]
 [tb_start_text mode=3 ]
-#【博山】
-「くぉっ？…ホホホ…なるほど…[r]
-上のクチの技術は認めましょう。[r]
-ですが後ろの方はどうでしょうなぁ…？」[r]
+#【Boshan】
+"Quo...? Ho ho ho... I see... I acknowledge the skill of your mouths.[r]
+But what about the back end...?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -492,8 +487,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「あ・・・っ♥」[p]
+#【Saeko】
+"Ah...♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -509,10 +504,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳・小虎・冴子】
-「ン゛ォおおっ♪♥」[r]
-「フミィ♥」[r]
-「キャウぅ～ン★」[r]
+#【Pupil, Little Tiger, Saeko】
+"Nghoooh♪♥" "Fumii♥" "Kyauuun★"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -521,10 +514,10 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【博山】
-「ホホっ♪ これはまた随分と育ったものですなぁ♪[r]
-肉を耕し精気を喰らいこんなにイビツに！[r]
-これだけで尻穴が絶品に仕上がっていると伺えます」[r]
+#【Boshan】
+"Ho ho♪ This is quite the development indeed♪ To cultivate the flesh[r]
+and devour the spirit to such a twisted extent! Just this alone tells[r]
+me that the ass holes have been exquisitely finished."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -547,10 +540,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳・小虎・冴子】
-「～～…ッ♥…あっ♥……アハぁ…♥」[r]
-「ふみゃ・・・おちりぃ・・・♥」[r]
-「オォン…♥…ヌけちゃった…ぁ♥」[r]
+#【Pupil, Little Tiger, Saeko】
+"～～...♥...ah♥...Ahah...♥" "Fumya...my butt...♥" "Ooon...♥...I'm[r]
+coming...ah♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -568,9 +560,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「アむぅっ♥ んぶっ♥ ん゛～♥[r]
-ズちゅうぅ…！ ちゅぶ！ ちゅばっ♥」[r]
+#【Hitomi】
+"Amuu♥ Nbuu♥ Nn~♥ Zuchuuu...! Chubu! Chubaa♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -580,20 +571,23 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kiss2.ogg"  ]
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【博山】
-「ぉホッ 即座に咥え直すとは躾が行き届いてますな！」[p]
+#【Boshan】
+"Oh ho! To immediately take it back into your mouth, such well-[r]
+mannered training!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【太志】
-「一日中どれかの穴に誰かのチンポを咥える生活をテッテイさせてたからね♪ 今じゃ１分も放置したらチンポ欲しさに狂い始めちゃうんだ♥」[p]
+#【Taishi】
+"They've been thoroughly trained to have a dick in one of their holes[r]
+all day long♪ Now, if they're left alone for even a minute, they start[r]
+going crazy wanting dick♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【博山】
-「うむうむ、生かさず殺さず見事な躾け方です。[r]
-３人とも自分が何者で何の為にこの学園に来たのか[r]
-もはや欠片も覚えていないでしょう♪」[r]
+#【Boshan】
+"Hmm hmm, a splendid way of training without killing or letting live.[r]
+All three of them probably don't remember a fragment of who they were[r]
+or why they came to this academy♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -605,8 +599,8 @@
 [bg  time="500"  method="crossfade"  storage="cg11/cg31_05.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【博山】
-「仕上がり具合は良く解りました…」[p]
+#【Boshan】
+"I understand how well they've been finished..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -614,8 +608,8 @@
 [bg  time="1500"  method="crossfade"  storage="cg11/cg31_06.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【博山】
-「それでは私も楽しませていただくとしましょう…♪」[p]
+#【Boshan】
+"Then let me enjoy myself as well...♪"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -626,20 +620,19 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「あっ♥ 触手おチンポぉ！♥」[p]
+#【Kotora】
+"Ah♥ Tentacle cocks!♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【冴子】
-「やん♥ スゴィ♥ 太くて長いわぁ♥」[p]
+#【Saeko】
+"Yan♥ Amazing♥ It's so thick and long♥"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「ああ…っ、は…早く来てくださぃ♥[r]
-お尻に ジュプぅって♥ 埋めて欲しぃの♥[r]
-アナル寂しくて死んじゃいそうなのぉっ♥」[r]
+#【Hitomi】
+"Aah...ah, please come quickly♥ I want it buried in my ass with a[r]
+slurp♥ My anal is so lonely I feel like I'm going to die♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -657,10 +650,8 @@
 [tb_show_message_window  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳・小虎・冴子】
-「あ゛ォおぉっ!!?♥♥」[r]
-「ブミィィイッ！♪♥♥」[r]
-「オ゛ッフ?!? ふほォオおっ♥」[r]
+#【Pupil, Little Tiger, Saeko】
+"Aghoooh!!?♥♥" "Fumiiiih!♪♥♥" "Off?! Fuhoooh♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -671,16 +662,15 @@
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu04.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「す…すご…♥…お尻 いっぱぁい♥」[p]
+#【Hitomi】
+"Su...amazing...♥...my ass is so full♥"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dorodoro.ogg"  ]
 [tb_start_text mode=3 ]
-#【冴子】
-「ふ、深…ぃ♥ 根元が見えない…のに゛…[r]
-ズンズン太くなってく…♥[r]
-お、オシリ…ミチミチ言ってるぅ♥」[r]
+#【Saeko】
+"So deep...♥ Can't see the base...and it keeps getting thicker...♥ My,[r]
+my ass...is making squelching sounds♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -689,9 +679,8 @@
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu05.ogg"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「…こ…コレ好ゅきぃ…♥[r]
-アナルとお腹イッパイになるの幸しぇ★」[r]
+#【Kotora】
+"...I...I love this...♥ My anal and stomach are full, it's bliss★"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -706,9 +695,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【小虎・冴子】
-「ぷみゃあアアっ♥★」[r]
-「アォオオオン♥♥」[r]
+#【Little Tiger - Saeko】
+"Pumyaaaah♥★" "Aoooon♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -726,9 +714,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ンふぁ♥ イ…いかがれふかぁ？[r]
-瞳たち穴奴隷ペットのお味はぁ？♥」[r]
+#【Hitomi】
+"Nfah♥ How do you like it? The taste of us hole slave pets?♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -738,9 +725,9 @@
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/drinking_a_soup.ogg"  ]
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【博山】
-「フフフ…素晴しいですよ♪ [r]
-生徒達が此処まで成長出来たのは優秀な貴女方のお陰だ♥」[r]
+#【Boshan】
+"Fufufu...marvelous indeed♪ The students have grown this much thanks[r]
+to you excellent ladies♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -748,16 +735,16 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【博山】
-「多少リスクを負ってでも質の良い『餌』を仕入れたのは正解でしたねぇ♪」[p]
+#【Boshan】
+"It was the right decision to procure high-quality 'feed' even at some[r]
+risk♪"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/drinking_a_soup.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【冴子・小虎】
-「あ、ありがとうございますっ♥」[r]
-「これからもイッパイご奉仕します♥」[r]
+#【Saeko・Kotora】
+"Ah, thank you very much♥" "We will continue to serve a lot♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -765,10 +752,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【博山】
-「ほっはっは！良い心掛けです。[r]
-それでは優秀な穴奴隷ペットの君達に[r]
-心ばかりのご褒美をあげましょう♥」[r]
+#【Boshan】
+"Hohhaha! That's the spirit. Then let me give you a little reward for[r]
+being such excellent hole slave pets♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -778,8 +764,8 @@
 [resetfont  ]
 [font  size="55"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「ヌゥンッ!!!!」[p]
+#【Boshan】
+"Nunn!!!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -795,9 +781,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ふあ゛ァン!♥ お゛ひり゛ぃっ♥[r]
-じゅぷじゅぷ深いのぉ～っ♥♥」[r]
+#【Hitomi】
+"Fuaaan!♥ My ass...♥ It's so deep~♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -806,10 +791,9 @@
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/eaten_by_a_monster2.ogg"  loop="false"  ]
 [tb_start_text mode=3 ]
-#【冴子】
-「お゛ぉォっ♥ ほぉ♥[r]
-お腹ボコボコ暴れてる゛ぅ♥[r]
-突いてぇ♥お尻ほじりコロしてぇ!♥」[r]
+#【Saeko】
+"Ooohh♥ Hoo♥ My stomach is churning so much♥ Thrust it♥ Dig into my[r]
+ass!♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -818,10 +802,9 @@
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dorodoro.ogg"  ]
 [tb_start_text mode=3 ]
-#【小虎】
-「おしりマンコ最高にゃの♥！[r]
-奥まで気持ちイイの！完全にマンコなの♥[r]
-だからもっと！もっとおマンコぉ～っ♥♥」[r]
+#【Kotora】
+"Ass pussy is the best nya♥! It feels so good all the way in! It's[r]
+completely like a pussy♥ So more! More pussy~♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -831,8 +814,8 @@
 [resetfont  ]
 [font  size="55"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「ブリャアｱｱｧｧｧｯ!!!!!」[p]
+#【Boshan】
+"Buryaaaahhhhh!!!!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -869,10 +852,8 @@
 [tb_show_message_window  ]
 [font  size="47"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【三匹】
-『はへぇ～～～っ♥♥♥[r]
-フミィィィイイッ！！♥♥[r]
-アオぉ～～～ン♥♥♥」[r]
+#【Three animals/creatures】
+"Heeheehee～～～♥♥♥ Fumiiiiiih!!♥♥ Aooon～～～n♥♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -890,10 +871,10 @@
 [font  size="32"  color="0xffffff"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳・小虎・冴子】
-「ひっ♥ フヒィン♥ まら出てるぅ…♥」[r]
-「おにゃか…ドプドプ…満たしゃれるのぉ～♥[r]
-「し…幸せぇ♥ 穴ドレイ生活幸せぇっ！♥♥」[r]
+#【Pupil, Little Tiger, Saeko】
+"Hihh♥ Fuhin♥ It's coming out...♥" "My stomach...is being filled[r]
+up...dopudopu...with pleasure～♥" "Shi...happiness♥ Hole slave life is[r]
+happiness～！♥♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -918,15 +899,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「どうだった？学園長せんせい！？」[p]
+#【Taishi】
+"How was it? Principal-sensei!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【博山】
-「堪能しました…正直、このまま食べ尽くしたい程です。[r]
-・・・・・・しかし――…」[r]
+#【Boshan】
+"I enjoyed it thoroughly...honestly, I want to devour them completely[r]
+as they are. ...However--..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -944,10 +925,9 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano37.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【博山】
-「コレはあくまでも君達のモノ…[r]
-私はここで失礼させていただきます。[r]
-皆さんはこのまま明日に備えてパーティーを続けて下さい」[r]
+#【Boshan】
+"This is ultimately yours... I shall take my leave here. Everyone,[r]
+continue the party as you prepare for tomorrow."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -963,10 +943,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【博山】
-「明日の決戦は必ずや勝利し[r]
-戦士達も穴奴隷にしてしまいましょう！[r]
-期待していますよ！！！」[r]
+#【Boshan】
+"We must win the decisive battle tomorrow and turn the warriors into[r]
+hole slaves as well! I'm looking forward to it！！！"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -976,15 +955,15 @@
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_2.png"  ]
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_03.png"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「みんな！ 学園長せんせいに、礼だ！」[p]
+#【Taishi】
+"Everyone! Give thanks to Principal-sensei!"[p]
 [_tb_end_text]
 
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_02.png"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=1 ]
-#【生徒一同】
-『アリガトウ ゴザイマシタッ!!!!!!』[p]
+#【All students】
+"THANK YOU VERY MUCH!!!!!!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1004,8 +983,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「・・・さあ、パーティーの続きだ！」[p]
+#【Taishi】
+"...Now, let's continue the party!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1025,8 +1004,8 @@
 [tb_show_message_window  ]
 [font  size="55"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【太志】
-『食い尽くしちゃえっ♥』[p]
+#【Taishi】
+"Devour them all up♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1049,8 +1028,8 @@
 [tb_show_message_window  ]
 [font  size="55"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【三匹の穴奴隷】
-『アヒぃ～～～～ッ♥♥♥」[p]
+#【Three Hole Slaves】
+"Ahiiee～～～～♥♥♥"[p]
 [_tb_end_text]
 
 [resetfont  ]

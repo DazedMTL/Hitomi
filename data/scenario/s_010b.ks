@@ -13,44 +13,45 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【博山】
-「…う…ぅ……はぁ…はぁ……」[p]
+#【Boshan】
+"...uh...uh...haa...haa..."[p]
 [_tb_end_text]
 
 [chara_show  name="ai_1"  time="250"  wait="true"  storage="chara/12/ai02_05_5.png"  width="375"  height="600"  left="370"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「…この学園で何をしようとしていた？」[p]
+#【Ai】
+"...What were you trying to do at this academy?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【アイ】
-「お前に力を与え、この学園でゆらぎを量産するよう命じたのは誰だ？ 瑠璃男か？」[p]
+#【Ai】
+"Who gave you the power and ordered you to mass-produce disturbances[r]
+in this academy? Was it Ruri-otoko?"[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_1.png"  ]
 [tb_start_text mode=3 ]
-#【アイ】
-「それともシンか？ 奴は生きているのか？[r]
+#【Ai】
+"Or was it Shin? Is he still alive?"[p]
 [_tb_end_text]
 
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-答えろ！」[p]
+#【Ai】
+"Answer me!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_2.png"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「…クフ…フ…答えると…思いますか？」[p]
+#【Boshan】
+"...Kuh...huh...do you think... I'll answer?"[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai02_03.png"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「・・・・・・」[p]
+#【Ai】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -62,16 +63,16 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「ブホぉッ！？」[p]
+#【Boshan】
+"Buhoo!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_show  name="rin_1"  time="50"  wait="true"  storage="chara/13/rin2_19.png"  width="375"  height="600"  left="518"  top="0"  reflect="false"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「…アンタさぁ、これだけの事しておいて[r]
-まさか楽に死ねるなんて思ってないわよね…？」[r]
+#【Rin】
+"...You know, after all you've done, you don't think you're going to[r]
+die easily, do you...?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -88,8 +89,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「うゴぁッ！？」[p]
+#【Boshan】
+"Ugoah!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -97,9 +98,9 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_02.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【アイ・秋俊】
-「腹の贅肉が邪魔で喋り辛そうだな…[r]
-もう少し軽くしてやろうか…？」[r]
+#【Ai・Shujun】
+"The fat on your belly seems to be getting in the way of talking...[r]
+Shall we lighten it a bit more...?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -108,14 +109,14 @@
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_02_2.png"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「うぅ…っ、わ、わかった！話す！」[p]
+#【Boshan】
+"Ugh...I, I understand! I'll talk!"[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_20.png"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「愚図が、手間を取らせるな！」[p]
+#【Ai】
+"You fool, don't make this harder than it has to be!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -126,15 +127,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「ギャアアッ！？」[p]
+#【Boshan】
+"Gyaaa!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_12.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「・・・・・・」[p]
+#【Rin】
+"..."[p]
 [_tb_end_text]
 
 [stopbgm  time="1500"  fadeout="true"  ]
@@ -155,15 +156,15 @@
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_02_2.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「…リン？ 博山はどうしたの…？」[p]
+#【Kotora】
+"...Rin? What happened to Boshan...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_18.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「アイと秋俊がやたら気合入れて情報吐かせてるわ、[r]
-心配しなくてもしっかりトドメ刺してくれるわよ」[r]
+#【Rin】
+"Ai and Shujun are really fired up about getting information out of[r]
+him, don't worry, they'll make sure to finish him off properly."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -174,15 +175,15 @@
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_02_3.png"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_23.png"  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「出来れば我々にも事情聴取させて貰いたいのだが…」[p]
+#【Saeko】
+"If possible, we would also like to interrogate him..."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_2.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ああなったアイを止めるのは私でも流石にねぇ…[r]
-諦めて奴の遺品でも漁った方が早いわよ、絶対。」[r]
+#【Rin】
+"Stopping Ai in that state is beyond even me... You'd better give up[r]
+and search his belongings instead, it'll be faster for sure."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -192,15 +193,15 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_3.png"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_16_2.png"  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「そ、そうか…」[p]
+#【Saeko】
+"Is that so..."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_7.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「オホン、…所でさぁ、アイツは大丈夫なワケ？[r]
-ゆらぎ相手にあれだけ暴れて無事で済むとは思えないんだけど」[r]
+#【Rin】
+"Ahem, ...by the way, is he alright? I can't imagine he's unharmed[r]
+after going berserk against the disturbances like that."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -211,26 +212,28 @@
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_05.png"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_23.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「………」[p]
+#【Kotora】
+"..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-３人の視線の先には地べたにペタンと力なく座り込み、微動だにせぬまま血に塗れた地面の一点を見つめている戦士の姿があった…[p]
+At the end of the three people's gaze was the figure of a warrior[r]
+sitting powerlessly on the ground, motionless and staring at a spot on[r]
+the blood-stained earth...[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【冴子】
-「…恐らく両拳と前腕は骨にヒビが入っている、それに足もかなり痛めている様でな、まともに動けん」[p]
+#【Saeko】
+"...Most likely both fists and forearms have cracks in the bones, and[r]
+the legs are quite injured as well, he can't move properly."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「あーあ！そうだろうと思ったわ！？[r]
-無茶しちゃって！ホントバカなんだから！」[r]
+#【Rin】
+"Ah-ah! I knew it! He's been reckless! Such an idiot!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -240,9 +243,9 @@
 [resetfont  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_22.png"  ]
 [tb_start_text mode=3 ]
-#【冴子】
-「…フッ、アイツの無茶はいつもの事だ。[r]
-いちいち心配していてはコチラの身が持たん」[r]
+#【Saeko】
+"...Hmph, his recklessness is nothing new. We can't worry about him[r]
+every single time or we'll wear ourselves out."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -251,15 +254,15 @@
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08_3.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「いや、アタシは別に…」[p]
+#【Rin】
+"No, I'm not really..."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08_4.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_13_2.png"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「……」[p]
+#【Kotora】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -272,19 +275,19 @@
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「まあ、直ぐに病院のベッドに荒縄で括り付けてやるさ♪」[p]
+#【Saeko】
+"Well, we'll soon tie him up with rough ropes to a hospital bed♪"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【リン】
-「フーン、じゃあ回復魔法はいらないか」[p]
+#【Rin】
+"Hmph, then I guess he doesn't need any healing magic."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【冴子】
-「えっ！？ そんな便利な事まで出来るの！？[r]
-それなら直ぐ治療を…っ…あ、だが……」[r]
+#【Saeko】
+"Eh?! You can do something that convenient?! Then we should start[r]
+treatment right away... ah, but..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -292,25 +295,25 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【小虎】
-「今は、もう少しだけそっとしておいてあげて」[p]
+#【Kotora】
+"For now, let's just leave him be for a little longer."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【リン】
-「…フ、はい はい」[p]
+#【Rin】
+"...Hmph, yes yes."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【小虎】
-「…リン、コレで戦いは終り…だよね？」[p]
+#【Kotora】
+"...Rin, this means the fight is over... right?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【リン】
-「蠱毒で蓄えたチカラの行方が今ひとつハッキリしないのよね、[r]
-生徒は全部片付けた筈だし此処を支配してたボスもあの通り、[r]
-あと行き場が在るとすれば―――…」[r]
+#【Rin】
+"The whereabouts of the power accumulated by Kodoku are still unclear.[r]
+We should have dealt with all the students and the boss who ruled this[r]
+place is as you see, if there's anywhere left to go---..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -320,8 +323,8 @@
 [stopbgm  time="1500"  fadeout="true"  ]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_03.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「……っ」[p]
+#【Hitomi】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -329,8 +332,8 @@
 [chara_move  name="hitomi_3"  anim="true"  time="300"  effect="easeInQuad"  wait="true"  left="239"  top="0"  width="800"  height="600"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「……居る…、あと１人…しまった…すっかり失念してた…っ」[p]
+#【Hitomi】
+"...There's one more... I completely forgot..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -340,8 +343,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「みんな気をつけて！未だ１人残って…」[p]
+#【Hitomi】
+"Everyone be careful! There's still one left..."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -358,8 +361,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ハジメく…！？」[p]
+#【Hitomi】
+"Hajime-kun...?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -389,8 +392,8 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎＆冴子＆リン】
-『・・・ッ？！？』[p]
+#【Little Tiger & Saeko & Rin】
+"...?!?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -404,15 +407,15 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「ぬぅ！」[p]
+#【Sabato】
+"Nuu!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
 [chara_hide  name="sabato"  time="50"  wait="true"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「…ウソだろ…？！」[p]
+#【Kuzu】
+"...You're kidding, right...?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -427,9 +430,8 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【小虎＆冴子＆葛生】
-『瞳ぃ！！』[r]
-「瞳先生ぇ！！」[r]
+#【Little Tiger & Saeko & Kuzo】
+"Hitomi!!" "Hitomi-sensei!!"[p]
 
 [_tb_end_text]
 
@@ -452,8 +454,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【冴子＆小虎】
-『瞳っ！！』[p]
+#【Saeko & Kotora】
+"Hitomi!!"[p]
 [_tb_end_text]
 
 [tb_show_message_window  ]
@@ -462,17 +464,16 @@
 [chara_hide  name="kotora_1"  time="50"  wait="true"  pos_mode="false"  ]
 [wait  time="250"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「ちょ!? 今下手に動くんじゃ…？！」[p]
+#【Rin】
+"Whoa!? Don't move carelessly now...?!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [chara_show  name="rin_2"  time="0"  wait="true"  storage="chara/15/rin3_03.png"  width="656"  height="600"  reflect="false"  left="-23"  top="0"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「くっ、アイ！今直ぐソイツを[r]
-跡形も無く消滅……ッ？！」[r]
+#【Rin】
+"Damn it, Ai! Erase that guy without a trace right now...Huh?!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -490,8 +491,8 @@
 [chara_show  name="rin_1"  time="50"  wait="true"  storage="chara/13/rin2_17.png"  width="375"  height="600"  reflect="false"  left="23"  top="0"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「……っ」[p]
+#【Rin】
+"...ugh"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -504,15 +505,18 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #
-潜んでいた敵の存在に気付き振り向きざま仲間に注意を飛ばしたが時既に遅く、[p]
-瞳の受けた奇襲に気を取られ目を離した隙に瀕死だった博山もまた影に喰われ闇に引きずり込まれた後だった…。[p]
+Realizing the presence of an enemy that had been lurking, she turned[r]
+to warn her companions, but it was already too late. While they were[r]
+distracted by the surprise attack on Hitomi, the critically wounded[r]
+Hakuyama was also consumed by the shadow and dragged into the[r]
+darkness...[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_17.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「・・・クッ」[p]
+#【Ai・Shujun】
+"...Grr."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -527,9 +531,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-（…ま…不味い!! 後手後手だ！[r]
-一気にチームが瓦解しかねない！）[r]
+#【Rin】
+(...This is bad!! We're on the back foot! Our team could fall apart in[r]
+an instant!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -546,8 +550,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「だああ、もぉっ！」[p]
+#【Rin】
+"Gah, come on!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -568,8 +572,8 @@
 [tb_show_message_window  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「ぬん！」[p]
+#【Sabato】
+"Nun!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -585,9 +589,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ナイス防人-さきもり-！[r]
-瞳は私が面倒見るから此処ヨロシク！」[r]
+#【Rin】
+"Nice defense, Sakimori! I'll take care of Hitomi, so leave this place[r]
+to me!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -595,8 +599,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「承知！」[p]
+#【Sapodou】
+"Understood!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -612,8 +616,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「瞳ッ！」[p]
+#【Rin】
+"Hitomi!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -623,8 +627,8 @@
 [chara_hide  name="sonota"  time="250"  wait="true"  pos_mode="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「アンタ、ちゃんと…」[p]
+#【Rin】
+"You better be..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -635,8 +639,8 @@
 [chara_hide  name="sonota"  time="250"  wait="true"  pos_mode="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「生きてンでしょーね！？」[p]
+#【Rin】
+"Alive, right?!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -646,8 +650,8 @@
 [chara_show  name="rin_2"  time="50"  wait="true"  storage="chara/15/rin3_03.png"  width="656"  height="600"  left="-193"  top="0"  reflect="true"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「って、うっとおしい！」[p]
+#【Rin】
+"So annoying!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -659,8 +663,8 @@
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【？？】
-「ハッハッハ！ 流石は魔法戦士！[r]
-イノシシ教師とは違いますね！」[r]
+"Hahahaha! As expected of the magical warrior! Different from that[r]
+boar teacher!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -670,8 +674,8 @@
 [chara_hide  name="rin_2"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="rin_1"  time="50"  wait="true"  storage="chara/13/rin2_15_2.png"  width="375"  height="600"  left="434"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「！」[p]
+#【Rin】
+"!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -694,16 +698,16 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「此処までで魔力の消耗はあってもほぼ無傷ですか、いやはや全く恐れ入ります」[p]
+#【Rose】
+"So you've managed to come this far with hardly a scratch despite the[r]
+magical exhaustion, impressive indeed."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_10.png"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「しかし！僕の目論見通り蠱毒は成った！[r]
-利用された気分はどうだ邪魔者ども！？[r]
-アハハハハハハハ！！」[r]
+#【Rose】
+"However! My plan with Kodoku has succeeded! How does it feel to be[r]
+used, you meddlers!? Ahahahahaha!!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -717,8 +721,8 @@
 [chara_show  name="ai_1"  time="500"  wait="true"  storage="chara/12/ai02_05_17.png"  width="375"  height="600"  left=""  top=""  reflect="true"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「コソコソと死体漁りをしていたのはアイツか…！」[p]
+#【Ai・Shujun】
+"So it was him skulking around the corpses...!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/slash02.ogg"  ]
@@ -726,8 +730,9 @@
 [chara_show  name="ai_2"  time="50"  wait="true"  storage="chara/17/ai03_01.png"  width="560"  height="600"  reflect="true"  left="-121"  top="0"  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「下種が！上位種に転じる前に潰す！」[p]
+#【Ai】
+"You lowlife! I'll crush you before you can ascend to a higher[r]
+species!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -738,8 +743,8 @@
 [chara_show  name="maikai"  time="250"  wait="true"  storage="chara/7/maikai_1_01.png"  width="313"  height="600"  left="232"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「…フッ」[p]
+#【Rose】
+"...Hmph."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -756,16 +761,16 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ（秋俊）】
-「ッ!？…お…女の子!?」[p]
+#【Ai (Akito)】
+"Huh!?...a...girl?!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
 [chara_hide  name="ai_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="ai_2"  time="50"  wait="true"  storage="chara/17/ai03_01.png"  width="560"  height="600"  reflect="true"  left=""  top=""  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「関係ない！殺るッ！！」[p]
+#【Ai】
+"It doesn't matter! I'll kill you!!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -778,8 +783,8 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「あはははは！」[p]
+#【Rose】
+"Ahahahaha!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -787,8 +792,8 @@
 [chara_mod  name="maikai"  time="750"  cross="false"  storage="chara/7/maikai_5_01.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「来いよ魔法戦士ぃ！」[p]
+#【Rose】
+"Come at me, magical warrior!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -806,8 +811,8 @@
 [tb_show_message_window  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「“ 斬風-ざんぷう- ”ッ！」[p]
+#【Ai】
+"Zanpuu!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -822,8 +827,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「！？」[p]
+#【Ai・Shujun】
+"!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -839,8 +844,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「何だ？　魔法が…！？？」[p]
+#【Ai・Shujun】
+"What's this? My magic is...!??"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -852,8 +857,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「デヤアアアァッ！！」[p]
+#【Ai・Shujun】
+"Deyaaaaah!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -868,8 +873,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「クッ？！」[p]
+#【Ai・Shujun】
+"Grr?!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -884,8 +889,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「“ 烈甲-れっこう- ”！」[p]
+#【Ai・Shūshun】
+"Rekkou!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -899,8 +904,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-（魔法が掻き消される！？）[p]
+#【Ai・Shujun】
+(My magic is being nullified!?)[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -922,16 +927,17 @@
 [tb_chara_shake  name="ai_1"  direction="x"  count="2"  swing="20"  time="200"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「・・・く…ぁ…っ」[p]
+#【Ai】
+"...g...ah...h"[p]
 [_tb_end_text]
 
 [chara_move  name="ai_1"  anim="true"  time="300"  effect="easeInQuad"  wait="true"  left="-61"  top="91"  width="375"  height="600"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_18.png"  ]
 [tb_start_text mode=3 ]
-#【アイ】
-（どうして魔法が？ まさかこの学園の結界には魔封じが！？[r]
-でも、魔法は発動してから消えた…という事は……っ）[r]
+#【Ai】
+(Why is my magic not working? Could it be a magic-sealing barrier in[r]
+this school? But the magic disappeared after it was activated...which[r]
+means...!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -946,23 +952,24 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「なにやってンのよ秋俊！相手が女だからって躊躇-ためら-ったワケ？！」[p]
+#【Rin】
+"What are you doing, Akishun! Did you hesitate because she's a girl?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_18.png"  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「違う！ この学園の結界には魔力吸収が絡められてる！学園の中心地、つまり奴の居る場所では魔法が掻き消されてしまうんだ！」[p]
+#【Ai・Shuushun】
+"No! The barrier around this school absorbs magical power! In the[r]
+center of the school, where he is, magic gets nullified!"[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_17.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15_2.png"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「…ッ…そんな真似が出来るのはヤツしか居ない、[r]
-間違いなくシンの入れ知恵ね。 傷は！？」[r]
+#【Rin】
+"...Tch... The only one who could pull off such a trick is him, it's[r]
+definitely Shin's doing. How's the wound!?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -970,13 +977,13 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「…まだやれる！ 瞳さんはどうなった？」[p]
+#【Ai・Shujun】
+"...I can still fight! What about Hitomi-san?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【リン】
-「…絶対即死したと思ったんだけど、生きてたわ」[p]
+#【Rin】
+"...I thought she was definitely dead on the spot, but she's alive."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -987,9 +994,9 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【リン】
-「一応、応急処置程度に魔法は掛けてあげたけど、[r]
-流石に暫く意識は戻らないでしょーね…」[r]
+#【Rin】
+"I've applied some emergency magic to her, but she won't regain[r]
+consciousness for a while..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1004,8 +1011,10 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「それより問題はあのチビをヤるのに手間が掛かるってことよ！　アンタ達は結界探してぶっ壊しなさい、それまでアイツはアタシが引き付けるわ！」[p]
+#【Rin】
+"More importantly, the problem is that it's taking too much effort to[r]
+take down that brat! You guys go find and destroy the barrier; I'll[r]
+keep him occupied until then!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1013,9 +1022,9 @@
 [chara_mod  name="maikai"  time="750"  cross="false"  storage="chara/7/maikai_4_01.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【アイ・秋俊】
-「大丈夫なのかリン!? 魔法が効かない分、[r]
-瑠璃男やマユより厄介な相手だぞ！」[r]
+#【Ai・Shujun】
+"Are you sure you can handle it, Rin!? Without magic, he's a more[r]
+troublesome opponent than Ruriotoko or Mayu!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1023,20 +1032,21 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【リン】
-「このアタシを誰だと思ってるワケ!? ダメージ受けてる自分達の心配をしろっつの！」[p]
+#【Rin】
+"Who do you think I am!? Worry about yourselves since you're the ones[r]
+taking damage!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「…わかった、頼むぞ、持ち堪えてくれ！」[p]
+#【Ai・Shuushun】
+"...Understood, I'm counting on you, hang in there!"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_4_02.png"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「これからが見所だってのに悠長に結界破壊？[r]
-アハハ！無駄無駄！もう遅いんだよっ！」[r]
+#【Rose】
+"The main event is just starting and you're leisurely breaking[r]
+barriers? Ahaha! Futile, futile! It's already too late!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1050,9 +1060,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「さぁ！『扉』を開くよ！？[r]
-渇目して見るがいいッ！」[r]
+#【Rose】
+"Now! Open the 'door'! Feast your eyes on this!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1070,8 +1079,8 @@
 [wait  time="250"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「チッ！ そう易々と…」[p]
+#【Rin】
+"Tch! Not so easily..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1091,8 +1100,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「號焔-ごうえん-！」[p]
+#【Rin】
+"Gouen!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1102,8 +1111,8 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「…ッ、マジで吸われるみたいね」[p]
+#【Rin】
+"...Tch, it really feels like it's being sucked away."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1113,8 +1122,8 @@
 [playse  volume="100"  time="1000"  buf="1"  storage="basa03.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「おっと！」[p]
+#【Rin】
+"Oops!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1131,9 +1140,10 @@
 [chara_move  name="rin_1"  anim="true"  time="300"  effect="easeInQuad"  wait="true"  left="420"  top="0"  width="375"  height="600"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【リン】
-（やっぱり結界を何とかしないとダメね、いっそ私も壊しに？[r]
-いや、目を離せば一気に事を進められ兼ねない）[r]
+#【Rin】
+"(I definitely need to do something about the barrier, maybe I should[r]
+break it myself? No, if I take my eyes off him, he might proceed with[r]
+his plan all at once.)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1144,14 +1154,16 @@
 [chara_hide  name="rin_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="rin_2"  time="50"  wait="true"  storage="chara/15/rin3_02.png"  width="656"  height="600"  left="397"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【リン】
-（なにより半年前の時と明らかに様子が違う敵の目的が、万一あのメスガキを使ってシンを『再誕』することだったりしたら目も当てられない！）[p]
+#【Rin】
+"(Above all, the enemy's purpose is clearly different from half a year[r]
+ago, and if by any chance they're using that brat to 'rebirth' Shin,[r]
+it would be disastrous!)"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【リン】
-（阻止出来ないまでも遅らせる事くらいなら出来る！[r]
-戦いの本番はアイと秋俊が結界を破ってから！！）[r]
+#【Rin】
+"(Even if I can't stop it, I can at least delay it! The real battle[r]
+begins once Ai and Akishun break the barrier!!)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1160,8 +1172,8 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「ゲンさん！もう無理だ！」[p]
+#【Kuzu】
+"Gen-san! It's no use anymore!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1171,8 +1183,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「ッ！？」[p]
+#【Rin】
+"Tch!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1212,9 +1224,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【沙婆斗】
-「フ～…ッ フ～…ッ[r]
-グルルゥウウウウゥゥ…ッ」[r]
+#【Sabato】
+"Hoo... Hoo... Grrrrrrrrr..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1222,17 +1233,16 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【リン】
-（！？　あのデカブツ暴走しかかってる!?）[p]
+#【Rin】
+"(!? That big guy is starting to go berserk!?)"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_show  name="kuzu_2"  time="250"  wait="true"  storage="chara/2/kuzu_1_10.png"  width="688"  height="600"  left="25"  top="66"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「ゲンさん下がってくれ！[r]
-これ以上はいくらゲンさんでも身が持たねぇ！」[r]
+#【Kuzu】
+"Gen-san, please fall back! Even you won't last any longer with this!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1240,16 +1250,17 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「…なら…ぬ！ アレは今に地獄と繋がる…さすれば世は混沌と化そう！ 血の騒ぎ…止めねばならぬ！」[p]
+#【Sabato】
+"...then... no! That thing will soon connect to hell... and then the[r]
+world will turn into chaos! The bloodshed... must be stopped!"[p]
 [_tb_end_text]
 
 [chara_show  name="saeko"  time="250"  wait="false"  storage="chara/11/saeko_2_24.png"  width="438"  height="600"  left="-120"  top="57"  reflect="false"  ]
 [tb_start_text mode=3 ]
-#【冴子】
-「だが既に我々だけでは脱出不能なんだ！[r]
-瞳も回収せねばならん！お前の役目とやらを邪魔して悪いが頼む！[r]
-今少し手を貸してくれ、幻真 沙婆斗！」[r]
+#【Saeko】
+"But we're already at a point where we can't escape on our own! We[r]
+need to retrieve Hitomi too! Sorry to interfere with your duty, but[r]
+please help us out a bit longer, Genma Sabato!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1259,17 +1270,16 @@
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_25.png"  ]
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_1_19.png"  width="363"  height="600"  reflect="true"  left="-57"  top="118"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「沙婆斗…！」[p]
+#【Kotora】
+"Sabato...!"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
 [chara_show  name="rin_1"  time="50"  wait="true"  storage="chara/13/rin2_15_2.png"  width="375"  height="600"  left="503"  top="98"  reflect="false"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「ちょっとちょっと！あんた達まだ粘ってたわけ！？[r]
-此処はアタシ達に任せて脱出しなさい！[r]
-結界の壁に穴開けるくらいアンタなら出来るでしょ？」[r]
+#【Rin】
+"Hey hey! You guys are still sticking around!? Leave this place to us[r]
+and escape! You can make a hole in the barrier wall, can't you?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1277,14 +1287,14 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「むぅ、だが戦乙女よ、おぬし１人だけでは…」[p]
+#【Sabato】
+"Hmm, but valkyrie, you alone..."[p]
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_2.png"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「戦乙女って…なんつー古い呼び方を…」[p]
+#【Rin】
+"Valkyrie... what an old-fashioned way to call someone..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1294,8 +1304,8 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15_2.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【リン】
-「！？ しまった…！」[p]
+#【Rin】
+"!? Damn it...!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1322,8 +1332,9 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #
-『ソレ』は中庭の中央に位置する噴水の奥底から[r]
-オブジェを破壊し天を突く形で見る間に全貌を顕わにした[r]
+"It" revealed its full form in an instant by breaking through the[r]
+object in the depths of the fountain located in the center of the[r]
+courtyard and piercing the sky.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1332,7 +1343,9 @@
 
 [tb_start_text mode=1 ]
 #
-少女を飲み込み互いに絡み合い成した形は巨大な樹木の様だったが、その歪さ強大さ禍々しさには見る者に嫌悪を抱かさせる漆黒の圧力があった。[p]
+The shape that engulfed the girl and intertwined with each other[r]
+resembled a giant tree, but its crookedness, enormity, and malevolence[r]
+exerted a black pressure that made onlookers feel revulsion.[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1340,8 +1353,8 @@
 [wait  time="1500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「・・・ふ…フフフふふ…っ」[p]
+#【Rose】
+"...heh... Hehehehehe..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1349,8 +1362,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「キャハハハハハハハハハッ♪！」[p]
+#【Rose】
+"Kyahahahahahahaha!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1363,9 +1376,9 @@
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin2_15_2.png"  width="375"  height="600"  reflect="true"  left="393"  top="0"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【リン】
-（不味い！デカイのも中の血に影響受けてるみたいだけど、[r]
-あの大樹は破壊や誕生を目的としたモノじゃ無いわ！）[r]
+#【Rin】
+"(This is bad! The big one seems to be affected by the blood inside[r]
+too, but that giant tree isn't meant for destruction or birth!)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1373,9 +1386,10 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【リン】
-（闇への干渉！深く暗い位置に在る黄泉-よみ-・幽世-かくりょ-へと根を伸ばし常世-とこよ-との扉と成る事を目的としてる！[r]
-狙いは『再誕』じゃなくて帰還！『黄泉返り』だったんだ！）[r]
+#【Rin】
+"(Interference with darkness! It's extending its roots towards Yomi,[r]
+the deep and dark realm, aiming to become a door to Tokoyo. Its goal[r]
+isn't 'rebirth' but 'return from Yomi'!)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1383,8 +1397,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【リン】
-「シンの奴あの世に逃げ込んでたってワケね！？」[p]
+#【Rin】
+"So Shin was hiding in the afterlife all along!?"[p]
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/slash02.ogg"  ]
@@ -1392,9 +1406,8 @@
 [chara_show  name="rin_2"  time="50"  wait="true"  storage="chara/15/rin3_03.png"  width="656"  height="600"  left="381"  top="0"  reflect="false"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【リン】
-「忌々しいったらない！[r]
-未だ結界は破れないの!? アイ！秋俊！」[r]
+#【Rin】
+"How infuriating! Is the barrier still not broken!? Ai! Akishun!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1422,10 +1435,10 @@
 [wait  time="1500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【アイ・秋俊】
-「クッ…コイツにも魔力を奪う仕掛けが施されてる…っ[r]
-人間数人分の血と魂で練成された呪具・結界石！[r]
-対魔法戦士用の罠…確実に錬金術師の…シンの入れ知恵だ！」[r]
+#【Ai・Shujun】
+"Guh... This thing also has a mechanism to drain magical power... A[r]
+cursed tool made from the blood and souls of several humans. A barrier[r]
+stone! A trap for anti-magic warriors... Definitely Shin's handiwork!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1435,8 +1448,8 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_19.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「クソぉッ！」[p]
+#【Ai】
+"Damn it!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1457,22 +1470,22 @@
 [chara_show  name="ai_1"  time="50"  wait="true"  storage="chara/12/ai02_05_18.png"  width="375"  height="600"  reflect="false"  left="478"  top="0"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【アイ】
-「ハァ…ハァ…ハァ…っ」[p]
+#【Ai】
+"Ha... Ha... Ha..."[p]
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_17.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【秋俊】
-（大丈夫かアイ？！）[p]
+#【Qiushun】
+"(Are you okay, Ai?!)"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【アイ】
-（…思ってた以上に用意周到に策が施されてる！[r]
-最低でも後一箇所崩さないとこの結果は破れない！）[r]
+#【Ai】
+"(...The preparations are more thorough than I thought! We need to[r]
+break at least one more spot before this barrier can be destroyed!)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1481,9 +1494,10 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【秋俊】
-（…急いで後一箇所探すぞ！[r]
-魔力切れも怖いがリンと皆が心配だ！）[r]
+#【Qiushun】
+"(...We need to hurry and find the last spot! I'm worried about[r]
+running out of magical power, but I'm more worried about Rin and[r]
+everyone else!)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1491,8 +1505,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【アイ】
-（うん！）[p]
+#【Ai】
+"(Yeah!)"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1511,13 +1525,15 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「…フン、礎石が１つ壊されたか…」[p]
+#【Rose】
+"...Hmph, so one of the foundation stones has been destroyed..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【玫瑰】
-「あの人の帰還に必要なチカラは十分だし、ボクとあの人の感動の再開に歯噛みして悔しがるギャラリーには居て欲しかったんだけど…仕方がないなぁ」[p]
+#【Rose】
+"The power needed for his return is sufficient, and I wanted the[r]
+spectators to gnash their teeth in frustration at our emotional[r]
+reunion... but it can't be helped."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1528,9 +1544,9 @@
 [tb_show_message_window  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「予定を繰り上げて[r]
-先に大掃除でもやっちゃうかぁ♥」[r]
+#【Rose】
+"Maybe I'll just move up the schedule and start the big cleanup[r]
+first♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1553,18 +1569,18 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「な…なんだ！？」[p]
+#【Saeko】
+"What... what's happening!?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【小虎】
-「冴子！ 瞳が…！」[p]
+#【Kotora】
+"Saeko! Hitomi is...!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【冴子】
-「！？」[p]
+#【Saeko】
+"!"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1581,8 +1597,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「かっ、影に…沈んでゆくだと！？」[p]
+#【Saeko】
+"She's sinking into the shadow!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1602,14 +1618,14 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【小虎】
-「嫌っ！？ 足が！？？」[p]
+#【Kotora】
+"No way!? My legs!??"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【冴子】
-「くぅっ…こんなのどうしろってのよォ!?」[p]
+#【Saeko】
+"Grr... What am I supposed to do with this!?"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1623,8 +1639,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-「庭野！ 冴子先生…おわぁっ！？」[p]
+#【Kuzu】
+"Niwa! Ms. Saeko... oh nooo!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1634,8 +1650,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「グウウ…ッ……オ…ノ…レ…！」[p]
+#【Sabato】
+"Grrr... O... No... Re...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1651,10 +1667,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「うわッ！？ げ、ゲンさん！[r]
-そいつぁダメだ！ 今正気を失ったら[r]
-脱出どころじゃなくなっちまう!!」[r]
+#【Kuzu】
+"Whoa!? Hey, Gen-san! That's bad! If you lose your sanity now,[r]
+escaping will be the least of our worries!!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1673,15 +1688,15 @@
 [font  size="30"  color="0xffffff"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【沙婆斗】
-「グォオッ？！？」[p]
+#【Sabato】
+"Gwoah?!?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【葛生】
-「ゲンさん…！……クソッ…こんなのってアリかよ……[r]
-…綺沙ちゃん………ほむ…ら………っ」[r]
+#【Kuzu】
+"Gen-san...! Damn it... Can this even be happening... ...Kisa-chan...[r]
+Homu... ra..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1700,15 +1715,15 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「小虎！  瞬作！？」[p]
+#【Rin】
+"Kotora! Shunsaku!?"[p]
 [_tb_end_text]
 
 [chara_hide  name="rin_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="rin_2"  time="50"  wait="true"  storage="chara/15/rin3_03.png"  width="656"  height="600"  left="243"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「こんのぉお…ッ！」[p]
+#【Rin】
+"You little...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1725,8 +1740,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【リン】
-「セコ餓鬼がぁ！」[p]
+#【Rin】
+"You damn brats!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1747,10 +1762,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「きゃはははは！ まだ解らないのか?![r]
-魔法の使えない魔法戦士なんて[r]
-ただのメスガキに過ぎないんだよぉ！」[r]
+#【Rose】
+"Kyahahahaha! Still don't get it, do you?! A magic warrior who can't[r]
+use magic is nothing more than a little girl!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1760,8 +1774,8 @@
 [resetfont  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「ｱｯﾊﾊﾊﾊﾊﾊﾊﾊﾊﾊ!!!」[p]
+#【Rose】
+"Ahahahahahahaha!!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1785,8 +1799,8 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「・・・そ・・・そんな・・・！？」[p]
+#【Ai・Shujun】
+"...No... No way...!?"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1797,8 +1811,8 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #【？？？】
-『…結界破壊ごくろうさま！[r]
-あんまり遅いからみんな片付けちゃったよ♪』[r]
+"Thanks for your hard work on the barrier destruction! You were so[r]
+slow that I went ahead and cleaned up everyone♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1807,13 +1821,14 @@
 
 [chara_show  name="ai_1"  time="250"  wait="true"  storage="chara/12/ai02_05_17.png"  width="375"  height="600"  left=""  top=""  reflect="true"  ]
 [tb_start_text mode=1 ]
-#【アイ・秋俊】
-「・・・ッ」[p]
+#【Ai・Shuushun】
+"...!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #【？？？】
-『魔力をゴッソリ消費してお疲れなトコ悪いんだけどさぁ』[p]
+"Sorry to bother you when you're tired from using up so much magical[r]
+power♪"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1827,8 +1842,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【妖樹・玫瑰】
-『ラストバトル…始めようか…♥』[p]
+#【Bewitching Tree・Meigui】
+"Let's begin the final battle...♥"[p]
 [_tb_end_text]
 
 [resetfont  ]

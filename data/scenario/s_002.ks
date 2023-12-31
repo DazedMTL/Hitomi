@@ -15,9 +15,9 @@
 [stopse  time="1000"  buf="0"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【学園長】
-「いやぁ、それにしてもこの時期に貴女の様な[r]
-優秀な方に赴任して頂けて本当に助かりました」[r]
+#【School Principal】
+"Ah, it's truly a relief to have someone as excellent as you join us[r]
+at this time of the year."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -26,10 +26,10 @@
 
 [chara_move  name="gaku"  anim="true"  time="200"  effect="easeInQuad"  wait="true"  left="130"  top="0"  width="500"  height="600"  ]
 [tb_start_text mode=3 ]
-#【学園長】
-「少子化で生徒数が減っているとはいえ[r]
-今やどの業界も深刻な人材不足でしょう、[r]
-当学園も教師不足に頭を抱えておりましてなぁ…」[r]
+#【School Principal】
+"Despite the declining number of students due to the low birthrate,[r]
+every industry is facing a serious shortage of personnel these days.[r]
+Our academy is also struggling with a lack of teachers..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -39,9 +39,9 @@
 [chara_move  name="gaku"  anim="true"  time="200"  effect="easeInQuad"  wait="true"  left="-50"  top="0"  width="500"  height="600"  ]
 [chara_mod  name="gaku"  time="200"  cross="false"  storage="chara/5/gaku_1_02_2.png"  ]
 [tb_start_text mode=3 ]
-#【学園長】
-「本当によくぞ我が産土<うぶすな>学園に[r]
-お越し下さいました、天王寺先生！」[r]
+#【School Principal】
+"It's really fortunate that you've come to our Ubuna Academy, Teacher[r]
+Tennoji!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -51,10 +51,9 @@
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_2.png"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_01_2.png"  width="406"  height="600"  left="400"  top="0"  reflect="false"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「いえ、コチラこそ急な予定繰りにも関わらず[r]
-私の様な若輩者を歓迎して下さってありがとうございます。[r]
-博山<ばくざん>学園長」[r]
+#【Hitomi】
+"No, I should be the one thanking you for welcoming someone as[r]
+inexperienced as me on such short notice, Principal Baku-san."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -68,10 +67,10 @@
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_04.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…ホント、驚くほどすんなり迎え入れてくれたわ…[r]
-来る者拒まずなのか[r]
-私の正体に既に気付いた上での対応なのか…）[r]
+#【Hitomi】
+"(...Really, they accepted me so smoothly... I wonder if it's because[r]
+they're desperate for anyone or if they've already figured out who I[r]
+really am...)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -79,15 +78,17 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（博山岩男<ばくざんいわお>…２年前に突然学園長に就任して以来、特別学級を設立するなど大規模な改革を行っている男…）[p]
+#【Hitomi】
+"(Baku-san Iwao... A man who suddenly became the principal two years[r]
+ago and has been implementing major reforms, such as establishing[r]
+special classes...)"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（何のツテも持たない筈のこの男が学園長に就任出来た背景には[r]
-アルケー社の関与ありって報告だけど、[r]
-なるほど一癖も二癖もありそうな男ね…）[r]
+#【Hitomi】
+"(There are reports that Alkei Corporation is involved in how this man[r]
+with no connections became the principal. Indeed, he seems like a man[r]
+with more than a few quirks...)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -96,9 +97,10 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（特にこのガタイ…武道か何か嗜んでる…相当デキそうだわ。[r]
-一見弛<たる>んだ贅肉腹に見える胴回りも含めて全身が筋肉の塊…まるで鎧を纏っているみたい）[r]
+#【Hitomi】
+"(Especially his build... He must practice martial arts or[r]
+something... He seems quite capable. Even his seemingly flabby belly[r]
+looks like it's all muscle, as if he's clad in armor.)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -106,8 +108,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（力尽くで取り押さえる事になったら文字通り骨が折れそうね…）[p]
+#【Hitomi】
+"(If it comes down to physically restraining him, it'll literally be a[r]
+tough break...)"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -115,16 +118,16 @@
 [chara_mod  name="gaku"  time="200"  cross="false"  storage="chara/5/gaku_1_01_4.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【博山】
-「おや、天王寺先生？どうされました」[p]
+#【Boshan】
+"Oh, Teacher Tennoji? What's the matter?"[p]
 [_tb_end_text]
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_3.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_06.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「あ…すみません、受け持たせて頂く事になった[r]
-クラスの事が気になってしまいまして…」[r]
+#【Hitomi】
+"Ah... I'm sorry, I was just thinking about the class I'm going to be[r]
+in charge of..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -133,10 +136,9 @@
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_02_2.png"  ]
 [tb_start_text mode=3 ]
-#【博山】
-「あぁなるほど、ははは…[r]
-初めに『特別』とお話してしまった所為で[r]
-気を張らせてしまいましたかな」[r]
+#【Boshan】
+"Ah, I see, haha... Perhaps I made you tense by mentioning 'special'[r]
+at the beginning."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -146,16 +148,16 @@
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_2.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「えぇ、まぁ…少し緊張してます」[p]
+#【Hitomi】
+"Yes, well... I'm a bit nervous."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_14_1.png"  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_02_2.png"  ]
 [tb_start_text mode=3 ]
-#【博山】
-「それほど構える必要などありませんよ[r]
-同年代の生徒達と同様に接して頂ければ結構です」[r]
+#【Boshan】
+"There's no need to be so formal. You can interact with them just like[r]
+you would with students of the same age."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -164,10 +166,10 @@
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_4.png"  ]
 [tb_start_text mode=3 ]
-#【博山】
-「そう、彼等は身の上にこそ事情を抱えてはいますが[r]
-その心も身体も至って健全で健康…[r]
-同世代の生徒達と何ら違いは無いのです」[r]
+#【Boshan】
+"Yes, although they have their own circumstances, their hearts and[r]
+bodies are perfectly healthy... There's no difference from other[r]
+students of their age."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -175,30 +177,32 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【博山】
-「故に哀れみや同情といった特別な目で見たり接する事だけはなさらないで頂きたい」[p]
+#【Boshan】
+"Therefore, I would like you to refrain from treating them with pity[r]
+or sympathy."[p]
 [_tb_end_text]
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_3.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ご心配には及びません。私は全力で体当たりし、また受け止める覚悟を持って生徒と接する事を信条としています」[p]
+#【Hitomi】
+"You needn't worry. It's my principle to engage with students[r]
+wholeheartedly and be prepared to support them."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_01_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「今も生徒達に物怖じしない様に、それでいてやり過ぎない様にと自分に言い聞かせていただけですわ」[p]
+#【Hitomi】
+"Right now, I'm just reminding myself to be fearless yet not overdo it[r]
+with the students."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_01.png"  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_02_2.png"  ]
 [tb_start_text mode=3 ]
-#【博山】
-「おお、そうでしたか！[r]
-逸<はや>っておいでだったのですなぁ！[r]
-いやぁ実に頼もしい！」[r]
+#【Boshan】
+"Oh, is that so! You were just getting ahead of yourself! How[r]
+reassuring!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -207,40 +211,46 @@
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_02.png"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「では少し急ぎましょう、生徒達も新しい先生の登場に期待で胸を膨らませていることでしょうから」[p]
+#【Boshan】
+"Then let's hurry a little. The students must be eagerly waiting for[r]
+their new teacher's arrival."[p]
 [_tb_end_text]
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「あの…その事なんですが…前任の先生が急に辞められた理由をお伺いしても宜しいでしょうか…？」[p]
+#【Hitomi】
+"Um... about that... may I ask why the previous teacher left so[r]
+suddenly?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_1.png"  ]
 [stopbgm  time="1500"  fadeout="true"  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_3.png"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「・・・・・・・・・・」[p]
+#【Boshan】
+"..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_02.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…うーん、どデカい割りに感情を読み辛い顔ねぇ…）[p]
+#【Hitomi】
+"(...Hmm, for such a big guy, his face is hard to read...)"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（この学園が複数の行方不明事件を抱えている事は業界にも世間にもある程度周知済み…適当に返事を濁せば私が警戒させて貰える口実になるワケだけど、さぁどう答えてくれるのかしら？）[p]
+#【Hitomi】
+"(It's fairly well known in the industry and to the public that this[r]
+academy has had several missing person cases... If he gives me a vague[r]
+answer, it'll be a good excuse for me to be on guard. But how will he[r]
+respond, I wonder?)"[p]
 [_tb_end_text]
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_4.png"  ]
 [tb_start_text mode=3 ]
-#【博山】
-「…残念ながら、我が学園の方針や理念と反りが合わなかったからでしょうなぁ。」[r]
+#【Boshan】
+"...Unfortunately, it was probably because their views did not align[r]
+with the policies and philosophy of our academy."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -250,9 +260,9 @@
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_3.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_07_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「…それは学園長が打ち出された[r]
-未来を担う健全な若者の育成…という…？」[r]
+#【Hitomi】
+"...Is that related to the policy you've implemented for nurturing[r]
+healthy young people who will shape the future...?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -260,15 +270,18 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（方針の転換に１番文句言うのは精々前体制を知る古参や中間層の職員くらいでしょうに…まだルールに染まって無い若い新任教師がコロコロ居なくなる理由としてソレは流石にどうなのかしら？）[p]
+#【Hitomi】
+"(Usually, the ones who complain about policy changes are at most the[r]
+old-timers and middle management who know the previous system... It[r]
+seems unlikely that young new teachers would leave so frequently for[r]
+that reason.)"[p]
 [_tb_end_text]
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_04.png"  ]
 [tb_start_text mode=3 ]
-#【博山】
-「…えぇ。[r]
-時に、天王寺先生は今の日本をどう思われます？」[r]
+#【Boshan】
+"...Yes. By the way, Teacher Tennoji, what do you think about Japan's[r]
+current situation?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -278,9 +291,9 @@
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_03.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「え？」[r]
-（…話題を変える気？　それとも自分の教育理念に私が賛同しているかどうかの探りかしら？）[r]
+#【Hitomi】
+"Eh?" (Is he changing the subject? Or is he probing whether I agree[r]
+with his educational philosophy?)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -289,13 +302,16 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「そ…そうですねぇ…世界的な不況の煽り等もあって苦しい状況に置かれているのではないか…と…」[p]
+#【Hitomi】
+"Well... I think it's in a difficult situation due to the global[r]
+recession and other factors..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-ちょっと漠然とした返答かもしれないけど…質問の意図が定かじゃ無い以上、コッチも当たり障りの無い無難な回答で反応を見るしかないわ…[p]
+It might be a bit of a vague response, but since I'm not sure what[r]
+he's getting at with his question, all I can do is give a safe answer[r]
+and watch his reaction...[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -307,8 +323,9 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #
-背を向けた学園長から何かの間違いではと思えるほどハッキリとした筋肉の硬縮音がきこえ、[r]
-廊下の窓ガラスに映っていた表情も変貌しているのが伺えた…[r]
+I could hear a distinct sound of muscle tensing from Principal Boshan[r]
+who had turned his back on me, and I could tell from his reflection in[r]
+the hallway window that his expression had changed...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -316,16 +333,16 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【博山】
-「・・・・・・・・・」[p]
+#【Boshan】
+"..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_13_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（わーぉ…今度は露骨に態度に出して来たわね。[r]
-質問の目的は話題逸らしを兼ねた同調圧力って所かしら…[r]
-新任相手になんて強引、パワハラだわ）[r]
+#【Hitomi】
+"(Wow... Now he's blatantly showing his attitude. It seems like he was[r]
+using pressure to conform along with diverting the topic... How[r]
+forceful, it's practically harassment towards a new teacher.)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -334,9 +351,9 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_11.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（まぁ歯痒いかな私は潜入捜査官…[r]
-少しでも穏便に動いて相手に取り入らなきゃダメなのよね…）[r]
+#【Hitomi】
+"(Well, it's frustrating but I'm an undercover investigator... I have[r]
+to act calmly and ingratiate myself with him somehow...)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -345,9 +362,8 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_04.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（と、いうワケで[r]
-一発ご機嫌取り＆媚びでも売っておきますか…！）[r]
+#【Hitomi】
+"(So, let's try to cheer him up and butter him up with one shot...!)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -357,9 +373,9 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber41.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_11_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「コホン!　しかしあえて問題点を挙げるとすれば、[r]
-この国に蔓延る腐敗した側面の存在でしょうか」[r]
+#【Hitomi】
+"Ahem! However, if I were to point out a problem, it would be the[r]
+pervasive corruption in this country."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -371,18 +387,18 @@
 [chara_show  name="gaku"  time="50"  wait="true"  storage="chara/5/gaku_1_01_5.png"  width="500"  height="600"  left="-50"  top=""  reflect="false"  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「！」[p]
+#【Boshan】
+"!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_4.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「今や政界・経済界はモチロンですが、[r]
-社会の至る所で不正が行われています！」[r]
-（当然この教育機関もなんだけど…！）[r]
+#【Hitomi】
+"Nowadays, corruption is rampant not only in politics and economics[r]
+but in all aspects of society!" (Of course, that includes this[r]
+educational institution...!)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -390,31 +406,37 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「これは過去から続く古く悪しき慣習からなる大小様々な不正が積もりに積もり取り除き難い腐敗と成って今の日本の根底に絡み付いているからと言っても過言では無いでしょう…」[p]
+#【Hitomi】
+"It wouldn't be an exaggeration to say that various forms of[r]
+corruption stemming from old and bad customs have accumulated over[r]
+time and become difficult to eradicate, entwining themselves at the[r]
+very foundation of modern Japan..."[p]
 [_tb_end_text]
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_6.png"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「…ほぅ…！」[p]
+#【Boshan】
+"Hmm...!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「この腐敗部分が足枷となって日本からかつての勢いを奪い様々な分野で世界から遅れを取りつつある今…」[p]
+#【Hitomi】
+"This corruption has become a shackle, stealing the momentum Japan[r]
+once had and causing us to fall behind in various fields in the world[r]
+today..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_12_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「その腐敗を断ち切りこの国を支え導く者が必要であると言えます…それは…！」[p]
+#【Hitomi】
+"It can be said that we need someone to sever this corruption and lead[r]
+this country..."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「それは…！？」[p]
+#【Boshan】
+"That someone is...!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -434,29 +456,30 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「貴方です、学園長！」[p]
+#【Hitomi】
+"You, Principal!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_3.png"  ]
 [chara_mod  name="gaku"  time="250"  cross="false"  storage="chara/5/gaku_1_01_3.png"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「……………………………」[p]
+#【Boshan】
+"..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_13_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（ありゃ、媚びが過ぎてわざとらしかったかしら…？）[p]
+#【Hitomi】
+"(Oh, was that too much flattery? Did it come off as insincere...?)"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「そ、そう！学園長が設立された特別学級の生徒達こそ[r]
-日本の将来を背負って立つ存在であると思います…！」[r]
+#【Hitomi】
+"Yes, that's right! The students of the special class you established[r]
+are the ones who will carry the future of Japan on their[r]
+shoulders...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -475,22 +498,22 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「この学園の生徒達です！」[p]
+#【Hitomi】
+"It's these students!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_3.png"  ]
 [chara_mod  name="gaku"  time="250"  cross="false"  storage="chara/5/gaku_1_01_3.png"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「……………」[p]
+#【Boshan】
+"..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（んん…？　いまひとつな反応だわ…）[r]
+#【Hitomi】
+"(Hmm...? His reaction is somewhat lacking...)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -499,9 +522,10 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「そ、そう！学園長が設立された特別学級の生徒達こそ[r]
-日本の将来を背負って立つ存在であると思います…！」[r]
+#【Hitomi】
+"Yes, that's right! The students of the special class you established[r]
+are the ones who will carry the future of Japan on their[r]
+shoulders...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -522,8 +546,8 @@
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_13_2.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「……あのぉ…学園長ぉ…？」[p]
+#【Hitomi】
+"...Um, Principal...?"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -535,9 +559,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ば…博山学園長！？」[r]
-（その反応はどっちなのよぉ！？）[r]
+#【Hitomi】
+"Pr-Principal Boshan!?" (Which way is his reaction going!?)"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -547,21 +570,21 @@
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_8.png"  ]
 [tb_start_text mode=1 ]
-#【博山】
-「…て…天王寺…瞳先生ぇ…！」[p]
+#【Boshan】
+"...Te-Tennoji... Hitomi-sensei...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_13_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「はい…なんでしょう…」[p]
+#【Hitomi】
+"Yes... What is it...?"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【博山】
-「貴女になら、あの学級の生徒達をお任せしても[r]
-何の問題も無いと確信しました…ッ！」[r]
+#【Boshan】
+"I am convinced that there would be no problem entrusting those[r]
+students to you...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -572,8 +595,8 @@
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_7.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_7.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「………光栄です……」[p]
+#【Hitomi】
+"...It's an honor..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -582,8 +605,8 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（……取り合えず…セーフかな…）[p]
+#【Hitomi】
+"(...For now... Safe, I guess...)"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -593,20 +616,26 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【博山】
-『瞳先生…何を隠そう私は今のこの国を憂い将来を案じております。それは先生の指摘された腐敗の存在によるものです…』[p]
+#【Boshan】
+"Hitomi-sensei... To tell you the truth, I am concerned about the[r]
+current state of this country and its future. It is because of the[r]
+corruption you pointed out..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【博山】
-『特に国の方針、舵を取る政治の腐敗が顕著です。この腐敗を取り除くには国民が目を覚ます必要もありますが、残念ながらそれだけで肥え太った腐敗を取り除くことは不可能に近いでしょう…』[p]
+#【Boshan】
+"Especially the corruption in politics, which steers the direction of[r]
+the country. To remove this corruption, it is necessary for the[r]
+citizens to awaken, but unfortunately, it is nearly impossible to[r]
+remove the entrenched corruption with that alone..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【博山】
-『必要なのは心身ともに健康で健全で[r]
-正しい知識と経験を得た若者達です。[r]
-老いて思想も思考も凝り固まってからでは遅すぎる』[r]
+#【Boshan】
+"What we need are young people who are both physically and mentally[r]
+healthy and have acquired the right knowledge and experience. It's too[r]
+late once they've aged and their thoughts and ideologies have become[r]
+rigid."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -615,10 +644,10 @@
 
 [bg  time="500"  method="crossfade"  storage="haikei/school01.jpg"  ]
 [tb_start_text mode=3 ]
-#【博山】
-『年長者の強みはその人生経験から成る知識と経験のみ、[r]
-ですがそんなモノは『教育』で補うことが出来る…いや、[r]
-その為こその教育ではありませんか』[r]
+#【Boshan】
+"The strength of the elderly lies only in their knowledge and[r]
+experience from life, but such things can be compensated for with[r]
+'education'... No, isn't that what education is all about?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -626,19 +655,24 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【博山】
-『義務教育により誰もが等しく最低限の知識と教養を与えられ社会に放たれますが、それでは何時まで経っても新しい世代のスタートラインは変わらない…』[p]
+#【Boshan】
+"Compulsory education ensures that everyone is equally provided with a[r]
+minimum level of knowledge and culture before being released into[r]
+society, but this means that the starting line for new generations[r]
+never changes..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【博山】
-『むしろ流動する社会の水準に対し、失策により教育内容や指導の変更が追い付かず、上手く社会に溶け込めない若者さえ生み出される始末です』[p]
+#【Boshan】
+"Rather, due to missteps, changes in educational content and guidance[r]
+fail to keep up with the evolving standards of society, resulting in[r]
+young people who cannot integrate well into society."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【博山】
-『国というものは乗り物に例えられる事が多いですが、[r]
-仮に止まる事の出来ない巨大な列車であるとしましょう』[r]
+#【Boshan】
+"A country is often compared to a vehicle, but let's say it's a huge[r]
+train that cannot stop."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -647,31 +681,38 @@
 
 [bg  time="500"  method="crossfade"  storage="haikei/machi01.jpg"  ]
 [tb_start_text mode=1 ]
-#【博山】
-『老い先短くその都度自分達の都合ばかりが良い路線に切り変えてばかりな老人達の決めた道の先に若者の未来が在ると思いますか？』[p]
+#【Boshan】
+"Do you think the future of young people lies ahead on the path[r]
+decided by old people who constantly switch to routes that are[r]
+convenient for themselves because they have little time left?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【博山】
-『若者達が自分達の運ばれる未来の先に違和感を覚えた所でその列車内には正しい案内板さえ置かれていない。そして列車は直ぐには止まれ無い…』[p]
+#【Boshan】
+"Even if young people feel something is off about their future[r]
+destination, there are no correct guideboards inside that train. And[r]
+the train cannot stop immediately..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【博山】
-『そして若者達がその事にようやく気付いた頃には最早引き返せない地点まで来ている…そう、老いです…』[p]
+#【Boshan】
+"By the time the young people finally realize this, they are already[r]
+at a point where it's too late to turn back... Yes, old age..."[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="haikei/machi02.jpg"  ]
 [tb_start_text mode=1 ]
-#【博山】
-『そうして老いたかつての若者達が仕方無くとっくに下車した老人達が敷いたままの古いレールを継ぎ足しながらまた進む…新たな若人達を乗せて…』[p]
+#【Boshan】
+"And so, the once young people who have aged have no choice but to[r]
+continue on, adding to the old tracks laid down by those who have long[r]
+since disembarked, carrying new young people..."[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [tb_start_text mode=3 ]
-#【博山】
-『これでは堂々巡りだ…過ちを塗り重ね、[r]
-腐敗だけが広がって行く絶望の終着点しか見えない』[r]
+#【Boshan】
+"This is a vicious cycle... Mistakes are repeated, and only despair[r]
+spreads at the terminal point where corruption grows."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -680,10 +721,10 @@
 
 [bg  time="250"  method="crossfade"  storage="haikei/school01.jpg"  ]
 [tb_start_text mode=3 ]
-#【博山】
-『大切なのは今であり未来！[r]
-その未来を背負って立つ若者！！[r]
-そして若者達を教え育む教育機関！！！』[r]
+#【Boshan】
+"What's important is now and the future! The young people who will[r]
+shoulder that future!! And the educational institutions that teach and[r]
+nurture those young people!!!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -692,10 +733,11 @@
 
 [bg  time="250"  method="crossfade"  storage="haikei/school05.jpg"  ]
 [tb_start_text mode=3 ]
-#【博山】
-『若者達にも政治への興味を！！！！[r]
-社会の荒波を乗り越えられるだけの知識と体力を！！！！！[r]
-過ちを繰り返さぬための経験と判断力を！！！！！！』[r]
+#【Boshan】
+"We need to instill an interest in politics in young people!!!! Give[r]
+them the knowledge and physical strength to overcome society's rough[r]
+waves!!!!!!! And the experience and judgment not to repeat[r]
+mistakes!!!!!!!!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -707,9 +749,9 @@
 [chara_show  name="hitomi_1"  time="0"  wait="true"  storage="chara/3/hitomi_1_03.png"  width="406"  height="600"  left="400"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【博山】
-『そして瞳先生…貴女こそ[r]
-次代の担い手達を育める教師だ！』[r]
+#【Boshan】
+"And Hitomi-sensei... You are indeed a teacher who can nurture the[r]
+bearers of the next generation!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -717,15 +759,15 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【博山】
-『期待していますよ…！』[p]
+#【Boshan】
+"I'm counting on you...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_06.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-『…はい』[p]
+#【Hitomi】
+"...Yes"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -737,15 +779,17 @@
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_12.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…とか何とか随分と凝り固まった理念を熱ぅく語ってくれちゃってたけど…結局のところ冴子や複数の教師達が突然辞めて去って行った件へのエクスキューズになってないのよね）[p]
+#【Hitomi】
+"(...And so on. He gave quite a rigid speech passionately... But in[r]
+the end, it doesn't excuse the fact that Saeko and several teachers[r]
+suddenly quit and left.)"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（まぁ“辞めて去って行った”は学園側の表向きな言い分であって[r]
-実際は行方不明にされちゃってるワケだから[r]
-回答をはぐらかして来る事は予測済みだったんだけど…）[r]
+#【Hitomi】
+"(Well, 'quit and left' is what the school officially says, but in[r]
+reality, they've gone missing. I anticipated he would dodge[r]
+answering...)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -754,21 +798,23 @@
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（見てなさい博山岩男！今にその異様にデカい顔に張り付けた化けの皮を引ん剥いてやるんだから！）[p]
+#【Hitomi】
+"(Just you watch, Boshan Iwao! I'll peel off that fake skin stuck to[r]
+your abnormally large face soon enough!)"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_11.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（で・も！ 先ずはもう１つの調査対象である特別学級の生徒達に上手いこと取り入らなきゃね！）[p]
+#【Hitomi】
+"(But first! I need to cleverly ingratiate myself with the students of[r]
+the special class, my other investigation target!)"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_11_4.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（データだとかなり若い子達ばかりの様だし、[r]
-悪事の片棒を担がされてないことを祈るばかりだわ）[r]
+#【Hitomi】
+(According to the data, it seems to be mostly younger kids. I can only[r]
+pray they haven't been forced into any wrongdoing.)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -777,15 +823,16 @@
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_03_12.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（意外と将来有望そうなきゃわゆい男の子との禁断の恋が始まったりなんかしちゃったりして…☆）[p]
+#【Hitomi】
+(I might even start a forbidden romance with a promising-looking cute[r]
+boy...☆)[p]
 [_tb_end_text]
 
 [chara_hide_all  time="500"  wait="true"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（なーんてね♡）[p]
+#【Hitomi】
+(Just kidding♡)[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -797,9 +844,8 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（………………うん、まぁ、[r]
-そんなに甘くは無いだろうとは予測はしていたけど…）[r]
+#【Hitomi】
+(...Well, I did predict it wouldn't be that easy...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -809,10 +855,9 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber41.ogg"  ]
 [playse  volume="90"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=3 ]
-#【生徒ども】
-「先生ぇ！パンツ見せて下さい！」[r]
-「何色なんですかー？」[r]
-「その胸だとブラは特注？」[r]
+#【Students】
+"Sensei! Show us your panties!" "What color are they?" "With those[r]
+breasts, do you need custom bras?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -821,10 +866,9 @@
 
 [playse  volume="90"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=3 ]
-#【生徒ども】
-「彼氏は居るのー？」[r]
-「最近SEXしたの何時？？」[r]
-「お　突　き　合　い　したいなぁ…♥」[r]
+#【Students】
+"Do you have a boyfriend?" "When was the last time you had SEX??" "I[r]
+want to hook up with you...♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -833,10 +877,9 @@
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…この子たち下品…を通り越してゲス過ぎる…[r]
-始まる前から終わってると言うか[r]
-始まりなど未来永劫訪れないと言うか…）[r]
+#【Hitomi】
+(...These kids are beyond vulgar... It's like it's over before it even[r]
+started, or rather, the beginning will never come for eternity...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -844,16 +887,17 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（確かに初日だからってことで質問ドンと来いとは言ったけど何なのコレ？何なのこの子達？？性に興味津々な年頃とはいえ幾らなんでもはっちゃけ過ぎでしょ…）[p]
+#【Hitomi】
+(Sure, I said 'bring on the questions' because it's the first day, but[r]
+what's with this? What's with these kids?? They're way too overexcited[r]
+for their sexually curious age...)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_12.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（あぁー…コレはアレだわ、舐められてるんだわ…[r]
-そう、美人の女性教師は少年達の憧れの的であり[r]
-少女達の嫉妬の対象！）[r]
+#【Hitomi】
+(Ah... This is it, I'm being underestimated... Yes, a beautiful female[r]
+teacher is the object of boys' admiration and girls' jealousy!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -861,26 +905,31 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（男子からは加減なしで鳩尾<みぞおち>を抉る様な言葉のボディブローを叩き込まれ、スカートめくり・過度なスキンシップ・ブラのホック外しといったセクハラ行為を日常的に行われ）[p]
+#【Hitomi】
+(Boys throw body blows with words that dig into my solar plexus[r]
+without restraint, and I'm subjected to daily sexual harassment like[r]
+skirt flipping, excessive touching, and unhooking my bra.)[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（女子からは恨み妬<ねた>み嫉<そね>みに満ち溢れた陰湿で脅迫に近い怪文書とカミソリをプレゼントされ、咎めようと咎めまいと逐一SNSに晒される宿命<さだめ>！）[p]
+#【Hitomi】
+(Girls present me with malicious letters and razors filled with spite,[r]
+envy, and jealousy, and whether I reprimand them or not, I'm[r]
+constantly exposed on social media. It's my fate!)[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（まぁ、このクラスには何故か女生徒が１人も居ないけど…）[p]
+#【Hitomi】
+(Well, there aren't any female students in this class for some[r]
+reason...)[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_6.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（嗚呼美人女教師薄命！[r]
-何て可弱く儚い存在なのかしら！）[r]
+#【Hitomi】
+(Ah, the tragic life of a beautiful female teacher! How fragile and[r]
+fleeting I am!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -890,10 +939,10 @@
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_04.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（って、上等じゃないのよ童貞どもめらめ！[r]
-瞳先生は泣き寝入りする様な玉じゃ無いって事を教えてあげるわ！[r]
-初日から全員放課後まで佇<たたず>みマンの刑・決定よ！）[r]
+#【Hitomi】
+(But that's fine with me, you virgin brats! I'll teach you that Miss[r]
+Hitomi isn't one to take things lying down! As of the first day, all[r]
+of you are sentenced to stand until after school. Decided!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -902,9 +951,8 @@
 
 [stopbgm  time="1000"  fadeout="false"  ]
 [tb_start_text mode=3 ]
-#【少年Ｂ】
-「皆いい加減にしなさい。[r]
-失礼が無い様にと学園長先生も仰ったでしょう？」[r]
+#【Boy B】
+"Everyone, settle down. Didn't the principal say to be respectful?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -913,15 +961,17 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_07_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（……あらま…）[p]
+#【Hitomi】
+(...Oh my...)[p]
 [_tb_end_text]
 
 [chara_hide_all  time="500"  wait="true"  ]
 [bg  time="1000"  method="crossfade"  storage="haikei/room01_2.jpg"  ]
 [tb_start_text mode=1 ]
 #
-鶴の一声…あれだけ騒がしかった教室が水を打った様に静まり返り、無邪気を通り越してやや下卑すぎなほど欲望に歪んでいた少年達の表情も嘘の様に落ち着いた。[p]
+Like a crane's call... The once noisy classroom suddenly became silent[r]
+as water, and the expressions of the boys, which had been innocently[r]
+twisted by too much desire, calmed down as if it were a lie.[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -932,9 +982,10 @@
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【少年Ｂ】
-「申し訳ありません、瞳先生。[r]
-みんな余りに美しい先生が来られたのでつい舞い上がってしまった様です。クラスを代表してお詫びいたします」[r]
+#【Boy B】
+"I apologize, Miss Hitomi. Everyone was just so excited to see such a[r]
+beautiful teacher that they got carried away. On behalf of the class,[r]
+I apologize."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -943,22 +994,22 @@
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…ふぅーん、この子がクラスのリーダーの様ね、小生意気に如何にもボクは優等生ですって雰囲気漂わせちゃってるわ）[p]
+#【Hitomi】
+(...Hmm, this boy seems to be the leader of the class, acting all high[r]
+and mighty like he's such an honor student.)[p]
 [_tb_end_text]
 
 [chara_move  name="maikai"  anim="false"  time="200"  effect="linear"  wait="true"  left="470"  top="0"  width="313"  height="600"  ]
 [chara_show  name="hitomi_1"  time="50"  wait="true"  storage="chara/3/hitomi_1_14_2.png"  width="406"  height="600"  left="-60"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…ありがとう、えーっと…？」[p]
+#【Hitomi】
+"...Thank you, um...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「浜野 玫瑰<マイカイ>です。[r]
-玫瑰もしくはカイと呼んで下さい、瞳先生」[r]
+#【Rose】
+"My name is Maikai Hamano. Please call me Meigui or Kai, Miss Hitomi."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -968,9 +1019,9 @@
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_4.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「へぇ、そう読むんだ♪ＯＫ覚えたわ！[r]
-よろしくねカイ君♡」[r]
+#【Hitomi】
+"Oh, that's how it's pronounced? OK, got it! Nice to meet you, Kai-[r]
+kun♡"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -980,15 +1031,15 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_5.png"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「こちらこそ宜しくお願いいたします」[p]
+#【Rose】
+"Likewise, please take care of me."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（うんうん♡ しっかりした子の様だわ。[r]
-こういう子が１人２人居てくれると助かるわよね♪）[r]
+#【Hitomi】
+(Yes, yes♡ He seems like a well-behaved boy. It's helpful to have one[r]
+or two kids like him around♪)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1003,21 +1054,19 @@
 [chara_show  name="sonota"  time="50"  wait="true"  storage="chara/6/podium.png"  width="800"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「はい、それじゃあ出席を取りまーす！」[p]
+#【Hitomi】
+"Alright, let's take attendance!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「赤坂 聖くーん」[p]
+#【Hitomi】
+"Sei Akasaka-kun"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_11_6.png"  ]
 [tb_start_text mode=3 ]
 #
-・・・・・・・・・・・・・・・・・・・・・・・・・・・[r]
-・・・・・・・・・・・・・・・[r]
-・・・・[r]
+... ... ...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1026,37 +1075,37 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_07_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…あら、お休み？」[p]
+#【Hitomi】
+"...Oh, absent?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-教室を見渡すと、点呼開始から何やら気不味そうな表情に変わっていた少年達の中で一際物言いたげな表情をした少年と目が合った。[p]
+Looking around the classroom, she caught the eye of a boy whose[r]
+expression had turned uncomfortably since the roll call started.[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_01_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…あなたが赤坂君？　どうしたの？」[p]
+#【Hitomi】
+"...Are you Akasaka-kun? What's wrong?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_01.png"  ]
 [tb_start_text mode=1 ]
-#【赤坂君？】
-「……その名前で呼ばないで下さい」[p]
+#【Akasaka-kun】
+"...Please don't call me by that name."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_07_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「え？どうして…？」[p]
+#【Hitomi】
+"Eh? Why not...?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【赤坂君？】
-「それは与えられた名前です、[r]
-僕が望んだわけじゃ無い…偽物なんです」[r]
+#【Mr. Akasaka】
+"That's a name given to me, not one I chose... It's fake."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1065,9 +1114,8 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_02_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「・・・あ」[r]
-（…そう、そういうコトね…）[r]
+#【Hitomi】
+"...Ah" (...Right, that's what this is about...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1077,7 +1125,9 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_02.png"  ]
 [tb_start_text mode=1 ]
 #
-学園長との直前の会話…何より冴子ら前任と外チームが得てくれていた情報から、この特殊学級の事情を前もって把握していたお陰で直ぐに察することが出来た[p]
+Thanks to the conversation with the principal just before and the[r]
+information obtained by Saeko and the external team previously, she[r]
+was able to quickly grasp the situation of this special class.[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1087,9 +1137,9 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #
-このクラスは博山が昨年創設したばかりの特別学級…[r]
-集められたのは全国の擁護施設等で生活していた[r]
-『親を持たない少年達』…[r]
+This class was a special class established just last year by Boshan...[r]
+The students gathered here were "boys without parents" who had been[r]
+living in protective facilities across the country...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1098,13 +1148,15 @@
 
 [tb_start_text mode=1 ]
 #
-様々な事情により両親を持たない子には戸籍の関係上『苗字』が、そして生まれたばかりの子だと当然『名前』も存在しない…[p]
+For children without parents due to various circumstances, there is[r]
+often no "surname" due to family registry issues, and naturally no[r]
+"given name" if they were just born...[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 #
-故に、そうした子達には生まれ引き取られた地区・市町村等に[r]
-因<ちな>んだ苗字や名前が与えられる事が多い。[r]
+Therefore, such children are often given surnames and names based on[r]
+the district or municipality where they were born or taken in.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1113,7 +1165,9 @@
 
 [tb_start_text mode=1 ]
 #
-実の両親に与えられた名では無いが、その子の将来を想い贈られた名に違いない筈なのだが…どうやらこのクラスにはそれを不服に思う子も居た様だ…[p]
+Although not names given by their biological parents, these names were[r]
+supposed to be given with hope for their future... However, it seemed[r]
+there were children in this class who were dissatisfied with that...[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1123,15 +1177,15 @@
 [chara_show  name="sonota"  time="50"  wait="true"  storage="chara/6/podium.png"  width="800"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…それじゃあ、貴方の事は何と呼んだらいいかしら？」[p]
+#【Hitomi】
+"...Then what should I call you?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_1.png"  ]
 [tb_start_text mode=3 ]
-#【聖】
-「…今は下の名前だけで良い…その内…僕は僕の成りたいモノに…[r]
-ホンモノの僕になるんだから…」[r]
+#【Saint】
+"...For now, just use my first name... Eventually... I will become[r]
+what I want to be... The real me..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1139,9 +1193,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（成りたいモノに成る…か、私もこれ位の歳の頃は[r]
-まさか潜入捜査官になるとは思ってなかったモンね…）[r]
+#【Hitomi】
+(Becoming what one wants to be, huh? I never thought I'd become an[r]
+undercover investigator at their age either...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1150,16 +1204,16 @@
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_09_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…うん、わかったわ。先生応援するわね♪」[p]
+#【Hitomi】
+"...Yeah, I understand. I'll be cheering you on♪"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_3.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「皆もどう呼んで欲しいか教えてね☆[r]
-あ、でも流石に有名人やアニメ漫画キャラの名前は禁止よ？[r]
-それじゃあ出席確認を続けまーす！」[r]
+#【Hitomi】
+"Everyone, let me know how you'd like to be called☆ Ah, but famous[r]
+people or anime and manga characters are off-limits, okay? Now, let's[r]
+continue with the roll call!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1174,8 +1228,8 @@
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #
-その後、理由不明の欠席者が２名居た事を除けば[r]
-出席と呼称の確認は無事に終了。[r]
+After that, aside from two unexplained absences, the roll call and[r]
+name confirmation went smoothly.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1184,8 +1238,9 @@
 
 [tb_start_text mode=3 ]
 #
-ちょっぴり気むずかし屋さんの多いクラスの様だけれど…[r]
-何かと不安定で敏感な年頃の子達ばかりだもん、こんなものよね。[r]
+It seems like a class with a few temperamental kids... But they're all[r]
+at an age where they're unstable and sensitive, so it's to be[r]
+expected.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1200,7 +1255,10 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #
-まだ本格的な授業は行わず、各科目の習熟・進行状況を確認する傍ら生徒達の個性をそれとなく把握するため生徒全員に簡単な質問を行う内に午前の授業は終了した…。[p]
+Without conducting any formal lessons yet, I spent the morning session[r]
+confirming the students' proficiency and progress in each subject[r]
+while subtly getting to know each student's personality through simple[r]
+questions...[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1210,9 +1268,9 @@
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_11_6.png"  width="406"  height="600"  left="200"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…さて、一時はどうなるかと思ったけど[r]
-順調に給食時間に突入…と♪）[r]
+#【Hitomi】
+(...Well, I was worried for a moment there, but we've smoothly made it[r]
+to lunchtime...♪)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1222,31 +1280,32 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_04.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…任務-しごと-の時間ね…）[p]
+#【Hitomi】
+(...Time for my mission—work...)[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/highheeled.ogg"  ]
 [chara_hide  name="hitomi_1"  time="250"  wait="true"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
-#【生徒】
-「あれ？瞳先生、給食食べないんですかー？」[p]
+#【Student】
+"Huh? Miss Hitomi, aren't you eating lunch?"[p]
 [_tb_end_text]
 
 [chara_show  name="hitomi_1"  time="50"  wait="true"  storage="chara/3/hitomi_1_14_2.png"  width="406"  height="600"  left="480"  top="0"  reflect="false"  ]
 [stopse  time="1000"  buf="0"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…え？う…うん。実は急な移動だったからご挨拶して無い所とか未だあって、今日はそれが済んでから学食で頂こうかと思ってるの…ごめんね？」[p]
+#【Hitomi】
+"...Eh? Oh... Yeah. Actually, since I moved here so suddenly, there[r]
+are still places I haven't greeted yet, so I was thinking of getting[r]
+something at the cafeteria after that's done... Sorry?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_1.png"  ]
 [tb_start_text mode=3 ]
-#【生徒たち】
-「えー？クラスの皆と一緒に食べましょうよ？」[r]
-「寂しいなぁ…」[r]
-「勿体無いよ」[r]
+#【Students】
+"Eh-? Why don't you eat with everyone in the class?" "That's sad..."[r]
+"What a waste"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1256,10 +1315,9 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_13_2.png"  ]
 [stopbgm  time="2000"  fadeout="true"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（う…みんな見てる…[r]
-流石に初日から給食ボイコットは冷たいわよね…[r]
-でも貴重な捜査時間だし…うーん…）[r]
+#【Hitomi】
+(Uh... everyone's watching... It would be too cold to boycott lunch on[r]
+the first day... But it's precious investigation time... Hmm...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1282,17 +1340,19 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano37.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…そうね、自分の都合を生徒達に押し付けようだなんて悪い教師のする事だわ。先生も一緒に頂くわね♪」[p]
+#【Hitomi】
+"...You know what, it's wrong of a teacher to impose her own[r]
+convenience on her students. I'll join you for lunch♪"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09.png"  ]
 [playse  volume="90"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=3 ]
 #
-私の色好い返事で教室はにわかに活気付いた。[r]
-この子達はみんな大人の都合に振り回された子達なのだ、[r]
-任務とはいえ理不尽な想いをさせるべきでは無い…。[r]
+My agreeable response brought a sudden liveliness to the classroom.[r]
+These kids have all been tossed around by adult circumstances; it[r]
+wouldn't be right to make them feel unreasonable just because of my[r]
+mission...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1302,8 +1362,8 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [tb_start_text mode=3 ]
 #
-…何故なら、[r]
-彼らは恐らく博山とアルケー社に利用されているからだ…[r]
+...Because they are likely being used by Boshan and Alke[r]
+Corporation...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1314,10 +1374,11 @@
 [bg  time="500"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [chara_show  name="gaku"  time="250"  wait="true"  storage="chara/5/gaku_1_01.png"  width="500"  height="600"  left="150"  top="0"  reflect="false"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（この身寄りの無い少年達ばかりを集めた特別学級は[r]
-突然学園長の座に就いた博山が箔を付けるため…そして[r]
-自らの教育理念を示す為に設立させたと言われている…）[r]
+#【Hitomi】
+(This special class, filled only with boys without relatives, was[r]
+established by Boshan after he suddenly took the position of[r]
+principal... to add prestige and to demonstrate his educational[r]
+philosophy...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1327,9 +1388,10 @@
 [chara_hide_all  time="500"  wait="true"  ]
 [bg  time="250"  method="crossfade"  storage="haikei/school01.jpg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（ではその博山を学園長に就任させたのは誰か？[r]
-ぽっと出の様な学園長の一声で全国から親を持たない少年達を掻き集める事が出来たのは何故か？）[r]
+#【Hitomi】
+(So who appointed Boshan as principal? How was he able to gather boys[r]
+without parents from all over the country with just one word from a[r]
+principal who appeared out of nowhere?)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1339,17 +1401,19 @@
 [bg  time="250"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [chara_show  name="saeko"  time="250"  wait="true"  storage="chara/11/saeko_1_01.png"  width="438"  height="600"  left="184"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（そして冴子を含む行方不明となった学園関係者の多くがこの特別学級を受け持った教師なのは…何故か…！）[p]
+#【Hitomi】
+(And why are many of the school-related personnel who have gone[r]
+missing, including Saeko, teachers who were in charge of this special[r]
+class... Why...!)[p]
 [_tb_end_text]
 
 [chara_hide_all  time="500"  wait="true"  ]
 [chara_show  name="kuzu_2"  time="250"  wait="true"  storage="chara/2/kuzu_1_08.png"  width="688"  height="600"  left="190"  top="0"  reflect="false"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-『兎に角、アルケーって組織は表向きは真っ当な製薬会社だが[r]
-この他にも黒い噂が絶えねぇ[r]
-捨て駒使って巷に妙なクスリをバラ撒いてる…とかな』[r]
+#【Kuzu】
+"Anyway, Alke Corporation is ostensibly a legitimate pharmaceutical[r]
+company, but there are endless dark rumors about them using pawns to[r]
+spread strange drugs around the streets..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1363,20 +1427,24 @@
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_12.png"  width="406"  height="600"  left="390"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（一種の治外法権である学園を隠れ蓑にして何かしらの実験に用いる優秀な人材を拉致している…と考えると辻褄が合う）[p]
+#【Hitomi】
+(If you consider that they're abducting talented individuals for some[r]
+kind of experiment under the guise of this school, which is a sort of[r]
+extraterritoriality, everything starts to make sense)[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（つまりこの特別学級はアルケー社と博山の『企み』を世間から覆い隠すための目くらまし…社会的立場の弱い者達を盾として利用した悪辣な偽りの慈善事業…！）[p]
+#【Hitomi】
+(In other words, this special class is a smokescreen to cover up the[r]
+"schemes" of Alke Corporation and Boshan... a vile fake charity that[r]
+uses the vulnerable as shields...)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_04.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（この子達もまた行方不明者達と同じく[r]
-救うべき対象に違いない…）[r]
+#【Hitomi】
+(These kids must also be saved, just like those who have gone[r]
+missing...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1387,10 +1455,9 @@
 [stopbgm  time="3000"  fadeout="true"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（……と、報告書にも書いてあったし[r]
-事件の情報を何か知ってるかもしれないから[r]
-親睦を深めなきゃね☆）[r]
+#【Hitomi】
+(...And as it was written in the report, they might know something[r]
+about the case, so I need to build a good rapport☆)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1402,9 +1469,9 @@
 [chara_hide_all  time="500"  wait="true"  ]
 [tb_start_text mode=3 ]
 #
-和やかな昼食のひと時、[r]
-少年らしい他愛ない会話が飛び交う中に積極的に混ざって談笑し、[r]
-それとなく事件に関する話題を振る機会を伺う…[r]
+During the pleasant lunchtime, I actively joined in the innocent[r]
+conversations typical of boys and looked for opportunities to subtly[r]
+bring up topics related to the case...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1413,8 +1480,9 @@
 
 [tb_start_text mode=3 ]
 #
-献立の内容と質は標準よりやや上のレベル。[r]
-この年頃の少年達の発育に差し支える事は無い十分な食事と言って良いだろう。[r]
+The quality and content of the menu were slightly above standard. It[r]
+could be said to be a sufficient meal that wouldn't hinder the growth[r]
+of boys this age.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1424,16 +1492,15 @@
 [stopbgm  time="2000"  fadeout="true"  ]
 [tb_start_text mode=1 ]
 #
-だが……[p]
+But...[p]
 [_tb_end_text]
 
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_10_2.png"  width="406"  height="600"  left="190"  top="0"  reflect="false"  ]
 [playse  volume="90"  time="1000"  buf="0"  storage="se02/guu.ogg"  ]
 [font  size="34"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（……私には足りない…[r]
-ゼンッゼン食べ足り無いわ…）[r]
+#【Hitomi】
+(...It's not enough for me... Not nearly enough...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1444,15 +1511,16 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber41.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_12.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（所詮はお子様用とでも言うのかしら、なまじ味が良いだけに余計にお腹が減るわ…もう２、３食分は欲しい所ね！）[p]
+#【Hitomi】
+(Maybe it's meant for kids after all. The better it tastes, the[r]
+hungrier it makes me... I could go for two or three more servings!)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_3.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（でも事件の話を聞く絶好の機会なんだもの[r]
-今は耐えてね胃袋ちゃん！昼休みで学食へＧＯよ…！）[r]
+#【Hitomi】
+(But this is a perfect opportunity to hear about the case, so hang in[r]
+there, stomach! It's off to the cafeteria during lunch break...!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1460,9 +1528,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【生徒たち】
-「あれ？瞳先生もう食べ終わったの？」[r]
-「え、早っやっ！」[r]
+#【Students】
+"Huh? Miss Hitomi, are you done eating already?" "Wow, that was fast!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1471,15 +1538,15 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「う…」[p]
+#【Hitomi】
+"Uh..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（良く見たら皆まだ半分くらい残ってる…[r]
-しっかり噛んでゆっくり食べてるのねーえらいわー♡[r]
-…って、流石に浮いてるわね私…完全にペースを間違えたわ）[r]
+#【Hitomi】
+(Looking around, everyone else still has about half left... They're[r]
+chewing properly and eating slowly—good for them♡ ...But I definitely[r]
+stand out... I've completely misjudged the pace)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1487,16 +1554,15 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【生徒】
-「先生ぇ、今日２人お休みだからオカワリ出来ますよー？」[p]
+#【Student】
+"Miss, since two people are absent today, you can have seconds!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…はっ、そうだ！[r]
-余ってるじゃないの２食分！！）[r]
+#【Hitomi】
+(...Ah, that's right! There are two extra servings left!!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1506,10 +1572,10 @@
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_6.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（って、いやいやいや…ダメ！駄目よ瞳！コレは罠！[r]
-初日から生徒の分含め３人前ガッツリ平らげる女教師なんて[r]
-美人で清楚なイメージの対極遥か遠い存在じゃないの！）[r]
+#【Hitomi】
+(No no no... Bad idea! Bad idea, Hitomi! A female teacher who gobbles[r]
+up three servings including those of students on her first day is far[r]
+from the image of a beautiful and modest woman!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1518,15 +1584,15 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（今は生徒に良くない印象を与えるべきじゃ無いわ！）[p]
+#【Hitomi】
+(I shouldn't give the students a bad impression right now!)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_03_4.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…だけどちょっぴりツッコミ所と茶目っ気のある先生の方が[r]
-この年頃の子達相手には逆に打ち解け安くて好かれる可能性もあるわよねぇ…？）[r]
+#【Hitomi】
+(...But maybe a teacher with a bit of sass and playfulness might[r]
+actually be more approachable and liked by kids this age...?)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1534,8 +1600,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（どうしようかしら…）[p]
+#【Hitomi】
+(What should I do...?)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1553,9 +1619,9 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（……ふっ…私は欲望に素直な女…[r]
-三大欲求には逆らえないわ…）[r]
+#【Hitomi】
+(...Heh... I'm a woman who's honest with her desires... I can't resist[r]
+the three basic needs...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1565,9 +1631,9 @@
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「…じゃあ、お言葉に甘えて頂いちゃおうかな♡[r]
-実は今朝急いでて朝食摂ってなかったのよね…」[r]
+#【Hitomi】
+"Well then, I'll gladly take you up on that offer♡ Actually, I was in[r]
+such a hurry this morning that I didn't have breakfast..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1576,8 +1642,8 @@
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_14_1.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…というのは面子を保つための苦しい嘘だったりして♡）[p]
+#【Hitomi】
+(That might be a desperate lie to save face♡)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1585,9 +1651,9 @@
 [chara_show  name="futoshi"  time="250"  wait="true"  storage="chara/8/futoshi_1_02.png"  width="375"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【生徒Ｃ】
-「えへへ♪それじゃあマサトとユウスケの分は[r]
-僕と一緒に食べようね、瞳先生ぇ♥」[r]
+#【Student C】
+"Ehehe♪ Then let's eat Masato and Yusuke's portions together, Miss[r]
+Hitomi♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1597,15 +1663,15 @@
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…え゛？」[p]
+#【Hitomi】
+"...Eh?"[p]
 [_tb_end_text]
 
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_03.png"  ]
 [tb_start_text mode=3 ]
-#【生徒Ｃ】
-「んぅ…？　どうしたの先生ぇ？[r]
-まさか全部１人で食べるつもりだったとか…？」[r]
+#【Student C】
+"Huh...? What's wrong, Miss? You weren't planning to eat it all by[r]
+yourself, were you...?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1614,9 +1680,8 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_06.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「や、やーねぇ！そんなわけ無いじゃないのホホホホ！」[r]
-（そっかーこの子が居たかぁ…）[r]
+#【Hitomi】
+"No, no way! Of course not, hohoho!" (So he was here...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1624,10 +1689,10 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（太志君、クラスいちの重量級キャラクター…[r]
-ちょっと授業への集中力が足りなくて[r]
-隙あらば私にセクハラ発言を仕掛けて来る子！）[r]
+#【Hitomi】
+(Taishi-kun, the heavyweight character of the class... He lacks a bit[r]
+of focus in class and takes any chance to make sexual harassment[r]
+comments at me!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1637,21 +1702,23 @@
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_04.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_13_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（この子私と話す時顔じゃなくて胸とお尻を交互にガン見して来るし脂ぎったオッサンの様なねちっこい口調も正直ちょぉーっと苦手なのよねぇ…）[p]
+#【Hitomi】
+(When he talks to me, he alternates between staring at my chest and my[r]
+butt like some greasy old man, and his clingy way of speaking is[r]
+honestly a bit too much for me...)[p]
 [_tb_end_text]
 
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_03.png"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「…もしかして僕と一緒なのが…嫌なの？」[p]
+#【Taishi】
+"...Could it be that you don't want to... eat with me?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「　コ　ラ　！　そんな寂しい事言わないの！[r]
-嫌なわけ無いでしょ？一緒にオカワリしましょ♪」[r]
+#【Hitomi】
+"Hey! Don't say such sad things! Why would I not want to? Let's go for[r]
+seconds together♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1662,28 +1729,28 @@
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_02.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「あは…♪　う、うんっ！」[p]
+#【Taishi】
+"Aha...♪ Y-Yeah!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_02.png"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「待ってて、僕がよそって来てあげる♥」[p]
+#【Taishi】
+"Wait here, I'll serve us♥"[p]
 [_tb_end_text]
 
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ありがとう太志くん、お願いするわね♪」[p]
+#【Hitomi】
+"Thank you, Taishi-kun. I'll leave it to you♪"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_1.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…まぁ…悪い子じゃ無いわよね…）[p]
+#【Hitomi】
+(...Well... he's not a bad kid...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1695,8 +1762,8 @@
 [chara_mod  name="maikai"  time="250"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「・・・・・・・・・」[p]
+#【Rose】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1708,9 +1775,9 @@
 [delay  speed="10"  ]
 [tb_start_text mode=3 ]
 #
-質問の仕方には順序がある。[r]
-相手を警戒させない為にいきなり本題は切り出さず[r]
-先ずは身近な話題を振って流れを作るものだ。[r]
+There's a proper way to ask questions. To avoid alarming the other[r]
+person, don't jump straight to the main topic; start with a familiar[r]
+subject to create a flow.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1719,13 +1786,15 @@
 
 [tb_start_text mode=1 ]
 #
-この場合、いきなり『前の担任の先生ってどんな人だった？』などと聞くよりも、身近なクラスメイトの話題から入るのがセオリーと言えるだろう。[p]
+In this case, it's better to start with a topic about a classmate[r]
+rather than abruptly asking, "What was the previous homeroom teacher[r]
+like?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
 #
-場の空気には十分溶け込めた。[r]
-後は何気ない体を装って切り出すだけ…！[r]
+I've blended in well with the atmosphere. Now I just need to casually[r]
+bring it up...![p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1733,26 +1802,30 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「…そういえば今日欠席してるマサト君とユウスケ君…先生何の連絡も貰って無いんだけど誰か理由を聞いてないかしら？」[p]
+#【Hitomi】
+"...By the way, I haven't received any notice about why Masato-kun and[r]
+Yusuke-kun are absent today... Has anyone heard anything?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-生徒２名の欠席理由が判明するなら僥倖、しなくとも欠席理由が不明である点を足掛かりにこの学園の教師や女生徒の行方不明事件の話題に切り替える事が出来る…[p]
+If I can find out the reason for the two students' absence, that would[r]
+be fortunate. Even if not, the fact that their absence is unexplained[r]
+can be used as a stepping stone to bring up the topic of missing[r]
+teachers and female students at this school...[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-そういう算段で切り出したつもりだったのだが……[p]
+That was my intention when I brought it up, but...[p]
 [_tb_end_text]
 
 [playse  volume="90"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=3 ]
-#【生徒たち】
-「あの２人って…出来ずに…」[r]
-「うん、それで狩り……を…戦士に…」[r]
-「だから外で…は使うなって…」[r]
+#【Students】
+"Those two are... because they couldn't... do it..." "Yeah, and then[r]
+hunting... as warriors..." "That's why they said not to use it[r]
+outside..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1763,8 +1836,8 @@
 [font  size="30"  color="0xffffff"  ]
 [playse  volume="90"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=1 ]
-#【生徒】
-「ヘマした奴が悪いんだよ、死んで当然さ♥」[p]
+#【Student】
+"It's the fault of the one who screwed up, they deserve to die♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1774,9 +1847,8 @@
 [chara_show  name="sonota"  time="0"  wait="true"  storage="chara/6/podium.png"  width="800"  height="600"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ちょ、ちょっと?! 死んで…って、[r]
-アナタ達何を言ってるの!?」[r]
+#【Hitomi】
+"Wait a minute?! Die... what are you all talking about!?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1791,23 +1863,23 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「…みんな、悪ふざけが過ぎますよ？」[p]
+#【Rose】
+"...Everyone, you're taking your jokes too far."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_08_2.png"  width="406"  height="600"  left="-65"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「………え、悪ふざけ…？」[p]
+#【Hitomi】
+"...Eh, jokes...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「皆こうやって時々大人をからかおうとするんですよ[r]
-初めの挨拶の時もそうでしたでしょう？」[r]
+#【Rose】
+"They all try to tease the adults like this sometimes. It was the same[r]
+during the initial greetings, wasn't it?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1817,15 +1889,16 @@
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「確かにそうだったわね…」[p]
+#【Hitomi】
+"That's true..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「だけど先生をからかった事は百歩譲って許せるけど、[r]
-お友達に死んで当然だなんて流石に非常識が過ぎると思わない？[r]
-とても冗談やおふざけじゃ済まない悲しい事よ？」[r]
+#【Hitomi】
+"But even if teasing the teacher is forgivable to some extent, saying[r]
+your friend deserves to die is way beyond common sense, don't you[r]
+think? It's a sad thing that can't be brushed off as just a joke or[r]
+teasing."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1835,29 +1908,28 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [chara_show  name="futoshi"  time="250"  wait="true"  storage="chara/8/futoshi_1_02.png"  width="375"  height="600"  left="540"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「ブふっ、オトモダチねぇ…♪」[p]
+#【Taishi】
+"Pffft, friends, huh...♪"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「お止めなさい、太志くん」[p]
+#【Rose】
+"Stop it, Taishi-kun."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_08.png"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「だぁってさぁ…ブフふ…っ♪」[p]
+#【Taishi】
+"But you know... pffft...♪"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="250"  cross="false"  storage="chara/7/maikai_1_09.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「…僕の言うことが聞けないのかい？[r]
-………フトシ……」[r]
+#【Rose】
+"...Are you unable to listen to what I say? ...Futoshi..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1867,15 +1939,14 @@
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「！？」[p]
+#【Hitomi】
+"!?"[p]
 [_tb_end_text]
 
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_09.png"  ]
 [tb_start_text mode=3 ]
-#【太志】
-「…ッ……ア……ひ…っ…ご、ゴメン…よぅ…玫瑰くん…[r]
-ぼ、ぼく別にキミに逆らうつもりじゃあ…っ」[r]
+#【Taishi】
+"...Ah... hik... sorry... Rose-kun... I-I didn't mean to defy you..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1884,14 +1955,14 @@
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「…座っていなさい」[p]
+#【Rose】
+"...Sit down."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「…う…うん……」[p]
+#【Taishi】
+"...Yeah..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1902,53 +1973,54 @@
 [chara_mod  name="hitomi_1"  time="0"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（今一瞬とんでもない威圧感だったわ…）[p]
+#【Hitomi】
+(That was an incredibly intimidating moment just now...)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="0"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・カイくん・・・あなた一体…」[p]
+#【Hitomi】
+"...Kai-kun... who exactly are you...?"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「見苦しい所をお見せしてしまい申し訳ありません」[p]
+#【Rose】
+"I apologize for showing such an unsightly scene."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【玫瑰】
-「僕はクラス委員長ですから、先生の手を煩わせるまでも無く他の生徒に言って聞かせるだけのチカラ…権限を持っているんです」[p]
+#【Rose】
+"As the class president, I have the power and authority to make other[r]
+students listen without having to trouble the teacher."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [chara_mod  name="hitomi_1"  time="0"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・・・・」[p]
+#【Hitomi】
+"..."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「それだけではありません」[p]
-「僕はこのクラスに関する情報の全てを把握しています」[p]
+#【Rose】
+"But that's not all. I have a grasp of all the information related to[r]
+this class."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [chara_mod  name="hitomi_1"  time="0"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…全て…ですって…？！」[p]
+#【Hitomi】
+"...Everything... you say?!"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「ええ。マサト君とユウスケ君が何故休んだ…いや、[r]
-居　な　く　な　っ　た　のかも…」[r]
+#【Rose】
+"Yes. Why Masato-kun and Yusuke-kun were absent... no, why they are[r]
+gone..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1958,23 +2030,23 @@
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「先生が本当に知りたい事も…全部ね」[p]
+#【Rose】
+"And everything that the teacher really wants to know... all of it."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_3.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「！！？」[p]
+#【Hitomi】
+"!!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_3.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「…それは一体どういう意味かしら…？[r]
-また先生をからかっているの？ それとも……」[r]
+#【Hitomi】
+"...What exactly do you mean by that? Are you teasing the teacher[r]
+again? Or..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1983,10 +2055,10 @@
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「もう隠さずとも結構ですよ、瞳先生。[r]
-貴方は人間のお仲間である 芳野冴子 先生の行方を求めて[r]
-この学園にやって来たのでしょう？」[r]
+#【Rose】
+"There's no need to hide it anymore, Hitomi-sensei. You came to this[r]
+school in search of your fellow human, Saeko Yoshino-sensei, didn't[r]
+you?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1997,8 +2069,8 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_3.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…ッ！　玫瑰君、あなた…！」[p]
+#【Hitomi】
+"...! Meigui-kun, you...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2010,10 +2082,10 @@
 [tb_show_message_window  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「…昼食時間終了です。先生はお忙しいでしょうし[r]
-僕は昼休みを穏やかに過ごす事にしているので[r]
-話の続きは放課後に致しましょう、失礼します」[r]
+#【Rose】
+"...Lunchtime is over. The teacher must be busy, and I prefer to spend[r]
+my lunch break peacefully, so let's continue this conversation after[r]
+school. Excuse me."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2024,8 +2096,8 @@
 [font  size="40"  color="0xffffff"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_3.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「待ちなさい！」[p]
+#【Hitomi】
+"Wait!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2050,9 +2122,9 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…クッ…辛い選択ね…だけど流石に休んだ生徒の分まで[r]
-おかわりするのは教師として余りに見っとも無いわ）[r]
+#【Hitomi】
+("...Gah... It's a tough choice... but as a teacher, it's simply[r]
+disgraceful to go for seconds on behalf of absent students.")[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2062,29 +2134,30 @@
 [bg  time="500"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（って言うか、呑気に食べてる場合じゃ無いわよね…）[p]
+#【Hitomi】
+("Besides, this isn't the time to be leisurely eating...")[p]
 [_tb_end_text]
 
 [chara_show  name="saeko"  time="500"  wait="false"  storage="chara/11/saeko_1_01.png"  width="438"  height="600"  left="500"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（ほーら、私の良心が生み出した冴子の幻影も超睨んでる！）[p]
+#【Hitomi】
+("Look, even the phantom of Saeko that my conscience conjured up is[r]
+glaring at me!")[p]
 [_tb_end_text]
 
 [chara_show  name="kotora_1"  time="250"  wait="false"  storage="chara/4/kotora_1_07_2.png"  width="363"  height="600"  left="-55"  top="0"  reflect="false"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（きゃあ！ トラちゃんまで!?）[p]
+#【Hitomi】
+("Kyaa! Even Kotora-chan!?")[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_13.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（解ってるわよぉ！ ちゃんと任務に打ち込みますぅ！）[p]
+#【Hitomi】
+("I know, I know! I'll focus on my mission!")[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]

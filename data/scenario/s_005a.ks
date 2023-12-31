@@ -9,9 +9,10 @@
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_11_5.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「まぁ瞬ちゃんも経験を積んだんだし仲間への気遣いもちょっとはしてくれるでしょ♪[r]
-報告がてら心配して貰っちゃお～っと♡」[r]
+#【Hitomi】
+"Well, Shun-chan has gained some experience, so I'm sure he'll show a[r]
+little concern for his teammates, right? Let's get a report and have[r]
+him worry about us~♡"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -20,8 +21,8 @@
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_09_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「さてさて？ 瞬ちゃんは何か掴んでくれてるかなぁ～？」[p]
+#【Hitomi】
+"Now then? I wonder if Shun-chan has managed to find anything~?"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -35,16 +36,16 @@
 [font  size="30"  color="0xffffff"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『だぁもう！ ンっだよこんな時に?!』[p]
+#【Kuzu】
+"Darn it! Ngh, why now of all times?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_13_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「え゛ぇっ？…もしかして何か取り込み中だった？」[r]
-（今度はイキナリィ?! もう何だってのよぉ！）[r]
+#【Hitomi】
+"Eh?... Could it be that you were in the middle of something?"[r]
+(Suddenly now?! What the heck is going on?!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -53,20 +54,20 @@
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『い、いや…ちょっと妙な事が起きちまってな…』[p]
+#【Kuzu】
+"No, it's just... something weird happened..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「まさか襲撃されたとか？！ 大丈夫なの瞬ちゃん？！」[p]
+#【Hitomi】
+"You don't mean you were attacked, do you?! Are you okay, Shun-chan?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【葛生】
-『大丈夫だ、そういうのじゃ無ぇ。ただ何つーか…[r]
-キツネに抓まれたっつーか…タヌキに化かされたっつーか…』[r]
+#【Kuzu】
+"I'm fine, it's not like that. It's just... kinda like... being caught[r]
+by a fox... or tricked by a tanuki..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -75,21 +76,21 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（随分動揺してるわね）[p]
+#【Hitomi】
+(He seems really flustered.)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「…何があったの？」[p]
+#【Hitomi】
+"...What happened?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『お、おう。聞いてくれや事の顛末を！ 俺は――…』[p]
+#【Kuzu】
+"Oh, yeah. Listen to the whole story! I was--..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -101,16 +102,15 @@
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_06.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「……ごめんね瞬ちゃん、もう時間だわ」[p]
+#【Hitomi】
+"...Sorry, Shun-chan, but it's time for me to go."[p]
 [_tb_end_text]
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-『オイィイイいイイイイィィぃィッ!!!?[r]
-アンタ何の為に連絡してきたんだコラッ?!』[r]
+#【Kuzu】
+"HEY!!!? What was the point of contacting me, huh?! "[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -120,15 +120,14 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_6.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「強く生きるのよ…っ」[p]
+#【Hitomi】
+"Stay strong..."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-『待て待て！ 待ってくれって！[r]
-コレだけは聞いとけ先生っ！』[r]
+#【Kuzu】
+"Wait, wait! Just listen to me! This is important, sensei!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -137,9 +136,8 @@
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-『俺達や警察以外にも[r]
-学園の事を調べてる奴等が居やがるぞ！』[r]
+#【Kuzu】
+"There are others besides us and the police investigating the school!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -150,14 +148,15 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber21.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「…！」[r]
+#【Hitomi】
+"...!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（もしかして『戦士』とかいう良く解らない奴の事かしら!?）[r]
+#【Hitomi】
+(Could it be those "warriors" or some other group I don't quite[r]
+understand?)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -166,21 +165,21 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ソレ、どんな奴等？ 何をしてたの？」[p]
+#【Hitomi】
+"Who are they? What were they doing?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『……の子が…２人だ…』[p]
+#【Kuzu】
+"...that kid... two of them..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「よく聞こえないわ？ ２人？ どんな奴だったの？！」[p]
+#【Hitomi】
+"I can't hear you well? Two people? What kind of people were they?!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
@@ -188,34 +187,37 @@
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_01.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『だからその…可愛い女の子が２人…』[p]
+#【Kuzu】
+"That's what I'm saying... two cute girls..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・は？ カワイイ・・・？」[p]
+#【Hitomi】
+"...Huh? Cute...?"[p]
 [_tb_end_text]
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber41.ogg"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_02.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『いや…思い出すだけでもその…にゃはは…変な話なんだがよぉ』[p]
+#【Kuzu】
+"No... just remembering it makes me... nyahaha... it's a strange[r]
+story, but yeah!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『突然女の子達の方から「ちょっといいですか？」なんて話かけて来てよぉ！』[p]
+#【Kuzu】
+"Suddenly, the girls came up to me and said 'Excuse me, can we[r]
+talk?'!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_12.png"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-『俺こんなナリしてっから逆ナンなんてマジ初めてっつーか[r]
-まぁ結局俺が学園側かどうかの探りを入れるためのポーズだったみたいなんだが…』[r]
+#【Kuzu】
+"I look like this, so getting hit on by girls is seriously a first for[r]
+me, or should I say... well, in the end, it seemed like they were just[r]
+trying to figure out if I was with the school or not..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -224,17 +226,18 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『いやぁ～綺沙ちゃんに操立ててなかったらヤバかったぜィ！』[p]
+#【Kuzu】
+"Man~ If I hadn't been under Kisa-chan's control, that would have been[r]
+dangerous!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_11_3.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「へ～そぉなんだ～？[r]
-私とトラちゃんが危険を犯して任務に励んでいた頃[r]
-瞬ちゃんは女の子に逆ナンされて有頂天だった…と」[r]
+#【Hitomi】
+"Heh~ is that so~? While me and Tora-chan were risking danger and[r]
+working hard on our mission, Shun-chan was getting hit on by girls and[r]
+feeling on top of the world..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -243,16 +246,16 @@
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_01.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『あ…いや…肝心なのはソコじゃなくてだな…』[p]
+#【Kuzu】
+"Ah... no... that's not the main point here..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「トラちゃんも綺沙ちゃんと沙婆斗くんに[r]
-良い報告が出来るって喜ぶでしょうね…」[r]
+#【Hitomi】
+"Tora-chan will be happy to report good news to Kisa-chan and Sabato-[r]
+kun too..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -262,21 +265,21 @@
 [resetfont  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『あひゅ?! おまままましゃかそこに庭野いるのか?!』[p]
+#【Kuzu】
+"Ahhyu?! Oh my god, is Niwano there too?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-「居ないけどぉ～重要な情報は共有するのが義務ですし～」[p]
+#【Hitomi】
+"He's not here~ but it's our duty to share important information~"[p]
 [_tb_end_text]
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-『よ、止せヤメロ言うな！ いや言わないで下さい！ 頼む！[r]
-アイツ只でさえ綺沙ちゃんへの手紙に[r]
-俺のあること無いこと書こうとしやがんだよ！』[r]
+#【Kuzu】
+"St-stop it! Don't say it! Please don't say anything! I beg you! He's[r]
+already trying to write all sorts of things about me in his letters to[r]
+Kisa-chan!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -285,16 +288,18 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_3.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「じゃあ、『先生お疲れ様です頑張ってください』って言って♡」[p]
+#【Hitomi】
+"Then, tell him 'Sensei says thank you for your hard work and keep up[r]
+the good effort'♡"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_4.png"  ]
 [stopbgm  time="1000"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『はぁ？ 急にどうしたよ先生、変な物でも食ったか…？』[p]
+#【Kuzu】
+"Huh? What's gotten into you all of a sudden, sensei? Did you eat[r]
+something strange...?"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -304,9 +309,11 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber19.ogg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「…あ、もしもしトラちゃん？ 実は瞬ちゃんがロリコン拗らせてとうとう任務中に女の子に声を掛けちゃったみたいなの、うん。[r]
-案件勃発。今警察から連絡が入って…もう任務失敗だわ…」[r]
+#【Hitomi】
+"...Ah, hello? Tora-chan? Actually, it seems like Shun-chan has let[r]
+his lolicon tendencies get the better of him and he ended up talking[r]
+to a girl during the mission. Yep. A situation has arisen. I just got[r]
+a call from the police... the mission is a failure..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -316,9 +323,9 @@
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-『うぉおイッ!!? どんだけ盛る気だ?![r]
-ヤメロ！すみませんでしたッ！』[r]
+#【Kuzu】
+"Whoa!!? How much are you going to exaggerate?! Stop it! I'm so[r]
+sorry!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -328,10 +335,9 @@
 [stopbgm  time="1000"  fadeout="true"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_09_2.png"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-『よっ！ 日本一の美人先生！[r]
-お勤めご苦労様っす！[r]
-引き続き任務頑張って下さい!! 』[r]
+#【Kuzu】
+"Yo! Japan's number one beauty teacher! Thank you for your hard work![r]
+Please continue to do your best on your mission!!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -340,8 +346,8 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_3.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「ん、よろしい！ 沙婆斗くんには私からやんわり伝えておくわね♡」[r]
+#【Hitomi】
+"Mm, very well! I'll pass on the message gently to Sabato-kun♡"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -351,36 +357,36 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『クソッ！ やっぱどうあっても言う気なんじゃねーかッ！』[p]
+#【Kuzu】
+"Damn it! So you're planning to tell him no matter what, huh?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_11_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「まぁ、この話は一先ず置いといて…」[p]
+#【Hitomi】
+"Well, let's put that story aside for now..."[p]
 [_tb_end_text]
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-((いや置くな！ 無しにしてくれってンだよッ！))[p]
+#【Kuzu】
+"No, don't just put it aside! Please just forget about it!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_04_2.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「真面目な話、一体どんな子達だったの？」[p]
+#【Hitomi】
+"Seriously though, what kind of girls were they?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_04.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_06_2.png"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『・・・・・・』[p]
+#【Kuzu】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -394,9 +400,10 @@
 [wait  time="750"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【葛生】
-『金色掛かった茶髪の碧眼でやたら喧嘩腰の小娘と[r]
-藍色の髪と血の様に赤い瞳をした大人しい女の子の２人だ』[r]
+#【Kuzu】
+"One was a feisty little girl with golden-brown hair and blue eyes,[r]
+and the other was a quiet girl with blue hair and eyes as red as[r]
+blood."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -404,15 +411,17 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【葛生】
-『どうも俺を一連の事件の犯人か仲間だと思ってたらしくてよ』[p]
+#【Kuzu】
+"They seemed to think I was involved in a series of incidents, either[r]
+as the perpetrator or an accomplice."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【葛生】
-『最初は可愛かったんだが急に態度を豹変させるやスゲェ剣幕で[r]
-やれ正体を見せろだの何だのと俺に因縁吹っかけて来て[r]
-違うと解るとパッと消えやがった』[r]
+#【Kuzu】
+"At first, they were cute, but then they suddenly changed their[r]
+attitude and started accusing me aggressively, demanding I reveal my[r]
+true identity. And when they realized I wasn't who they thought, they[r]
+just disappeared."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -420,15 +429,15 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【葛生】
-『ちなみに消えたってのは言葉の綾じゃ無ぇぜ？』[p]
+#【Kuzu】
+"And by disappeared, I don't mean it figuratively."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【葛生】
-『マジで、ちょっと目を放した隙に[r]
-忽然と姿を消しちまったんだ…』[r]
+#【Kuzu】
+"Seriously, I took my eyes off them for just a moment and they[r]
+vanished into thin air..."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -438,15 +447,16 @@
 
 [chara_hide_all  time="500"  wait="true"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『トリックショーの種明かしは大得意なんだが…ありゃ参った』[p]
+#【Kuzu】
+"I'm usually great at revealing the secrets behind tricks... but that[r]
+had me stumped."[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【葛生】
-『まるで本物のマジックショーだったぜ…』[p]
+#【Kuzu】
+"It was like a real magic show..."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -456,14 +466,14 @@
 [chara_show  name="hitomi_1"  time="500"  wait="true"  storage="chara/3/hitomi_1_11.png"  width="406"  height="600"  left="190"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…まるで魔法の様に姿を消した２人の謎の少女…）[p]
+#【Hitomi】
+"(...Two mysterious girls who vanished as if by magic...)"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（その正体が生徒達の口にしていた “ 戦士 ” だとしたら、[r]
-その目的は一体何かしら…？）[r]
+#【Hitomi】
+"(If they are the 'warriors' the students have been talking about,[r]
+what could their purpose be...?)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -474,9 +484,9 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_15_01.png"  ]
 [chara_show  name="sonota"  time="250"  wait="true"  storage="chara/6/podium.png"  width="800"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（…まぁ、魔法少女も気になるけれど、[r]
-先ずは学園側の思惑と行方不明者の捜索を優先しなくちゃね！）[r]
+#【Hitomi】
+"(Well, magical girls are intriguing, but first I need to prioritize[r]
+the school's intentions and the search for the missing persons!)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -485,8 +495,8 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_4.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ハイ♪ それでは午後の授業をはじめまーす♡」[p]
+#【Hitomi】
+"Okay! Let's start the afternoon class♡"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -495,14 +505,14 @@
 [bg  time="500"  method="crossfade"  storage="haikei/room01.jpg"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「起立、礼…」[p]
+#【Rose】
+"Stand up, bow..."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【生徒一同】
-『 よろしくお願いしまーす！ 』[p]
+#【All students】
+"We look forward to working with you!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -519,27 +529,27 @@
 [chara_show  name="sonota"  time="50"  wait="true"  storage="chara/6/podium.png"  width="800"  height="600"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ハーイ、それじゃあ皆、また明日会いましょうね♪」[p]
+#【Hitomi】
+"Alright, everyone, let's meet again tomorrow♪"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_01.png"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「…起立、礼」[p]
+#【Rose】
+"...Stand up, bow"[p]
 [_tb_end_text]
 
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【生徒一同】
-『 ありがとうございましたー！ 』[p]
+#【All students】
+"Thank you very much!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「気をつけて帰るのよ♡」[p]
+#【Hitomi】
+"Be careful on your way home♡"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -552,10 +562,10 @@
 [tb_show_message_window  ]
 [chara_show  name="hitomi_1"  time="500"  wait="true"  storage="chara/3/hitomi_1_03_5.png"  width="406"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（ん～…意気込んで午後の授業に臨んだものの、[r]
-時折胸とオシリに熱ぅい視線を感じたりした以外は[r]
-スムーズに終っちゃったわね…）[r]
+#【Hitomi】
+"(Hmm... I was all geared up for the afternoon class, but aside from[r]
+feeling some hot gazes on my chest and butt from time to time, it[r]
+ended smoothly...)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -563,9 +573,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（昼休み前までの妖しい態度もすっかりナリを潜めちゃって…[r]
-まぁソコが逆に不気味な感じなんだけど…）[r]
+#【Hitomi】
+"(The eerie behavior from before lunch completely disappeared... Well,[r]
+that's actually kind of creepy in its own way...)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -574,10 +584,10 @@
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_11.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（さぁこれからどう動くべきかしら…と言っても、[r]
-敷地内の探索に周囲への聞き込みが芳しくなかった以上[r]
-もう手は限られてるのよね）[r]
+#【Hitomi】
+"(Now, what should I do next... But given that my search within the[r]
+premises and inquiries around didn't go well, my options are[r]
+limited.)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -586,9 +596,9 @@
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_04.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（いよいよ内情を知る者に直接取り入って情報を聞き出す[r]
-『間者の極意』を使う時だわ！）[r]
+#【Hitomi】
+"(It's time to use the 'ultimate art of the spy' and directly[r]
+infiltrate those who know the inside story to extract information.)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -598,9 +608,9 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_4.png"  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（ その名もハニートラップ！[r]
-お色気　大　作　戦　!! ）[r]
+#【Hitomi】
+"(The name of the game is Honey Trap! The grand operation of[r]
+allure!!)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -609,15 +619,18 @@
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（昼間の反応からキッズどもは女のカラダに興味津々！ 誰か１人でも篭絡して引き込めればもうコッチのものってね☆）[p]
+#【Hitomi】
+"(Based on their reactions during the day, those kids are extremely[r]
+curious about a woman's body! If I can ensnare even one of them,[r]
+they're mine☆)"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（ただ問題はお昼の盗聴で得られた会話から察するに[r]
-彼等が失踪事件の “ 引き込み役 ” ないし最悪だと実行犯かもしれないということ…！）[r]
+#【Hitomi】
+"(The problem is, judging from the conversation I overheard at lunch,[r]
+they might be involved in the disappearances—either as recruiters or,[r]
+at worst, as perpetrators...!)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -625,18 +638,24 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（もし後者である場合は、抵抗したであろう冴子を取り押さえるだけのチカラを少年達が有している可能性があるわ）[p]
+#【Hitomi】
+"(If it's the latter case, it means those boys might have the strength[r]
+to have overpowered Saeko, who would have resisted.)"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（モチロン博山の様な手強そうな相手が出て来ることも考えられるけど、過去の経験上 生徒達の人体改造・暗示や投薬による強化の可能性は高い…）[p]
+#【Hitomi】
+"(Of course, it's possible that someone as formidable as Hakuyama[r]
+might show up, but based on past experiences, there's a high chance[r]
+that the students have been enhanced through body modification,[r]
+hypnosis, or medication...)"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（もしそんな生徒に徒党を組んで襲われたりしたらかなり厄介だわ…人選と接触は慎重に行わなきゃ！）[p]
+#【Hitomi】
+"(If I get attacked by such students working together, it could be[r]
+quite troublesome... I need to be careful with whom I choose to[r]
+interact!)"[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
@@ -644,20 +663,20 @@
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_12.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（先ず、玫瑰くんは駄目ね！）[p]
+#【Hitomi】
+"(First off, Meigui-kun is out of the question!)"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（とても味方に引き込める様なタイプじゃ無いわ）[p]
+#【Hitomi】
+"(He's not the type that can be easily swayed to our side.)"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（モチロン彼の指示に従ってる取り巻き連中も無理ね、[r]
-直ぐにチクられるのが関の山だわ…）[r]
+#【Hitomi】
+"(Of course, his followers who obey his commands are also out of the[r]
+question. They'd probably snitch right away...)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -667,21 +686,23 @@
 [chara_hide  name="maikai"  time="500"  wait="true"  pos_mode="false"  ]
 [chara_show  name="futoshi"  time="500"  wait="true"  storage="chara/8/futoshi_1_01.png"  width="375"  height="600"  left="420"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（その点、太志くんは影で反骨精神を窺わせてはいたけれど）[p]
+#【Hitomi】
+"(On the other hand, Taishi-kun has shown a rebellious spirit behind[r]
+the scenes.)"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_14_7.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（発言も態度もクラスで１番露骨で行動が不穏なのよねぇ…）[p]
+#【Hitomi】
+"(But his statements and behavior are the most overtly problematic in[r]
+class...)"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（彼は精々跳ねっ返りと言った所かしら、[r]
-垂らし込めても制御出来るとは限らない[r]
-敵からも味方からも１番厄介なタイプってヤツかもね）[r]
+#【Hitomi】
+"(He might just be a rebel at best. Even if I could lure him in,[r]
+there's no guarantee I could control him. He could be the most[r]
+troublesome type—dangerous to both enemies and allies.)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -692,22 +713,22 @@
 [bg  time="500"  method="crossfade"  storage="haikei/room02.jpg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（そうなると１番イケそうなのは――…）[p]
+#【Hitomi】
+"(That leaves the most likely candidate as--...)"[p]
 [_tb_end_text]
 
 [chara_show  name="hajime"  time="500"  wait="true"  storage="chara/9/hajime_1_01.png"  width="375"  height="600"  left="436"  top="0"  reflect="false"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…ムフっ♡…この子よね♪）[p]
+#【Hitomi】
+"(...Mufu♡...this boy♪)"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（ 白銀 創<シロガネ ハジメ>くん、[r]
-このクラスで１番将来が楽しみな美少年！）[r]
+#【Hitomi】
+"(Hajime Shirogane-kun, the most promising beautiful boy in this[r]
+class!)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -715,9 +736,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（ 物静かでどうもクラスで孤立してる様子の彼なら、きっと将来私好みのイケメンに…[r]
-じゃなくて味方に…♪）[r]
+#【Hitomi】
+"(He seems quiet and somewhat isolated in class. Surely he'll grow up[r]
+to be an attractive man to my liking... no, I mean an ally...♪)"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -725,38 +746,38 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（ ぬふふフぅ…♡）[p]
+#【Hitomi】
+(Nufufu...♡)[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_12.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-「…ッ？！ あ…えと……さ…さようなら、瞳先生…っ」[p]
+#【So】
+"...Huh?! Ah...um...g-goodbye, Hitomi-sensei...!"[p]
 [_tb_end_text]
 
 [chara_hide  name="hajime"  time="250"  wait="true"  pos_mode="false"  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（ しまったぁっ！ 気取られたか！）[p]
+#【Hitomi】
+(Oh no! Did he notice?!)[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_4.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「あ、創くん！ ちょっと待って？」[p]
+#【Hitomi】
+"Ah, So-kun! Could you wait a moment?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_show  name="hajime"  time="250"  wait="true"  storage="chara/9/hajime_1_02_2.png"  width="375"  height="600"  left="543"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【創】
-「はい…？」[p]
+#【So】
+"Yes...?"[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -766,35 +787,35 @@
 [wait  time="500"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【創】
-「うっ……」[p]
+#【So】
+"Ugh..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08.png"  ]
 [chara_hide  name="hajime"  time="250"  wait="false"  pos_mode="false"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ハジメくん!?」[p]
+#【Hitomi】
+"Hajime-kun!?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #【？？】
-「ヒ・ト・ミ・先ぇ～ん生っ♪」[p]
+"Hi.To.Mi-sensei~♪"[p]
 [_tb_end_text]
 
 [chara_show  name="futoshi"  time="250"  wait="true"  storage="chara/8/futoshi_1_02.png"  width="375"  height="600"  left="320"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「今日１日お疲れ様でしたぁ！」[p]
+#【Taishi】
+"Thank you for your hard work today!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_15_02.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「…っ…ありがとう太志くん、君も１日お疲れさま。[r]
-だけどお友達を突き飛ばしちゃダメよ？」[r]
+#【Hitomi】
+"...Thank you, Taishi-kun, you've worked hard today too. But you[r]
+shouldn't push your friends like that, okay?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -803,57 +824,57 @@
 
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_03.png"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「おっと、気付かなかったよ。 ダイジョウブ～？」[p]
+#【Taishi】
+"Oops, I didn't notice. Are you okay~?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_03_3.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「創くん、怪我しなかった？」[p]
+#【Hitomi】
+"So-kun, are you hurt?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_03_4.png"  ]
 [chara_show  name="hajime"  time="500"  wait="true"  storage="chara/9/hajime_1_06_03.png"  width="375"  height="600"  left="510"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【創】
-「………だ…大丈夫です…」[p]
+#【So】
+"...I'm...I'm fine..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_03_3.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「良かったわ、私が急に呼び止めた所為よね、ごめんなさい」[p]
+#【Hitomi】
+"Thank goodness, it's my fault for calling out to you so suddenly, I'm[r]
+sorry."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_03_4.png"  ]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_04_12.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-「…………先生…」[p]
+#【So】
+"...Sensei..."[p]
 [_tb_end_text]
 
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_05.png"  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「・・・・・・・・・・・・・・」[p]
+#【Taishi】
+"..."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_3.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-「………」[p]
+#【So】
+"..."[p]
 [_tb_end_text]
 
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_02.png"  ]
 [chara_move  name="futoshi"  anim="false"  time="50"  effect="default"  wait="true"  left="233"  top="0"  width="375"  height="600"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【太志】
-「ねねね！ 所でさぁ瞳先生！[r]
-放課後暇ぁ？」[r]
+#【Taishi】
+"Hey hey hey! By the way, Hitomi-sensei! Are you free after school?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -863,9 +884,8 @@
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_08_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「えっ？ うーん…初日だし暇では無い…かなぁ…[r]
-どうかしたの？」[r]
+#【Hitomi】
+"Eh? Well...it's the first day, so I'm not exactly free... What's up?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -875,9 +895,8 @@
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_02.png"  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【太志】
-「残業が終わってからでいいから[r]
-今夜ボクとデートしよ？」[r]
+#【Taishi】
+"After you finish your overtime, how about a date with me tonight?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -893,23 +912,22 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・・・・・・はい？」[p]
+#【Hitomi】
+"...Yes?"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_2.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-「……っ」[p]
+#【So】
+"...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_02.png"  ]
 [playbgm  volume="80"  time="1500"  loop="true"  storage="bgm_maoudamashii_cyber41.ogg"  fadein="true"  ]
 [tb_start_text mode=3 ]
-#【太志】
-「だからデートだよぉ♪[r]
-ボク料理の美味しいお店沢山知ってるンだよね」[r]
+#【Taishi】
+"I mean a date♪ I know lots of places with delicious food!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -917,9 +935,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【太志】
-「大食いチャレンジが出来るお店なんかも知ってるよ！[r]
-沢山食べるボクを魅せてあげるからさぁ」[r]
+#【Taishi】
+"I even know a place where you can do a big eating challenge! I'll[r]
+show you how much I can eat, so let's go on a date♥"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -928,26 +946,27 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「デートしよう♥」[p]
+#【Taishi】
+"Let's go on a date♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「・・・・・・え・・・・えーっとぉ・・・・・・」[p]
+#【Hitomi】
+"...Uh...ummm..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（給食時間に色目を使った所為ですっかり気に入られたっぽいわね…）[p]
+#【Hitomi】
+(It seems he's taken quite a liking to me since I gave him the eye[r]
+during lunchtime...)[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（簡単に情報を聞き出せそうな子ではあるんだけど…[r]
-こういう無駄に行動力のある所が怖いというか…）[r]
+#【Hitomi】
+(He seems like someone who'd easily spill information... but his[r]
+unnecessary initiative is kind of scary...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -957,23 +976,23 @@
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_08.png"  ]
 [font  size="42"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「でゅへへへへへぇ♥」[p]
+#【Taishi】
+"Dyuhuhuhuhu♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（ というか…キモい…純粋に無理）[p]
+#【Hitomi】
+(More like...creepy...just impossible on a pure level.)[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_14_7.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（何で私ってこういうタイプにダケはやたらモテるのかしら？[r]
-どんだけ男運無いのよ…）[r]
+#【Hitomi】
+(Why do I only attract this type of guy? How unlucky can I get with[r]
+men...?)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -984,9 +1003,9 @@
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_02.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（でもデートは置いといて『食べに行く』…か、[r]
-『学園の外に連れ出す』ってのは悪くない手ね）[r]
+#【Hitomi】
+(But setting the date aside, "going out to eat"... taking him outside[r]
+the academy isn't a bad idea.)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -995,9 +1014,9 @@
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_14_1.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（デッカイ釣り針にしか見えないけど、[r]
-閉ざされた学園の外になら味方の目が光ってるワケだし…）[r]
+#【Hitomi】
+(It looks like a big hook, but outside the closed academy, there are[r]
+allies keeping watch...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1006,10 +1025,10 @@
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_12.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（でもそれなら別にこの子じゃなくても良いワケで…[r]
-どうせならハジメくんを食べたい…[r]
-じゃなくて、創君と食べに行きたい！ 親睦を深めたい！）[r]
+#【Hitomi】
+(But then again, it doesn't have to be this guy... I'd rather eat with[r]
+Hajime-kun... no, I mean, I want to go out to eat with So-kun! I want[r]
+to deepen our friendship!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1018,14 +1037,16 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（でもこの食事の誘いはきっと私を捕らえる為の罠だろうし、この行動が読めない子を下手に拒むとそれこそ次に何を言われるか解らないというか…）[p]
+#【Hitomi】
+(But this dinner invitation is surely a trap to catch me, and with[r]
+this unpredictable boy, if I reject him carelessly, who knows what[r]
+he'll say next...)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_12.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（ウムムム…出て来い打開策ぅ～……）[p]
+#【Hitomi】
+(Hmmmm...come on, solution...)[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1043,23 +1064,22 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（ あ、そっか。[r]
+#【Hitomi】
+(Ah, that's right.)[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【瞳】
-いっそ全部引きずり出しちゃえばイイんだわ！）[p]
+#【Hitomi】
+(I should just drag everything out into the open!)[p]
 [_tb_end_text]
 
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano35.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_4.png"  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「決～めた♪ 今日は皆でパァッと[r]
-ご飯を食べに行きましょう！」[r]
+#【Hitomi】
+"Decided♪ Let's all go out and have a big dinner together today!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1070,21 +1090,21 @@
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_03.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_12.png"  ]
 [tb_start_text mode=1 ]
-#【太志＆創】
-「え？！」[p]
+#【Taishi & So】
+"Eh?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【生徒達】
-『？？？』[p]
+#【Students】
+"???"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_hide_all  time="500"  wait="true"  ]
 [tb_start_text mode=3 ]
 #
-私のひらめきの一言でまだ騒がしかった放課後の教室は[r]
-一瞬で静まり返った。[r]
+With just one flash of inspiration, the still noisy classroom after[r]
+school fell silent in an instant.[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1095,9 +1115,9 @@
 [chara_show  name="hitomi_1"  time="1000"  wait="true"  storage="chara/3/hitomi_1_05_3.png"  width="406"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_start_text mode=3 ]
 #
-どう考えても罠である食事の誘いを下手に断れば[r]
-相手は強引な次の手で私の退路を絶ちに来るだろう、[r]
-それこそ捕われの冴子を引き合いに出すなどして…[r]
+If I carelessly refuse the dinner invitation that is obviously a trap,[r]
+he will come at me with a more aggressive next move, perhaps even[r]
+bringing up the captured Saeko...[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1106,9 +1126,9 @@
 
 [tb_start_text mode=3 ]
 #
-立場の不利はどうしても覆せない！[r]
-ならばせめて相手の誘いを逆手に取って[r]
-コチラのペースに乗せてしまおうというワケ♪[r]
+I can't overturn the disadvantage of my position! So at least I'll[r]
+take his invitation and turn it to my advantage, setting the pace my[r]
+way♪[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1118,9 +1138,9 @@
 [bg  time="500"  method="crossfade"  storage="haikei/room02.jpg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_4.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「着任したての先生とみんなの親睦を深めるためよ♡[r]
-ね？ イイ考えでしょ♪」[r]
+#【Hitomi】
+"It's to deepen everyone's friendship with the new teacher♡ Right?[r]
+It's a good idea, isn't it♪"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1130,20 +1150,21 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_5.png"  ]
 [chara_show  name="futoshi"  time="250"  wait="true"  storage="chara/8/futoshi_1_10.png"  width="375"  height="600"  left="219"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「…い、いや…みんなでって、それじゃデートにならないじゃん」[p]
+#【Taishi】
+"...no...if everyone's going, then it's not a date."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【太志】
-「ボクは瞳先生と２人っきりで…」[p]
+#【Taishi】
+"I want to be alone with Hitomi-sensei..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_03_3.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「んもぅ♪ ２人だけの時間ならこれから幾らでも作れるでしょ？[r]
-今日は先生と皆の出会いの記念日にしたいのよ」[r]
+#【Hitomi】
+"Oh come on♪ There will be plenty of time for just the two of us[r]
+later, right? Today I want to make it a day to remember our meeting[r]
+with everyone."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1152,9 +1173,10 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-「太志君オススメの料理店でみんなとご飯を食べる！[r]
-きっと給食の何倍も美味しいし楽しいわよ？」[r]
+#【Hitomi】
+"We'll eat at a restaurant recommended by Taishi-kun with everyone![r]
+It'll surely be many times more delicious and fun than school lunch,[r]
+right?"[p]
 
 [_tb_end_text]
 
@@ -1165,35 +1187,34 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09.png"  ]
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_03.png"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「・・・・・・そ…そう…かな…？」[p]
+#【Taishi】
+"...maybe...so...?"[p]
 [_tb_end_text]
 
 [chara_show  name="hajime"  time="250"  wait="true"  storage="chara/9/hajime_1_04_12.png"  width="375"  height="600"  left="500"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【創】
-「…ぼ、僕も……皆となら……」[p]
+#【So】
+"...I...if it's with everyone..."[p]
 [_tb_end_text]
 
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_05.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「ハァ？ お前はダメに決まってるだろ」[p]
+#【Taishi】
+"Huh? You're definitely out of the question."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_4.png"  ]
 [playse  volume="90"  time="1000"  buf="0"  storage="se02/munyu1.ogg"  ]
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_03.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「ほらほら喧嘩しない！ ね？」[p]
+#【Hitomi】
+"Now now, no fighting! Okay?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-「仲直りも兼ねて皆で行きましょうよ♪[r]
-先生の　お・ご・り・で♡」[r]
+#【Hitomi】
+"Let's go together as a way to make up♪ It's on me♡"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1204,29 +1225,29 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_5.png"  ]
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_10.png"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「う……う～～ん…でも……いや…でもぉ…」[p]
+#【Taishi】
+"Uh...uhhh...but...no...but..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_4.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（――イケる、もうひと押し…！）[p]
+#【Hitomi】
+(--I can do this, just one more push...!)[p]
 [_tb_end_text]
 
 [stopbgm  time="1000"  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？】
-「…失礼します」[p]
+"...Excuse me."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_2.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「･･･っ？！」[p]
+#【Hitomi】
+"...?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1245,14 +1266,14 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「～～ッ？！？…ま……まいかい……く……？！」[p]
+#【Hitomi】
+"~~?!?...mai...kaik...?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（ゆ…油断した……なんて重い一撃…っ[r]
-動きがまるで…見えなか……っ…）[r]
+#【Hitomi】
+(I...I let my guard down...such a heavy blow...I can't see his[r]
+movements at all...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1262,8 +1283,8 @@
 [chara_mod  name="hitomi_1"  time="0"  cross="false"  storage="chara/3/hitomi_1_03_9.png"  ]
 [tb_chara_shake  name="hitomi_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-「――――クッ…」[p]
+#【Hitomi】
+"----Guh..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1274,9 +1295,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【太志】
-「…ちょ、ちょっと玫瑰くん！？[r]
-何すんだよぉ?!」[r]
+#【Taishi】
+"...hey, Meigui-kun!? What are you doing?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1288,10 +1308,9 @@
 [chara_mod  name="maikai"  time="250"  cross="false"  storage="chara/7/maikai_1_09.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「何すんだじゃ無ぇだろ[r]
-ナニ飲まれそうになってんだ[r]
-馬鹿かテメェは…？」[r]
+#【Rose】
+"What am I doing isn't the question. You were about to get played, you[r]
+idiot...?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1300,14 +1319,13 @@
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【太志】
-「ぐ…っ……だ…だって……」[p]
+#【Taishi】
+"Gu...h...but..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【玫瑰】
-「だって何だよ？[r]
-まさかこの教師となら上手くやれそうとでも思ったのか？」[r]
+#【Rose】
+"But what? Did you think you could get along with this teacher?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1317,9 +1335,8 @@
 [chara_mod  name="maikai"  time="250"  cross="false"  storage="chara/7/maikai_1_10.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「『人としてやり直せるかも』[r]
-なんて思っちゃったのかぁ！？」[r]
+#【Rose】
+"Thought you could start over 'as a person', huh!?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1327,30 +1344,30 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【玫瑰】
-「無理に決まってンだろ駄豚がッ！」[p]
+#【Rose】
+"It's impossible for you, you damn pig!"[p]
 [_tb_end_text]
 
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_05.png"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「・・・・・・ッ」[p]
+#【Taishi】
+"..."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_04.png"  ]
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_06.png"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「まイ…カイ…ッ」[p]
+#【Taishi】
+"mai...kaik..."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-「止めとけよ太志、お前が悪い」[r]
-「そうそう。 お前誘うの下手過ぎぃw」[r]
+#【Students】
+"Stop it Taishi, it's your fault." "Yeah, yeah. You're really bad at[r]
+inviting people lol"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1360,15 +1377,15 @@
 [resetfont  ]
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_05.png"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「うぅ・・・っ」[p]
+#【Taishi】
+"Ugh..."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_05.png"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「太志クン…誰にでも得手不得手は在ります。[r]
-君は自分の得意な事に専念して己を高めてください」[r]
+#【Rose】
+"Taishi-kun...everyone has their strengths and weaknesses. Please[r]
+concentrate on what you're good at and improve yourself."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1377,9 +1394,8 @@
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「暮れぐれも余計な事をして[r]
-僕の足を引っ張らないで下さいね？」[r]
+#【Rose】
+"And don't do anything unnecessary that might hold me back, okay?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1391,8 +1407,8 @@
 [stopbgm  time="2500"  fadeout="true"  ]
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_09.png"  ]
 [tb_start_text mode=1 ]
-#【太志】
-「…っ……ち……ちくしょぉ……」[p]
+#【Taishi】
+"...damn it..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1411,14 +1427,14 @@
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「…さて、誰か瞳先生を運んでください」[p]
+#【Rose】
+"...Now, someone carry Hitomi-sensei."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【玫瑰】
-「泳がせるつもりでいましたが、[r]
-この人は些か騒がしい上にどうも刺激が強すぎる様だ」[r]
+#【Rose】
+"I was planning to let her swim freely, but she's a bit too noisy and[r]
+seems to be too much of a stimulus."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1426,16 +1442,16 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【玫瑰】
-「こういう人間は喰らうにしろ駒にするにしろ早い方が良い」[p]
+#【Rose】
+"It's better to deal with such people quickly, whether you eat them or[r]
+use them as pawns."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-「へへっ　やりぃ！ オレが運ぶー！」[r]
-「あ、俺も俺もーっ」[r]
-「今度こそオンナを手に入れるぜ！」[r]
+#【Students】
+"Heheh, leave it to me! I'll carry her!" "Ah, me too, me too!" "This[r]
+time for sure I'll get a woman!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1445,9 +1461,8 @@
 [chara_show  name="hajime"  time="250"  wait="true"  storage="chara/9/hajime_1_02_3.png"  width="375"  height="600"  left=""  top=""  reflect="false"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【創】
-「待って玫瑰君、それに皆、[r]
-瞳先生は…帰してあげよう…？」[r]
+#【So】
+"Wait Meigui-kun, and everyone else, let's...let Hitomi-sensei go...?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1458,16 +1473,15 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano35.ogg"  ]
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「・・・・・・・・・・」[p]
+#【Rose】
+"..."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-「ハァア？！？ ナニ言ってンのお前！？」[r]
-「とうとう狂ったか…」[r]
-「もう処分しちゃえば？ 玫瑰君」[r]
+#【Students】
+"Huh?! What are you talking about?!" "Has he finally gone crazy...?"[r]
+"Maybe we should just get rid of him, right Meigui-kun?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1477,9 +1491,9 @@
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_06.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-「…危ない…と思うんだ…。[r]
-玫瑰君だって言ったじゃないか、最近ペースが速すぎるって」[r]
+#【So】
+"...It's dangerous... I think... Didn't Meigui-kun say it too, that[r]
+we've been moving too fast lately?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1488,10 +1502,11 @@
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_02_3.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-「瞳先生…赴任して来て１日目だよ？ その前の冴子先生だって…[r]
-絶対おかしいって思われてる…！[r]
-このままじゃ戦士に見つかって…みんな殺されちゃうよ…っ」[r]
+#【So】
+"Hitomi-sensei... It's only her first day since she arrived, right?[r]
+And even before her, Saeko-sensei... It's definitely being perceived[r]
+as strange...! If this continues, we'll be found by the warriors...[r]
+and everyone will be killed..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1501,10 +1516,9 @@
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_3.png"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=3 ]
-#【生徒達】
-「殺られるかよヴァーカ！」[r]
-「お前が殺されろよ出来損ない！」[r]
-「死ネッ！」[r]
+#【Students】
+"Like we'd get killed, idiot!" "You should be the one to get killed,[r]
+failure!" "Die!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1514,29 +1528,31 @@
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「ウルサイ」[p]
+#【Rose】
+"Quiet."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [tb_start_text mode=1 ]
-#【生徒達】
-『・・・・・っ』[p]
+#【Students】
+"...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「珍しいじゃないか創くん、何時も黙って観ているだけの君が僕に意見するなんてさ。もしかして気に入ったのかい？ ソレ」[p]
+#【Rose】
+"It's rare for you, So-kun, to voice your opinion to me when you[r]
+usually just watch silently. Could it be that you've taken a liking to[r]
+her? That one?"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_03.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-「べ…別にそういうのじゃ無いよ…っ[r]
-今日初めて会った先生だし、話だって何もしてない…」[r]
+#【So】
+"It's not... like that... I just met the teacher today, and we haven't[r]
+even talked..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1545,16 +1561,17 @@
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_02_2.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-「だけど…良い人だよ…凄く良い人…だと思う」[p]
+#【So】
+"But... she seems like a good person... a really good person... I[r]
+think."[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_7.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-「だから今日は…逃がしてあげよう？[r]
-もう僕らを詮索しないでってお願いして…帰してあげよう？[r]
-話せばきっと解ってくれるよ」[r]
+#【So】
+"So let's let her go today...? We'll ask her not to pry into our[r]
+affairs anymore and let her return home...? If we talk to her, she'll[r]
+surely understand."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1564,55 +1581,59 @@
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_6.png"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「本当にそう思うかい？」[p]
+#【Rose】
+"Do you really think so?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_3.png"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「この女は特命教師…この国に僅かばかり残された比較的マトモに機能している組織から派遣された調査員…つまり人間達の尖兵だ」[p]
+#【Rose】
+"This woman is a special mission teacher... an investigator dispatched[r]
+from one of the few relatively functional organizations left in this[r]
+country... in other words, the vanguard of the humans."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【玫瑰】
-「人間などもう僕等の相手ではないけれど、僕達の存在とその目的を知れば必ず邪魔をしようと足掻くだろう」[p]
+#【Rose】
+"Humans are no longer a match for us, but if they learn of our[r]
+existence and our purpose, they will surely try to interfere."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【玫瑰】
-「そうなればそれこそ騒ぎを聞き付けて “ 奴等 ” に付け入られてしまう事になる」[p]
+#【Rose】
+"If that happens, then the commotion will attract 'them' and we'll end[r]
+up being infiltrated."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_09.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「生かして帰す訳にはいかないんだよ」[p]
+#【Rose】
+"We can't let her go back alive."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_hide  name="hajime"  time="0"  wait="false"  pos_mode="false"  ]
 [chara_show  name="hajime"  time="0"  wait="false"  storage="chara/9/hajime_1_03_2.png"  width="375"  height="600"  reflect="true"  ]
 [tb_start_text mode=3 ]
-#【創】
-「でも今なら未だ僕らの事は知られていないよ！[r]
-念を押して送り返せばいいんだ！[r]
+#【So】
+"But right now, they still don't know about us! We can just emphasize[r]
+it and send her back!"[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-もう僕等に関わらないでって！」[p]
+#【So】
+"To not get involved with us anymore!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_2.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「だから！ この女は任務で来ているんだ！[r]
-説得程度で引くワケが無いンだよ！」[r]
+#【Rose】
+"That's why! She's here on a mission! She won't back down just because[r]
+of persuasion!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1622,56 +1643,57 @@
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_03.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-「……ならその時は…僕が始末を付けるよ…」[p]
+#【So】
+"...then when that time comes... I'll take care of it..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_02.png"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「…！」[p]
+#【Rose】
+"!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_05.png"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「余程気に入った様だね、一目惚れかな？」[p]
+#【Rose】
+"You seem to have taken quite a liking to her, love at first sight[r]
+perhaps?"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_04.png"  ]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_04_13.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-「・・・・・・ッ」[p]
+#【So】
+"...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「……ふぅ、解ったよ。そんなに睨まないでくれ、怖いなぁ」[p]
+#【Rose】
+"...Phew, understood. Don't glare at me like that, it's scary."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【玫瑰】
-「瞳先生の処遇は君に任せるよ」[p]
+#【Rose】
+"I'll leave Hitomi-sensei's treatment up to you."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_02_2.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-「玫瑰くん…」[p]
+#【So】
+"Meigui-kun..."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_2_02.png"  ]
 [font  size="33"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【玫瑰】
-「ただし、言った事は守ってもらうよ？[r]
-それに戦士対策にも協力して貰う、いいね？」[r]
+#【Rose】
+"However, you must keep your word, okay? And you'll also cooperate[r]
+with the warrior countermeasures, right?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1682,23 +1704,23 @@
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_03.png"  ]
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【創】
-「…わかった。僕も……戦うよ」[p]
+#【So】
+"...Understood. I will... fight too."[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_02.png"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「アハッ♪ よし！決まり！」[p]
+#【Rose】
+"Ahaha! Alright! It's decided!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_hide  name="maikai"  time="0"  wait="false"  pos_mode="false"  ]
 [chara_show  name="maikai"  time="250"  wait="false"  storage="chara/7/maikai_1_02.png"  width="313"  height="600"  reflect="true"  left="505"  top="0"  ]
 [tb_start_text mode=1 ]
-#【玫瑰】
-「さぁ皆、此処は創君に任せて行きましょう」[p]
+#【Rose】
+"Now everyone, let's leave this place to So-kun and move on."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1708,8 +1730,8 @@
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_03.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【創】
-「……はぁ……よかった…」[p]
+#【So】
+"...sigh... thank goodness..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1722,24 +1744,24 @@
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #【？？？】
-『……瞳先生、聞こえますか？』[p]
+"...Hitomi-sensei, can you hear me?"[p]
 [_tb_end_text]
 
 [chara_show  name="hitomi_1"  time="1000"  wait="false"  storage="chara/3/hitomi_1_03_5.png"  width="406"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（………ん…ぅ…？……誰…？）[p]
+#【Hitomi】
+(...hmm...uh...? Who...?)[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #【？？？】
-『お願いがあります、よく聞いて下さい』[p]
+"I have a request, please listen carefully."[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（…あと５分寝かせて…[r]
-急な打ち合わせやらなんやらで寝不足なのよぉ…）[r]
+#【Hitomi】
+(Let me sleep for five more minutes... I'm sleep-deprived because of[r]
+sudden meetings and whatnot...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1749,17 +1771,16 @@
 [chara_mod  name="hitomi_1"  time="0"  cross="false"  storage="chara/3/hitomi_1_08.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（って、はうぁっ?!）[p]
+#【Hitomi】
+(Wait, huh?!)[p]
 [_tb_end_text]
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_16_06.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（こ、今度は油断なんかしないわよ?![r]
-来なさい玫瑰君ッ！）[r]
+#【Hitomi】
+(I won't be caught off guard this time?! Come at me Meigui-kun!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1778,19 +1799,19 @@
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（……？…………何処ココ？）[p]
+#【Hitomi】
+(...? Where is this place?)[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #【？？？】
-『…うっふ…あははははっ』[p]
+"...uh-huh...ahahahaha!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_08_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（あ…）[p]
+#【Hitomi】
+(Ah...)[p]
 [_tb_end_text]
 
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano37.ogg"  ]
@@ -1799,29 +1820,29 @@
 [chara_hide  name="hitomi_1"  time="0"  wait="false"  pos_mode="false"  ]
 [chara_show  name="hitomi_1"  time="0"  wait="true"  storage="chara/3/hitomi_1_03_2.png"  width="406"  height="600"  reflect="true"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（ちょ…ヤダ見てたの？ ハジメくん…）[p]
+#【Hitomi】
+(Wait... you were watching? That's embarrassing, Hajime-kun...)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_03.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_12.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『あ…ごめんなさい…』[p]
+#【So】
+"Ah... I'm sorry..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（ううん、いいのよ。 創くんなら許してあげる♡）[p]
+#【Hitomi】
+(No, it's okay. I'll forgive you, So-kun♡)[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime2_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_3.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（所で…この桃色でハッピーな感じの空間？が[r]
-一体何処なのか知ってたら教えてくれないかな…？）[r]
+#【Hitomi】
+(By the way... this pink and happy-feeling space? Do you know where[r]
+this is...?)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1831,16 +1852,16 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_1.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime2_02.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『此処は先生の心の中です』[p]
+#【So】
+"This is inside your heart, Sensei."[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime2_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_06.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（え゛？ …ちょっと何言ってるか解んないわ創クン…[r]
-それに私の心はこんなにお花畑じゃ無いわよ？…たぶん）[r]
+#【Hitomi】
+(Eh? ...I don't understand what you're saying, So-kun... Besides, my[r]
+heart isn't this flowery... probably)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1849,9 +1870,9 @@
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime2_02.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-『驚かないで欲しいんですが…[r]
-僕は今、先生の心に直接話しかけています』[r]
+#【So】
+"Please don't be startled, but... I am currently speaking directly to[r]
+your heart."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1860,13 +1881,13 @@
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime2_01.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（いや、だからぁ…）[p]
+#【Hitomi】
+(No, that's what I'm saying...)[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【創】
-『・・・・・・』[p]
+#【So】
+"..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -1874,41 +1895,40 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（……マジ…？）[p]
+#【Hitomi】
+(...Seriously...?)[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_02_2.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『……不気味でしょ？』[p]
+#【So】
+"...Creepy, isn't it?"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_02_3.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…………）[p]
+#【Hitomi】
+(...)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_3.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…不思議だなぁとは思うけど、不気味だとは思わないわ）[p]
+#【Hitomi】
+(I do find it strange, but I wouldn't say it's creepy.)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_4.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_3.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『・・・・・・』[p]
+#【So】
+"..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_2.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（あ、信用してないなぁ？[r]
-大ぁい丈ぉ夫☆）[r]
+#【Hitomi】
+(Ah, you don't trust me? It's totally fine☆)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1917,9 +1937,9 @@
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime2_01.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（これでも色々な生徒を見て来た[r]
-経験豊富なエリート教師なんだから♡）[r]
+#【Hitomi】
+(After all, I'm an experienced and elite teacher who has seen all[r]
+sorts of students♡)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1930,15 +1950,16 @@
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime2_02.png"  ]
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【創】
-『…その様ですね。先生の心に直接触れてみて良く解りました』[p]
+#【So】
+"...That's true. Having touched your heart directly, I understand[r]
+now."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【創】
-『やっぱり瞳先生は良い人でした。[r]
-強くて、優しくて、正義感に溢れてて…』[r]
+#【So】
+"Indeed, Hitomi-sensei is a good person. Strong, kind, and brimming[r]
+with a sense of justice..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1948,9 +1969,9 @@
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_06.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（あ、あら…もしかして私の経歴とか記憶とかも分かっちゃう系？[r]
-でもそれなら話が早くてイイわ）[r]
+#【Hitomi】
+(Oh, really...? Does that mean you can also see my credentials and[r]
+memories? But that would make things easier.)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1960,9 +1981,9 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber01.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_11_3.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（そう！セクシー系美人新任教師は世を忍ぶ仮の姿…[r]
-しかしてその実体は…っ）[r]
+#【Hitomi】
+(Yes! The sexy new teacher is but a disguise to blend in with the[r]
+world... And in reality...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1972,9 +1993,9 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_16_07.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（教育機関の影に蔓延る悪をぶっ倒し！[r]
-青少年達を救う為にやって来た正義の味方！）[r]
+#【Hitomi】
+(I'm here to defeat the evil that lurks in the shadows of educational[r]
+institutions and save the youth—a hero of justice!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1985,23 +2006,23 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_3.png"  ]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（ 特命教師 瞳よっ♡ ）[p]
+#【Hitomi】
+(Special Mission Teacher Hitomi♡)[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_12.png"  ]
 [stopbgm  time="2500"  fadeout="true"  ]
 [tb_start_text mode=1 ]
-#【創】
-『……あ……えっと…………はい。』[p]
+#【So】
+"...Ah... um... yes."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（えぇ～…？ なーにその釣れない反応…[r]
-私の事ちゃんと理解してくれたのぉ？）[r]
+#【Hitomi】
+(Eeh~...? What's with that lukewarm reaction... Did you really[r]
+understand me?)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2013,29 +2034,30 @@
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_3.png"  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【創】
-『は、はいっ　大丈夫です！[r]
+#【So】
+"Ye-yes, it's okay! I fully understand why you came to our academy![r]
+Ah... and also..."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【創】
-僕達の学園に来た経緯なんかもちゃんと！ あ…あと…』[p]
+#【So】
+"The details of how you came to our school and everything! Ah...[r]
+also..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_02_4.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-『私生活がちょっと乱れてる様子も…』[p]
+#【So】
+"It seems your personal life is a bit disordered..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_3.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（それはトップシークレッツぅ！[r]
-さっきの口上全部吹っ飛んだわよ?![r]
-アウト アウト！ もう閲覧禁止っ！）[r]
+#【Hitomi】
+(That's top secret! You've just blown all my grand declarations out of[r]
+the water?! Out out! No more peeking!)[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2045,8 +2067,10 @@
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_07.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-『ご、ごめんなさい！だって毎日の様にお酒飲むし、寝癖凄いし、し…下着も毎日凄く派手なの選んでて…っ』[r]
+#【So】
+"I-I'm sorry! It's just that you drink alcohol almost every day, your[r]
+bed hair is intense, and... you always choose really flashy[r]
+underwear..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2056,9 +2080,8 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_13_3.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（キャ―――ッ？！[r]
-ハンパな拷問より辛いからやめてぇっ!!）[r]
+#【Hitomi】
+(Kyaa---?! This is more painful than half-hearted torture, stop it!!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2068,34 +2091,35 @@
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_03.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『す…すみませんっ　もう覗きません！』[p]
+#【So】
+"I-I'm sorry! I won't peek anymore!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_9.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（もう！ 思ってたよりヤンチャなんだからぁ）[p]
+#【Hitomi】
+(Geez! You're naughtier than I thought.)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（こうなったら責任取って貰っちゃおうかな！？）[p]
+#【Hitomi】
+(Now that it's come to this, maybe I should make you take[r]
+responsibility!?)[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_02.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『はい。お詫びに僕達の事もお話します』[p]
+#【So】
+"Yes. As an apology, I will also tell you about us."[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（いや…将来ハジメ君のお嫁さんにぃ…的なノリの話で[r]
-また可愛く戸惑って欲しかったんだけど……）[r]
+#【Hitomi】
+(No... I wanted you to be adorably flustered again with a talk about[r]
+becoming Hajime-kun's future bride or something...)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2104,38 +2128,39 @@
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_06.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『・・・・・・』[p]
+#【So】
+"..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_11_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（本音筒抜けな心の会話って私には逆にもどかしいなぁ～…）[p]
+#【Hitomi】
+(Having a heart-to-heart conversation where my true feelings are[r]
+completely exposed is actually frustrating for me~...)[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_02_2.png"  ]
 [font  size="31"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-『これから僕の話すことをよく聞いて下さい』[p]
+#【So】
+"Please listen carefully to what I'm about to say."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_2.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_2.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（は、はい）[p]
+#【Hitomi】
+(Yes, I'm listening.)[p]
 [_tb_end_text]
 
 [stopbgm  time="2500"  fadeout="true"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_06.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【創】
-『先ず、薄々お気付きの通り、[r]
-僕たち特別学級の生徒は全員…』[r]
+#【So】
+"First of all, as you may have faintly realized, all of us in the[r]
+special class are no longer..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2143,8 +2168,8 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【創】
-『 もう人間ではありません 』[p]
+#【So】
+"We are no longer human."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2153,17 +2178,17 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber19.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_4.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…！）[p]
+#【Hitomi】
+(...!)[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_06.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【創】
-『僕達はある目的の為に全国から集められ[r]
-今日まで沢山の人を襲い、[r]
-その命を奪ってチカラを蓄えて来ました』[r]
+#【So】
+"We have been gathered from all over the country for a certain[r]
+purpose, and until today, we have attacked many people, taking their[r]
+lives to accumulate power."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2173,24 +2198,23 @@
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_5.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（い…命を奪ってですって？！）[p]
+#【Hitomi】
+(Li...taking lives?!)[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_02_3.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『そしてもうじき僕等は行動を起こします』[p]
+#【So】
+"And soon, we will take action."[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_3.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_3.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（ちょ、ちょっと待って創君！[r]
-命を奪ってって…それじゃ冴子は?![r]
-冴子をどうしたの！？）[r]
+#【Hitomi】
+(Wait, wait a minute, So-kun! Taking lives... what about Saeko? What[r]
+did you do to Saeko!?)[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2200,41 +2224,41 @@
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_02_2.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『冴子先生は未だご無事です…』[p]
+#【So】
+"Saeko-sensei is still safe..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_03.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『でも、僕らが行動を起こす頃には…恐らく……』[p]
+#【So】
+"But, by the time we take action... probably..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_4.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（～～～～ッ）[p]
+#【Hitomi】
+(~~~~)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…その “ ある目的 ” って何！？）[p]
+#【Hitomi】
+(...what is "that certain purpose"?!)[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_06.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『･･･半年前の･･･ “ つづき ” です･･･』[p]
+#【So】
+"...it's the continuation of... half a year ago..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_05.png"  ]
 [stopbgm  time="1000"  fadeout="true"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_3.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（は…半年前って…まさか……!?）[p]
+#【Hitomi】
+(Ha...half a year ago... could it be...!?)[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2247,9 +2271,8 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【創】
-『……はい。ご存知の通りの…[r]
-失敗に終わった あ の 続きです』[r]
+#【So】
+"...yes. As you know, it's the continuation of that failed attempt."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2258,19 +2281,19 @@
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【創】
-『しかし、その前に必要な物がある…』[p]
+#【So】
+"However, before that, there's something we need..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【創】
-『僕等はその必要なモノを呼び戻すための……』[p]
+#【So】
+"We are to call back that necessary thing in order to..."[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="cg02_03.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『そして今度こそ…世界は……』[p]
+#【So】
+"And this time for sure... the world will..."[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="sozai_07.jpg"  ]
@@ -2278,9 +2301,9 @@
 [chara_show  name="hajime"  time="250"  wait="true"  storage="chara/9/hajime_1_01.png"  width="375"  height="600"  left="367"  top="0"  reflect="false"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（何が何だか分からないけど…[r]
-駄目よそんな事しちゃ！）[r]
+#【Hitomi】
+(I don't understand what's going on, but... you can't do such a[r]
+thing!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2288,9 +2311,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（手を引きなさい！ 人として、[r]
-人間として真っ当に生きるのよ創くん！）[r]
+#【Hitomi】
+(Stop it! As a person, as a human being, you should live an honest[r]
+life, So-kun!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2298,30 +2321,30 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=1 ]
-#【瞳】
-（貴方だって良くない事をしていると思っているんでしょ！？）[p]
+#【Hitomi】
+(You think what you're doing is wrong too, don't you!?)[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_06.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『無理だよ先生…僕の運命は産まれた時から決まっていたんだ』[p]
+#【So】
+"It's impossible, Sensei... my fate was decided from the moment I was[r]
+born."[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_05.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_15_03.png"  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（運命？そんなツマラナイ諦めの言葉なんかクチにしちゃ駄目よ！）[p]
+#【Hitomi】
+(Fate? You shouldn't utter such boring words of resignation!)[p]
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="sozai_06.jpg"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（大切なのは自分がどうしたいか！[r]
-どう在りたいか！）[r]
+#【Hitomi】
+(What's important is what you want to do! How you want to be!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2329,9 +2352,9 @@
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【瞳】
-（そしてその為にはどうすべきかを考え[r]
-どう行動するかよ！）[r]
+#【Hitomi】
+(And for that, you should think about what you should do and how you[r]
+should act!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2341,15 +2364,15 @@
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_2.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_6.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（生れだ育ちだなんて関係無い！敷かれたレールなんてクソくらえだわ！）[p]
+#【Hitomi】
+(Your birth and upbringing don't matter! To hell with the rails laid[r]
+out for you!)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_15_05.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（人生は戦いなの！[r]
-私なら運命にだって挑んでみせる！）[r]
+#【Hitomi】
+(Life is a battle! I would even challenge fate if I had to!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2358,8 +2381,9 @@
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_02.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（創君、貴方は一体どうしたいの？自分の人生は自分の意思で決めなさい）[p]
+#【Hitomi】
+(So-kun, what do you really want to do? Decide your own life with your[r]
+own will.)[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_15_06.png"  ]
@@ -2367,42 +2391,42 @@
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_01.png"  ]
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【創】
-『……先生ぇ…っ……だから…言ったじゃないか…ッ』[p]
+#【So】
+"...Sensei... that's why... I told you..."[p]
 [_tb_end_text]
 
 [font  size="40"  color="0xffffff"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_15.png"  ]
 [bg  time="250"  method="crossfade"  storage="sozai_07.jpg"  ]
 [tb_start_text mode=1 ]
-#【創】
-『僕は人間じゃ無いんだ…ッ』[p]
+#【So】
+"I'm not human..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_4.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『人生なんかあるもんかッ!!』[p]
+#【So】
+"I don't have anything like a life!!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（・・・っ）[p]
+#【Hitomi】
+(...)[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_14.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『瞳先生、僕からの最初で最後のお願いです』[p]
+#【So】
+"Hitomi-sensei, this is my first and last request."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_15.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-『もう僕達に関わらないで下さい…！[r]
-二度と産土学園を訪れないで下さい！』[r]
+#【So】
+"Please don't get involved with us anymore...! Never visit Santochi[r]
+Academy again!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2413,14 +2437,14 @@
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_13.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_15_04.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（そ…そんな忠告…聞けるわけが…）[p]
+#【Hitomi】
+(Su...such a warning... I can't just listen to it...)[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime3_02.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『そうしてくれないと…』[p]
+#【So】
+"If you don't..."[p]
 [_tb_end_text]
 
 [tb_hide_message_window  ]
@@ -2432,30 +2456,30 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-『僕は先生を殺さなくちゃいけなくなる』[p]
+#【So】
+"I will have to kill you."[p]
 [_tb_end_text]
 
 [playse  volume="90"  time="1000"  buf="5"  storage="ugoki04.ogg"  ]
 [chara_hide  name="hitomi_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="hitomi_1"  time="50"  wait="true"  storage="chara/3/hitomi_1_16_05.png"  width="406"  height="600"  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（くぅ…ッ？！）[p]
+#【Hitomi】
+(Ku...?!)[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【創】
-『先生の大切な仲間も、友達も、全部…ゼンブ……！』[p]
+#【So】
+"Your precious colleagues, friends, all of them... everything...!"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_16_06.png"  ]
 [chara_move  name="hitomi_1"  anim="false"  time="250"  effect="default"  wait="true"  left="-35"  top="0"  width="406"  height="600"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（な…何者っ！？）[p]
+#【Hitomi】
+(Wh...who are you?!)[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2466,32 +2490,32 @@
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…は…創くん……？！）[p]
+#【Hitomi】
+(...is that... So-kun...?!)[p]
 [_tb_end_text]
 
 [resetfont  ]
 [stopse  time="2000"  buf="0"  fadeout="true"  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_14_7.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（……今のは…一体…？）[p]
+#【Hitomi】
+(...what was that just now...?)[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_02_2.png"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【創】
-『…今のが僕の本当の姿です…』[p]
+#【So】
+"...that was my true form..."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_2.png"  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_03_2.png"  ]
 [tb_start_text mode=3 ]
-#【瞳】
-（そんな…特殊強化スーツとも人体改造とも違う…[r]
-あれじゃまるで………っ）[r]
+#【Hitomi】
+(Such a thing... it's neither a special enhancement suit nor a human[r]
+modification... it's almost like...!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2500,29 +2524,28 @@
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_02.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『……………』[p]
+#【So】
+"..."[p]
 [_tb_end_text]
 
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano40.ogg"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_03.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『先生、もう関わらないと約束してください』[p]
+#【So】
+"Please promise me you won't get involved anymore, Sensei."[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_02.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（………っ…）[p]
+#【Hitomi】
+(...!)[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_02_2.png"  ]
 [tb_start_text mode=3 ]
-#【創】
-『約束を守ってくれたなら…[r]
-冴子先生の事はきっと僕が何とかします』[r]
+#【So】
+"If you keep your promise... I will surely take care of Saeko-sensei."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2533,14 +2556,14 @@
 [chara_move  name="hajime"  anim="false"  time="300"  effect="default"  wait="true"  left="477"  top="0"  width="375"  height="600"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_11.png"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…ま……っ）[p]
+#【Hitomi】
+(...Ma...!)[p]
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime2_03.png"  ]
 [tb_start_text mode=1 ]
-#【創】
-『………さようなら、瞳先生…』[p]
+#【So】
+"...Goodbye, Hitomi-sensei..."[p]
 [_tb_end_text]
 
 [chara_hide  name="hajime"  time="750"  wait="false"  pos_mode="false"  ]
@@ -2548,8 +2571,8 @@
 [chara_move  name="hitomi_1"  anim="false"  time="300"  effect="default"  wait="true"  left="199"  top="0"  width="406"  height="600"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【瞳】
-（…待って！　はじめ君……っ）[p]
+#【Hitomi】
+(...Wait! Hajime-kun...!)[p]
 [_tb_end_text]
 
 [resetfont  ]
