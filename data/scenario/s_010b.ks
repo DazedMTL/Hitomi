@@ -1842,7 +1842,7 @@ power♪"[p]
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "Let's begin the final battle...♥"[p]
 [_tb_end_text]
 

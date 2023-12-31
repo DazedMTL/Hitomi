@@ -165,7 +165,7 @@ human touch, might lend me a hand...)[p]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #【Fluctuating Students】
-"Ho...how can they be so strong...?" "No wonder Meigui's class got[r]
+"Ho...how can they be so strong...?" "No wonder Rose's class got[r]
 wiped out..."[p]
 [_tb_end_text]
 
@@ -217,7 +217,7 @@ for that, are we?"[p]
 [tb_start_text mode=3 ]
 #【Fluctuating Students】
 "Ugh... at this rate, we'll be wiped out before we can lure them to[r]
-the point." "What the hell is Meigui doing...!"[p]
+the point." "What the hell is Rose doing...!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]

@@ -582,7 +582,7 @@ a meal and exchange information."[p]
 [bg  time="1000"  method="crossfade"  storage="haikei/room05_2.jpg"  ]
 [tb_start_text mode=3 ]
 #【Student】
-"...Hey Meigui-kun, why did you leave it to Hajime? It's such a waste[r]
+"...Hey Rose-kun, why did you leave it to Hajime? It's such a waste[r]
 for Hitomi-sensei..."[p]
 [_tb_end_text]
 
@@ -628,7 +628,7 @@ chosen ones, you know?"[p]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [tb_start_text mode=3 ]
 #【Students】
-"What... what does that mean?" "Who knows? Meigui-kun's words are[r]
+"What... what does that mean?" "Who knows? Rose-kun's words are[r]
 always so cryptic..." "Hey, what does it mean? Don't beat around the[r]
 bush and tell us～"[p]
 [_tb_end_text]
@@ -1810,7 +1810,7 @@ backfired completely. Is his goal to silence me? Or maybe...)[p]
 #【Taishi】
 "After all, my turn was going to be last next time... So I thought I'd[r]
 take the chance to play the lead in luring you in if an opportunity[r]
-arose, but then Meigui interfered, right?"[p]
+arose, but then Rose interfered, right?"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]

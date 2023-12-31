@@ -1009,7 +1009,7 @@ and mighty like he's such an honor student.)[p]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
 [tb_start_text mode=3 ]
 #【Rose】
-"My name is Maikai Hamano. Please call me Meigui or Kai, Miss Hitomi."[p]
+"My name is Maikai Hamano. Please call me Rose or Kai, Miss Hitomi."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -2070,7 +2070,7 @@ you?"[p]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【Hitomi】
-"...! Meigui-kun, you...!"[p]
+"...! Rose-kun, you...!"[p]
 [_tb_end_text]
 
 [resetfont  ]

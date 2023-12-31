@@ -94,7 +94,7 @@ attend."[p]
 [tb_start_text mode=3 ]
 #【Boshan】
 "Ha ha ha, well then! I'd be delighted to participate. I'm looking[r]
-forward to it, Meigui-kun!"[p]
+forward to it, Rose-kun!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]

@@ -24,7 +24,7 @@ say!?"[p]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "All of my efforts over the past half year... The moment that was[r]
 supposed to reward my life's work..."[p]
 [_tb_end_text]
@@ -49,7 +49,7 @@ supposed to reward my life's work..."[p]
 [tb_show_message_window  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "Then I'll show you! My resolve!"[p]
 [_tb_end_text]
 
@@ -145,12 +145,12 @@ the mercy of someone like Shin!"[p]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "Silence, how noisy!!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "As if you could understand my feelings, my despair!"[p]
 [_tb_end_text]
 
@@ -220,7 +220,7 @@ open the gates to the netherworld as far as I can...!!"[p]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/charge.ogg"  ]
 [bg  time="250"  method="bounceIn"  storage="cg11/cg26_18.png"  ]
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "Ah, I will be consumed by the gate and fall into hell..."[p]
 [_tb_end_text]
 
@@ -231,7 +231,7 @@ springs and will turn into hell!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "Then there will be only one way to stop it!"[p]
 [_tb_end_text]
 
@@ -279,7 +279,7 @@ it kills me!!!"[p]
 [font  size="30"  color="0xffffff"  ]
 [bg  time="250"  method="bounceIn"  storage="cg11/cg26_18.png"  ]
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "Ha! Try if you think you can!"[p]
 [_tb_end_text]
 
@@ -326,7 +326,7 @@ it kills me!!!"[p]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "...Well, well, Professor Tennoji... you're still alive."[p]
 [_tb_end_text]
 
@@ -369,19 +369,19 @@ it kills me!!!"[p]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "I thought for sure you had run away with your tail between your legs[r]
 along with your friends. What brings you here, Sensei?"[p]
 [_tb_end_text]
 
 [chara_show  name="hitomi_3"  time="500"  wait="true"  storage="chara/19/hitomi6_03.png"  width="800"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "Surely you haven't come to pity me and offer help?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "Or perhaps even now you intend to persuade me? Just like how you[r]
 deceived and lured So-kun... Hahaha!"[p]
 [_tb_end_text]
@@ -446,7 +446,7 @@ to hell too, Professor Hitomi!"[p]
 [resetfont  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "From now on, my hatred and despair will overflow like hell, covering[r]
 this entire area and beginning to devour all living things!"[p]
 [_tb_end_text]
@@ -511,7 +511,7 @@ emitting intense light between the raised grotesque arms...![p]
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "?! "[p]
 [_tb_end_text]
 
@@ -652,14 +652,14 @@ body!?"[p]
 [tb_chara_shake  name="maikai"  direction="x"  count="1"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "...Ah...?"[p]
 [_tb_end_text]
 
 [tb_chara_shake  name="maikai"  direction="x"  count="3"  swing="20"  time="200"  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "Ahh... Aaaaahhhhh!?"[p]
 [_tb_end_text]
 
@@ -734,7 +734,7 @@ much you flail around now that you've exhausted your power!"[p]
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "...Gigigi...! What the hell... what's going on all of a sudden?! What[r]
 are you doingggg!!?"[p]
 [_tb_end_text]
@@ -911,7 +911,7 @@ Now calm down and listen to what the teacher has to say."[p]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_10.png"  ]
 [tb_start_text mode=3 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "Wha...!? A knuckle sandwich...? What are you imitating?? What do you[r]
 want to do!?"[p]
 [_tb_end_text]
@@ -934,12 +934,12 @@ Hamano-san."[p]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_10.png"  ]
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "Help...?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "Ha, as if you could... No, no one can save me now! I don't even want[r]
 to be saved!"[p]
 [_tb_end_text]
@@ -1006,7 +1006,7 @@ was everything to you."[p]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_13.png"  ]
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "...So what...?"[p]
 [_tb_end_text]
 
@@ -1049,8 +1049,8 @@ find happiness."[p]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
-#【Demon Tree・Meigui】
-"No!! I'm not 'Hamano Mai'! I am Meigui - Maikai!"[p]
+#【Demon Tree・Rose】
+"No!! I'm not 'Hamano Mai'! I am Rose - Maikai!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1059,7 +1059,7 @@ find happiness."[p]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_13.png"  ]
 [tb_start_text mode=3 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "Chosen by Hakuyama, given the name 'Shippo' to serve Shin's purpose!"[p]
 [_tb_end_text]
 
@@ -1068,7 +1068,7 @@ find happiness."[p]
 [_tb_end_tyrano_code]
 
 [tb_start_text mode=3 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "To sweep away the old detestable world, save the oppressed souls and[r]
 lead the world to a new stage as Innocent Children!"[p]
 [_tb_end_text]
@@ -1079,7 +1079,7 @@ lead the world to a new stage as Innocent Children!"[p]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "And now you say it's too late..."[p]
 [_tb_end_text]
 
@@ -1089,7 +1089,7 @@ lead the world to a new stage as Innocent Children!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "Where should I return to? No one would accept a monster like me..."[p]
 [_tb_end_text]
 
@@ -1104,7 +1104,7 @@ lead the world to a new stage as Innocent Children!"[p]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #【？】
-"...That's not true, Meigui-kun. At least Teacher Hitomi accepted me."[p]
+"...That's not true, Rose-kun. At least Teacher Hitomi accepted me."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1186,12 +1186,12 @@ takeover of both body and mind..."[p]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "...So it was you who lent me power, So-kun."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "I'm truly surprised. But the fact that you've regenerated and revived[r]
 to this extent means she shared her life force with you..."[p]
 [_tb_end_text]
@@ -1210,30 +1210,30 @@ want you to trust people too!"[p]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【So】
-"Let's start over together, Meigui-kun!"[p]
+"Let's start over together, Rose-kun!"[p]
 [_tb_end_text]
 
 [resetfont  ]
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "...Together..."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "...I'm sorry."[p]
 [_tb_end_text]
 
 [resetfont  ]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_14.png"  ]
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "But still... I can't anymore..."[p]
 [_tb_end_text]
 
@@ -1299,7 +1299,7 @@ want you to trust people too!"[p]
 [resetfont  ]
 [quake  time="300"  count="3"  hmax="10"  wait="false"  ]
 [tb_start_text mode=3 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "...Because I've exhausted my power, the control over the gate to the[r]
 underworld connected to the womb has been lost, and it's starting to[r]
 run wild..."[p]
@@ -1348,7 +1348,7 @@ trying to devour the living..."[p]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_08.png"  ]
 [tb_start_text mode=1 ]
 #【Hitomi】
-"Meigui-chan! Is there a way to stop this?!"[p]
+"Rose-chan! Is there a way to stop this?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1384,7 +1384,7 @@ too!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "But Shin only taught me how to open it... I thought if I did well, he[r]
 would surely notice me!"[p]
 [_tb_end_text]
@@ -1406,7 +1406,7 @@ went wrong, just a pawn to be thrown away... ...uh...uh..."[p]
 
 [tb_start_text mode=1 ]
 #【So】
-"Meigui-kun..."[p]
+"Rose-kun..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_08.png"  ]
@@ -1483,18 +1483,18 @@ Like unplugging the internet!"[p]
 
 [tb_start_text mode=1 ]
 #【So】
-"Does that mean doing something about Meigui-kun's stomach?!"[p]
+"Does that mean doing something about Rose-kun's stomach?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_07.png"  ]
 [tb_start_text mode=1 ]
 #【So】
-"No... not something gory like that... but then again, Meigui is[r]
+"No... not something gory like that... but then again, Rose is[r]
 somewhat resistant to minor injuries..."[p]
 [_tb_end_text]
 
@@ -1527,7 +1527,7 @@ something!"[p]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【So】
-"Alright! Hang in there, Meigui-kun! I'll save you now!"[p]
+"Alright! Hang in there, Rose-kun! I'll save you now!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1682,7 +1682,7 @@ these people..."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 (...She's definitely not normal. Very peculiar indeed.)[p]
 [_tb_end_text]
 
@@ -1739,13 +1739,13 @@ were always a boring guy, suppressing yourself in the corner.)[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 (But now, you... I think it's good.)[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #【So】
-(...Meigui-kun...)[p]
+(...Rose-kun...)[p]
 [_tb_end_text]
 
 [tb_chara_shake  name="maikai"  direction="y"  count="1"  swing="20"  time="200"  ]
@@ -1806,7 +1806,7 @@ were always a boring guy, suppressing yourself in the corner.)[p]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【So】
-"Meigui-kun! What are you doing!?"[p]
+"Rose-kun! What are you doing!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1863,7 +1863,7 @@ were always a boring guy, suppressing yourself in the corner.)[p]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "...It's suffocating, all of you playing friends together. If you're[r]
 going to do that, keep it amongst yourselves."[p]
 [_tb_end_text]
@@ -1905,7 +1905,7 @@ going to do that, keep it amongst yourselves."[p]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【So】
-"Meigui-kun!"[p]
+"Rose-kun!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2351,13 +2351,13 @@ can be saved."[p]
 
 [tb_start_text mode=1 ]
 #【So】
-"Sensei, Meigui-kun was always alone, just like me."[p]
+"Sensei, Rose-kun was always alone, just like me."[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #【So】
 "I'm also one of the Seven Treasures given the name 'Silver'... Maybe[r]
-Meigui-kun and I were in completely opposite positions."[p]
+Rose-kun and I were in completely opposite positions."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
@@ -2421,7 +2421,7 @@ why...!"[p]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【So】
-"Wait for me! Meigui-kun!"[p]
+"Wait for me! Rose-kun!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2444,7 +2444,7 @@ why...!"[p]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_02.png"  ]
 [tb_start_text mode=1 ]
 #【So】
-"Meigui-kun..."[p]
+"Rose-kun..."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_7_02.png"  ]

@@ -1607,7 +1607,7 @@ I've got my eye on a few promising students, time for a comeback!)"[p]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_15_04.png"  ]
 [tb_start_text mode=1 ]
 #【Hitomi】
-"...Ah, ...Meigui-kun..."[p]
+"...Ah, ...Rose-kun..."[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_3.png"  ]
@@ -1964,7 +1964,7 @@ adults who get too cocky..."[p]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【Boshan】
-"Stop it, Meigui-kun."[p]
+"Stop it, Rose-kun."[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2538,7 +2538,7 @@ that mere humans can't even touch, the rulers of a new era... right?"[p]
 [resetfont  ]
 [tb_start_text mode=3 ]
 #【Students】
-"Hey, hey, that's going too far, Meigui-kun!" "That's right! If she[r]
+"Hey, hey, that's going too far, Rose-kun!" "That's right! If she[r]
 dies, we can't eat her!"[p]
 [_tb_end_text]
 
@@ -2814,7 +2814,7 @@ chan!"[p]
 
 [tb_start_text mode=3 ]
 #【A student with a good build】
-"Yeah♥ Not quite like Meigui-kun but... all of us are stronger than[r]
+"Yeah♥ Not quite like Rose-kun but... all of us are stronger than[r]
 the teacher♥"[p]
 [_tb_end_text]
 

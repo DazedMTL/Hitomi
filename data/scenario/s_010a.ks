@@ -1474,7 +1474,7 @@ number..."[p]
 [tb_start_text mode=3 ]
 #【Hitomi】
 "Was there a student with white hair and glasses among those we[r]
-defeated? A leader-type named Meigui..."[p]
+defeated? A leader-type named Rose..."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]

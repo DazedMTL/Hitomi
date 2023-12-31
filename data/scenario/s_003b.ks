@@ -15,7 +15,7 @@ teasing...?"[p]
 [tb_start_text mode=3 ]
 #【Hitomi】
 "It seems the reason this class is so rudely dismissive of adults is[r]
-because of you, Meigui-kun!"[p]
+because of you, Rose-kun!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -147,7 +147,7 @@ It wasn't just my imagination earlier!)[p]
 [tb_start_text mode=1 ]
 #【Hitomi】
 "I thought you were just a victim of Hakuyama and Alke's schemes, but[r]
-Meigui-kun... it seems you're an accomplice in this incident as well."[p]
+Rose-kun... it seems you're an accomplice in this incident as well."[p]
 [_tb_end_text]
 
 [font  size="30"  color="0xffffff"  ]
@@ -255,7 +255,7 @@ writhing gestures straight out of a monster panic film...[p]
 
 [tb_start_text mode=3 ]
 #【Students】
-"Hey Meigui-kun?! Are you going to start this while the sun's still[r]
+"Hey Rose-kun?! Are you going to start this while the sun's still[r]
 up?" "It was your rule, wasn't it? The warriors will find us!" "Let's[r]
 at least change the location?!"[p]
 [_tb_end_text]
@@ -586,7 +586,7 @@ this was undoubtedly something beyond her control...[p]
 [bg  time="250"  method="crossfade"  storage="cg11/cg11_02.png"  ]
 [tb_start_text mode=1 ]
 #【Hitomi】
-"...Meigui-kun... what on earth are you...?!"[p]
+"...Rose-kun... what on earth are you...?!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
@@ -1236,7 +1236,7 @@ is getting mushed and mixed together until it dissolves!♪♥"[p]
 
 [tb_start_text mode=3 ]
 #【Students】
-"...She's amazing as always, instant knockout." "Meigui-kun knows too[r]
+"...She's amazing as always, instant knockout." "Rose-kun knows too[r]
 much about a woman's weak spots!" "Whether it's squirt or pee, the[r]
 bitch stench is...♪"[p]
 [_tb_end_text]
@@ -1270,7 +1270,7 @@ bitch stench is...♪"[p]
 [tb_start_text mode=3 ]
 #【Students】
 "Well, she probably hasn't noticed, so it's fine, right?" "Yeah.[r]
-Meigui-kun needs to let off steam sometimes too." "Besides, you'll[r]
+Rose-kun needs to let off steam sometimes too." "Besides, you'll[r]
 share with us too, right?"[p]
 [_tb_end_text]
 
@@ -1328,7 +1328,7 @@ share with us too, right?"[p]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_17_01.png"  ]
 [tb_start_text mode=1 ]
 #【Hitomi】
-"Yes♥ Understood, Meigui-kun♥"[p]
+"Yes♥ Understood, Rose-kun♥"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_17_02.png"  ]
@@ -1535,7 +1535,7 @@ wearing out or killing off too soon."[p]
 [bg  time="250"  method="crossfade"  storage="cg03/cg05_06.png"  ]
 [tb_start_text mode=3 ]
 #【Hitomi】
-"...? Hey, Meigui-kun... am I still on hold? This isn't enough... I'm[r]
+"...? Hey, Rose-kun... am I still on hold? This isn't enough... I'm[r]
 in agony!♥"[p]
 [_tb_end_text]
 
@@ -2534,7 +2534,7 @@ display, lol."[p]
 #【Students】
 "But this 'Lust Mark Game' is really interesting, isn't it? It reacts[r]
 to individual magical powers and can tell whose sperm caused the[r]
-pregnancy, Meigui-kun is a genius!"[p]
+pregnancy, Rose-kun is a genius!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]

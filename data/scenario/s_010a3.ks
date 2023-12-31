@@ -1210,7 +1210,7 @@ making me feel so naughty♥"[p]
 [bg  time="500"  method="crossfade"  storage="cg11/cg27_10.png"  ]
 [tb_start_text mode=1 ]
 #【Hitomi】
-"Meigui-kun... Shall we kiss?"[p]
+"Rose-kun... Shall we kiss?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
@@ -2845,7 +2845,7 @@ admirable!!!"[p]
 
 [bg  time="250"  method="puffIn"  storage="cg11/cg26_16.png"  ]
 [tb_start_text mode=3 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "I won't forgive, won't forgive, won't forgive, won't forgive, won't[r]
 forgive, won't forgive, won't forgiveee!!!"[p]
 [_tb_end_text]
@@ -2858,7 +2858,7 @@ forgive, won't forgive, won't forgiveee!!!"[p]
 [font  size="50"  color="0xffffff"  ]
 [bg  time="50"  method="puffIn"  storage="cg11/cg26_16.png"  ]
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "Hateful!!!!"[p]
 [_tb_end_text]
 
@@ -2870,18 +2870,18 @@ forgive, won't forgive, won't forgiveee!!!"[p]
 
 [bg  time="50"  method="puffIn"  storage="cg11/cg26_16.png"  ]
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "I'll slaughter them all!!"[p]
 [_tb_end_text]
 
 [bg  time="250"  method="bounceIn"  storage="cg11/cg26_16.png"  ]
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "I'll destroy!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "Waaaaaaaaaaaaaaaaaaaaah!!!!"[p]
 [_tb_end_text]
 
@@ -3680,7 +3680,7 @@ back!"[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "?! What?!"[p]
 [_tb_end_text]
 
@@ -3718,7 +3718,7 @@ back!"[p]
 [tb_show_message_window  ]
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "Goahhh!? You...what?!"[p]
 [_tb_end_text]
 
@@ -3770,7 +3770,7 @@ her bosom and finished chanting their next spell.[p]
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
-#【Demon Tree・Meigui】
+#【Demon Tree・Rose】
 "Gugahhh! You guys...ah...!?"[p]
 [_tb_end_text]
 
@@ -3803,7 +3803,7 @@ mercilessly slammed into the recoiling monster.[p]
 [quake  time="250"  count="2"  hmax="0"  wait="true"  vmax="20"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
-#【Bewitching Tree・Meigui】
+#【Bewitching Tree・Rose】
 "...Kuh...uuu...so strong...at this rate...!"[p]
 [_tb_end_text]
 

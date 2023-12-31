@@ -157,7 +157,7 @@ Dutch with you!"[p]
 [bg  time="1000"  method="crossfade"  storage="haikei/room05_2.jpg"  ]
 [tb_start_text mode=3 ]
 #【Student】
-"...Hey Meigui-kun, why did you leave it to Hajime? Teacher Hitomi is[r]
+"...Hey Rose-kun, why did you leave it to Hajime? Teacher Hitomi is[r]
 too precious for that..."[p]
 [_tb_end_text]
 
@@ -203,7 +203,7 @@ the chosen ones, you know?"[p]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [tb_start_text mode=3 ]
 #【Students】
-"What... what does that mean?" "Who knows? Meigui-kun's words are[r]
+"What... what does that mean?" "Who knows? Rose-kun's words are[r]
 always so complex..." "Hey, what do you mean? Don't beat around the[r]
 bush and just tell us~"[p]
 [_tb_end_text]
@@ -1143,7 +1143,7 @@ backfired badly. Is his goal to silence me? Or maybe...)"[p]
 [tb_start_text mode=3 ]
 #【Taishi】
 "After all, my turn was going to be last... I thought I'd take the[r]
-opportunity to sneak a taste if I could lure you away, but then Meigui[r]
+opportunity to sneak a taste if I could lure you away, but then Rose[r]
 had to interfere, right?"[p]
 [_tb_end_text]
 

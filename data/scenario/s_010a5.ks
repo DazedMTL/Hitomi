@@ -1128,7 +1128,7 @@ menus I haven't completed there♪"[p]
 #【Rin】
 "Then, I'd like you to cover my allowance and meal expenses for the[r]
 time being. I can't expect anything from the poor student Akitoshi,[r]
-and I feel bad asking the newly-employed Meigui."[p]
+and I feel bad asking the newly-employed Rose."[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]

@@ -517,7 +517,7 @@ a risk of being detected. Finish up quickly."[p]
 [tb_start_text mode=3 ]
 #【Students】
 (...That's why we're letting Hitomi handle it without using powers!)[r]
-(Stop it, stop it, we can't go against Meigui-kun and the principal)[p]
+(Stop it, stop it, we can't go against Rose-kun and the principal)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1290,7 +1290,7 @@ bit boring once it comes to this."[p]
 
 [tb_start_text mode=1 ]
 #【Student】
-"Hey Meigui-kun, I want a new one, can't you do something?"[p]
+"Hey Rose-kun, I want a new one, can't you do something?"[p]
 [_tb_end_text]
 
 [tb_start_text mode=3 ]

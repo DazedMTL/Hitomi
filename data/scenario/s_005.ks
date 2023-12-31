@@ -233,7 +233,7 @@ Quickly wash it down with some milk!"[p]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_4.png"  ]
 [tb_start_text mode=1 ]
 #【Hitomi】
-"I almost forgot, thank you Meigui-kun♪"[p]
+"I almost forgot, thank you Rose-kun♪"[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_5.png"  ]
@@ -267,7 +267,7 @@ Quickly wash it down with some milk!"[p]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #【Taishi】
-"...Geez, what's with the sudden interruption, Meigui-kun! Just when[r]
+"...Geez, what's with the sudden interruption, Rose-kun! Just when[r]
 the mood was getting good..."[p]
 [_tb_end_text]
 
@@ -376,7 +376,7 @@ kun."[p]
 [chara_hide_all  time="250"  wait="true"  ]
 [tb_start_text mode=3 ]
 #【Students】
-"Meigui-kun is really on edge, huh?" "Can't be helped, three people in[r]
+"Rose-kun is really on edge, huh?" "Can't be helped, three people in[r]
 our class have been killed already." "He hates it when things don't go[r]
 his way."[p]
 [_tb_end_text]
@@ -1027,7 +1027,7 @@ troublesome... I must be careful with whom I choose to interact!)"[p]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【Hitomi】
-"(First of all, Meigui-kun is out of the question!)"[p]
+"(First of all, Rose-kun is out of the question!)"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1665,7 +1665,7 @@ all...)[p]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【Taishi】
-"...hey, Meigui-kun!? What are you doing?!"[p]
+"...hey, Rose-kun!? What are you doing?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -1833,7 +1833,7 @@ time for sure, I'll get a woman!"[p]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【So】
-"Wait, Meigui-kun, and everyone else, let's...let Hitomi-sensei[r]
+"Wait, Rose-kun, and everyone else, let's...let Hitomi-sensei[r]
 go...?"[p]
 [_tb_end_text]
 
@@ -1853,7 +1853,7 @@ go...?"[p]
 [tb_start_text mode=3 ]
 #【Students】
 "Huh?! What are you talking about?!" "Has he finally gone crazy?"[r]
-"Maybe we should just get rid of him, Meigui-kun"[p]
+"Maybe we should just get rid of him, Rose-kun"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1864,7 +1864,7 @@ go...?"[p]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_06_06.png"  ]
 [tb_start_text mode=3 ]
 #【So】
-"...It's dangerous... I think. Meigui-kun, didn't you say it yourself[r]
+"...It's dangerous... I think. Rose-kun, didn't you say it yourself[r]
 that the pace has been too fast lately?"[p]
 [_tb_end_text]
 
@@ -2056,7 +2056,7 @@ sight?"[p]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_02_2.png"  ]
 [tb_start_text mode=1 ]
 #【So】
-"Meigui-kun..."[p]
+"Rose-kun..."[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_2_02.png"  ]
@@ -2151,7 +2151,7 @@ the sudden meetings and whatnot...)[p]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_16_06.png"  ]
 [tb_start_text mode=3 ]
 #【Hitomi】
-(I won't be caught off guard this time?! Come at me, Meigui-kun!)[p]
+(I won't be caught off guard this time?! Come at me, Rose-kun!)[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]

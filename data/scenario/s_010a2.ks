@@ -1330,7 +1330,7 @@ meddlers!?"[p]
 [font  size="45"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【Hitomi】
-"Meigui----!"[p]
+"Rose----!"[p]
 [_tb_end_text]
 
 [resetfont  ]
@@ -2909,7 +2909,7 @@ impossible to land an attack.[p]
 [tb_start_text mode=3 ]
 #【Rin】
 "Even if we wanted to break the barrier, we don't have time to look[r]
-for the mechanism. If we had two or three more people... No, if Meigui[r]
+for the mechanism. If we had two or three more people... No, if Rose[r]
 Onee-sama were here, we could easily take care of that brat!"[p]
 [_tb_end_text]
 

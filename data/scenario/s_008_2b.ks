@@ -1479,7 +1479,7 @@ openings, which made me anxious."[p]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #【Hitomi】
-"Meigui... you bastard... You let the others fight desperately while[r]
+"Rose... you bastard... You let the others fight desperately while[r]
 you just watched from a safe distance?!"[p]
 [_tb_end_text]
 

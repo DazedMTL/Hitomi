@@ -119,7 +119,7 @@ school, to no one, that's the condition."[p]
 [tb_start_text mode=1 ]
 #
 Orphans gathered from various places... I was only confused by the[r]
-sudden change and unexpected remarks of their leader, Hamano Meigui,[r]
+sudden change and unexpected remarks of their leader, Hamano Rose,[r]
 whom I thought was just a victim of the schemes of Hakuyama and Alke[r]
 Corporation.[p]
 [_tb_end_text]
@@ -127,7 +127,7 @@ Corporation.[p]
 [tb_start_text mode=3 ]
 #
 Do all the students in the special class know about the missing person[r]
-case, or is it just Meigui... If the boys, Hakuyama, and Alke[r]
+case, or is it just Rose... If the boys, Hakuyama, and Alke[r]
 Corporation are in cahoots, what exactly is their purpose...?[p]
 
 [_tb_end_text]
@@ -346,7 +346,7 @@ Saeko. Am I wrong?"[p]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_3.png"  ]
 [tb_start_text mode=3 ]
 #【Hitomi】
-"...What do you want me to do with this thing, Meigui-kun? If you want[r]
+"...What do you want me to do with this thing, Rose-kun? If you want[r]
 satisfaction, Onee-san can gently probe it for you with this?"[p]
 [_tb_end_text]
 
@@ -807,7 +807,7 @@ experiments.)[p]
 
 [tb_start_text mode=1 ]
 #【Hitomi】
-(The way Meigui and the students looked down on the teachers, it makes[r]
+(The way Rose and the students looked down on the teachers, it makes[r]
 sense if they've been indoctrinated to believe they're a superior[r]
 breed...)[p]
 [_tb_end_text]
@@ -1140,7 +1140,7 @@ for me, So-kun? You seem to know more about the escape routes."[p]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #【So】
-"Wha... Meigui... kun...!?"[p]
+"Wha... Rose... kun...!?"[p]
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
@@ -1502,7 +1502,7 @@ at once...)[p]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【Hitomi】
-"I've come for you Meigui-kun! As promised, release Saeko!"[p]
+"I've come for you Rose-kun! As promised, release Saeko!"[p]
 [_tb_end_text]
 
 [tb_start_tyrano_code]
@@ -1850,7 +1850,7 @@ comrade who has been through hardships together won't reach her."[p]
 [tb_start_text mode=3 ]
 #【Hitomi】
 "If you think we're the same as those other teachers, you'll regret it[r]
-Meigui-kun! I've been through situations like this many times[r]
+Rose-kun! I've been through situations like this many times[r]
 before--..."[p]
 [_tb_end_text]
 
@@ -2406,7 +2406,7 @@ was soaking wet, quickly forming a large stain...[p]
 [tb_start_text mode=3 ]
 #【Students】
 "Haha♪ As usual, it's got amazing power♥" "Most girls fall just by[r]
-using that thing" "As expected of Meigui-kun's special aphrodisiac-[r]
+using that thing" "As expected of Rose-kun's special aphrodisiac-[r]
 laced dildo♪"[p]
 [_tb_end_text]
 
@@ -3580,7 +3580,7 @@ too!♥"[p]
 [tb_start_text mode=3 ]
 #【Students】
 "...Ah-ah, So really went for it, even though it's his first time.[r]
-'Isn't it just that Hitomi-sensei was pretty easy?' 'Meigui-kun's[r]
+'Isn't it just that Hitomi-sensei was pretty easy?' 'Rose-kun's[r]
 setup helped too... It's kinda sleazy."[p]
 [_tb_end_text]
 

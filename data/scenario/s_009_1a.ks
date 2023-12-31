@@ -3109,7 +3109,7 @@ thought of me as a friend, did you?"[p]
 
 [tb_start_text mode=3 ]
 #【Flickering Students】
-"Of course not, you failure! If Meigui-kun hadn't stopped us, we would[r]
+"Of course not, you failure! If Rose-kun hadn't stopped us, we would[r]
 have torn you apart long ago! Scum!"[p]
 [_tb_end_text]
 

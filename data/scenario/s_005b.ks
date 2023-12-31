@@ -134,7 +134,7 @@ with a face like yours came at me, I'd run away because it's creepy."[p]
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_10.png"  ]
 [tb_start_text mode=1 ]
 #【Taishi】
-"But Meigui-kun! Everyone's being so mean! Don't you think Hitomi-[r]
+"But Rose-kun! Everyone's being so mean! Don't you think Hitomi-[r]
 sensei's attitude is unfair after saying she liked me!?"[p]
 [_tb_end_text]
 
@@ -233,7 +233,7 @@ Sounds fun, doesn't it?"[p]
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【Students】
-"That sounds great! Let's hunt! Let's hunt!♪" "You're amazing, Meigui-[r]
+"That sounds great! Let's hunt! Let's hunt!♪" "You're amazing, Rose-[r]
 kun!" "We'll help you out, let's do this, Taishi!"[p]
 [_tb_end_text]
 
