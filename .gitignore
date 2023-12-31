@@ -10,6 +10,7 @@
 !*.ain
 !*.fnl
 !*.ks
+!*.tjs
 !version.dll
 !.gitignore
 !patch.bat
