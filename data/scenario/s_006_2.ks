@@ -455,7 +455,7 @@ annihilated.)[p]
 [showmenubutton]
 
 [glink  color="pink"  storage="s_006_2.ks"  size="20"  text="Speak honestly"  x="210"  y="300"  width=""  height=""  _clickable_img=""  target="*yes"  ]
-[glink  color="pink"  storage="s_006_2.ks"  size="20"  text="Evade"  target="*no"  x="400"  y="300"  width=""  height=""  _clickable_img=""  ]
+[glink  color="pink"  storage="s_006c_bad.ks"  size="20"  text="Evade"  target="*s_006c_bad"  x="400"  y="300"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *yes
 
