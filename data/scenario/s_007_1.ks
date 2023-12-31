@@ -18,9 +18,7 @@
 and the surrounding buildings... No alley exists...!?)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/running1.ogg"  fadein="true"  ]
@@ -60,9 +58,7 @@ the same. It's just a hunch, but there's probably something in this[r]
 area that's messing with our senses...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [tb_start_text mode=3 ]
@@ -71,9 +67,7 @@ area that's messing with our senses...!"[p]
 hallucinations?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
 [tb_start_text mode=3 ]
@@ -84,9 +78,7 @@ prevent our brains from recognizing the terrain in this area[r]
 correctly..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_17.png"  ]
 [tb_start_text mode=3 ]
@@ -95,9 +87,7 @@ correctly..."[p]
 there's some strange force field at work here."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [tb_start_text mode=1 ]
@@ -114,9 +104,7 @@ there's some strange force field at work here."[p]
 searched is actually between these seemingly closed-off buildings..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -126,9 +114,7 @@ searched is actually between these seemingly closed-off buildings..."[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
@@ -173,9 +159,7 @@ searched is actually between these seemingly closed-off buildings..."[p]
 "Hey!? What's with jumping out of nowhere!? Where are you looking?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_04.png"  ]
 [tb_chara_shake  name="rin_1"  direction="x"  count="2"  swing="20"  time="100"  ]
@@ -197,9 +181,7 @@ searched is actually between these seemingly closed-off buildings..."[p]
 this afternoon!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playbgm  volume="80"  time="1000"  loop="true"  storage="taste_xxx10.ogg"  ]
@@ -238,9 +220,7 @@ able to enter even if they saw it, but it seems they have better[r]
 intuition than they look."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_02.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="100"  ]
@@ -252,9 +232,7 @@ intuition than they look."[p]
 all?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_07.png"  ]
 [resetfont  ]
@@ -273,9 +251,7 @@ all?!"[p]
 you?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_start_text mode=1 ]
@@ -312,9 +288,7 @@ isn't it?! No, it has to be destiny, hooohhh!!!!!"[p]
 behavior? Snap out of it!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_04.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -357,9 +331,7 @@ behavior? Snap out of it!"[p]
 "I know, Tora-chan. So let me introduce our reliable guests♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_hide  name="rin_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_hide  name="ai_1"  time="0"  wait="true"  pos_mode="false"  ]
@@ -372,9 +344,7 @@ behavior? Snap out of it!"[p]
 Please get along with them♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="100"  ]
@@ -398,9 +368,7 @@ Please get along with them♥"[p]
 but for now, we've agreed to treat these two."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -415,9 +383,7 @@ restaurant we passed earlier? You can bill the cost as entertainment[r]
 expenses, no problem♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_1.png"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_07.png"  ]
@@ -438,9 +404,7 @@ expenses, no problem♪"[p]
 away as soon as possible, are you?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_2.png"  ]
@@ -450,9 +414,7 @@ away as soon as possible, are you?!"[p]
 won't run away."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10.png"  ]
 [tb_start_text mode=3 ]
@@ -461,9 +423,7 @@ won't run away."[p]
 boy who absolutely cannot lay a hand on cute girls♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_02.png"  ]
 [tb_start_text mode=3 ]
@@ -472,9 +432,7 @@ boy who absolutely cannot lay a hand on cute girls♪"[p]
 nyohohaha haha♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_06.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
@@ -491,9 +449,7 @@ physiological level. If he tries anything, I won't hesitate to cut him[r]
 down."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_09.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_13_4.png"  ]
@@ -504,9 +460,7 @@ overly emotional and drift into his own world sometimes, but if you[r]
 ignore him, there won't be any problems."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_13_3.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_14.png"  ]
@@ -516,9 +470,7 @@ ignore him, there won't be any problems."[p]
 are you also an investigator or something?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_13.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_10.png"  ]
@@ -554,9 +506,7 @@ Shun-chan, you'll be a gentleman and escort these two! Don't keep[r]
 hungry girls waiting."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_02.png"  ]
@@ -574,9 +524,7 @@ hungry girls waiting."[p]
 okay?♪♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="70"  time="1000"  buf="0"  storage="se02/skip.ogg"  loop="false"  ]
@@ -599,9 +547,7 @@ okay?♪♪"[p]
 go..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_hide  name="rin_1"  time="250"  wait="true"  pos_mode="false"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_04.png"  ]
@@ -696,9 +642,7 @@ this way."[p]
 back♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -720,9 +664,7 @@ back♪"[p]
 get paid. If you want, I can even treat you to the whole meal♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_08.png"  ]
 [chara_mod  name="rin_1"  time="250"  cross="false"  storage="chara/13/rin1_15.png"  ]
@@ -747,9 +689,7 @@ actually cute when she's quiet~♪)[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kuzu】
@@ -759,9 +699,7 @@ with a girl on each arm! I never thought such a scenario would happen[r]
 in my lifetime~!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_04.png"  ]
 [tb_start_text mode=1 ]
@@ -828,9 +766,7 @@ my Eternal Sweet Angel... it's just...)[p]
 you please move to the table next to us?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_13.png"  ]
@@ -869,9 +805,7 @@ you please move to the table next to us?"[p]
 thought.)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="20"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
@@ -883,9 +817,7 @@ opportunity to find out what modern girls like to eat♪)[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_19.png"  ]
 [tb_start_text mode=1 ]
@@ -921,9 +853,7 @@ opportunity to find out what modern girls like to eat♪)[p]
 "Then you can just eat normally. I'll have my own little competition♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_16.png"  ]
 [tb_start_text mode=1 ]
@@ -940,9 +870,7 @@ sweets... Hehehe... either way, it looks like I'm in for a cute[r]
 competition♪)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_20.png"  ]
 [tb_start_text mode=1 ]
@@ -969,9 +897,7 @@ Ground Sausage set called 'Triple Grill' and..."[p]
 classic favorite among kids her age, yeah, yeah, cute cute...♪)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rin】
@@ -986,9 +912,7 @@ included in that menu... This plate has vegetables on it too, so the[r]
 balance is good... I see.)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rin】
@@ -1022,9 +946,7 @@ even fit all that?! The single dishes here are quite voluminous...)[p]
 seriously, can she finish it all?!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playbgm  volume="100"  time="1500"  loop="true"  storage="bgm_maoudamashii_cyber41.ogg"  fadein="true"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_19.png"  ]
@@ -1034,9 +956,7 @@ seriously, can she finish it all?!)[p]
 Cream Soda' please♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_01.png"  ]
 [tb_start_text mode=3 ]
@@ -1046,9 +966,7 @@ thick crust loaded with cheese and toppings crammed in like a calorie[r]
 bomb!!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kuzu】
@@ -1057,9 +975,7 @@ This must be what they call "sharing" these days! They'll split it![r]
 Yeah, that's right, it's not something one girl can eat alone?!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kuzu】
@@ -1067,9 +983,7 @@ Yeah, that's right, it's not something one girl can eat alone?!)[p]
 beginning, right...?)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Clerk】
@@ -1117,9 +1031,7 @@ felt off!)[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_13.png"  ]
 [tb_start_text mode=3 ]
@@ -1128,9 +1040,7 @@ felt off!)[p]
 competition, is she? Can she really eat all that?)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_21.png"  ]
 [tb_start_text mode=1 ]
@@ -1158,9 +1068,7 @@ then the slowly simmered 'Beef Stew,' a 'Ham and Chicken Mix[r]
 Sandwich,' and 'Seafood Pasta'..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_13.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -1182,9 +1090,7 @@ Sandwich,' and 'Seafood Pasta'..."[p]
 syrup and honey..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_04.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -1193,9 +1099,7 @@ syrup and honey..."[p]
 (Wait a sec!? It says each pancake is 4cm thick!?)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -1234,9 +1138,7 @@ syrup and honey..."[p]
 finish all this?" and "You're going to eat too, right!?"...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_05.png"  ]
 [resetfont  ]
@@ -1246,9 +1148,7 @@ finish all this?" and "You're going to eat too, right!?"...!)[p]
 topping... and then~...'Prosciutto with Melon'!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_06.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -1267,9 +1167,7 @@ making unreasonable orders, maybe you should cut back on a few[r]
 items..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_03.png"  ]
 [tb_start_text mode=1 ]
@@ -1286,9 +1184,7 @@ holding back?!"[p]
 order..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_10.png"  ]
 [tb_start_text mode=1 ]
@@ -1336,9 +1232,7 @@ order..."[p]
 "Hyohaa?! No way!? Crying...?! I didn't mean to...I was just..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_03.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="2"  swing="20"  time="100"  ]
@@ -1347,9 +1241,7 @@ order..."[p]
 "You idiot! What are you going to do about this, red head?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/guu.ogg"  ]
@@ -1359,9 +1251,7 @@ order..."[p]
 "...the...pancakes...not three layers, but...two layers..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="0"  cross="false"  storage="chara/2/kuzu_1_11_03.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="100"  ]
@@ -1372,9 +1262,7 @@ order..."[p]
 This is impossible! Too precious—too much for my heart—ahhhhh...!!!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -1398,9 +1286,7 @@ This is impossible! Too precious—too much for my heart—ahhhhh...!!!)[p]
 thank you!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_09.png"  ]
@@ -1489,9 +1375,7 @@ old cliché somewhere, but it turns out it's really true...)[p]
 heavens...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kuzu】
@@ -1500,9 +1384,7 @@ they're really hungry. Kind Kisa-chan, you would understand,[r]
 right...?)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kuzu】
@@ -1510,9 +1392,7 @@ right...?)[p]
 for you...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [stopbgm  time="1000"  fadeout="true"  ]

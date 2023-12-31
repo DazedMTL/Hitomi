@@ -161,7 +161,5 @@ of life. In that sense, grudges are similar, aren't they?[p]
 [_tb_end_text]
 
 [s  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 

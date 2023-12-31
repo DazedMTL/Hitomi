@@ -80,9 +80,7 @@ Hitomi!!"[p]
 "Ugh!? Hey...idiot! Don't hug me...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/munyu1.ogg"  ]
@@ -94,9 +92,7 @@ Hitomi!!"[p]
 "Hyau?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/munyu1.ogg"  ]
 [tb_chara_shake  name="kotora_1"  direction="x"  count="2"  swing="20"  time="100"  ]
@@ -105,9 +101,7 @@ Hitomi!!"[p]
 "Suu-haa- Soo~haaa~♡ Ahhnn♡ Such a nice smell♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/munyu1.ogg"  ]
 [tb_chara_shake  name="hitomi_1"  direction="x"  count="2"  swing="20"  time="100"  ]
@@ -158,9 +152,7 @@ feel like I can go on♥ We can make it to the end like this♥"[p]
 just kissed me gently, I'm sure I would have woken up smoothly..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [tb_start_text mode=1 ]
@@ -178,9 +170,7 @@ Perfectly awake!"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_17.png"  ]
 [chara_show  name="kuzu_2"  time="500"  wait="true"  storage="chara/2/kuzu_1_08_2.png"  width="688"  height="600"  reflect="true"  left="150"  top="0"  ]
@@ -190,9 +180,7 @@ Perfectly awake!"[p]
 were you sleepwalking for..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_2.png"  ]
 [tb_start_text mode=1 ]
@@ -265,9 +253,7 @@ guess."[p]
 "I seem to have lost a bit of my memory... Why am I here?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber19.ogg"  fadein="true"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07.png"  ]
@@ -293,9 +279,7 @@ witness it?"[p]
 were holding hands and talking about something."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -343,9 +327,7 @@ soundly on the bench."[p]
 Academy again!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_13.png"  ]
@@ -438,9 +420,7 @@ mission is incomparable to anything before...!)[p]
 annihilated.)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [tb_start_text mode=1 ]
@@ -521,9 +501,7 @@ annihilated.)[p]
 and exchange information."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_hide  name="kuzu_2"  time="250"  wait="false"  pos_mode="false"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_6.png"  ]
@@ -533,9 +511,7 @@ and exchange information."[p]
 "Kyaa☆ Shun-chan, you understand me♪ Treat me to dinner-♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_hide  name="hitomi_1"  time="250"  wait="false"  pos_mode="false"  ]
@@ -547,9 +523,7 @@ and exchange information."[p]
 you!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -585,9 +559,7 @@ you!"[p]
 too good for this..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="maikai"  time="500"  wait="false"  storage="chara/7/maikai_1_01.png"  width="313"  height="600"  left="383"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
@@ -608,9 +580,7 @@ too good for this..."[p]
 chosen ones, you know?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_04.png"  ]
 [tb_start_text mode=1 ]
@@ -632,9 +602,7 @@ always so complex..." "Hey, what does it mean? Don't beat around the[r]
 bush and tell us～"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
 [tb_start_text mode=1 ]
@@ -660,9 +628,7 @@ be persuaded easily, so she'll come back soon without any regrets."[p]
 "...Hey... where? Futoshi-kun!? Where did Taishi-kun go...!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -677,9 +643,7 @@ be persuaded easily, so she'll come back soon without any regrets."[p]
 holed up in the back..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_06.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -705,9 +669,7 @@ holed up in the back..."[p]
 one hit... That's definitely monstrous."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kuzu】
@@ -715,9 +677,7 @@ one hit... That's definitely monstrous."[p]
 previous team and Saeko-sensei got taken down."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="kuzu_2"  time="250"  wait="true"  storage="chara/2/kuzu_1_09.png"  width="688"  height="600"  reflect="false"  left="-87"  top="0"  ]
 [tb_start_text mode=3 ]
@@ -726,9 +686,7 @@ previous team and Saeko-sensei got taken down."[p]
 a strategy for a counterattack."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kuzu】
@@ -745,9 +703,7 @@ this in the bag."[p]
 Defense Forces, I'm not sure if we can safely subdue them..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08.png"  ]
 [tb_start_text mode=1 ]
@@ -768,9 +724,7 @@ Defense Forces, I'm not sure if we can safely subdue them..."[p]
 knocked out with a single blow, wasn't I?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -779,9 +733,7 @@ suits during my mission at Tenma Academy, like Fukurai and the[r]
 rampaging Sabato!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -791,9 +743,7 @@ rampaging Sabato!"[p]
 facing 30 Sabatos!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="700"  buf="0"  storage="se02/fire4.ogg"  fadein="true"  ]
@@ -824,9 +774,7 @@ facing 30 Sabatos!"[p]
 up Gen-san as a comparison!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_06_3.png"  ]
@@ -847,9 +795,7 @@ up Gen-san as a comparison!"[p]
 "See, even Niwa's brain has frozen over from the overload."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [tb_start_text mode=1 ]
@@ -900,9 +846,7 @@ let the teacher escape said, 'Don't come back, or we'll kill you,'[r]
 didn't they?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
 [tb_start_text mode=3 ]
@@ -911,9 +855,7 @@ didn't they?"[p]
 We have no choice but to contact command for instructions..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
 [tb_start_text mode=3 ]
@@ -922,9 +864,7 @@ We have no choice but to contact command for instructions..."[p]
 we should make the decisions on the ground."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_06.png"  ]
@@ -941,9 +881,7 @@ evidence, any instructions we ask for now will likely be passive."[p]
 but to attack first."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -962,9 +900,7 @@ certified by the monster teacher herself?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_7.png"  ]
 [tb_start_text mode=1 ]
@@ -1012,9 +948,7 @@ time until the special forces arrive."[p]
 hurt, you know?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
 [tb_start_text mode=3 ]
@@ -1023,9 +957,7 @@ hurt, you know?"[p]
 down four or five servings of food by herself...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_3.png"  ]
@@ -1049,9 +981,7 @@ down four or five servings of food by herself...!)[p]
 I'll handle it."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_11_6.png"  ]
@@ -1072,9 +1002,7 @@ again...?"[p]
 rash..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -1107,9 +1035,7 @@ situation."[p]
 didn't you?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_09.png"  ]
@@ -1120,9 +1046,7 @@ didn't you?!"[p]
 again..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_7.png"  ]
 [tb_start_text mode=1 ]
@@ -1169,9 +1093,7 @@ good solution."[p]
 about what happens if you fail."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kuzu】
@@ -1192,9 +1114,7 @@ about what happens if you fail."[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08.png"  ]
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -1204,9 +1124,7 @@ about what happens if you fail."[p]
 disturbing the other patrons..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
@@ -1238,9 +1156,7 @@ disturbing the other patrons..."[p]
 Hitomi rented."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_01.png"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="false"  storage="chara/3/hitomi_1_03_2.png"  width="406"  height="600"  left="416"  top="0"  reflect="false"  ]
@@ -1250,9 +1166,7 @@ Hitomi rented."[p]
 it's messy..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="hitomi_1"  time="250"  wait="false"  storage="chara/3/hitomi_1_03.png"  width="406"  height="600"  left="416"  top="0"  reflect="false"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
@@ -1264,9 +1178,7 @@ it's messy..."[p]
 days ago, right?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_9.png"  ]
@@ -1298,9 +1210,7 @@ which could look bad in many ways..."[p]
 nobody's watching!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_08.png"  ]
 [tb_start_text mode=3 ]
@@ -1309,9 +1219,7 @@ nobody's watching!"[p]
 like that..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10.png"  ]
 [tb_start_text mode=3 ]
@@ -1320,9 +1228,7 @@ like that..."[p]
 where exactly are you planning to take us, Shun-chan?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="100"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -1331,9 +1237,7 @@ where exactly are you planning to take us, Shun-chan?"[p]
 "Gah, this is so annoying! These guys are such a hassle!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -1350,9 +1254,7 @@ just talk to someone! False accusations based on looks alone!"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_2.png"  ]
 [tb_start_text mode=3 ]
@@ -1362,9 +1264,7 @@ course parents and communities are overly sensitive! But I'm being[r]
 considerate here!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_03.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="100"  ]
@@ -1389,9 +1289,7 @@ reports me?! Is it this head? Is red hair really that bad?!"[p]
 seems the surveillance team is having a tough time."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -1415,9 +1313,7 @@ and I pushed him too far...)"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_start_text mode=3 ]
@@ -1427,9 +1323,7 @@ other! If we become paranoid and can't trust others anymore, humanity[r]
 is finished!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_2.png"  ]
 [tb_start_text mode=1 ]
@@ -1465,9 +1359,7 @@ girl I happen to see is not allowed!"[p]
 "--Huh?! ...What did I just...?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_5.png"  ]
@@ -1490,9 +1382,7 @@ girl I happen to see is not allowed!"[p]
 already..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_4.png"  ]
 [tb_start_text mode=3 ]
@@ -1500,9 +1390,7 @@ already..."[p]
 "Well then, as a compromise, let's go to Tora-chan's house! Let's go♡"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_5.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
@@ -1512,9 +1400,7 @@ already..."[p]
 make a fuss, okay?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_hide  name="kotora_1"  time="250"  wait="false"  pos_mode="false"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_6.png"  ]
@@ -1524,9 +1410,7 @@ make a fuss, okay?"[p]
 "Wow! Yay♡ Shun-chan, nice assist!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_hide  name="hitomi_1"  time="250"  wait="false"  pos_mode="false"  ]
@@ -1537,9 +1421,7 @@ make a fuss, okay?"[p]
 with these people..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_hide_all  time="500"  wait="true"  ]
 [tb_start_text mode=3 ]
@@ -1548,9 +1430,7 @@ with these people..."[p]
 the winning side?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kuzu】
@@ -1609,9 +1489,7 @@ appearance is also beautiful'?"[p]
 "Sorry, both of you! I just remembered something urgent!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_02.png"  ]
@@ -1658,9 +1536,7 @@ appearance is also beautiful'?"[p]
 "(---There...! Someone is chasing after me!)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="500"  method="zoomIn"  storage="sozai_05red.jpg"  ]
 [chara_show  name="hajime"  time="50"  wait="true"  storage="chara/9/hajime4_01.png"  width="375"  height="600"  left="192"  top="0"  reflect="false"  ]
@@ -1676,9 +1552,7 @@ appearance is also beautiful'?"[p]
 "(Those two won't stand a chance... I don't even know if I can win!)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="500"  method="zoomIn"  storage="haikei/machi02.jpg"  ]
 [tb_start_text mode=3 ]
@@ -1686,9 +1560,7 @@ appearance is also beautiful'?"[p]
 "(As far away as possible! To a place with fewer people---)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="500"  method="zoomIn"  storage="haikei/machi02.jpg"  ]
 [resetfont  ]
@@ -1729,9 +1601,7 @@ effortlessly... they're definitely not ordinary...)"[p]
 me...? I hope I can persuade them here...)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
 [tb_start_text mode=1 ]
@@ -1748,9 +1618,7 @@ student?"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playbgm  volume="90"  time="1000"  loop="true"  storage="taste_xxx05.ogg"  ]
 [chara_show  name="futoshi"  time="500"  wait="false"  storage="chara/8/futoshi_1_08.png"  width="375"  height="600"  reflect="false"  left=""  top=""  ]
@@ -1775,9 +1643,7 @@ student?"[p]
 with me!)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [tb_start_text mode=1 ]
@@ -1813,9 +1679,7 @@ least I could play the role of luring you in when there was an[r]
 opportunity, but then Rose interfered, right?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Taishi】
@@ -1836,9 +1700,7 @@ others have their way with you."[p]
 first time, I felt grateful to Hajime... Buhuhu♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopbgm  time="2500"  fadeout="true"  ]
 [chara_mod  name="futoshi"  time="250"  cross="false"  storage="chara/8/futoshi_1_07.png"  ]

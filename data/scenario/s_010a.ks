@@ -21,9 +21,7 @@
 rear. Don't you dare lose after making such a big show of it, Hitomi!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/running1.ogg"  ]
 [chara_hide  name="saeko"  time="250"  wait="true"  pos_mode="false"  ]
@@ -48,9 +46,7 @@ rear. Don't you dare lose after making such a big show of it, Hitomi!"[p]
 for you to hurt your classmates!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -58,9 +54,7 @@ for you to hurt your classmates!"[p]
 others!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_02.png"  ]
 [tb_start_text mode=1 ]
@@ -102,9 +96,7 @@ about my appearance by a magical girl! Besides, I'm not the one who[r]
 chose this design!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -140,9 +132,7 @@ Yuragi... You need 'magical power' for that! And ordinary humans[r]
 without it..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi4_02.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -181,9 +171,7 @@ Yuragi. Even if I did, I can't bring myself to harm students who were[r]
 once mine, not even for a moment..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -192,9 +180,7 @@ salvation for those kids who can't turn back, could you please save[r]
 them?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_04.png"  ]
 [tb_start_text mode=1 ]
@@ -210,9 +196,7 @@ seems like you actually understand. Don't worry about it, it's our job[r]
 to exterminate the Yuragi."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi4_02_5.png"  ]
 [tb_start_text mode=1 ]
@@ -227,9 +211,7 @@ to exterminate the Yuragi."[p]
 attention without getting caught up in it!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -267,9 +249,7 @@ attention without getting caught up in it!"[p]
 our side!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi4_01_4.png"  ]
@@ -281,9 +261,7 @@ our side!"[p]
 trouble?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_09.png"  ]
 [tb_start_text mode=1 ]
@@ -341,9 +319,7 @@ around all the time."[p]
 try..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rin】
@@ -373,9 +349,7 @@ really someone you can't just ignore."[p]
 trouble, I'll just watch."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -384,9 +358,7 @@ trouble, I'll just watch."[p]
 "Of course, if I find out that attitude is a lie, I'll kill you!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_09.png"  ]
@@ -420,9 +392,7 @@ okay?"[p]
 else."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_05_2.png"  ]
 [tb_start_text mode=1 ]
@@ -482,9 +452,7 @@ time."[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/swing3.ogg"  ]
@@ -752,9 +720,7 @@ concerned about?!)[p]
 "Fuuuuh---! Guuuuuh...~~~!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Boshan】
@@ -762,9 +728,7 @@ concerned about?!)[p]
 blood of those who are not human...!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Boshan】
@@ -777,9 +741,7 @@ this earth from the otherworld..."[p]
 "But! I understand...? After all, it's just a human body!!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Sabato】
@@ -889,9 +851,7 @@ the fierce battle triggered it to come out! At a time like this...and[r]
 Kisa-chan isn't even here..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="200"  ]
 [tb_start_text mode=1 ]
@@ -954,9 +914,7 @@ Kisa-chan isn't even here..."[p]
 from a beast! I shall devour that power of his!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Boshan】
@@ -1025,9 +983,7 @@ sake!?"[p]
 "Kotora's right, Gen-san! You can't make Kisa-chan sad!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Saeko】
@@ -1036,9 +992,7 @@ you now are not your enemies! They are the comrades you're supposed to[r]
 protect!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1077,9 +1031,7 @@ protect!"[p]
 your beauty!♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/slash01.ogg"  ]
@@ -1095,9 +1047,7 @@ your beauty!♪"[p]
 fly, Magic Warrior...huh...?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -1128,9 +1078,7 @@ academy..."[p]
 your hand against me!!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【So】
@@ -1138,9 +1086,7 @@ your hand against me!!?"[p]
 teacher nor an adult in my eyes..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -1193,9 +1139,7 @@ with crimes, deserve to die here!"[p]
 memories, if you cut them, they all disappear!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/slash02.ogg"  ]
@@ -1270,9 +1214,7 @@ heaviness...sharpness! As expected, it's different from[r]
 farmed...Gugi...gi...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1300,9 +1242,7 @@ farmed...Gugi...gi...!"[p]
 with power...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [tb_chara_shake  name="gaku_2"  direction="x"  count="2"  swing="20"  time="100"  ]
@@ -1334,9 +1274,7 @@ with power...!"[p]
 "Sorry to keep you waiting! Make sure to dodge properly, Hitomi!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 
@@ -1387,9 +1325,7 @@ with power...!"[p]
 "Ugeeh!!? ...Ma...My...Ca...Collapse..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [resetfont  ]
@@ -1460,9 +1396,7 @@ with power...!"[p]
 number..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rin】
@@ -1477,9 +1411,7 @@ number..."[p]
 defeated? A leader-type named Rose..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_18.png"  ]
 [tb_start_text mode=3 ]
@@ -1488,9 +1420,7 @@ defeated? A leader-type named Rose..."[p]
 their original form once they fluctuate!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_04_2.png"  ]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_02.png"  ]
@@ -1507,9 +1437,7 @@ their original form once they fluctuate!"[p]
 and might die!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_09.png"  ]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_03.png"  ]
@@ -1604,9 +1532,7 @@ and might die!"[p]
 "Now's the time! Magical Warrior!!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1656,9 +1582,7 @@ and might die!"[p]
 "Rin! Hitomi-san! Please take care of that child!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_16.png"  ]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi4_01.png"  ]

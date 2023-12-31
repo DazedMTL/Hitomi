@@ -17,9 +17,7 @@ hole... It's like the site of the blown-away waterfront exhibition[r]
 hall."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Qiushun】
@@ -27,9 +25,7 @@ hall."[p]
 could have prevented this much damage..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kuzu】
@@ -37,9 +33,7 @@ could have prevented this much damage..."[p]
 extent."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kuzu】
@@ -55,9 +49,7 @@ accept them."[p]
 this trouble when you're already tired..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [bg  time="750"  method="crossfade"  storage="haikei/roka03_2.jpg"  ]
@@ -71,9 +63,7 @@ this trouble when you're already tired..."[p]
 that there aren't any survivors hiding."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
@@ -84,9 +74,7 @@ seems Gen-san had his own thoughts about this battle and literally[r]
 flew back home in the standby helicopter."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_09.png"  ]
 [tb_start_text mode=1 ]
@@ -101,9 +89,7 @@ flew back home in the standby helicopter."[p]
 call it even."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_18.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_09.png"  ]
@@ -147,9 +133,7 @@ making me nervous."[p]
 erasure'? Huh? How about it, Ai-chan?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_18.png"  ]
 [tb_start_text mode=1 ]
@@ -177,9 +161,7 @@ manipulating a major corporation from behind the scenes, so I think[r]
 manpower is essential to catch Shin's trail."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_18.png"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_13.png"  ]
@@ -232,9 +214,7 @@ manpower is essential to catch Shin's trail."[p]
 park, probably... no, definitely it will work!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_11.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_04.png"  ]
@@ -245,9 +225,7 @@ park, probably... no, definitely it will work!"[p]
 though it doesn't contain any actual melon flesh!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_02.png"  ]
@@ -293,9 +271,7 @@ clicking her tongue saying 'It's not here!' It all makes sense now♪"[p]
 operation isn't over yet?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopse  time="1000"  buf="0"  fadeout="true"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
@@ -306,9 +282,7 @@ operation isn't over yet?!"[p]
 "...Sorry" "...My bad"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_hide_all  time="250"  wait="true"  ]
@@ -322,9 +296,7 @@ might still have some clues left since no one could sneak in during[r]
 the mission...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  loop="false"  ]
@@ -428,9 +400,7 @@ was..."[p]
 the "Dark Division" sent from the other world."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_2.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -448,9 +418,7 @@ actions of us 'warriors' and dangerous elements, and if necessary, to[r]
 dispose of them."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_2.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_13.png"  ]
@@ -489,9 +457,7 @@ Shin six months ago and cornered him."[p]
 we always seem to be one step behind when it comes to that..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_16.png"  ]
@@ -514,9 +480,7 @@ we always seem to be one step behind when it comes to that..."[p]
 that black-clad long-haired bastard!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Qiushun】
@@ -568,9 +532,7 @@ man, right? Then as the government, we can't overlook such a dangerous[r]
 individual!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_2.png"  ]
@@ -589,9 +551,7 @@ keep the existence of Ai and the others secret to a very select few...[r]
 if I may be so bold, just within your team..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_03.png"  ]
@@ -610,9 +570,7 @@ anyway. We'll just say you guys are civilian collaborators based on[r]
 and I'm counting on you, Saeko-san!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_11.png"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_26.png"  ]
@@ -702,9 +660,7 @@ chan is...)"[p]
 memories~!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_02_2.png"  ]
 [tb_start_text mode=1 ]
@@ -734,9 +690,7 @@ bread."[p]
 met that big boyfriend of yours?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_06_3.png"  ]
 [tb_start_text mode=1 ]
@@ -751,9 +705,7 @@ met that big boyfriend of yours?"[p]
 passionately when he left♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -770,9 +722,7 @@ passionately when he left♪"[p]
 "What's the harm, it's not like you lose anything."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [tb_start_text mode=1 ]
@@ -788,9 +738,7 @@ passionately when he left♪"[p]
 in your youth~"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_16.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
@@ -800,9 +748,7 @@ in your youth~"[p]
 how old are you and Ai anyway?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14_2.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_20.png"  ]
@@ -819,9 +765,7 @@ how old are you and Ai anyway?!"[p]
 joking, I'm really going to get angry, okay? Hitomi, say something!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14_2.png"  ]
 [chara_show  name="hitomi_1"  time="500"  wait="true"  storage="chara/3/hitomi_1_03_10.png"  width="406"  height="600"  left="-49"  top="0"  reflect="true"  ]
@@ -881,9 +825,7 @@ and their body was a mess, writhing in agony—it was truly tragic."[p]
 know what would have happened."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_23_2.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_06.png"  ]
@@ -900,9 +842,7 @@ know what would have happened."[p]
 ... ... ...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_24.png"  ]
 [tb_start_text mode=1 ]
@@ -995,9 +935,7 @@ there's no guarantee it'll go well next time!"[p]
 she won't stop—and that goes for all of us who fight alongside her!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -1029,9 +967,7 @@ and humanity, we must confront him!"[p]
 together♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_1.png"  ]
@@ -1059,9 +995,7 @@ tail with your proud information gathering skills, contact me! I'll[r]
 help you before you get silenced!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_3.png"  ]
@@ -1072,9 +1006,7 @@ help you before you get silenced!"[p]
 "Wow! That's reassuring! Then let me thank you again☆ Rin-chan♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_19_4.png"  ]
@@ -1119,9 +1051,7 @@ dinner. That family restaurant will do, okay? There are still some[r]
 menus I haven't completed there♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_20.png"  ]
 [tb_start_text mode=3 ]
@@ -1131,9 +1061,7 @@ time being. I can't expect anything from the poor student Akitoshi,[r]
 and I feel bad asking the newly-employed Rose."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_15.png"  ]
@@ -1143,9 +1071,7 @@ and I feel bad asking the newly-employed Rose."[p]
 So. Our organization is quite cold when it comes to funding."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rin】
@@ -1153,9 +1079,7 @@ So. Our organization is quite cold when it comes to funding."[p]
 this side recently, isn't it?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="34"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -1170,9 +1094,7 @@ this side recently, isn't it?"[p]
 going to be fried up! That's dangerous!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_08.png"  ]
@@ -1184,9 +1106,7 @@ expenses. If we're not careful, it might even come out of Hitomi's[r]
 salary..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_13_2.png"  ]
@@ -1203,9 +1123,7 @@ salary..."[p]
 should make for a fruitful investigation!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_16.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
@@ -1216,9 +1134,7 @@ should make for a fruitful investigation!"[p]
 "No way, no way, absolutely not! There's a bag I want this month!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_03_2.png"  ]
 [tb_start_text mode=1 ]
@@ -1234,9 +1150,7 @@ peace or fashion, you miser!"[p]
 it all even with your information provision! You extortionist!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [resetfont  ]
@@ -1330,9 +1244,7 @@ battle, isn't it?! I'll rip that thing off you!!"[p]
 Claw!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/gyuu3.ogg"  ]
 [tb_hide_message_window  ]
@@ -1343,9 +1255,7 @@ Claw!!"[p]
 "Ngyaaahh!? It's going to break! You idiotic brute~~!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -1382,9 +1292,7 @@ Claw!!"[p]
 help♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kuzu】
@@ -1551,7 +1459,5 @@ of life. In that sense, grudges are similar.[p]
 [_tb_end_text]
 
 [s  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 

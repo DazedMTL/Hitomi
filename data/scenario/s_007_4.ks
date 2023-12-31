@@ -37,9 +37,7 @@ that lineage...?"[p]
 you say 'Pear' or 'Shikkeitaro', it's all Greek to me?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_04_2.png"  ]
 [chara_show  name="kuzu_2"  time="250"  wait="true"  storage="chara/2/kuzu_1_08_2.png"  width="688"  height="600"  left="-159"  top="0"  reflect="false"  ]
@@ -72,9 +70,7 @@ enemy learns of our existence or our strategies and manages to escape[r]
 or counter us, it would be very bad, right?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_04.png"  ]
 [tb_start_text mode=1 ]
@@ -115,9 +111,7 @@ this is over anyway, right? So even if you let something slip just a[r]
 little bit..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="ai_1"  time="250"  wait="true"  storage="chara/12/ai01_04.png"  width="375"  height="600"  left="469"  top="0"  reflect="true"  ]
 [tb_start_text mode=3 ]
@@ -126,9 +120,7 @@ little bit..."[p]
 what's necessary. There is no need to know more about us."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_03.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
@@ -235,9 +227,7 @@ won't question the extent of force necessary due to unavoidable[r]
 circumstances."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -251,9 +241,7 @@ leaving any behind. You guys handle the investigation and evidence[r]
 collection."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -266,9 +254,7 @@ collection."[p]
 lure us into letting our guard down. Ignore it, just ignore it."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Ai】
@@ -292,9 +278,7 @@ lure us into letting our guard down. Ignore it, just ignore it."[p]
 dealing with those is your own responsibility."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -309,9 +293,7 @@ tomorrow, so our operation time limit is roughly 12 hours. That[r]
 concludes our confirmation."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rin】
@@ -343,9 +325,7 @@ secretly amassing power, aiming to eventually transform into a higher[r]
 being through the use of Kodoku."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="500"  method="crossfade"  storage="cg02_02.png"  ]
 [tb_start_text mode=1 ]
@@ -365,9 +345,7 @@ before the sun sets completely and reduce their numbers as much as[r]
 possible."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="500"  method="crossfade"  storage="haikei/school03.jpg"  ]
 [tb_start_text mode=1 ]
@@ -383,9 +361,7 @@ questionable... If you get caught and used as a shield, I'm abandoning[r]
 you, okay?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kuzu】
@@ -399,9 +375,7 @@ been captured for future use or our Saeko-sensei, okay?"[p]
 let's hope that those people haven't become Yuragi."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -582,9 +556,7 @@ money. Struggling students shouldn't be showing off and should just go[r]
 home properly."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_06.png"  ]
 [chara_show  name="akitoshi"  time="50"  wait="true"  storage="chara/16/akitoshi_04.png"  width="344"  height="600"  left="224"  top="0"  reflect="false"  ]
@@ -610,9 +582,7 @@ home properly."[p]
 closer than staying in town."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_01_2.png"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_08_2.png"  width="406"  height="600"  left="-103"  top="0"  reflect="true"  ]
@@ -622,9 +592,7 @@ closer than staying in town."[p]
 there..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -633,9 +601,7 @@ there..."[p]
 "Why would that happen?! Of course not!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14_2.png"  ]
@@ -710,9 +676,7 @@ to make a mess if possible."[p]
 have to make do with a sleeping bag."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_13_3.png"  ]
 [chara_mod  name="rin_1"  time="250"  cross="false"  storage="chara/13/rin1_02.png"  ]
@@ -736,9 +700,7 @@ have to make do with a sleeping bag."[p]
 the way of you two, it'll be awkward."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_1_12.png"  ]
 [tb_start_text mode=1 ]
@@ -760,9 +722,7 @@ I mean, I don't want to die..."[p]
 [_tb_end_text]
 
 [stopse  time="1000"  buf="0"  fadeout="true"  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_1_08.png"  ]
 [tb_start_text mode=1 ]
@@ -801,9 +761,7 @@ I mean, I don't want to die..."[p]
 "Ai-chan! No, my guardian angel! Please take care of me!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Qiushun】
@@ -897,9 +855,7 @@ and give it my all tomorrow."[p]
 together! Right? Right? Right~♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1054,9 +1010,7 @@ probably dead anyway." "Eh-? We can do whatever we want now... I want[r]
 to play a bit more."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Students】
@@ -1064,9 +1018,7 @@ to play a bit more."[p]
 gain some strength while we can." "Eat? Shall we all eat?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
@@ -1108,9 +1060,7 @@ gain some strength while we can." "Eat? Shall we all eat?"[p]
 "Ha... Hajime...!" "What are you pretending for?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_03.png"  ]
@@ -1125,9 +1075,7 @@ gain some strength while we can." "Eat? Shall we all eat?"[p]
 "Huh?!" "What are you suddenly talking about?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [bg  time="0"  method="crossfade"  storage="sozai_05red.jpg"  ]
@@ -1142,9 +1090,7 @@ gain some strength while we can." "Eat? Shall we all eat?"[p]
 "Whoa?!" "Is this guy serious?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_show  name="maikai"  time="250"  wait="true"  storage="chara/7/maikai_1_05.png"  width="313"  height="600"  reflect="true"  left=""  top=""  ]
@@ -1154,9 +1100,7 @@ gain some strength while we can." "Eat? Shall we all eat?"[p]
 right? Please yield Saeko-sensei to him."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_04.png"  ]
 [tb_start_text mode=1 ]
@@ -1209,9 +1153,7 @@ them. This person is just a pawn, a punishment for Hitomi-sensei who[r]
 broke her promise with me."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_04.png"  ]
 [chara_mod  name="maikai"  time="250"  cross="false"  storage="chara/7/maikai_1_10.png"  ]
@@ -1221,9 +1163,7 @@ broke her promise with me."[p]
 "Ahaha! That's a good idea! As expected, you can do cruel things♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="maikai"  time="250"  cross="false"  storage="chara/7/maikai_2_02.png"  ]
@@ -1259,9 +1199,7 @@ broke her promise with me."[p]
 welcome!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [resetfont  ]

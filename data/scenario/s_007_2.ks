@@ -27,9 +27,7 @@ if you, who were in the most dangerous position, experienced it[r]
 firsthand, there must be no mistake."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Commander】
@@ -44,9 +42,7 @@ phoenix from any mission for you, even if it means going through fire[r]
 or diving into a moat♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_1_14.png"  width="363"  height="600"  reflect="true"  left=""  top=""  ]
 [tb_start_text mode=3 ]
@@ -56,9 +52,7 @@ joke, so please stop. You have no idea how much cold sweat you made me[r]
 shed today..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14_2.png"  ]
 [tb_start_text mode=1 ]
@@ -78,9 +72,7 @@ evaluation is skyrocketing!♪)[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Commander】
@@ -110,9 +102,7 @@ academy is plotting to cause another explosion incident... no, a[r]
 paranormal phenomenon like six months ago"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Commander】
@@ -161,9 +151,7 @@ right?"[p]
 planning to issue a return order to you all."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [tb_start_text mode=1 ]
@@ -181,9 +169,7 @@ appropriate for their looks. As long as we don't break our promise, I[r]
 believe they can be trusted."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [tb_start_text mode=1 ]
@@ -199,9 +185,7 @@ that is hard to comprehend..."[p]
 an act that cannot escape punishment if the contract is breached?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano37.ogg"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_19.png"  ]
@@ -213,9 +197,7 @@ their matter to Shun-chan. So I believe that this report I'm making[r]
 now hasn't been discovered."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
 [tb_start_text mode=1 ]
@@ -243,9 +225,7 @@ doesn't matter. So please, I ask for your support, Commander!"[p]
 did during the Tenma Academy incident!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [stopbgm  time="2000"  fadeout="true"  ]
@@ -260,9 +240,7 @@ did during the Tenma Academy incident!"[p]
 for the operation."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Commander】
@@ -272,9 +250,7 @@ military's arrival on-site will likely be around dawn the day after[r]
 tomorrow."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_12.png"  ]
 [tb_start_text mode=1 ]
@@ -294,9 +270,7 @@ jurisdiction, so regardless of the outcome of the rescue operation,[r]
 you all will be forced to retreat."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -311,9 +285,7 @@ However, if that doesn't come to fruition... retreat before the[r]
 academy turns into a battlefield."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_7.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_06.png"  ]
@@ -322,9 +294,7 @@ academy turns into a battlefield."[p]
 "...Understood" "...Roger that"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_05.png"  ]
 [tb_start_text mode=3 ]
@@ -333,9 +303,7 @@ academy turns into a battlefield."[p]
 the academy side and those girls..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_12.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
@@ -392,9 +360,7 @@ because significant concerns have arisen from this recent report."[p]
 "...Do you know about the 'Nakanemachi Serial Bizarre Murder Case'?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber21.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_5.png"  ]
@@ -410,9 +376,7 @@ because significant concerns have arisen from this recent report."[p]
 situation?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_17.png"  ]
 [tb_start_text mode=1 ]
@@ -436,9 +400,7 @@ murders occurred centered around Nakanemachi... The victims were[r]
 mostly young people, all found as gruesome, disfigured corpses."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Commander】
@@ -455,9 +417,7 @@ onset of an unexpected disaster."[p]
 earthquake' that caused a stir for a while?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Commander】
@@ -466,9 +426,7 @@ Nakanemachi marked the end of the random murder incidents—they[r]
 abruptly stopped."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
@@ -485,9 +443,7 @@ coastal exhibition hall explosion incident, similarities with the[r]
 Nakanemachi bizarre case were discovered."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Commander】
@@ -519,9 +475,7 @@ Corporation owns the most land..."[p]
 drastically decreased in this half year... so that means..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -536,9 +490,7 @@ Corporation was central, was the trigger for the cessation...?!"[p]
 incidents and Alke Corporation lurking in the background..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
 [tb_start_text mode=1 ]
@@ -582,9 +534,7 @@ speculation..."[p]
 might be someone pulling Alke's strings from behind..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
@@ -593,9 +543,7 @@ might be someone pulling Alke's strings from behind..."[p]
 mind."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Commander】
@@ -615,9 +563,7 @@ larger..."[p]
 concern."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_19.png"  ]
 [tb_start_text mode=1 ]
@@ -679,9 +625,7 @@ of faculty members including the principal... It was subsequently[r]
 closed down."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_19.png"  ]
@@ -696,9 +640,7 @@ closed down."[p]
 concern."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_2.png"  ]
 [tb_start_text mode=1 ]
@@ -720,9 +662,7 @@ the bizarre murder case before and after the earthquake. That was the[r]
 most serious issue."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_5.png"  ]
@@ -740,9 +680,7 @@ disorders, it's unprecedented for a group to collectively forget a[r]
 common matter."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Commander】
@@ -781,9 +719,7 @@ did well to negotiate cooperation with them. For all we know, Kusou[r]
 could be memory-wiped and left exposed by now?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [tb_start_text mode=3 ]
@@ -792,9 +728,7 @@ could be memory-wiped and left exposed by now?"[p]
 looking back, it might have been quite a risky tightrope walk..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Commander】
@@ -803,9 +737,7 @@ girls' movements, and if there's any suspicious activity, retreat[r]
 immediately. That's the second condition!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_17.png"  ]
@@ -841,9 +773,7 @@ responsibility for offering them cooperation, so I'll go no matter how[r]
 bad the conditions are...just..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
 [tb_start_text mode=3 ]
@@ -852,9 +782,7 @@ bad the conditions are...just..."[p]
 and Kusou Shunsaku, and take care of them with all due respect?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_19.png"  ]
@@ -873,9 +801,7 @@ and Kusou Shunsaku, and take care of them with all due respect?"[p]
 "This is so unfair at the last minute! We didn't agree on this!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
@@ -893,9 +819,7 @@ and Kusou Shunsaku, and take care of them with all due respect?"[p]
 "I refuse! Please allow me to accompany you! Commander!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -923,9 +847,7 @@ to worry about my comrades..."[p]
 completed together?! I can take care of myself!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_7.png"  ]
@@ -943,9 +865,7 @@ completed together?! I can take care of myself!"[p]
 mares!!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -969,9 +889,7 @@ mares!!!"[p]
 weakness... With that attitude, you might give the enemy an opening!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="0"  cross="false"  storage="chara/4/kotora_1_19.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_13.png"  ]
@@ -1001,9 +919,7 @@ Kotora and Kusou will back them up from behind with the surveillance[r]
 team around the academy."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_02_2.png"  ]
 [tb_start_text mode=1 ]
@@ -1020,9 +936,7 @@ your team's bonds and human resilience."[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_3.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_10.png"  ]
@@ -1065,9 +979,7 @@ your team's bonds and human resilience."[p]
 you felt, but even I got nervously out of character..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_show  name="kotora_1"  time="500"  wait="true"  storage="chara/4/kotora_1_13_3.png"  width="363"  height="600"  left="520"  top="0"  reflect="false"  ]
@@ -1107,9 +1019,7 @@ trouble..."[p]
 "But let's stop doing that, okay? We're a team, after all...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09.png"  ]
@@ -1147,9 +1057,7 @@ your team's bonds and human resilience."[p]
 "Kuh-ha~☆ I can't stand it♪ I'm falling for him all over again♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
 [resetfont  ]
@@ -1161,9 +1069,7 @@ increased quite a bit at some point! This is doable! The goal is in[r]
 sight!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
@@ -1174,9 +1080,7 @@ I'm on it! Nufufu♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_08.png"  ]
 [tb_start_text mode=3 ]
@@ -1185,9 +1089,7 @@ I'm on it! Nufufu♥"[p]
 make it clear now, the Commander is a woman---..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [font  size="55"  color="0xffffff"  ]
@@ -1235,9 +1137,7 @@ seem to work out, but he's tall and not badly built... He looks like a[r]
 sincere and nice guy...could this be a pickup...?)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_1_10.png"  width="363"  height="600"  reflect="true"  left="138"  top="0"  ]
 [tb_start_text mode=3 ]
@@ -1246,9 +1146,7 @@ sincere and nice guy...could this be a pickup...?)"[p]
 nothing important, could you please go somewhere else?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_09.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_03.png"  ]
@@ -1262,9 +1160,7 @@ she emits a killer vibe to slightly good-looking men she meets for the[r]
 first time during missions...)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_move  name="akitoshi"  anim="false"  time="250"  effect="easeInOutQuad"  wait="true"  left="453"  top="0"  width="344"  height="600"  ]
 [tb_start_text mode=1 ]
@@ -1287,9 +1183,7 @@ chan's guard is up even more! I need to stop this before it gets[r]
 dangerous...)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_hide  name="kotora_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_hide  name="hitomi_1"  time="0"  wait="false"  pos_mode="false"  ]
@@ -1301,9 +1195,7 @@ dangerous...)"[p]
 we're in the middle of a date...♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_12.png"  ]
 [tb_start_text mode=3 ]
@@ -1312,9 +1204,7 @@ we're in the middle of a date...♪"[p]
 the academy?! Don't get too close carelessly!)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_11.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03.png"  ]
@@ -1324,9 +1214,7 @@ the academy?! Don't get too close carelessly!)"[p]
 not a bad person.)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
 [bg  time="500"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
@@ -1364,9 +1252,7 @@ to pass by so we might not be much help, but what does the person[r]
 you're looking for look like...?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_10.png"  ]
 [tb_start_text mode=3 ]
@@ -1376,9 +1262,7 @@ We don't even know what's happening with Kusou if we leave it to him[r]
 alone...)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_09.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
@@ -1428,9 +1312,7 @@ person. It's unlikely that such an ordinary-looking, somewhat handsome[r]
 young man would know her...)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_03.png"  ]
 [tb_start_text mode=3 ]
@@ -1439,9 +1321,7 @@ young man would know her...)"[p]
 girl!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playbgm  volume="80"  time="1500"  loop="true"  storage="bgm_maoudamashii_cyber41.ogg"  fadein="true"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_04.png"  ]
@@ -1507,9 +1387,7 @@ something happen around here?! Do you know where the two of them[r]
 went?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_hide  name="hitomi_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_hide  name="kotora_1"  time="0"  wait="true"  pos_mode="false"  ]
@@ -1548,9 +1426,7 @@ yourself first?"[p]
 definitely not a suspicious person."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playbgm  volume="80"  time="1000"  loop="true"  storage="music.ogg"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_07.png"  ]
@@ -1576,9 +1452,7 @@ definitely not a suspicious person."[p]
 failed the entrance exams twice... He seemed so put together...)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03.png"  ]
 [tb_start_text mode=3 ]
@@ -1587,9 +1461,7 @@ failed the entrance exams twice... He seemed so put together...)"[p]
 warrior, and he doesn't seem to be playing dumb or lying...)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_11.png"  ]
 [tb_start_text mode=1 ]
@@ -1604,9 +1476,7 @@ warrior, and he doesn't seem to be playing dumb or lying...)"[p]
 this point, the quickest way is to let him meet those two.)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_hide  name="hitomi_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_hide  name="kotora_1"  time="0"  wait="true"  pos_mode="false"  ]
@@ -1618,9 +1488,7 @@ this point, the quickest way is to let him meet those two.)"[p]
 student."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_4.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_03.png"  ]
@@ -1642,9 +1510,7 @@ student."[p]
 ashamed of, Akitoshi-kun♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_03.png"  ]
 [tb_start_text mode=1 ]
@@ -1660,9 +1526,7 @@ ashamed of, Akitoshi-kun♪"[p]
 not that much younger than me...?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -1670,9 +1534,7 @@ not that much younger than me...?"[p]
 Akitoshi-chan?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_1.png"  ]
 [chara_mod  name="akitoshi"  time="500"  cross="false"  storage="chara/16/akitoshi_09.png"  ]
@@ -1695,9 +1557,7 @@ Akitoshi-chan?"[p]
 a bit too hasty?)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_08.png"  ]
 [tb_start_text mode=3 ]
@@ -1706,9 +1566,7 @@ a bit too hasty?)"[p]
 whatever you like."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_09.png"  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_02_3.png"  ]
@@ -1746,9 +1604,7 @@ Sensei, or even just Hitomi if you want♡"[p]
 means... you're not just an ordinary teacher, are you?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_13_2.png"  ]
@@ -1765,9 +1621,7 @@ means... you're not just an ordinary teacher, are you?"[p]
 relationship with those two."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -1797,9 +1651,7 @@ come with us? I'll guide you to where they are."[p]
 that we might be dangerous?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_15_01.png"  ]
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_02.png"  ]
@@ -1809,9 +1661,7 @@ that we might be dangerous?"[p]
 for judging whether someone is bad news or not."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_10.png"  ]
 [tb_start_text mode=3 ]
@@ -1821,9 +1671,7 @@ sensed that you're not bad people. That's why I decided to approach[r]
 you..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Qiushun】
@@ -1832,9 +1680,7 @@ probably judged you to be trustworthy people... That's why I'll trust[r]
 you too."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_11.png"  ]
@@ -1849,9 +1695,7 @@ you too."[p]
 be quite popular, right?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_08.png"  ]
 [tb_chara_shake  name="akitoshi"  direction="x"  count="2"  swing="20"  time="100"  ]
@@ -1893,9 +1737,7 @@ be quite popular, right?"[p]
 the first time I've met someone with this kind of vibe..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_move  name="akitoshi"  anim="false"  time="300"  effect="easeOutQuad"  wait="true"  left="10"  top="0"  width="344"  height="600"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_04.png"  ]

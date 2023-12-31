@@ -54,9 +54,7 @@ boys in similar situations, he still trusted me and fought desperately[r]
 for us!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -64,9 +62,7 @@ for us!)[p]
 him...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -94,9 +90,7 @@ him...!)[p]
 about that body of yours...?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_07.png"  ]
 [tb_start_text mode=1 ]
@@ -134,9 +128,7 @@ about that body of yours...?"[p]
 delivering the final blow to that school principal."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_16.png"  ]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_01.png"  ]
@@ -252,9 +244,7 @@ school? Was it Rurio or Shin? Is he still alive?"[p]
 be recognized by the country... no, by someone?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_02.png"  ]
 [chara_mod  name="gaku"  time="250"  cross="false"  storage="chara/5/gaku_2_09.png"  ]
@@ -265,9 +255,7 @@ be recognized by the country... no, by someone?"[p]
 skillful... Very well, I shall only talk about my past."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_6.png"  ]
 [chara_mod  name="gaku"  time="250"  cross="false"  storage="chara/5/gaku_2_07.png"  ]
@@ -297,9 +285,7 @@ three more desires grow and become insatiable. Because desire and life[r]
 are inseparably linked."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Boshan】
@@ -318,9 +304,7 @@ nutrients is sufficient. However, when 'desire' intertwines with[r]
 things... that's how it is."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_04.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="1"  swing="20"  time="200"  ]
@@ -330,9 +314,7 @@ things... that's how it is."[p]
 drawn in and consumed by yuragi... typical."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_04_2.png"  ]
@@ -348,9 +330,7 @@ stimulating that it altered your original purpose during the accident[r]
 in Nahikone Town 18 years ago."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_02.png"  ]
 [chara_mod  name="gaku"  time="250"  cross="false"  storage="chara/5/gaku_2_08.png"  ]
@@ -377,9 +357,7 @@ in Nahikone Town 18 years ago."[p]
 heard a "rumor" from my research colleagues and visited that town..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="33"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -411,9 +389,7 @@ several thousand years within the country, but tales of strange trees[r]
 that grow stronger by consuming humans and livestock are rare."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai02_05_17.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15_2.png"  ]
@@ -429,9 +405,7 @@ that supernatural legend and research how to derive beneficial powers[r]
 for humans from that life-stealing giant tree...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -461,9 +435,7 @@ extermination squad that came 16 years ago... What happened to Megu-[r]
 nee-sama?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_18.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -474,9 +446,7 @@ Town 18 years ago?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_chara_shake  name="ai_1"  direction="y"  count="1"  swing="20"  time="200"  ]
 [font  size="55"  color="0xffffff"  ]
@@ -500,9 +470,7 @@ bizarre murders three years ago, but 16 years ago? How old is Ai-[r]
 chan...? She wouldn't have even been born 18 years ago, right?)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_02.png"  ]
 [tb_start_text mode=3 ]
@@ -512,9 +480,7 @@ around three years old 18 years ago... These kids... they're truly an[r]
 enigma...)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Boshan】
@@ -522,9 +488,7 @@ enigma...)"[p]
 I have been working for Alke- Corporation..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Ai】
@@ -544,9 +508,7 @@ warriors who challenged it until it was brought down three years[r]
 ago... So there's no way the information would have been passed on..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_2_09.png"  ]
 [tb_start_text mode=1 ]
@@ -670,9 +632,7 @@ others about the situation... Whether they'll talk or not is another[r]
 matter..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Saeko】
@@ -698,9 +658,7 @@ matter..."[p]
 us... kind of like that..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin2_07_2.png"  width="375"  height="600"  left="435"  top="0"  reflect="false"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -738,9 +696,7 @@ my head could literally fly off! Impossible means impossible!"[p]
 nobody would have to make Megu-nee-sama bear it all alone..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_20.png"  ]
 [tb_start_text mode=1 ]
@@ -759,9 +715,7 @@ this matter is settled?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_09.png"  ]
 [tb_chara_shake  name="hitomi_3"  direction="x"  count="2"  swing="20"  time="100"  ]
@@ -777,9 +731,7 @@ this matter is settled?!"[p]
 confusion! You're making a big mistake!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_hide_all  time="250"  wait="true"  ]
@@ -796,9 +748,7 @@ make sure you forget about us!"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="1"  swing="20"  time="100"  ]
@@ -809,9 +759,7 @@ make sure you forget about us!"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_03.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="2"  swing="20"  time="100"  ]
@@ -828,9 +776,7 @@ school gate..."[p]
 those strange eyes, I can't relax thinking you might sniff around!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08_4.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_08.png"  ]
@@ -847,9 +793,7 @@ those strange eyes, I can't relax thinking you might sniff around!"[p]
 actions."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_04.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_3.png"  ]
@@ -925,9 +869,7 @@ don't care about age if you're talented..."[p]
 other out... in various ways..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_11.png"  ]
 [tb_start_text mode=1 ]
@@ -961,9 +903,7 @@ swallow, huh?"[p]
 cares about that child, probably."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_20.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_13.png"  ]
@@ -985,9 +925,7 @@ cares about that child, probably."[p]
 well this time...)" ※Novel version[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_25.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -1080,9 +1018,7 @@ well this time...)" ※Novel version[p]
 time... for a diversion...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_17.png"  ]
 [chara_hide  name="rin_1"  time="0"  wait="true"  pos_mode="false"  ]
@@ -1099,9 +1035,7 @@ time... for a diversion...!"[p]
 The completion of the Gu poison... with this... that person will..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -1136,9 +1070,7 @@ The completion of the Gu poison... with this... that person will..."[p]
 "...That was...! This is bad, we're falling behind!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="ugoki04.ogg"  ]
@@ -1306,9 +1238,7 @@ silence, unable to even blink...[p]
 meddlers!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1434,9 +1364,7 @@ meddlers!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/charge.ogg"  ]
@@ -1500,9 +1428,7 @@ meddlers!?"[p]
 okay but... more importantly... Hitomi is...!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Ai】
@@ -1522,9 +1448,7 @@ okay but... more importantly... Hitomi is...!?"[p]
 consecutive shocks..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [tb_chara_shake  name="kotora_1"  direction="x"  count="2"  swing="20"  time="300"  ]
@@ -1596,9 +1520,7 @@ shattered stone monument engraved with the school motto...[p]
 better than being screamed at, I guess♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/charge2.ogg"  ]
@@ -1612,9 +1534,7 @@ better than being screamed at, I guess♪"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_hide_all  time="500"  wait="true"  ]
@@ -1672,9 +1592,7 @@ better than being screamed at, I guess♪"[p]
 "This is no time to be sleeping! Open your eyes, Hitomi!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_25.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="2"  swing="20"  time="100"  ]
@@ -1758,9 +1676,7 @@ really be in trouble. Please protect Hitomi and the others for now!"[p]
 in the center of the courtyard fountain and piercing the sky.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -1828,9 +1744,7 @@ is condensing around that child... Do you understand what's happening,[r]
 Ai!?")[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="ai_1"  time="250"  wait="true"  storage="chara/12/ai02_05_18.png"  width="375"  height="600"  reflect="true"  left="-92"  top="0"  ]
 [tb_start_text mode=3 ]
@@ -1840,9 +1754,7 @@ Rin, this time he intends to turn the womb into the 'Gate of the[r]
 Underworld'...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Qiushun】
@@ -1865,9 +1777,7 @@ Underworld'...!"[p]
 girl's womb is a mysterious vessel that harbors new life...")[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano40.ogg"  ]
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_13.png"  ]
@@ -1897,9 +1807,7 @@ with the universe - the sky - and a lake, and it's said that our world[r]
 exists on the surface of the water...")[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_show  name="akitoshi"  time="1000"  wait="false"  storage="chara/16/akitoshi_04_2.png"  width="344"  height="600"  left="406"  top="0"  reflect="false"  ]
@@ -1919,9 +1827,7 @@ somewhere before...")[p]
 cycle of reincarnation constantly swirls in this gap.")[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Ai】
@@ -1939,9 +1845,7 @@ life... This is the normal cycle of reincarnation.")[p]
 spectacle, then indeed a woman's womb is a 'mysterious vessel'...")[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_05.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -1952,9 +1856,7 @@ own womb!?")[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_hide_all  time="500"  wait="true"  ]
@@ -1980,9 +1882,7 @@ Ruri-otoko to manipulate Alke Corporation from behind the scenes and[r]
 was trying to accomplish something...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin2_20.png"  width="375"  height="600"  left="268"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
@@ -1997,9 +1897,7 @@ Using Rin as a mother figure because of her naturally high magical[r]
 power and the title "Star Child" bestowed upon her...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_move  name="rin_1"  anim="true"  time="750"  effect="easeInQuad"  wait="true"  left="0"  top="0"  width="375"  height="600"  ]
 [bg  time="1000"  method="crossfade"  storage="cg11/cg25_02.png"  ]
@@ -2010,9 +1908,7 @@ It was a grotesque act meant to rebirth Shin's supposedly dead sister,[r]
 Mayu, into this world.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -2034,9 +1930,7 @@ As part of the memories of the series of events that caused great[r]
 sorrow, it remains as an unhealable wound in our hearts...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [stopbgm  time="1500"  fadeout="true"  ]
@@ -2091,9 +1985,7 @@ such a thing should never happen again!)[p]
 Explain it to me in order so I can understand!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_14_2.png"  ]
 [tb_start_text mode=1 ]
@@ -2116,9 +2008,7 @@ matter is settled...)[p]
 talk about it sooner but I... did something stupid...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_18.png"  ]
 [tb_start_text mode=1 ]
@@ -2157,9 +2047,7 @@ was to confirm Shin's death and to deal with the aftermath of what he[r]
 left behind...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_07.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_05.png"  ]
@@ -2169,9 +2057,7 @@ left behind...)[p]
 defeated by Meg-nee in the battle six months ago?)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_14_2.png"  ]
 [tb_start_text mode=1 ]
@@ -2188,9 +2074,7 @@ defeated by Meg-nee in the battle six months ago?)[p]
 right?!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_14_2.png"  ]
@@ -2218,9 +2102,7 @@ incident involving both "the other side" where Ai lives and "this[r]
 side" where I live is[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="750"  method="crossfade"  storage="cg11/cg25_02.png"  ]
 [tb_start_text mode=1 ]
@@ -2249,9 +2131,7 @@ something in the past between Meg-nee, Shin, and Shin's sister Mayu,[r]
 and it seemed that Meg-nee was being blackmailed by Shin.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="500"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [bg  time="500"  method="crossfade"  storage="cg02_03.png"  ]
@@ -2262,9 +2142,7 @@ demon beast, and on this side as well, many people became victims due[r]
 to the birth of the demon flower, Ruri-otoko...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -2272,9 +2150,7 @@ In that final moment, Meg-nee recovered from our persuasion and was[r]
 supposed to have settled things with Shin----...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [bg  time="500"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
@@ -2289,9 +2165,7 @@ was consumed by Ruri-otoko was rescued by Meg-nee! Right after that,[r]
 she returned to defeat the demon beast in the other world...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_13.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -2300,9 +2174,7 @@ she returned to defeat the demon beast in the other world...!)[p]
 (Meg-nee has nothing to do with Shin anymore! Right, Ai?!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -2325,9 +2197,7 @@ she returned to defeat the demon beast in the other world...!)[p]
 him. Alright, I've understood everything up to here.)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_02.png"  ]
 [tb_start_text mode=3 ]
@@ -2336,9 +2206,7 @@ him. Alright, I've understood everything up to here.)[p]
 those left behind are desperately trying to revive him...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_06.png"  ]
@@ -2349,9 +2217,7 @@ those left behind are desperately trying to revive him...)[p]
 something so conspicuous now would be like telling us to stop them...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_04.png"  ]
 [tb_start_text mode=1 ]
@@ -2367,9 +2233,7 @@ something so conspicuous now would be like telling us to stop them...)[p]
 "gate to the underworld"...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_03.png"  ]
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_02.png"  ]
@@ -2386,9 +2250,7 @@ become souls and go to the spirit world, but if you pass through the[r]
 gate of the underworld you can go to the afterlife with your body.)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Ai】
@@ -2396,9 +2258,7 @@ gate of the underworld you can go to the afterlife with your body.)[p]
 In other words, it means "dying while still alive"...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_03.png"  ]
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_05.png"  ]
@@ -2410,9 +2270,7 @@ nee! And those left behind have been gathering power to open the door[r]
 and call him back...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -2431,9 +2289,7 @@ innocent boys into Yuragi and making them attack people... Damn it![r]
 The more I think about it, the dirtier their methods seem!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_14.png"  ]
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_13.png"  ]
@@ -2481,9 +2337,7 @@ that way, huh?)[p]
 (I... I believe in Meg Onee-sama ...I really do!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_14.png"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_21.png"  ]
@@ -2494,9 +2348,7 @@ that way, huh?)[p]
 anything about Shin or Mayu!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_14_4.png"  ]
@@ -2542,9 +2394,7 @@ to make her feel even a little bit better)[p]
 (Because I love Meg-nee! Because I love Meg Onee-sama...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_08.png"  ]
@@ -2558,9 +2408,7 @@ to make her feel even a little bit better)[p]
 (...Right? I asked you half a year ago. Honestly... I was jealous...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_12.png"  ]
 [stopbgm  time="1500"  fadeout="true"  ]
@@ -2585,9 +2433,7 @@ says, if we've decided to believe in her, there's only one thing to[r]
 do!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -2667,9 +2513,7 @@ satisfied?!"[p]
 that there's no sign of her regaining consciousness..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rin】
@@ -2678,9 +2522,7 @@ senses so sharp that a normal person would go insane. I think that's[r]
 the problem..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai02_05_17.png"  ]
 [tb_start_text mode=3 ]
@@ -2689,9 +2531,7 @@ the problem..."[p]
 she does..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Ai】
@@ -2700,9 +2540,7 @@ interference in such a hypersensitive state, there's a possibility[r]
 she's already been turned into a vegetable..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_18.png"  ]
 [tb_start_text mode=1 ]
@@ -2799,9 +2637,7 @@ the main flow of power! All the magic used here becomes my[r]
 nourishment!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rose】
@@ -2809,9 +2645,7 @@ nourishment!"[p]
 Ahahahahaha♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 
@@ -2828,9 +2662,7 @@ strength?! Does that mean we can't use "Bars and Cage" like we did[r]
 with Rurio!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rin】
@@ -2839,9 +2671,7 @@ six months ago and has taken countermeasures. Smart guy, though I[r]
 won't praise him... Let's go!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/swing2.ogg"  ]
@@ -2856,9 +2686,7 @@ aimed at the girl who could be called the distinct "core" of the[r]
 grotesque form, unlike with Rurio...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="panchi01.ogg"  ]
 [tb_start_text mode=3 ]
@@ -2867,9 +2695,7 @@ But her attack was blocked by tentacles surrounding the girl at the[r]
 last moment, failing to reach her.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -2913,9 +2739,7 @@ for the mechanism. If we had two or three more people... No, if Rose[r]
 Onee-sama were here, we could easily take care of that brat!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_hide  name="ai_1"  time="0"  wait="true"  pos_mode="false"  ]
@@ -2929,9 +2753,7 @@ Onee-sama were here, we could easily take care of that brat!"[p]
 "Don't give up! We'll throw everything we've got at it!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -2970,9 +2792,7 @@ Onee-sama were here, we could easily take care of that brat!"[p]
 Besides, we can't afford to move Hitomi carelessly right now..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -2986,9 +2806,7 @@ Besides, we can't afford to move Hitomi carelessly right now..."[p]
 people even if it costs me my life...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/heartbeats.ogg"  loop="true"  ]

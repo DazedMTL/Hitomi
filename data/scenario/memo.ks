@@ -22,9 +22,7 @@ from after the main story, we recommend viewing it after reaching the[r]
 ending.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [glink  color="white"  storage="memo.ks"  size="20"  text="Ive already seen it"  x="80"  y="320"  width=""  height=""  _clickable_img=""  target="*ok"  ]
@@ -62,9 +60,7 @@ Ho~ That's great. But...[p]
 Just keep in mind that there are people out there who aren't...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【？？？】
@@ -76,9 +72,7 @@ Oops, I started preaching there.[p]
 Well, stick with me for a bit longer and listen to my story...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -98,9 +92,7 @@ That's unfortunate for them...[p]
 But your life is your own...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【？？？】
@@ -109,9 +101,7 @@ own.[p]
 
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【？？？】
@@ -123,9 +113,7 @@ Oops, I started preaching there.[p]
 Well, stick with me for a bit longer and listen to my story...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -167,9 +155,7 @@ Well, stick with me for a bit longer and listen to my story...[p]
 "...By that time, my father had already passed away."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_show  name="hajime"  time="1000"  wait="true"  storage="chara/9/hajime_1_04_6.png"  width="375"  height="600"  left="512"  top="0"  reflect="true"  ]
@@ -180,9 +166,7 @@ Well, stick with me for a bit longer and listen to my story...[p]
 biker gang Crusaders..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_show  name="gaku_2"  time="1000"  wait="true"  storage="chara/21/fusi.png"  width="563"  height="600"  reflect="true"  left="-73"  top="0"  ]
@@ -192,9 +176,7 @@ biker gang Crusaders..."[p]
 "Unaware that such an event was waiting for him..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_7.png"  ]
@@ -204,9 +186,7 @@ biker gang Crusaders..."[p]
 themselves?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [tb_start_text mode=1 ]
@@ -243,9 +223,7 @@ games. Don't worry, just ignore it and you'll be fine."[p]
 normal."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_2_02.png"  ]
 [tb_start_text mode=1 ]
@@ -275,9 +253,7 @@ all..."[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_06.png"  ]
@@ -296,9 +272,7 @@ surface!"[p]
 met!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [tb_start_text mode=1 ]
@@ -360,18 +334,14 @@ Let's go, Hajime-kun."[p]
 HENTAI..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Mai-chan】
 "Sorry, sorry♥ Now, let's get back to our hellish date♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hajime-kun】
@@ -406,9 +376,7 @@ somewhere someday..."[p]
 "Thank you very much for purchasing my humble work 'Hitomi'!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #　
@@ -556,9 +524,7 @@ with us this far!"[p]
 [wait  time="1500"  ]
 [jump  storage="jinbutusyoukai.ks"  target=""  ]
 [s  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [showmenubutton]
 

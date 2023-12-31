@@ -18,9 +18,7 @@ arriving any time now, based on how it feels♪"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_7.png"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_16_2.png"  ]
@@ -63,9 +61,7 @@ arriving any time now, based on how it feels♪"[p]
 should be arriving soon♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_9.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_2.png"  ]
@@ -82,9 +78,7 @@ close it is might have made them more anxious... Maybe I should have[r]
 bluffed more confidently to buy time...!?)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_2_02.png"  ]
 [tb_start_text mode=1 ]
@@ -104,9 +98,7 @@ easy..."[p]
 and then I'll hide myself away...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_2_03.png"  ]
@@ -206,9 +198,7 @@ situation...!"[p]
 "Duhahaha! First, one little pestttt!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -236,9 +226,7 @@ situation...!"[p]
 "Please go, Professor! I'll handle this!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa05.ogg"  ]
@@ -292,9 +280,7 @@ situation...!"[p]
 stay calm!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -328,9 +314,7 @@ stay calm!"[p]
 mistake to welcome you as one of the 'Seven Treasures.'"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_2_03.png"  ]
 [tb_start_text mode=1 ]
@@ -427,9 +411,7 @@ with the teachers!!"[p]
 efficient. Sneaking around here and there like cockroaches!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_16.png"  ]
 [tb_start_text mode=1 ]
@@ -447,9 +429,7 @@ soon. It's going to be even harder to deal with when there are more[r]
 people around...)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [quake  time="300"  count="3"  hmax="10"  wait="true"  vmax="10"  ]
 [font  size="45"  color="0xffffff"  ]
@@ -474,9 +454,7 @@ helped. I was planning to leave them be, but before things get more[r]
 complicated, maybe I should go help them out...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Voice from Behind】
@@ -531,9 +509,7 @@ around, so it makes sense to go after the ones who are staying put,[r]
 right?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_04_2.png"  ]
 [stopbgm  time="1000"  fadeout="true"  ]
@@ -579,9 +555,7 @@ be--..."[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_12.png"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_6.png"  ]
@@ -668,9 +642,7 @@ that we couldn't even scratch in one fell swoop! Thanks, Ai-chan,[r]
 Rin!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playbgm  volume="90"  time="1000"  loop="true"  storage="taste_xxx02.ogg"  ]
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin2_14.png"  width="375"  height="600"  left="346"  top="0"  reflect="false"  ]
@@ -681,9 +653,7 @@ knives are your support weapons? They look like nothing special to[r]
 me..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_13.png"  ]
 [chara_hide  name="kotora_1"  time="0"  wait="true"  pos_mode="false"  ]
@@ -704,9 +674,7 @@ I could carry."[p]
 confident in my movements if my beloved staff were delivered."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_2_03_2.png"  ]
 [tb_start_text mode=3 ]
@@ -716,9 +684,7 @@ fluctuations really have become monsters that have abandoned humanity.[r]
 I'm shocked."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="ai_1"  time="250"  wait="true"  storage="chara/12/ai02_05_5.png"  width="375"  height="600"  left="514"  top="0"  reflect="false"  ]
 [tb_start_text mode=3 ]
@@ -727,9 +693,7 @@ I'm shocked."[p]
 team? Weren't you supposed to meet up at that park?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_6.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_2_05_2.png"  ]
@@ -739,9 +703,7 @@ team? Weren't you supposed to meet up at that park?"[p]
 Akishun... could it be...!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_4.png"  ]
 [tb_start_text mode=1 ]
@@ -819,9 +781,7 @@ their own! ...On the flip side, it shows just how bad this situation[r]
 is...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="1"  swing="20"  time="100"  ]
@@ -842,9 +802,7 @@ is...)[p]
 know anything about them!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_17.png"  ]
@@ -857,9 +815,7 @@ since she stormed in ignoring the plan and drawing attention by[r]
 yelling in the courtyard!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_02.png"  ]
 [tb_start_text mode=1 ]
@@ -892,9 +848,7 @@ fluctuation 3-on-1."[p]
 "Hold on! Why did you guys barge in here? What's happening outside?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_09.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_2_05_2.png"  ]
@@ -905,9 +859,7 @@ fluctuation 3-on-1."[p]
 "Oh, right! That's what I was wondering! What the heck is that?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 
@@ -957,9 +909,7 @@ Kotora rushed in, so reluctantly..."[p]
 behind the building!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kuzu】
@@ -994,9 +944,7 @@ much sacrifices."[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopse  time="1000"  buf="0"  fadeout="true"  ]
 
@@ -1034,9 +982,7 @@ appeared at the seaside exhibition hall six months ago?"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_01_3.png"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_1.png"  ]
@@ -1046,9 +992,7 @@ appeared at the seaside exhibition hall six months ago?"[p]
 is likely something else entirely."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_2.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_17.png"  ]
@@ -1059,9 +1003,7 @@ is likely something else entirely."[p]
 for you, so you guys should run."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_16.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_04.png"  ]
@@ -1074,9 +1016,7 @@ for you, so you guys should run."[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_02.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_17.png"  ]
@@ -1089,9 +1029,7 @@ Trauma... I really can't stand that about you... I'll kill you, you[r]
 know?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08_4.png"  ]
 [tb_hide_message_window  ]
@@ -1139,9 +1077,7 @@ I'm going to help those two now!"[p]
 time for this, so don't make things harder, okay?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [font  size="40"  color="0xffffff"  ]
@@ -1174,9 +1110,7 @@ time for this, so don't make things harder, okay?!"[p]
 GyahahahaHAhahahahaha!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [chara_show  name="kuzu_2"  time="250"  wait="true"  storage="chara/2/kuzu_2_05_2.png"  width="688"  height="600"  left=""  top=""  reflect="false"  ]
@@ -1230,9 +1164,7 @@ cornered... Cowards."[p]
 time, magical warriors!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1320,9 +1252,7 @@ time, magical warriors!?"[p]
 Fate is on my side...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_hide_all  time="250"  wait="true"  ]
@@ -1359,9 +1289,7 @@ helicopter!?"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="40"  time="1000"  buf="0"  storage="se02/heri01.ogg"  fadein="false"  loop="true"  ]
@@ -1374,9 +1302,7 @@ bits." "But there's something strange about that guy." "He's gonna[r]
 hit—run away, run away—Hyahyahya♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="ugoki01.ogg"  ]
@@ -1457,9 +1383,7 @@ is he...?"[p]
 "It's been a while, Gen-san! I never thought you'd actually come...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_03.png"  ]
 [tb_start_text mode=1 ]
@@ -1555,9 +1479,7 @@ is he...?"[p]
 spirit are extraordinary... What do you think?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_16.png"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_1.png"  ]
@@ -1576,9 +1498,7 @@ blood..."[p]
 But that thing..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_1.png"  ]
 [tb_start_text mode=1 ]
@@ -1627,9 +1547,7 @@ swing it..."[p]
 "Rin-chan! Where are the support supplies that were just dropped?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_4.png"  ]
@@ -1647,9 +1565,7 @@ swing it..."[p]
 with the support weapons!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -1790,9 +1706,7 @@ Academy."[p]
 escape! We need to hurry back and support them or it'll be bad!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_17.png"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_18.png"  ]
@@ -1802,9 +1716,7 @@ escape! We need to hurry back and support them or it'll be bad!"[p]
 "Sabato! You coming to help us is a lifesaver! Won't you join us!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_19.png"  ]
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_03.png"  ]
@@ -1852,9 +1764,7 @@ escape! We need to hurry back and support them or it'll be bad!"[p]
 "Why not!? I'm the leader of the team!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_25.png"  ]
@@ -1865,9 +1775,7 @@ escape! We need to hurry back and support them or it'll be bad!"[p]
 energetic after all that worrying."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14_2.png"  ]
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_01.png"  ]
@@ -1901,9 +1809,7 @@ unreasonable."[p]
 on the rooftop. We need to go help him quickly--..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_02.png"  ]
@@ -1956,9 +1862,7 @@ on the rooftop. We need to go help him quickly--..."[p]
 no, Nobuo Hiroyama!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_hide  name="kuzu_2"  time="0"  wait="true"  pos_mode="false"  ]
@@ -2104,9 +2008,7 @@ illuminated by the dim light was unmistakably---...[p]
 festival, and yet a teacher in cosplay is hardly praiseworthy--..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -2155,9 +2057,7 @@ festival, and yet a teacher in cosplay is hardly praiseworthy--..."[p]
 "You will pay with your life! Die and atone for this, Hiroyama!!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -2178,9 +2078,7 @@ festival, and yet a teacher in cosplay is hardly praiseworthy--..."[p]
 power... or is it because of that weird suit?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_1.png"  ]
 [tb_start_text mode=3 ]
@@ -2190,9 +2088,7 @@ that super-physical destructive force with her bare body. I can't[r]
 believe a human body could handle that kind of fighting..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_2.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15.png"  ]
@@ -2320,9 +2216,7 @@ leaving the rest of the small fry to you!"[p]
 Principal Fukurai! Is this the power of the improved model...?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="kotora_1"  time="50"  wait="true"  storage="chara/4/kotora_1_19.png"  width="363"  height="600"  left="-78"  top="0"  reflect="true"  ]
 [tb_start_text mode=1 ]
@@ -2364,9 +2258,7 @@ up Hitomi!"[p]
 show you my true power!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [stopbgm  time="1500"  fadeout="true"  ]
@@ -2383,9 +2275,7 @@ show you my true power!?"[p]
 "Now! The real show starts here! Come at me---...?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playbgm  volume="100"  time="1500"  loop="true"  storage="bgm_maoudamashii_cyber12.ogg"  fadein="true"  ]
@@ -2428,9 +2318,7 @@ human child! Nothing but the last flicker of a candle's flame before[r]
 it goes out---nngh!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -2444,9 +2332,7 @@ it goes out---nngh!?"[p]
 Fang Wolf Group, at your service!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_01.png"  ]
 [tb_start_text mode=1 ]
@@ -2494,9 +2380,7 @@ Fang Wolf Group, at your service!"[p]
 "Whoa!? Impossible! I'm floating!? Thrown away by someone like him!??"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -2530,9 +2414,7 @@ clan having non-human blood are true... But wounds like these will[r]
 heal in no time..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_hide_message_window  ]
@@ -2574,9 +2456,7 @@ it be that she too has non-human blood...? But... there's no sign of[r]
 that at all---)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="250"  ]
@@ -2652,9 +2532,7 @@ that at all---)[p]
 "Perish!" "Seeeei!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -2770,9 +2648,7 @@ to me... However! You mere humans cannot possibly kill Yuragi!"[p]
 it's settled. Look, the guy's charred black!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_19.png"  ]
 [tb_start_text mode=1 ]
@@ -2841,9 +2717,7 @@ a considerable price. It would be best to let her rest immediately."[p]
 "Okay!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_06.png"  ]
 [tb_start_text mode=1 ]
@@ -2891,9 +2765,7 @@ in action."[p]
 seen 'the legendary Valkyrie.'"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_02.png"  ]
 [tb_start_text mode=3 ]
@@ -2902,9 +2774,7 @@ seen 'the legendary Valkyrie.'"[p]
 Valkyrie-sama, so does this mean it's settled?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_01.png"  ]
 [tb_start_text mode=1 ]

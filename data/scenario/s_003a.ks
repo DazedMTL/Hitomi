@@ -14,9 +14,7 @@
 provoke him...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
 [tb_start_text mode=1 ]
@@ -32,9 +30,7 @@ provoke him...)[p]
 discerning eye..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
 [tb_start_text mode=3 ]
@@ -44,9 +40,7 @@ lack situational judgment and are full of openings compared to Dr.[r]
 Saeko...♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_04_3.png"  ]
@@ -57,9 +51,7 @@ Saeko...♪"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_04.png"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
@@ -69,9 +61,7 @@ Saeko...♪"[p]
 after school."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
@@ -88,18 +78,14 @@ after school."[p]
 school, to no one, that's the condition."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rose】
 "If you do, Dr. Saeko's life will be forfeit, understood?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
@@ -132,9 +118,7 @@ Corporation are in cahoots, what exactly is their purpose...?[p]
 
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -143,9 +127,7 @@ Being blackmailed and forced to follow orders... Honestly, it's a[r]
 terribly bad turn of events...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -153,9 +135,7 @@ Given the circumstances, the only option is to follow their[r]
 instructions, find Saeko, and escape from the academy together.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="kotora_1"  time="500"  wait="true"  storage="chara/4/kotora_1_09.png"  width="363"  height="600"  left="250"  top="0"  reflect="false"  ]
 [tb_start_text mode=3 ]
@@ -164,9 +144,7 @@ My only hope is that Kotora-chan, who is inside the academy, will take[r]
 some action since I haven't made my regular contact...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="500"  ]
@@ -201,9 +179,7 @@ By the time after-school arrived, I was completely agitated and began[r]
 to feel a strange sensation attacking my body...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/heartbeats.ogg"  loop="true"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_03.png"  width="406"  height="600"  ]
@@ -222,9 +198,7 @@ because they kept staring at me as if they were licking my whole body?[r]
 No, that can't be right. This must be probably...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [stopse  time="1000"  buf="0"  fadeout="true"  ]
@@ -268,9 +242,7 @@ You mean Alke Pharmaceuticals' strange drugs have been used to mess[r]
 with people at the academy, right?!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -285,9 +257,7 @@ symptoms!)[p]
 persons are being held."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
@@ -326,9 +296,7 @@ adult toy modeled after a male organ... a dildo.[p]
 with your games...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
@@ -338,9 +306,7 @@ with your games...!"[p]
 Saeko. Am I wrong?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_3.png"  ]
@@ -350,9 +316,7 @@ Saeko. Am I wrong?"[p]
 satisfaction, Onee-san can gently probe it for you with this?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_4.png"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
@@ -362,9 +326,7 @@ satisfaction, Onee-san can gently probe it for you with this?"[p]
 a crime, doesn't it? Teacher."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
@@ -375,9 +337,7 @@ who've been falsely accused and had to suffer in silence by brats and[r]
 bad kids!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
@@ -387,9 +347,7 @@ bad kids!"[p]
 dildo without any more complaints."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
@@ -400,9 +358,7 @@ Between my breasts? Or would you be satisfied if I demonstrated its[r]
 proper use right here?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
@@ -412,9 +368,7 @@ proper use right here?!"[p]
 better than when you're pretending to be a teacher."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rose】
@@ -423,9 +377,7 @@ in 10 minutes. By then, please insert that dildo into either your[r]
 front or back hole and wait..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rose】
@@ -483,9 +435,7 @@ mechanism it might have... I guess "the back" is safer...)"[p]
 pathetic, infuriating, and frustrating... Grrr!)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -506,9 +456,7 @@ bit too big, but it's strangely smooth and easily went all the way[r]
 in...)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -516,9 +464,7 @@ in...)"[p]
 same punishment later!)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1500"  ]
@@ -555,9 +501,7 @@ than before...)"[p]
 and then make a full escape from the academy...)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="80"  time="1000"  buf="0"  storage="se02/door.ogg"  ]
 [chara_show  name="hajime"  time="250"  wait="true"  storage="chara/9/hajime_1_02_2.png"  width="375"  height="600"  left="450"  top="0"  reflect="false"  ]
@@ -593,9 +537,7 @@ provocative attire and seemed taken aback, quickly averting his gaze[r]
 and falling silent.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -603,9 +545,7 @@ From what I could gather during this morning's class, he seemed to be[r]
 the most introverted and quiet boy in the class...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -621,9 +561,7 @@ missing persons case, I hoped that he would be different, as he seemed[r]
 to lack any malice.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -631,9 +569,7 @@ His appearance to pick me up on Rose's orders was a shock that[r]
 compounded my own distress...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -672,9 +608,7 @@ compounded my own distress...[p]
 help...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_08_2.png"  ]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_04_2.png"  ]
@@ -684,9 +618,7 @@ help...!"[p]
 "And inform the 'Warrior'! I want it all to end...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_04_4.png"  ]
@@ -715,9 +647,7 @@ And now we've come too far to turn back... Honestly, it's not a good[r]
 situation, but retreating without Saeko would be meaningless...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_4.png"  ]
 [tb_start_text mode=3 ]
@@ -727,9 +657,7 @@ resolve the incidents occurring at this academy. I can't turn back[r]
 now."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_5.png"  ]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_04_5.png"  ]
@@ -746,9 +674,7 @@ now."[p]
 "It's impossible... Humans can't defeat them..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_06_02.png"  ]
@@ -760,9 +686,7 @@ mentioning? Another force investigating the academy besides us special[r]
 agents? ...This isn't something I can figure out right now.)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -777,9 +701,7 @@ experiments aimed at creating superior humans...) ※Novel version[p]
 
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -787,9 +709,7 @@ experiments aimed at creating superior humans...) ※Novel version[p]
 darkness so that no one could misuse it...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_3.png"  ]
 [tb_start_text mode=1 ]
@@ -832,9 +752,7 @@ Academy...!)[p]
 please, So-kun, could you help me out just a little?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_05_3.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_2.png"  ]
@@ -892,9 +810,7 @@ memorized; this floor's hallway should end here, yet there's something[r]
 "ahead"...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_4.png"  ]
 [tb_start_text mode=3 ]
@@ -903,9 +819,7 @@ memorized; this floor's hallway should end here, yet there's something[r]
 with it? I can't see the end..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_02_3.png"  ]
 [tb_start_text mode=3 ]
@@ -913,9 +827,7 @@ with it? I can't see the end..."[p]
 "...There is... a "barrier" here... Ordinary people can't see it..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopse  time="1000"  buf="0"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_3.png"  ]
@@ -932,9 +844,7 @@ with it? I can't see the end..."[p]
 visible to the naked eye..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【So】
@@ -943,9 +853,7 @@ you go straight ahead, you'll eventually see the classroom. Everyone[r]
 and Teacher Saeko are there..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_3.png"  ]
 [tb_start_text mode=3 ]
@@ -954,9 +862,7 @@ and Teacher Saeko are there..."[p]
 to the '13 Steps'?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_02_3.png"  ]
 [tb_start_text mode=3 ]
@@ -965,9 +871,7 @@ to the '13 Steps'?"[p]
 I mean, it's not just a story, it's reality..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -991,9 +895,7 @@ incomprehensible! I have no knowledge about this sort of thing, what[r]
 am I supposed to do!?)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -1002,9 +904,7 @@ trick behind this mysterious phenomenon or outright debunk the ghost[r]
 story...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_2.png"  ]
 [tb_start_text mode=1 ]
@@ -1028,9 +928,7 @@ empty. Saeko must have been thrown off by such an unexpected[r]
 development.)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -1064,9 +962,7 @@ with me... She's my precious... friend that I can't just leave[r]
 behind."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_5.png"  ]
 [tb_start_text mode=1 ]
@@ -1088,9 +984,7 @@ behind."[p]
 for me, So-kun? You seem to know more about the escape routes."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_5.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_7.png"  ]
@@ -1150,9 +1044,7 @@ for me, So-kun? You seem to know more about the escape routes."[p]
 suddenly say you'd go call someone yourself."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_09.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -1162,9 +1054,7 @@ suddenly say you'd go call someone yourself."[p]
 gloomy guy..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -1177,9 +1067,7 @@ gloomy guy..."[p]
 you?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=3 ]
@@ -1189,9 +1077,7 @@ before them, they didn't follow my orders and got too carried away,[r]
 ending up being hunted down!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rose】
@@ -1199,9 +1085,7 @@ ending up being hunted down!"[p]
 we'll lose, but even if we're luring them in, we need to prepare."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
@@ -1211,9 +1095,7 @@ Warriors'!"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="250"  cross="false"  storage="chara/7/maikai_1_06.png"  ]
 [font  size="45"  color="0xffffff"  ]
@@ -1241,9 +1123,7 @@ Big breasts and a big butt, and above all, she's brimming with[r]
 vitality, looking absolutely delicious."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rose】
@@ -1257,9 +1137,7 @@ vitality, looking absolutely delicious."[p]
 saying 'run away,' didn't you?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rose】
@@ -1268,9 +1146,7 @@ be hard being left out, you probably want to graduate from being a[r]
 virgin too, huh~?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_04.png"  ]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_04_9.png"  ]
@@ -1287,9 +1163,7 @@ ripe and ready from the drugs, a supreme woman's body filled with[r]
 'nutrients'..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rose】
@@ -1304,9 +1178,7 @@ reward from me..."[p]
 "If you desire it, I'll let you have your way with Hitomi-sensei."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -1318,9 +1190,7 @@ reward from me..."[p]
 "I won't let anyone interfere... If that's what you wish... right♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -1335,9 +1205,7 @@ reward from me..."[p]
 that pig will take her again? Is that okay with you? What a waste..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -1375,9 +1243,7 @@ that pig will take her again? Is that okay with you? What a waste..."[p]
 fullest."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_hide_all  time="500"  wait="true"  ]
@@ -1406,9 +1272,7 @@ darkness seems to get... )[p]
 up, it's like I've wandered into another dimension...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_2_13_2.png"  ]
 [tb_start_text mode=3 ]
@@ -1417,9 +1281,7 @@ up, it's like I've wandered into another dimension...)[p]
 would have been reassuring... I really regret it now...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_2_05_2.png"  ]
 [chara_move  name="hitomi_1"  anim="true"  time="300"  effect="easeInQuad"  wait="true"  left="150"  top="0"  width="406"  height="600"  ]
@@ -1469,18 +1331,14 @@ would have been reassuring... I really regret it now...)[p]
 "Can we attack her now?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Students】
 "We're waiting for Kai-kun's signal" "Ahh~ She smells so good♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_3_02_1.png"  width="406"  height="600"  left="350"  top="0"  reflect="false"  ]
@@ -1505,9 +1363,7 @@ at once...)[p]
 "I've come for you Rose-kun! As promised, release Saeko!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1519,9 +1375,7 @@ at once...)[p]
 "...Buhuhu, so you've come Hitomi-sensei♥ Saeko-sensei is over here~♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -1600,9 +1454,7 @@ trying to give up on fighting...[p]
 "Puhya-hya♥ It seems to be quite effective, doesn't it♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_4_05.png"  ]
 [tb_start_text mode=1 ]
@@ -1616,9 +1468,7 @@ trying to give up on fighting...[p]
 as tough as Saeko-sensei, or maybe even tougher♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【？？】
@@ -1636,9 +1486,7 @@ Struggling desperately not to fall forward, she focused on the scene[r]
 before her through her clouded consciousness and hazy vision...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="500"  ]
@@ -1678,9 +1526,7 @@ In one corner of the bare classroom, with no desks or chairs, just a[r]
 stage covered with gym mats, there was that abnormal sight...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -1689,9 +1535,7 @@ engaging in intense sexual activity – a scene that would never occur[r]
 in any respectable educational institution...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -1739,9 +1583,7 @@ was far too small, my gaze was fixed on one particular pair...[p]
 and a bit scary,"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
@@ -1750,9 +1592,7 @@ and a bit scary,"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1500"  ]
@@ -1768,9 +1608,7 @@ and a bit scary,"[p]
 "Ah-ha♡ Yes! That's it♡ Pound my womb, it feels so good~~♡♡"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1798,18 +1636,14 @@ and a bit scary,"[p]
 idiot Saeko!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
 "I came here for you, so get a grip!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_3.png"  ]
 [resetfont  ]
@@ -1841,9 +1675,7 @@ idiot Saeko!"[p]
 comrade who has been through hardships together won't reach her."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_07.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_6.png"  ]
@@ -1854,9 +1686,7 @@ Rose-kun! I've been through situations like this many times[r]
 before--..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_10.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -1871,9 +1701,7 @@ before--..."[p]
 bunch of lewd teachers!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_5.png"  ]
@@ -1929,9 +1757,7 @@ easily avoided... If I were in my best condition, I could have stepped[r]
 in further!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -1940,9 +1766,7 @@ those of normal people... They must have undergone some kind of[r]
 enhancement or modification!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_hide  name="hitomi_2"  time="0"  wait="false"  pos_mode="false"  ]
 [chara_show  name="hitomi_1"  time="50"  wait="true"  storage="chara/3/hitomi_3_02_5.png"  width="406"  height="600"  left="100"  top="0"  reflect="false"  ]
@@ -1972,9 +1796,7 @@ body...)[p]
 "Here! Here you go! Uhihahahahaha!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/dressing1.ogg"  ]
 [tb_start_text mode=3 ]
@@ -1982,9 +1804,7 @@ body...)[p]
 "Ahi♡ Haon♡ Yesss♡ It's the best! The best, Taishi~~♡♡"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -2100,9 +1920,7 @@ state...)[p]
 easily...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -2117,9 +1935,7 @@ Saeko...)[p]
 "checkmate" for you, Hitomi-sensei."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [delay  speed="10"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_6.png"  ]
@@ -2223,9 +2039,7 @@ Saeko...)[p]
 "It's always the same, adults never listen to our... our pleas..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu01.ogg"  loop="true"  ]
 [bg  time="0"  method="crossfade"  storage="sozai_03pink.jpg"  ]
@@ -2268,9 +2082,7 @@ Saeko...)[p]
 (...It feels so good...♡ My nipples are so stiff and sensitive♡)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
@@ -2278,9 +2090,7 @@ Saeko...)[p]
 "Hahaha♪ You say no, but you're clearly enjoying it!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="250"  method="crossfade"  storage="cg03/cg06_03_2.png"  ]
 [tb_start_text mode=1 ]
@@ -2294,9 +2104,7 @@ Saeko...)[p]
 you inviting this? Did you want this to happen?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -2312,9 +2120,7 @@ you inviting this? Did you want this to happen?!"[p]
 waste on So... It's unfair."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rose】
@@ -2327,9 +2133,7 @@ waste on So... It's unfair."[p]
 now～♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -2357,9 +2161,7 @@ The dildo that had been inserted deep into the rectum activated its[r]
 gimmick that had been set up...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="80"  time="1000"  buf="0"  storage="se02/baibu.ogg"  ]
@@ -2380,9 +2182,7 @@ The dildo, slightly thicker and longer than average, not only vibrated[r]
 but also began to wriggle unpredictably,[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -2391,9 +2191,7 @@ eerily squirmed from the depths of the belly, as if carving into the[r]
 womb.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -2410,9 +2208,7 @@ using that thing" "As expected of Rose-kun's special aphrodisiac-[r]
 laced dildo♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -2427,9 +2223,7 @@ laced dildo♪"[p]
 too... haahn♡"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -2447,9 +2241,7 @@ too... haahn♡"[p]
 of thing is wrong."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Students】
@@ -2457,9 +2249,7 @@ of thing is wrong."[p]
 right?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【So】
@@ -2467,9 +2257,7 @@ right?"[p]
 them..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -2482,9 +2270,7 @@ them..."[p]
 by you, to desire you... You shook my weak heart!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -2596,9 +2382,7 @@ her nipples, white-hot magma spurted out forcefully...[p]
 an amazing sound♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -2611,9 +2395,7 @@ an amazing sound♪"[p]
 just any woman but an exceptionally lewd and greedy one in heat..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="50"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -2629,9 +2411,7 @@ on the back of her neck stood on end, she felt all strength leave her[r]
 body in an instant...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -2668,9 +2448,7 @@ body in an instant...[p]
 imagined I'd lactate...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -2684,9 +2462,7 @@ inside my breasts, and the milk keeps gushing out non-stop...♡ It[r]
 feels like my breasts are melting right where they touch the floor♪♡)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -2701,9 +2477,7 @@ this...)[p]
 (...But! If I fall here, surely no one will be saved!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -2711,9 +2485,7 @@ this...)[p]
 right now... everyone will be wiped out together...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -2729,9 +2501,7 @@ right now... everyone will be wiped out together...!)[p]
 inviting me over?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -2894,9 +2664,7 @@ because you want to be punished?"[p]
 ass grind against the dildo♡)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -2910,9 +2678,7 @@ ass grind against the dildo♡)[p]
 break...♡"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -2953,9 +2719,7 @@ break...♡"[p]
 "Nooohhh!♡? It's moving again... ah?!♡"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -3025,9 +2789,7 @@ break...♡"[p]
 "Wait, So-kun! If you pull it out now...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -3051,9 +2813,7 @@ MAX Power form, that's brutally huge♪" "Good thing we didn't put it in[r]
 the front earlier, huh~♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -3103,18 +2863,14 @@ want a big one to satisfy me deep inside, my body is twitching on its[r]
 own...♡)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
 (My pussy is so wet and sloppy... I can't hold back anymore♡)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -3122,9 +2878,7 @@ own...♡)[p]
 Dressed provocatively...tempting students...tempting you...♡"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【So】
@@ -3132,9 +2886,7 @@ Dressed provocatively...tempting students...tempting you...♡"[p]
 become a monster!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -3147,9 +2899,7 @@ become a monster!"[p]
 "That's why I want So-kun to punish me♪ Hajime-kun, punish me more♡"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -3168,9 +2918,7 @@ become a monster!"[p]
 it off so we can take turns?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Taishi】
@@ -3178,9 +2926,7 @@ it off so we can take turns?"[p]
 dick, the smart ones are never that impressive down there."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Students】
@@ -3189,9 +2935,7 @@ a big dick...)[p]
 
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -3206,18 +2950,14 @@ a big dick...)[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Students】
 (...Ufufu, what's that...) (Oh dear? Could it be impotence?)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -3248,9 +2988,7 @@ a big dick...)[p]
 it...?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Taishi】
@@ -3265,9 +3003,7 @@ it...?"[p]
 (Wow～♡ If I get stirred up with that thing...♡)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="500"  method="crossfade"  storage="cg03/cg08_03.png"  ]
 [tb_start_text mode=1 ]
@@ -3280,9 +3016,7 @@ it...?"[p]
 "That will definitely feel good! I want it deep inside♡"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [bg  time="500"  method="crossfade"  storage="cg03/cg08_06.png"  ]
@@ -3291,9 +3025,7 @@ it...?"[p]
 "Punish Hitomi with that amazing dick!♡"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【So】
@@ -3301,9 +3033,7 @@ it...?"[p]
 ado, here you go!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -3333,9 +3063,7 @@ ado, here you go!"[p]
 "It's warm and squishy and sucking me in slurpily♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -3350,9 +3078,7 @@ ado, here you go!"[p]
 is filled up♡"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -3428,9 +3154,7 @@ through me!"[p]
 prey!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【So】
@@ -3438,9 +3162,7 @@ prey!"[p]
 sensei!♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -3474,9 +3196,7 @@ sensei!♥"[p]
 "Aaahnn♪♡ Amazing!♡ Hajime-kun's big dick is so hot♪♡"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [bg  time="500"  method="crossfade"  storage="cg03/cg09_10.png"  ]
@@ -3487,9 +3207,7 @@ sensei!♥"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="500"  method="crossfade"  storage="cg03/cg09_09.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -3499,9 +3217,7 @@ sensei!♥"[p]
 too!♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="500"  method="crossfade"  storage="cg03/cg09_10.png"  ]
 [tb_start_text mode=3 ]
@@ -3509,9 +3225,7 @@ too!♥"[p]
 "I'll stay with So-kun forever! We'll have sex all the time～♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu04.ogg"  ]
@@ -3522,9 +3236,7 @@ too!♥"[p]
 "Ahhn♡ I'm cumming♡ I'm cumming---!♡"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/dressing1.ogg"  ]
@@ -3584,9 +3296,7 @@ too!♥"[p]
 setup helped too... It's kinda sleazy."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="maikai"  time="250"  wait="false"  storage="chara/7/maikai_1_02.png"  width="313"  height="600"  left="230"  top="0"  reflect="false"  ]
 [tb_start_text mode=1 ]
@@ -3630,9 +3340,7 @@ setup helped too... It's kinda sleazy."[p]
 And... Mayu-sama----...)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -3645,9 +3353,7 @@ And... Mayu-sama----...)"[p]
 "...ha...Hajime-kun♥ More～♥ Haa～n♥ Hitomi is...so happy...♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1500"  ]
@@ -3713,9 +3419,7 @@ contact with your comrades, you might have survived..."[p]
 tag...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -3766,9 +3470,7 @@ investigation at Ubusuna Academy."[p]
 be on the ground investigating, got it?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kuzu】

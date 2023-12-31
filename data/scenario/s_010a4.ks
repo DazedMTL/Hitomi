@@ -19,9 +19,7 @@
 say!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Demon Tree・Rose】
@@ -29,9 +27,7 @@ say!?"[p]
 supposed to reward my life's work..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="300"  method="bounceIn"  storage="cg11/cg26_16.png"  ]
 [stopse  time="1000"  buf="0"  ]
@@ -66,9 +62,7 @@ supposed to reward my life's work..."[p]
 "I'll have my revenge! On all those in this world who denied me!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -90,9 +84,7 @@ rampaging, now that he's completely desperate, we don't know what[r]
 he'll do!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="50"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -112,9 +104,7 @@ he'll do!"[p]
 half a year ago. He just doesn't know when to give up!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
@@ -154,9 +144,7 @@ the mercy of someone like Shin!"[p]
 "As if you could understand my feelings, my despair!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rin】
@@ -208,9 +196,7 @@ the mercy of someone like Shin!"[p]
 open the gates to the netherworld as far as I can...!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Ai】
@@ -260,9 +246,7 @@ netherworld..."[p]
 (This is no joke! That's as good as being dead, isn't it?!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Ai (Akito)】
@@ -270,9 +254,7 @@ netherworld..."[p]
 it kills me!!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/charge.ogg"  ]
@@ -289,9 +271,7 @@ it kills me!!!"[p]
 "Stop it already, Maikai-kun... no, Hama-no Mai-san."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Bewitching Tree・Rose】
@@ -320,9 +300,7 @@ it kills me!!!"[p]
 "Hitomi-san! It's dangerous there! Get away!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -341,18 +319,14 @@ it kills me!!!"[p]
 "Hey!? Can't you hear me telling you to get out of the way?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Ai・Shujun】
 "We can't attack like this! What are you thinking?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -386,9 +360,7 @@ along with your friends. What brings you here, Sensei?"[p]
 deceived and lured So-kun... Hahaha!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -402,9 +374,7 @@ deceived and lured So-kun... Hahaha!"[p]
 now fully charged!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -457,9 +427,7 @@ this entire area and beginning to devour all living things!"[p]
 take with your death throes!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [font  size="45"  color="0xffffff"  ]
@@ -485,9 +453,7 @@ take with your death throes!!"[p]
 one point springs into action![p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -593,9 +559,7 @@ emitting intense light between the raised grotesque arms...![p]
 All we can do now is believe and watch...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Sabato】
@@ -619,9 +583,7 @@ All we can do now is believe and watch...!"[p]
 body!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -722,9 +684,7 @@ body!?"[p]
 much you flail around now that you've exhausted your power!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_hide_all  time="250"  wait="false"  ]
@@ -739,9 +699,7 @@ much you flail around now that you've exhausted your power!"[p]
 are you doingggg!!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -788,9 +746,7 @@ are you doingggg!!?"[p]
 work of a magical warrior?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Bewitching Tree・Rose】
@@ -811,9 +767,7 @@ work of a magical warrior?!"[p]
 times I'm a champion of justice fighting for love...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_08.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -831,9 +785,7 @@ times I'm a champion of justice fighting for love...!"[p]
 and Technology, Special Mission Teacher!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -867,9 +819,7 @@ and Technology, Special Mission Teacher!"[p]
 "Eek?! Nooooooo!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [stopbgm  time="1500"  fadeout="true"  ]
@@ -905,9 +855,7 @@ Kotsun![p]
 Now calm down and listen to what the teacher has to say."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_10.png"  ]
 [tb_start_text mode=3 ]
@@ -916,9 +864,7 @@ Now calm down and listen to what the teacher has to say."[p]
 want to do!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="250"  cross="false"  storage="chara/19/hitomi6_09.png"  ]
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano40.ogg"  ]
@@ -928,9 +874,7 @@ want to do!?"[p]
 Hamano-san."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_10.png"  ]
 [tb_start_text mode=1 ]
@@ -944,9 +888,7 @@ Hamano-san."[p]
 to be saved!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_07.png"  ]
 [tb_start_text mode=1 ]
@@ -968,9 +910,7 @@ being betrayed and hurt by someone because of the wounds in your[r]
 heart."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_12.png"  ]
 [tb_start_text mode=1 ]
@@ -993,9 +933,7 @@ interests, but at least being needed was your salvation."[p]
 how you feel, it's unreasonable to tell you not to be reckless."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -1018,9 +956,7 @@ learn different ways of thinking and living, and then you'll surely[r]
 find happiness."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_13.png"  ]
 [tb_chara_shake  name="maikai"  direction="x"  count="3"  swing="10"  time="200"  ]
@@ -1036,9 +972,7 @@ find happiness."[p]
 "It's too late for that now... Don't try to preach to me!!!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_12.png"  ]
@@ -1053,9 +987,7 @@ find happiness."[p]
 "No!! I'm not 'Hamano Mai'! I am Rose - Maikai!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_13.png"  ]
 [tb_start_text mode=3 ]
@@ -1063,9 +995,7 @@ find happiness."[p]
 "Chosen by Hakuyama, given the name 'Shippo' to serve Shin's purpose!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Bewitching Tree・Rose】
@@ -1073,9 +1003,7 @@ find happiness."[p]
 lead the world to a new stage as Innocent Children!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -1093,9 +1021,7 @@ lead the world to a new stage as Innocent Children!"[p]
 "Where should I return to? No one would accept a monster like me..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [stopbgm  time="1500"  fadeout="true"  ]
@@ -1107,9 +1033,7 @@ lead the world to a new stage as Innocent Children!"[p]
 "...That's not true, Rose-kun. At least Teacher Hitomi accepted me."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -1149,9 +1073,7 @@ lead the world to a new stage as Innocent Children!"[p]
 takeover of both body and mind..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="250"  cross="false"  storage="chara/13/rin2_05_2.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="2"  swing="10"  time="200"  ]
@@ -1250,9 +1172,7 @@ want you to trust people too!"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 
@@ -1305,9 +1225,7 @@ underworld connected to the womb has been lost, and it's starting to[r]
 run wild..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [playse  volume="90"  time="1000"  buf="0"  storage="se02/fire4.ogg"  fadein="true"  loop="false"  ]
@@ -1389,9 +1307,7 @@ too!"[p]
 would surely notice me!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_chara_shake  name="maikai"  direction="x"  count="2"  swing="20"  time="200"  ]
 [tb_start_text mode=3 ]
@@ -1400,9 +1316,7 @@ would surely notice me!"[p]
 went wrong, just a pawn to be thrown away... ...uh...uh..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -1421,9 +1335,7 @@ went wrong, just a pawn to be thrown away... ...uh...uh..."[p]
 "Ai-chan, Rin-chan! There has to be something, right?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1448,9 +1360,7 @@ went wrong, just a pawn to be thrown away... ...uh...uh..."[p]
 to stop it with all our might or tried to seal it away completely...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 
@@ -1477,9 +1387,7 @@ to stop it with all our might or tried to seal it away completely...!"[p]
 Like unplugging the internet!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -1512,9 +1420,7 @@ somewhat resistant to minor injuries..."[p]
 something!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1530,9 +1436,7 @@ something!"[p]
 "Alright! Hang in there, Rose-kun! I'll save you now!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1573,9 +1477,7 @@ something!"[p]
 hands? Get back!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_12.png"  ]
 [tb_start_text mode=1 ]
@@ -1621,9 +1523,7 @@ hands? Get back!"[p]
 "Alright! Let's pull out this big turnip!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_11.png"  ]
@@ -1698,9 +1598,7 @@ happy!)[p]
 troublesome in its own way...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【So】
@@ -1708,9 +1606,7 @@ troublesome in its own way...)[p]
 She's someone who can change the world!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Bewitching Tree・Rose】
@@ -1729,9 +1625,7 @@ with Shin, the squabbles among comrades, or devouring humans... You[r]
 were always a boring guy, suppressing yourself in the corner.)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -1797,9 +1691,7 @@ were always a boring guy, suppressing yourself in the corner.)[p]
 "What?!" "Ngyu!?" "Damn it!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_chara_shake  name="hajime"  direction="x"  count="1"  swing="10"  time="100"  ]
@@ -1868,9 +1760,7 @@ were always a boring guy, suppressing yourself in the corner.)[p]
 going to do that, keep it amongst yourselves."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/fire4.ogg"  fadein="true"  ]
@@ -1920,9 +1810,7 @@ going to do that, keep it amongst yourselves."[p]
 "Hajime-kun!?" "You idiot!" "...Ugh"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1959,9 +1847,7 @@ going to do that, keep it amongst yourselves."[p]
 do!? What can we do!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="saeko"  time="250"  cross="false"  storage="chara/11/saeko_2_25.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -1971,9 +1857,7 @@ do!? What can we do!?"[p]
 that guy--..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_chara_shake  name="sabato"  direction="x"  count="1"  swing="10"  time="100"  ]
 [tb_start_text mode=1 ]
@@ -1990,9 +1874,7 @@ that guy--..."[p]
 "Uaaaah---!!? Te-teacher is aaaaah!!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_24.png"  ]
 [tb_chara_shake  name="saeko"  direction="y"  count="1"  swing="20"  time="100"  ]
@@ -2071,9 +1953,7 @@ that guy--..."[p]
 it's impossible to sever my body's connection with the spirit world."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rose】
@@ -2118,9 +1998,7 @@ it's impossible to sever my body's connection with the spirit world."[p]
 between you and Hitomi-sensei?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -2140,9 +2018,7 @@ between you and Hitomi-sensei?"[p]
 want to save someone else."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -2166,9 +2042,7 @@ want to save someone else."[p]
 now!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rose】
@@ -2212,9 +2086,7 @@ now!"[p]
 ahead...? ...That it's hell!? That she'll die!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_show  name="hajime"  time="250"  wait="true"  storage="chara/9/hajime4_01.png"  width="375"  height="600"  reflect="true"  left="-49"  top="0"  ]
@@ -2248,18 +2120,14 @@ ahead...? ...That it's hell!? That she'll die!?"[p]
 something, right!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
 "Anyway, let's escape and we'll all think of a way to seal the hole!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 
@@ -2291,9 +2159,7 @@ something, right!?"[p]
 "I'll be watching from hell to see if you guys can stop that man!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
 [chara_hide_all  time="500"  wait="true"  ]
@@ -2330,9 +2196,7 @@ just like the past facts, right? This is the only way to stop this[r]
 phenomenon."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -2345,9 +2209,7 @@ phenomenon."[p]
 can be saved."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -2367,9 +2229,7 @@ Rose-kun and I were in completely opposite positions."[p]
 why...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="250"  cross="false"  storage="chara/19/hitomi6_17.png"  ]
 [tb_start_text mode=1 ]
@@ -2454,9 +2314,7 @@ why...!"[p]
 Are you being considerate?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_7_01.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime2_02.png"  ]
@@ -2564,9 +2422,7 @@ Are you being considerate?"[p]
 idiot!!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_17.png"  ]
 [tb_start_text mode=1 ]
@@ -2595,9 +2451,7 @@ idiot!!!"[p]
 "Seriously, this fool! Is everything settled now!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_25.png"  ]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_18.png"  ]
@@ -2608,9 +2462,7 @@ idiot!!!"[p]
 escape~~~!♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_03.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_02.png"  ]

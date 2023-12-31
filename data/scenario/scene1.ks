@@ -52,9 +52,7 @@ commander. How disgraceful of me. But it's unbelievable...that Saeko[r]
 would make a mistake just two days into her infiltration...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_hide  name="kotora_1"  time="250"  wait="false"  pos_mode="false"  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
@@ -81,9 +79,7 @@ not like Saeko to slip up like this. Maybe it really is no good[r]
 without me..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="100"  cross="false"  storage="chara/3/hitomi_1_11_4.png"  ]
 [chara_mod  name="kuzu_2"  time="150"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
@@ -115,9 +111,7 @@ it?"[p]
 they have to record it?! That's so mean!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_03_2.png"  ]
 [chara_mod  name="kuzu_2"  time="0"  cross="false"  storage="chara/2/kuzu_1_06.png"  ]
@@ -158,9 +152,7 @@ beer..."[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_move  name="kotora_1"  anim="true"  time="300"  effect="easeInQuad"  wait="true"  left="520"  top="0"  width="363"  height="600"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_10.png"  ]
@@ -178,9 +170,7 @@ had just dived in with Saeko, this might not have happened..."[p]
 safe, but...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -189,9 +179,7 @@ sure I've been quite active too, but it feels like everyone favors[r]
 Saeko over me...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_12.png"  ]
 [tb_start_text mode=3 ]
@@ -200,9 +188,7 @@ Sure, I whined about wanting paid leave! And yes, I'm jealous of Saeko[r]
 who's practically taken over as leader![p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -212,9 +198,7 @@ But now I'm in front of my beloved commander?! Could you two show a[r]
 little mercy, or at least some respect for your elder?![p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_12.png"  ]
@@ -224,9 +208,7 @@ No! Calm down, Hitomi. It's bad for Saeko, but this is also a chance[r]
 for me to shine!?[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="0"  cross="false"  storage="chara/2/kuzu_1_06.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_3.png"  ]
@@ -237,9 +219,7 @@ capable woman! Time to make a comeback![p]
 [_tb_end_text]
 
 [stopbgm  time="2000"  fadeout="true"  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  ]
 [chara_move  name="hitomi_1"  anim="true"  time="200"  effect="easeInQuad"  wait="false"  left="470"  top="0"  width="406"  height="600"  ]
@@ -283,9 +263,7 @@ can see that getting angry will only make things worse and I can't[r]
 just barge in!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_hide  name="hitomi_1"  time="250"  wait="false"  pos_mode="false"  ]
 [tb_start_text mode=1 ]
@@ -325,9 +303,7 @@ infiltration! You acknowledge that too, right?! And yet she's gone[r]
 silent after just two days? That's abnormal!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_1_05.png"  ]
 [tb_start_text mode=3 ]
@@ -337,9 +313,7 @@ a possibility that the previous team spilled the beans... Worst case[r]
 scenario, there might even be a mole!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="250"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
 [tb_start_text mode=3 ]
@@ -350,9 +324,7 @@ that the other side doesn't realize who we are until the very end of[r]
 our mission."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kuzu】
@@ -422,9 +394,7 @@ resort to a majority vote! There's only one vote left, right? Let me[r]
 cut through this problem♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="150"  cross="false"  storage="chara/3/hitomi_1_09.png"  ]
 [tb_start_text mode=1 ]
@@ -477,9 +447,7 @@ the scruff of the neck and beat them until their face changes shape."[p]
 guys in danger! I want to help Saeko and the others from our team!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="250"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
 [tb_start_text mode=1 ]
@@ -494,9 +462,7 @@ guys in danger! I want to help Saeko and the others from our team!"[p]
 anyone. So as hard as it is... let's take a moment to settle down..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="250"  cross="false"  storage="chara/2/kuzu_1_06_2.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_06.png"  ]
@@ -540,9 +506,7 @@ conclusion?! Didn't I clearly say that the enemy probably knows our[r]
 identities and this is a trap?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_11.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_01.png"  ]
@@ -561,9 +525,7 @@ without any investigation or preparation?!"[p]
 your forte but... are you really an investigator?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_04_3.png"  ]
 [tb_start_text mode=3 ]
@@ -572,9 +534,7 @@ your forte but... are you really an investigator?!"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -583,9 +543,7 @@ at a time like this?! You know what they say about a man who won't eat[r]
 what's served on a platter, Shun-chan!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_04.png"  ]
 [chara_mod  name="kuzu_2"  time="200"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
@@ -596,9 +554,7 @@ what's served on a platter, Shun-chan!"[p]
 of you girls as weak!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kuzu】
@@ -606,9 +562,7 @@ of you girls as weak!"[p]
 whose life I value above my own, is my eternal sweet angel Kisa-chan!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_13_2.png"  ]
@@ -626,9 +580,7 @@ whose life I value above my own, is my eternal sweet angel Kisa-chan!"[p]
 tendencies in check..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
 [chara_mod  name="kuzu_2"  time="100"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
@@ -638,9 +590,7 @@ tendencies in check..."[p]
 content just watching her be happy!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -652,9 +602,7 @@ content just watching her be happy!"[p]
 "Don't mess with me! I'm not a lolicon or a stalker!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=3 ]
@@ -663,9 +611,7 @@ content just watching her be happy!"[p]
 conversation now?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_cg  id="jin07"  ]
 [stopbgm  time="2500"  fadeout="true"  ]
@@ -693,9 +639,7 @@ conversation now?"[p]
 words, I would like you to continue with the investigation."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kuzu】
@@ -754,9 +698,7 @@ that frequently advertises on TV commercials? That Alke[r]
 Pharmaceuticals?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Commander】
@@ -765,9 +707,7 @@ at the medical comprehensive layout show six months ago... They're[r]
 also the large corporation rumored to be behind it."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_04_2.png"  ]
 [tb_start_text mode=1 ]
@@ -783,9 +723,7 @@ also the large corporation rumored to be behind it."[p]
 silencing people and destroying evidence."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kuzu】
@@ -795,9 +733,7 @@ worst, the police will come knocking for spreading false information[r]
 and business obstruction."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="150"  cross="false"  storage="chara/2/kuzu_1_06.png"  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
@@ -809,9 +745,7 @@ victims, right? For them to cover it up like that, even for a large[r]
 corporation, is quite audacious..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07.png"  ]
@@ -821,9 +755,7 @@ corporation, is quite audacious..."[p]
 fake news fed to various media by Alke Corporation."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_06.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
@@ -839,9 +771,7 @@ fake news fed to various media by Alke Corporation."[p]
 aware of the true nature of the incident."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="0"  cross="false"  storage="chara/3/hitomi_1_05.png"  ]
 [chara_mod  name="kotora_1"  time="0"  cross="false"  storage="chara/4/kotora_1_01.png"  ]
@@ -852,9 +782,7 @@ aware of the true nature of the incident."[p]
 'evidence video,' you can't help but look into it."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="0"  cross="false"  storage="chara/4/kotora_1_02.png"  ]
 [tb_start_text mode=3 ]
@@ -863,9 +791,7 @@ aware of the true nature of the incident."[p]
 that video?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="0"  cross="false"  storage="chara/4/kotora_1_01.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
@@ -880,9 +806,7 @@ that video?"[p]
 at this..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_hide_all  time="500"  wait="true"  ]
@@ -898,9 +822,7 @@ tentacle stretching into the night sky from the coastal exhibition[r]
 hall, along with a beautifully dazzling light...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -909,9 +831,7 @@ nature of the footage, most likely everyone can only hold their[r]
 immediate impressions of what they saw.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -920,9 +840,7 @@ distance, the giant tentacle writhing in the video eventually vanished[r]
 with an exceptionally bright flash...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [bg  time="3000"  method="crossfade"  storage="sozai_01_siro.jpg"  ]
@@ -942,9 +860,7 @@ posted on a video site. Currently, it's something indescribable beyond[r]
 words."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_12.png"  ]
 [tb_start_text mode=3 ]
@@ -954,9 +870,7 @@ there a possibility that this footage was fabricated with special[r]
 effects or pranks?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_11.png"  ]
 [chara_show  name="kuzu_2"  time="50"  wait="true"  storage="chara/2/kuzu_1_09_2.png"  width="688"  height="600"  left="-130"  top="0"  reflect="false"  ]
@@ -967,9 +881,7 @@ how I analyzed it, I couldn't find any flaws. That's why I've been[r]
 investigating this case, as it's been bothering me."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_13_2.png"  ]
 [tb_start_text mode=3 ]
@@ -979,9 +891,7 @@ that looks like such a huge obscene object... unless I see it with my[r]
 own eyes."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="250"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
 [tb_start_text mode=3 ]
@@ -991,9 +901,7 @@ no guarantee for your life..."[p]
 
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_11.png"  ]
 [tb_start_text mode=3 ]
@@ -1004,9 +912,7 @@ They use pawns to spread strange drugs around town..."[p]
 
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kuzu】
@@ -1015,9 +921,7 @@ Ubosuna Academy is going to be even more troublesome."[p]
 
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_10.png"  ]
 [tb_start_text mode=3 ]
@@ -1027,9 +931,7 @@ scoundrels. If you're getting cold feet, then you might as well quit[r]
 the organization."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_09.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08.png"  ]
@@ -1039,9 +941,7 @@ the organization."[p]
 
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kuzu】
@@ -1051,9 +951,7 @@ uncover the truth!"[p]
 
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_08.png"  ]
 [tb_start_text mode=3 ]
@@ -1062,9 +960,7 @@ uncover the truth!"[p]
 it at that."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
 [tb_start_text mode=3 ]
@@ -1073,9 +969,7 @@ it at that."[p]
 Academy and Alke Corporation."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="0"  cross="false"  storage="chara/3/hitomi_1_04.png"  ]
 [chara_mod  name="kotora_1"  time="0"  cross="false"  storage="chara/4/kotora_1_01.png"  ]
@@ -1088,9 +982,7 @@ I want you to find evidence at all costs that these two parties are[r]
 involved in the missing persons cases."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Commander】
@@ -1132,9 +1024,7 @@ manage to safely rescue Saeko and the previous team, I would like a[r]
 bonus in the form of a long-term paid vacation allowance.☆"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="0"  cross="false"  storage="chara/3/hitomi_1_01.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_10.png"  ]
@@ -1143,9 +1033,7 @@ bonus in the form of a long-term paid vacation allowance.☆"[p]
 "Hitomi... You really should take this more seriously!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="0"  cross="false"  storage="chara/4/kotora_1_09.png"  ]
 [tb_start_text mode=1 ]
@@ -1168,9 +1056,7 @@ bonus in the form of a long-term paid vacation allowance.☆"[p]
 if we want to enjoy our long-term paid vacation!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09.png"  ]
 [resetfont  ]
@@ -1180,9 +1066,7 @@ if we want to enjoy our long-term paid vacation!"[p]
 "...Heh, you're not one to talk about being straightforward."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_06_3.png"  ]
 [tb_start_text mode=1 ]
@@ -1203,9 +1087,7 @@ of options... I'm counting on you, everyone, I have high hopes...[r]
 Tennoji Hitomi...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="2000"  ]
@@ -1245,9 +1127,7 @@ Tennoji Hitomi...!)[p]
 continue the game, who's next?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Boy C】
@@ -1269,9 +1149,7 @@ this mean the game is over? Taishi-kun, please go easy on her, will[r]
 you?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Taishi】
@@ -1295,9 +1173,7 @@ A full day... Or two days...? My sense of touch is already distorted[r]
 due to the repeated bizarre humiliations.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -1314,9 +1190,7 @@ careless, then somehow escape and report this situation as soon as[r]
 possible... I must...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -1340,9 +1214,7 @@ several times before... Sometimes by force, sometimes by aphrodisiacs,[r]
 hypnosis, brainwashing devices, drugs...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -1351,9 +1223,7 @@ countermeasures and steeled myself, I was confident that I could[r]
 withstand the humiliation and stand up saying 'so what'...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -1383,9 +1253,7 @@ device set up somewhere or some other nasty trick!)[p]
 
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Saeko】
@@ -1420,9 +1288,7 @@ The boys who surrounded me and took turns humiliating me boasted about[r]
 their impressive members; I must have seen at least a dozen by now...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -1461,9 +1327,7 @@ It might be useless in other areas but it's number one in class for[r]
 this♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Saeko】
@@ -1477,9 +1341,7 @@ weapon before me and I could feel my breathing and heartbeat becoming[r]
 erratic...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Taishi】
@@ -1487,9 +1349,7 @@ erratic...[p]
 that's been making women fall left and right!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -1547,9 +1407,7 @@ everyone, let's begin Taishi-kun's 'Easy Ensnarement Course for[r]
 Women'! Make sure you understand the power we've obtained♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="250"  method="crossfade"  storage="cg03/cg03_04.png"  ]
 [tb_start_text mode=1 ]
@@ -1563,9 +1421,7 @@ Women'! Make sure you understand the power we've obtained♪"[p]
 "Geh heh heh...♪ Here I go♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1623,9 +1479,7 @@ of the ferocious male's ravaging...[p]
 sensitive spots are directly tickled like this, right~?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="500"  ]
@@ -1662,9 +1516,7 @@ womb, and even its deepest parts, delivering "pleasure unattainable[r]
 with humans" all at once.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -1685,9 +1537,7 @@ missions could not endure it, after all, they were merely human...[p]
 thing..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Taishi】
@@ -1706,9 +1556,7 @@ husband compare?"[p]
 "Forgot already? It's me, your fiancé Futoshi♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="250"  buf="0"  storage="se02/heartbeats.ogg"  loop="true"  fadein="true"  ]
 [tb_hide_message_window  ]
@@ -1733,9 +1581,7 @@ happily... I decided to leave the organization after getting[r]
 married...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [bg  time="3000"  method="crossfade"  storage="cg03/cg03_18.png"  ]
@@ -1748,9 +1594,7 @@ and dependable - the ideal person...♡ I've been saved by him so many[r]
 times...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Saeko】
@@ -1759,9 +1603,7 @@ leave the academy, he said to me, "I don't want you to do anything[r]
 dangerous anymore, I will protect you"...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Saeko】
@@ -1770,9 +1612,7 @@ colleagues... And him too... Was he frustrated? Huh? ...What was it[r]
 again...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Taishi】
@@ -1780,9 +1620,7 @@ again...)[p]
 right?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopse  time="1000"  buf="0"  fadeout="true"  ]
 [tb_start_text mode=1 ]
@@ -1796,9 +1634,7 @@ right?"[p]
 happiness that has finally come my way...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1500"  ]
@@ -1823,9 +1659,7 @@ happiness that has finally come my way...)[p]
 "Nghoooh♥ Futoshi-kun! Futoshi-kun♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=3 ]
@@ -1834,9 +1668,7 @@ happiness that has finally come my way...)[p]
 is really good at this..." "What do you mean??"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Boy B】
@@ -1860,9 +1692,7 @@ about to deliver the final blow! I'll impregnate you with my child[r]
 Saeko!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopse  time="1000"  buf="5"  fadeout="true"  ]
 [playse  volume="100"  time="1000"  buf="4"  storage="se02/dressing1.ogg"  ]
@@ -1873,9 +1703,7 @@ Saeko!?"[p]
 impregnate me♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [font  size="45"  color="0xffffff"  ]
@@ -1934,9 +1762,7 @@ and dragging her consciousness into deep darkness...[p]
 time? Let Taishi go last, okay? No good?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Taishi】
@@ -1962,9 +1788,7 @@ time? Let Taishi go last, okay? No good?"[p]
 "Obuuh?! Fuaah...♥ Futoshi-kun's... semen... tastes so good...♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Taishi】
@@ -1973,9 +1797,7 @@ it's Ruru, everyone can do as they like with her, with this we can[r]
 have fun for another two or three days... Come on!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -1990,9 +1812,7 @@ have fun for another two or three days... Come on!"[p]
 "Hahii?!♥ No... don't... I'm going to break... hauuu...♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Taishi】
@@ -2000,9 +1820,7 @@ have fun for another two or three days... Come on!"[p]
 not want my dick? Keep trying hard to satisfy me a lot more♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Saeko】
@@ -2010,9 +1828,7 @@ not want my dick? Keep trying hard to satisfy me a lot more♥"[p]
 deeper inside me♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Frustrated Boy】
@@ -2020,9 +1836,7 @@ deeper inside me♥♥"[p]
 teacher..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Saeko】
@@ -2039,9 +1853,7 @@ teacher..."[p]
 (...must tell... everyone... not to come here... Hitomi...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopse  time="1000"  buf="1"  ]
 [tb_hide_message_window  ]
@@ -2058,9 +1870,7 @@ field, which is a kind of extraterritoriality, faced extreme[r]
 difficulties...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -2075,9 +1885,7 @@ educational institutions.[p]
 Special Agency[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -2086,9 +1894,7 @@ versed in various fields and confront any difficult case for the sake[r]
 of their pride and the execution of justice.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -2097,9 +1903,7 @@ expose the dark side of society and sometimes risk their lives to[r]
 fight...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="1000"  method="crossfade"  storage="haikei/school04.jpg"  ]
 [tb_start_text mode=3 ]
@@ -2110,9 +1914,7 @@ female student, an incident occurred where teachers and students,[r]
 mainly females, began to go missing...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -2120,9 +1922,7 @@ mainly females, began to go missing...[p]
 obtained, and the academy completely denied involvement,[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -2132,9 +1932,7 @@ inexplicable behavior, leading to a complete deadlock in this[r]
 mysterious case...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #

@@ -22,9 +22,7 @@
 see anything... My body... won't move...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -80,9 +78,7 @@ me...?)[p]
 being massaged with oil♥ ...But what was I doing again...?)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu03.ogg"  ]
@@ -273,18 +269,14 @@ very depths.[p]
 "I'm cumming♥ My pussy's cumming～♥ Kyahaa♥ Ahhaa～～♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
 "Kotora-chan! Hang in there, Kotora-chan!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kotora】
@@ -292,9 +284,7 @@ very depths.[p]
 more♥ Fill me up!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -321,9 +311,7 @@ intruder pouring water on a lover's tryst.[p]
 "Ooh♥ Lick me more♥ Suck it♥ Nibble nibble slurp slurp♥ Nghaa♪♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -403,9 +391,7 @@ apart like tattered cloth.[p]
 "Ohh!♥ Gulp... Jubble♥ Ubooooh～～～♥♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dosyu1.ogg"  ]
@@ -415,9 +401,7 @@ apart like tattered cloth.[p]
 Anything! ...Ah...?)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="500"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [tb_start_text mode=1 ]
@@ -444,9 +428,7 @@ Saeko were being violated.[p]
 cervix is being sucked on... Aaah♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dressing1.ogg"  ]
 [tb_start_text mode=3 ]
@@ -455,9 +437,7 @@ cervix is being sucked on... Aaah♥"[p]
 to break!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu05.ogg"  ]
 [tb_start_text mode=1 ]
@@ -486,9 +466,7 @@ already over"...[p]
 this... Aah♥ No!♥ Don't teach my womb such pleasure!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dressing1.ogg"  ]
 [tb_start_text mode=1 ]
@@ -511,9 +489,7 @@ but...♥"[p]
 "Aaaaah～～♥♥♥" "Fhyaaa～～♪♥♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -533,9 +509,7 @@ but...♥"[p]
 Ah...★"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=3 ]
@@ -544,9 +518,7 @@ Ah...★"[p]
 I won't be able to return...♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -566,9 +538,7 @@ I won't be able to return...♥"[p]
 "Nheaa～～♥♥♥" "Iyiiiiiiii♥♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="5"  storage="se02/dosyu1.ogg"  ]
@@ -788,9 +758,7 @@ must have an effect that drives people mad...! My breasts are going to[r]
 melt inside the suit...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -859,9 +827,7 @@ and forced their way in.[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -889,9 +855,7 @@ covered by a deep fog...[p]
 good... That such pleasure existed!♥)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -914,9 +878,7 @@ good... That such pleasure existed!♥)[p]
 ravaged!♥ There's no way I can endure this!!♥)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg37_02.png"  ]
@@ -926,9 +888,7 @@ ravaged!♥ There's no way I can endure this!!♥)[p]
 pointless for me to resist now!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg36_01.png"  ]
 [font  size="40"  color="0xffffff"  ]
@@ -944,9 +904,7 @@ pointless for me to resist now!)[p]
 good!♥)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  ]
@@ -958,9 +916,7 @@ I've already cum several times but I'm going to cum more! I'll catch[r]
 up with everyone♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -979,9 +935,7 @@ up with everyone♥"[p]
 "Haa♥ Haa♥ Amazing... It's getting even better while I'm cumming!♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  ]
 [tb_start_text mode=3 ]
@@ -989,9 +943,7 @@ up with everyone♥"[p]
 "Hey!? Give me more!♥ Give it to my pussy and butt too!♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/eating2_2.ogg"  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg38_07.png"  ]
@@ -1001,9 +953,7 @@ up with everyone♥"[p]
 even both at the same time! If you have them, hurry up..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1021,9 +971,7 @@ even both at the same time! If you have them, hurry up..."[p]
 "Kuhoohooooooh??!♥ Hih, Ihiyii!?♥ Noh♥ Ohhooohoo~!!♥♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1049,9 +997,7 @@ even both at the same time! If you have them, hurry up..."[p]
 "Kafah?!♥ Ah... ka... Haa! Haa! Hahyuu♥ Hahyuu...♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1101,9 +1047,7 @@ even both at the same time! If you have them, hurry up..."[p]
 Please~♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/diving1.ogg"  ]
 [tb_start_text mode=1 ]
@@ -1133,9 +1077,7 @@ Please~♥"[p]
 "...Ah... Aha♥ There you are, Hajime-kun♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -1154,9 +1096,7 @@ Please~♥"[p]
 "But it's okay now♥ I won't go anywhere anymore♥ Everyone is here♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -1180,9 +1120,7 @@ Please~♥"[p]
 have sex with So-kun too♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -1201,9 +1139,7 @@ have sex with So-kun too♥"[p]
 "Chu♥ Chupu♥ Jururu...♥ Ahn♥ Hajime-kun's drool tastes so good~♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
@@ -1212,9 +1148,7 @@ have sex with So-kun too♥"[p]
 Sensei and Hitomi from now on♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So's face】
@@ -1252,9 +1186,7 @@ Sensei and Hitomi from now on♥"[p]
 ehehe★"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  ]
 [tb_start_text mode=3 ]
@@ -1263,9 +1195,7 @@ ehehe★"[p]
 sex together♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dorodoro.ogg"  ]
@@ -1285,9 +1215,7 @@ sex together♥"[p]
 "Oufu?!♥ Guheu?? Wa... I've never felt so fulfilled before...♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="4"  storage="se02/dosyu1.ogg"  ]
@@ -1301,9 +1229,7 @@ sex together♥"[p]
 "Hohee♥ Go deeper!♥ I'm still totally fine! Come fill me up more!♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/eaten_by_a_monster2.ogg"  ]
 [tb_start_text mode=1 ]
@@ -1340,9 +1266,7 @@ sex together♥"[p]
 did! I want to be filled up more~!!♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -1483,9 +1407,7 @@ now♥)[p]
 pussy! Dig deeper inside me!♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1510,9 +1432,7 @@ pussy! Dig deeper inside me!♥♥"[p]
 "Ho♥ Ohhoa♪ i... love it♥ Womb♥ Shikyuu jupo jupoah♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Ai】
@@ -1520,9 +1440,7 @@ pussy! Dig deeper inside me!♥♥"[p]
 Melt Ai's pussy more... Faa? Ahh♪ Aaaah~♥♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="5"  storage="se02/diving1.ogg"  ]

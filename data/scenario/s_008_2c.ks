@@ -33,9 +33,7 @@
 sensei."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_01_2.png"  ]
 [tb_hide_message_window  ]
@@ -53,9 +51,7 @@ sensei."[p]
 ...But...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_2_13_3.png"  ]
 [tb_show_message_window  ]
@@ -65,9 +61,7 @@ sensei."[p]
 time there will be no help and it'll be completely over...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -135,9 +129,7 @@ human touch, might lend me a hand...)[p]
 "...Hmph, is that all? Where did all that initial bravado go?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
@@ -169,9 +161,7 @@ human touch, might lend me a hand...)[p]
 wiped out..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -202,9 +192,7 @@ for that, are we?"[p]
 "I want to finish this quickly, cleaning up the mess Shin caused!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -220,9 +208,7 @@ for that, are we?"[p]
 the point." "What the hell is Rose doing...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_2"  time="50"  cross="false"  storage="chara/15/rin3_01.png"  ]
 [tb_start_text mode=3 ]
@@ -231,9 +217,7 @@ the point." "What the hell is Rose doing...!"[p]
 I'm not so easy to--..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -282,9 +266,7 @@ I'm not so easy to--..."[p]
 "Are you stupid!? You really charged in here!? It's not time yet!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -292,9 +274,7 @@ I'm not so easy to--..."[p]
 quickly..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_hide_all  time="250"  wait="true"  ]
@@ -344,9 +324,7 @@ they got away! How are you going to take responsibility for this,[r]
 huh~!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_10.png"  ]
@@ -368,9 +346,7 @@ huh~!?"[p]
 friends—what were their names? I'll help you look for them!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_04_2.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_05_4.png"  ]
@@ -440,18 +416,14 @@ the power but hesitates to use it... a shy fluctuation who knows the[r]
 pain and fear of getting hurt more than anyone else.)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rin】
 (I've thought so since I heard about him... he's similar to Mikage...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_03.png"  ]
 [tb_start_text mode=3 ]
@@ -460,9 +432,7 @@ pain and fear of getting hurt more than anyone else.)[p]
 disappointing... Hitomi-sensei."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_04.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_03_2.png"  ]
@@ -473,9 +443,7 @@ don't want you to become any more unhappy... I want you to withdraw[r]
 from this dangerous affair, that's why I came to get you."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_03.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_03.png"  ]
@@ -486,9 +454,7 @@ you? I'm no longer human... and I've already committed sins that can't[r]
 be forgiven as a person."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【So】
@@ -496,9 +462,7 @@ be forgiven as a person."[p]
 salvation for me... for us."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_04.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_9.png"  ]
@@ -559,9 +523,7 @@ around!"[p]
 
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_16.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_03_2.png"  ]
@@ -591,9 +553,7 @@ around!"[p]
 willingly! Got it?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -615,9 +575,7 @@ subdue... I mean, persuade a bratty kid who's gotten too big for his[r]
 boots!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_04.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
@@ -634,9 +592,7 @@ boots!"[p]
 thought..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_01.png"  ]
@@ -646,9 +602,7 @@ thought..."[p]
 with me is quite the oddball too!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
@@ -659,9 +613,7 @@ choice but to leave it to Rin-chan. So-kun, Rin-chan is strong. Borrow[r]
 her strength with all your might."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopbgm  time="1500"  fadeout="false"  ]
 [font  size="50"  color="0xffffff"  ]
@@ -725,9 +677,7 @@ her strength with all your might."[p]
 believe and give my all against you...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_mod  name="rin_1"  time="250"  cross="false"  storage="chara/13/rin2_03.png"  ]
@@ -762,9 +712,7 @@ As I doubted my ears at the boy's statement, the figure released from[r]
 the boy's shadow staggered into the dim light with unsteady steps.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -784,9 +732,7 @@ the boy's shadow staggered into the dim light with unsteady steps.[p]
 the impurities she accumulated while captured."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  ]
@@ -806,9 +752,7 @@ the impurities she accumulated while captured."[p]
 making amends!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_4.png"  ]
 [tb_start_text mode=1 ]
@@ -831,9 +775,7 @@ making amends!"[p]
 weird woman too."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -907,9 +849,7 @@ warrior... It's frustrating, but it's not something I can compete with[r]
 overnight.)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="80"  time="1000"  buf="0"  storage="se02/zubazuba.ogg"  ]
@@ -928,9 +868,7 @@ ruthless fighting style... I wouldn't have been able to stand against[r]
 So-kun with my bare hands...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/slash02.ogg"  loop="false"  ]
@@ -948,9 +886,7 @@ back... Rin-chan is truly strong... What exactly is a magical[r]
 warrior...? That such a world exists... it's so frustrating...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
@@ -969,9 +905,7 @@ warrior...? That such a world exists... it's so frustrating...!)[p]
 huh?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="hajime"  time="50"  wait="true"  storage="chara/9/hajime4_01.png"  width="375"  height="600"  reflect="true"  left=""  top=""  ]
 [tb_start_text mode=1 ]
@@ -1014,9 +948,7 @@ huh?"[p]
 join hands and sing and dance together..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="70"  time="1000"  buf="1"  storage="se02/fire4.ogg"  fadein="true"  loop="false"  ]
@@ -1034,9 +966,7 @@ join hands and sing and dance together..."[p]
 that dangerous for So-kun?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1141,9 +1071,7 @@ that dangerous for So-kun?!"[p]
 "No way, that's totally overdoing it! So-kun is barely breathing!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_2.png"  ]
@@ -1154,9 +1082,7 @@ control it takes to make sure not to kill someone by a hair's breadth?[r]
 If it wasn't me, he'd be dead!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_3.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
@@ -1173,9 +1099,7 @@ for the gap in my magic chant, but if he hadn't, it could have been[r]
 the worst-case scenario."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_05_2.png"  ]
 [tb_start_text mode=1 ]
@@ -1225,9 +1149,7 @@ time."[p]
 me..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_15.png"  ]
 [tb_start_text mode=1 ]
@@ -1242,9 +1164,7 @@ me..."[p]
 possibly an item?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_16.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -1268,9 +1188,7 @@ possibly an item?"[p]
 right? You're such an easy target for teasing..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_chara_shake  name="hajime_2"  direction="x"  count="2"  swing="10"  time="300"  ]
 [tb_start_text mode=1 ]
@@ -1291,9 +1209,7 @@ right? You're such an easy target for teasing..."[p]
 better head home quickly."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15.png"  ]
@@ -1326,9 +1242,7 @@ better head home quickly."[p]
 now lining up to return have finally prepared themselves, I suppose?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Fluctuating Student】
@@ -1351,9 +1265,7 @@ now lining up to return have finally prepared themselves, I suppose?"[p]
 bit, right? Give Hitomi a hand!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -1403,9 +1315,7 @@ the others!"[p]
 "Come on! You said you were going to kill me, right? Bring it on!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [tb_start_text mode=1 ]
@@ -1444,9 +1354,7 @@ the others!"[p]
 faster if she walks on her own."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【So】
@@ -1551,9 +1459,7 @@ faster if she walks on her own."[p]
 am I supposed to do with this!?)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rin】
@@ -1627,9 +1533,7 @@ am I supposed to do with this!?)"[p]
 "Ah!?" "Ugh, damn it...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1647,9 +1551,7 @@ am I supposed to do with this!?)"[p]
 At this rate..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15_2.png"  ]
 [tb_start_text mode=1 ]
@@ -1710,9 +1612,7 @@ trap's point from the beginning, I wish you'd done it earlier. Weren't[r]
 you supposed to lead the fight from the start?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_08.png"  ]
 [tb_start_text mode=3 ]
@@ -1722,9 +1622,7 @@ traitor So-kun as bait and caught the nuisances in a trap. The result[r]
 is all right, isn't it?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_05.png"  ]
 [tb_start_text mode=1 ]
@@ -1739,9 +1637,7 @@ is all right, isn't it?"[p]
 "...Hehe♪... Well, yeah." "There's no doubt we're winning..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/basabasa.ogg"  ]
@@ -1765,9 +1661,7 @@ me sick...ugh."[p]
 everyone but me is going to die! Ahahahahahaha!♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [resetfont  ]
@@ -1795,9 +1689,7 @@ everyone but me is going to die! Ahahahahahaha!♥"[p]
 is this place? What's happening?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [bg  time="250"  method="crossfade"  storage="cg11/cg33_02.png"  ]
@@ -1865,9 +1757,7 @@ of emergency!"[p]
 anyone knowing!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1892,18 +1782,14 @@ anyone knowing!"[p]
 break it from the inside since we can't reach it from the outside!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
 "Can you do it in that position, Rin-chan?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rin】
@@ -1911,9 +1797,7 @@ break it from the inside since we can't reach it from the outside!"[p]
 embarrassing state like you are!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -1932,9 +1816,7 @@ you just stay still! Got it?!"[p]
 many times!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rin】
@@ -1954,9 +1836,7 @@ many times!"[p]
 must be safe too... huh...?)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -1988,9 +1868,7 @@ physiologically! It's not something a girl should be entangled[r]
 with...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -2019,9 +1897,7 @@ with...)[p]
 sweetly nibbled and rolled around~!!?)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/drinking_a_soup.ogg"  ]
@@ -2042,9 +1918,7 @@ sweetly nibbled and rolled around~!!?)[p]
 of being sucked and licked??)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -2066,9 +1940,7 @@ of being sucked and licked??)[p]
 I'm hearing?!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -2092,9 +1964,7 @@ I'm hearing?!)[p]
 force...! My nipples are tingling and it feels good...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu03.ogg"  ]
 [tb_start_text mode=1 ]
@@ -2110,9 +1980,7 @@ force...! My nipples are tingling and it feels good...)[p]
 ...my pussy... is starting to throb...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -2138,9 +2006,7 @@ force...! My nipples are tingling and it feels good...)[p]
 "Hah hah hah!? Another one came out! Why is it only me!? "[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -2174,9 +2040,7 @@ pleasure of despair, resistance was already impossible...[p]
 my mind, but if my crotch gets sucked on too... I...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu05.ogg"  ]
 [resetfont  ]
@@ -2236,9 +2100,7 @@ my mind, but if my crotch gets sucked on too... I...)[p]
 "I can't hold back anymore!? Ahh~! I'm cumming, I'm cumming~!★♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/eating1_2.ogg"  ]
@@ -2278,9 +2140,7 @@ the warrior being shaken as a woman.[p]
 being chewed and sucked so hard!♥ Ahh~!♥★♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/gokuri2.ogg"  ]
@@ -2295,9 +2155,7 @@ being chewed and sucked so hard!♥ Ahh~!♥★♥"[p]
 space! At this rate, Hitomi will die in madness! ...Or rather...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="500"  ]
@@ -2327,9 +2185,7 @@ nothing had happened and fight through the shame with anger...[p]
 warrior!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rin】
@@ -2350,9 +2206,7 @@ warrior!"[p]
 dare you set such a filthy trap..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=3 ]
@@ -2361,9 +2215,7 @@ dare you set such a filthy trap..."[p]
 know?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/drinking1.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -2373,9 +2225,7 @@ know?"[p]
 much!♥ Ahh~!♥ It feels so good~!♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu05.ogg"  ]
 [resetfont  ]
@@ -2385,9 +2235,7 @@ much!♥ Ahh~!♥ It feels so good~!♥♥"[p]
 and human life or death doesn't matter to us..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/dosyu1.ogg"  ]
@@ -2415,9 +2263,7 @@ cocky things you've done to us now, we might let you live a little[r]
 longer!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rin】
@@ -2425,9 +2271,7 @@ longer!"[p]
 what they're going to do no matter what!）[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rin】
@@ -2436,9 +2280,7 @@ Akihiro will definitely notice and come to save us... As much as it[r]
 irks me, all I can do now is endure until then...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rin】
@@ -2446,9 +2288,7 @@ irks me, all I can do now is endure until then...!)[p]
 too carried away..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="500"  ]
@@ -2501,9 +2341,7 @@ what was smeared on Hitomi... And why did they have to splash it[r]
 there...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Voice of the Fluctuating Student】
@@ -2511,9 +2349,7 @@ there...)[p]
 spot there, don't you...?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/heartbeats.ogg"  loop="true"  ]
 [tb_start_text mode=1 ]
@@ -2529,9 +2365,7 @@ But you lost focus with that stupid scream earlier, right? What was it[r]
 again? 'Fhyaaa?!'"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/kerakera.ogg"  ]
@@ -2551,9 +2385,7 @@ again? 'Fhyaaa?!'"[p]
 now, I might go a bit easier on you."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=3 ]
@@ -2562,9 +2394,7 @@ now, I might go a bit easier on you."[p]
 later, I'll grind you into pieces!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
@@ -2573,9 +2403,7 @@ later, I'll grind you into pieces!!"[p]
 execution course'..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/diving1.ogg"  ]
 [tb_start_text mode=1 ]
@@ -2629,9 +2457,7 @@ her demise.[p]
 in deep~♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
@@ -2641,9 +2467,7 @@ in deep~♥"[p]
 you scream in ecstasy soon enough...♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
@@ -2652,9 +2476,7 @@ you scream in ecstasy soon enough...♪"[p]
 comrades and Hajime?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
@@ -2663,9 +2485,7 @@ comrades and Hajime?!"[p]
 the slippery and hard♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -2680,9 +2500,7 @@ the slippery and hard♥"[p]
 "Looks like she's ready♪ Now, shall we go? Magical warrior~♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
@@ -2690,9 +2508,7 @@ the slippery and hard♥"[p]
 "No way...you're kidding, right!? That's too thick to fit..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -2708,9 +2524,7 @@ the slippery and hard♥"[p]
 "Eeeek?!?" "Nooo~♥♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -2733,9 +2547,7 @@ the slippery and hard♥"[p]
 "Eek?! Don't move it...ughh!? Pull it out...it's too much...?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -2752,9 +2564,7 @@ the slippery and hard♥"[p]
 "Ohhho!??" "Hehe♥ My tits are getting it♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dorodoro.ogg"  ]
@@ -2769,9 +2579,7 @@ the slippery and hard♥"[p]
 "Eee~... Eee~..." (This has to be a joke... That's my ass...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rin】
@@ -2779,9 +2587,7 @@ the slippery and hard♥"[p]
 have time to come save us...maybe...?)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="500"  ]
@@ -2799,9 +2605,7 @@ have time to come save us...maybe...?)[p]
 "Ooohh!!?" "Ahhiiii♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/eaten_by_a_monster2.ogg"  ]
 [tb_start_text mode=1 ]
@@ -2823,9 +2627,7 @@ have time to come save us...maybe...?)[p]
 "Eeeek!!!??" "Ohh!♥ Deeper!♥ It's cominggg♥♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  loop="false"  ]
 [resetfont  ]
@@ -2835,9 +2637,7 @@ have time to come save us...maybe...?)[p]
 coming...and I'm starting to feel it deep inside♥)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dorodoro.ogg"  loop="false"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -2848,9 +2648,7 @@ wet pussy, and I'll become a pervert who cums wildly every time I go[r]
 to the toilet...!♥)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rin】
@@ -2870,9 +2668,7 @@ to the toilet...!♥)[p]
 take it anymore♥ Just a little more...please...slow down..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dosyu1.ogg"  loop="false"  ]
 [font  size="43"  color="0xffffff"  ]
@@ -2881,9 +2677,7 @@ take it anymore♥ Just a little more...please...slow down..."[p]
 "Aaahn♥ No way! More!♥ Thrust harder~~♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  loop="false"  ]
@@ -2913,9 +2707,7 @@ take it anymore♥ Just a little more...please...slow down..."[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  loop="false"  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg33_18.png"  ]
@@ -2926,9 +2718,7 @@ take it anymore♥ Just a little more...please...slow down..."[p]
 saving you!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dressing1.ogg"  loop="false"  ]
 [tb_start_text mode=3 ]
@@ -2937,9 +2727,7 @@ saving you!"[p]
 I'm going to cum lots♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/eaten_by_a_monster2.ogg"  loop="false"  ]
 [tb_start_text mode=3 ]
@@ -2948,9 +2736,7 @@ I'm going to cum lots♥♥"[p]
 better!♥♥ That's it! I don't care anymore about anything else♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rin】
@@ -2958,9 +2744,7 @@ better!♥♥ That's it! I don't care anymore about anything else♥"[p]
 offering my ass! Do whatever you want with it!♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -2968,9 +2752,7 @@ offering my ass! Do whatever you want with it!♥"[p]
 me up without leaving anything behind~~★♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rin & Hitomi】
@@ -2978,9 +2760,7 @@ me up without leaving anything behind~~★♥♥"[p]
 melting awayyy♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -2998,9 +2778,7 @@ melting awayyy♥♥"[p]
 "Ahhiiii~~♪♥♥♥" "Nooohoo~~★♥♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -3038,9 +2816,7 @@ this space... you won't be able to return to your senses. Let's go[r]
 help hunt down the remaining warriors and nuisances."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/kerakera.ogg"  loop="false"  ]
 [tb_start_text mode=1 ]

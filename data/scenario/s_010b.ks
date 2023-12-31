@@ -75,9 +75,7 @@ in this academy? Was it Ruri-otoko?"[p]
 die easily, do you...?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_20.png"  ]
 [resetfont  ]
@@ -103,9 +101,7 @@ die easily, do you...?"[p]
 Shall we lighten it a bit more...?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_02_2.png"  ]
 [tb_start_text mode=1 ]
@@ -167,9 +163,7 @@ Shall we lighten it a bit more...?"[p]
 him, don't worry, they'll make sure to finish him off properly."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_13.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_02_3.png"  ]
@@ -186,9 +180,7 @@ him, don't worry, they'll make sure to finish him off properly."[p]
 and search his belongings instead, it'll be faster for sure."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_3.png"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_16_2.png"  ]
@@ -204,9 +196,7 @@ and search his belongings instead, it'll be faster for sure."[p]
 after going berserk against the disturbances like that."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_6.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_05.png"  ]
@@ -236,9 +226,7 @@ the legs are quite injured as well, he can't move properly."[p]
 "Ah-ah! I knew it! He's been reckless! Such an idiot!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_22.png"  ]
@@ -248,9 +236,7 @@ the legs are quite injured as well, he can't move properly."[p]
 every single time or we'll wear ourselves out."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08_3.png"  ]
 [tb_start_text mode=1 ]
@@ -290,9 +276,7 @@ every single time or we'll wear ourselves out."[p]
 treatment right away... ah, but..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -316,9 +300,7 @@ We should have dealt with all the students and the boss who ruled this[r]
 place is as you see, if there's anywhere left to go---..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_03.png"  ]
@@ -435,9 +417,7 @@ place is as you see, if there's anywhere left to go---..."[p]
 
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -476,9 +456,7 @@ place is as you see, if there's anywhere left to go---..."[p]
 "Damn it, Ai! Erase that guy without a trace right now...Huh?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -536,9 +514,7 @@ darkness...[p]
 an instant!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -594,9 +570,7 @@ an instant!)[p]
 to me!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Sapodou】
@@ -667,9 +641,7 @@ to me!"[p]
 boar teacher!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_hide  name="rin_2"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="rin_1"  time="50"  wait="true"  storage="chara/13/rin2_15_2.png"  width="375"  height="600"  left="434"  top="0"  reflect="false"  ]
@@ -710,9 +682,7 @@ magical exhaustion, impressive indeed."[p]
 used, you meddlers!? Ahahahahaha!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -940,9 +910,7 @@ this school? But the magic disappeared after it was activated...which[r]
 means...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_move  name="ai_1"  anim="true"  time="300"  effect="easeOutQuad"  wait="true"  left="-50"  top="0"  width="375"  height="600"  ]
@@ -972,9 +940,7 @@ center of the school, where he is, magic gets nullified!"[p]
 definitely Shin's doing. How's the wound!?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Ai・Shujun】
@@ -999,9 +965,7 @@ definitely Shin's doing. How's the wound!?"[p]
 consciousness for a while..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 
@@ -1027,9 +991,7 @@ keep him occupied until then!"[p]
 troublesome opponent than Ruriotoko or Mayu!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rin】
@@ -1049,9 +1011,7 @@ taking damage!"[p]
 barriers? Ahaha! Futile, futile! It's already too late!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/charge2.ogg"  ]
@@ -1064,9 +1024,7 @@ barriers? Ahaha! Futile, futile! It's already too late!"[p]
 "Now! Open the 'door'! Feast your eyes on this!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1146,9 +1104,7 @@ break it myself? No, if I take my eyes off him, he might proceed with[r]
 his plan all at once.)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/slash02.ogg"  ]
 [chara_hide  name="rin_1"  time="0"  wait="true"  pos_mode="false"  ]
@@ -1166,9 +1122,7 @@ it would be disastrous!)"[p]
 begins once Ai and Akishun break the barrier!!)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -1228,9 +1182,7 @@ begins once Ai and Akishun break the barrier!!)"[p]
 "Hoo... Hoo... Grrrrrrrrr..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rin】
@@ -1245,9 +1197,7 @@ begins once Ai and Akishun break the barrier!!)"[p]
 "Gen-san, please fall back! Even you won't last any longer with this!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Sabato】
@@ -1263,9 +1213,7 @@ need to retrieve Hitomi too! Sorry to interfere with your duty, but[r]
 please help us out a bit longer, Genma Sabato!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_25.png"  ]
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_1_19.png"  width="363"  height="600"  reflect="true"  left="-57"  top="118"  ]
@@ -1282,9 +1230,7 @@ please help us out a bit longer, Genma Sabato!"[p]
 and escape! You can make a hole in the barrier wall, can't you?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Sabato】
@@ -1337,9 +1283,7 @@ object in the depths of the fountain located in the center of the[r]
 courtyard and piercing the sky.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -1381,9 +1325,7 @@ exerted a black pressure that made onlookers feel revulsion.[p]
 too, but that giant tree isn't meant for destruction or birth!)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Rin】
@@ -1392,9 +1334,7 @@ the deep and dark realm, aiming to become a door to Tokoyo. Its goal[r]
 isn't 'rebirth' but 'return from Yomi'!)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Rin】
@@ -1411,9 +1351,7 @@ isn't 'rebirth' but 'return from Yomi'!)"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 
@@ -1441,9 +1379,7 @@ cursed tool made from the blood and souls of several humans. A barrier[r]
 stone! A trap for anti-magic warriors... Definitely Shin's handiwork!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_19.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -1488,9 +1424,7 @@ stone! A trap for anti-magic warriors... Definitely Shin's handiwork!"[p]
 break at least one more spot before this barrier can be destroyed!)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
@@ -1500,9 +1434,7 @@ running out of magical power, but I'm more worried about Rin and[r]
 everyone else!)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Ai】
@@ -1549,9 +1481,7 @@ reunion... but it can't be helped."[p]
 first♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1672,9 +1602,7 @@ first♥"[p]
 escaping will be the least of our worries!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -1699,9 +1627,7 @@ escaping will be the least of our worries!!"[p]
 Homu... ra..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/diving1.ogg"  ]
@@ -1767,9 +1693,7 @@ Homu... ra..."[p]
 use magic is nothing more than a little girl!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [font  size="45"  color="0xffffff"  ]
@@ -1815,9 +1739,7 @@ use magic is nothing more than a little girl!"[p]
 slow that I went ahead and cleaned up everyone♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="ai_1"  time="250"  wait="true"  storage="chara/12/ai02_05_17.png"  width="375"  height="600"  left=""  top=""  reflect="true"  ]
 [tb_start_text mode=1 ]

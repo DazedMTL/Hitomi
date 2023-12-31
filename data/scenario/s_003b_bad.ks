@@ -77,9 +77,7 @@ really!"[p]
 "Heh~, what a good girl♥ A bit foul-mouthed though♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [tb_chara_shake  name="kotora_1"  direction="y"  count="1"  swing="20"  time="100"  ]
@@ -123,9 +121,7 @@ really!"[p]
 move on the first day!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kotora】
@@ -133,9 +129,7 @@ move on the first day!)[p]
 the shadows! And that "shadow"... The shadow is just like--...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=3 ]
@@ -144,9 +138,7 @@ the shadows! And that "shadow"... The shadow is just like--...)[p]
 firearms and swords law. Looks like someone needs a punishment♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_2_05.png"  ]
 [resetfont  ]
@@ -157,9 +149,7 @@ firearms and swords law. Looks like someone needs a punishment♥"[p]
 before? But that ends now!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kotora】
@@ -167,9 +157,7 @@ before? But that ends now!"[p]
 your involvement in the incident any longer! Just give up quietly!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_2_08.png"  ]
 [wait  time="1000"  ]
@@ -264,9 +252,7 @@ information♪"[p]
 is also... smelly... sweet...? What is this scent...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="80"  time="1000"  buf="0"  storage="se02/mizu01.ogg"  ]
 
@@ -314,18 +300,14 @@ is also... smelly... sweet...? What is this scent...)[p]
 of infiltration, in just half a day..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
 "Don't be scared♪ You'll understand soon enough, Tora-chan♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -392,9 +374,7 @@ allure along with the rise in body temperature and heartbeat.[p]
 all perky and seem to be enjoying it a lot♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu01.ogg"  ]
@@ -417,9 +397,7 @@ all perky and seem to be enjoying it a lot♥"[p]
 "Fwah♡!? ...Ah...eh...? My breasts...are wet...?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=3 ]
@@ -428,9 +406,7 @@ all perky and seem to be enjoying it a lot♥"[p]
 this together, shall we?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -467,9 +443,7 @@ experience to hold out like this, impressive." "Come on, Hitomi, don't[r]
 hold back, let's finish inside already-?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [tb_start_text mode=1 ]
@@ -497,9 +471,7 @@ hold back, let's finish inside already-?"[p]
 (Geez...the principal's here...) (And we were at the good part...)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_4.png"  ]
 [tb_start_text mode=3 ]
@@ -509,9 +481,7 @@ a risk of being detected. Finish up quickly."[p]
 
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_3.png"  ]
 [tb_start_text mode=3 ]
@@ -520,9 +490,7 @@ a risk of being detected. Finish up quickly."[p]
 (Stop it, stop it, we can't go against Rose-kun and the principal)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Students】
@@ -530,9 +498,7 @@ a risk of being detected. Finish up quickly."[p]
 hold back, just do it-!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 
@@ -546,9 +512,7 @@ hold back, just do it-!"[p]
 (...!...Tora-chan...this can't go on...I must resist--...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playbgm  volume="80"  time="1000"  loop="true"  storage="taste_xxx05.ogg"  ]
@@ -562,9 +526,7 @@ hold back, just do it-!"[p]
 "Mmm♥ Hah♥ Kiss♥ Ahn...Tora-chaaan♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
@@ -572,9 +534,7 @@ hold back, just do it-!"[p]
 "Mmph...hah♡ Fwaah...slurp♡ Nn...Hi...to...mi...♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -582,9 +542,7 @@ hold back, just do it-!"[p]
 endure, Tora-chan...hold on, me...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
@@ -593,9 +551,7 @@ endure, Tora-chan...hold on, me...!)[p]
 is...mm♥...so tasty♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="80"  time="1000"  buf="0"  storage="se02/eating1.ogg"  loop="true"  ]
 [tb_start_text mode=3 ]
@@ -604,18 +560,14 @@ is...mm♥...so tasty♥"[p]
 delicious...gulp...ah...oh my goodness...♥...that's enough..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Students】
 "Oh ho♪ That's the way!" "Grinning..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -645,9 +597,7 @@ Tora-chan and jump off the rooftop...)[p]
 "Gasp?!♥" "Eek??♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -665,9 +615,7 @@ Tora-chan and jump off the rooftop...)[p]
 "Ah-!? The principal!?" "You're not supposed to use powers outside--!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_start_text mode=3 ]
@@ -676,9 +624,7 @@ Tora-chan and jump off the rooftop...)[p]
 tentacle."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [bg  time="1000"  method="fadeIn"  storage="cg11/cg15_03.png"  ]
@@ -687,9 +633,7 @@ tentacle."[p]
 "Then let us do it, please-" "We were the ones who started with her?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -701,9 +645,7 @@ tentacle."[p]
 "Hahaha...unfortunately for you, I had my eye on Niino-kun first."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/eating2_2.ogg"  ]
 [tb_start_text mode=1 ]
@@ -717,9 +659,7 @@ tentacle."[p]
 through her panties♥ I want it too...I want it tooo...!)[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #
@@ -727,9 +667,7 @@ Her small body trembled violently within the embrace, and she let out[r]
 a scream of joy mixed with sweet moans.[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #
@@ -761,9 +699,7 @@ eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee[r]
 ee!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -772,9 +708,7 @@ hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh! The saw![r]
 The flesh saw! I love this so much~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [font  size="30"  color="0xffffff"  ]
@@ -785,9 +719,7 @@ grinding and gushing! I can't stop[r]
 cumming...ahhhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
@@ -796,18 +728,14 @@ cumming...ahhhh~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!"[p]
 so amazing♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kotora】
 "Puea♥ Pua♥ I'm cumming♥ I love it♥ I really love this♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Kotora】
@@ -815,9 +743,7 @@ so amazing♥"[p]
 cummingggg♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -859,9 +785,7 @@ cummingggg♥♥"[p]
 principal's office."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -873,9 +797,7 @@ principal's office."[p]
 "Eh!?" "That's...!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Boshan】
@@ -883,9 +805,7 @@ principal's office."[p]
 don't you? Cherish her as long as possible."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Boshan】
@@ -918,9 +838,7 @@ don't you? Cherish her as long as possible."[p]
 a day with the principal... such a waste"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Students】
@@ -928,9 +846,7 @@ a day with the principal... such a waste"[p]
 a while" "Which will come first, us getting bored or her breaking..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=3 ]
@@ -939,9 +855,7 @@ a while" "Which will come first, us getting bored or her breaking..."[p]
 all this frustration into you!" "Come on, get up, livestock teacher!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  ]
@@ -1000,9 +914,7 @@ all this frustration into you!" "Come on, get up, livestock teacher!"[p]
 "Nice one"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [resetfont  ]
@@ -1036,9 +948,7 @@ fucking in the secret classroom until now♪)" "(Her pussy doesn't even[r]
 have time to dry up, man♥)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -1051,9 +961,7 @@ Her gaze, unfocused and wavering, fell upon the lectern as she read[r]
 from the schedule that had been created a week ago...[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [tb_start_text mode=3 ]
@@ -1062,9 +970,7 @@ from the schedule that had been created a week ago...[p]
 mating photo shoot in the audio-visual room...♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -1072,9 +978,7 @@ mating photo shoot in the audio-visual room...♥"[p]
 period of PE is steamy sex in the storage room♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playbgm  volume="80"  time="1000"  loop="true"  storage="taste_xxx05.ogg"  fadein="true"  ]
 
@@ -1108,9 +1012,7 @@ torment until morning...♥"[p]
 day long♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=1 ]
@@ -1142,9 +1044,7 @@ with me!"[p]
 "Nhaaah...♪♥ Ah... finally a dick has come~♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -1160,9 +1060,7 @@ how much she eats...! She's seriously a top-notch female teacher![r]
 Uhihihihi♪!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="5"  storage="se02/dressing1.ogg"  ]
@@ -1180,9 +1078,7 @@ Uhihihihi♪!"[p]
 itself♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="5"  storage="se02/dressing1.ogg"  ]
 [bg  time="750"  method="crossfade"  storage="cg11/cg16_03.png"  ]
@@ -1198,9 +1094,7 @@ inside me♥"[p]
 juice from the first thing in the morning!!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="5"  storage="se02/dressing1.ogg"  ]
 
@@ -1212,9 +1106,7 @@ juice from the first thing in the morning!!"[p]
 my womb~♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="40"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -1284,9 +1176,7 @@ she's completely fallen and become accustomed to it, huh?" "It gets a[r]
 bit boring once it comes to this."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Student】
@@ -1300,9 +1190,7 @@ remarkable strength, so perhaps it's time to start preparing for the[r]
 warrior hunt♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -1311,9 +1199,7 @@ warrior hunt♪"[p]
 "Oh---!!! Finally!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=3 ]
@@ -1322,9 +1208,7 @@ warrior hunt♪"[p]
 After all, she's all that's left."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
@@ -1332,9 +1216,7 @@ After all, she's all that's left."[p]
 "Yeah!" "Got it!" "Roger that♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Student】
@@ -1352,9 +1234,7 @@ After all, she's all that's left."[p]
 "...Oh... hoo...♥ So... Sorry... Sorry, Tora-chan... Saeko...♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [stopbgm  time="2500"  fadeout="true"  ]

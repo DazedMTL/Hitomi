@@ -27,9 +27,7 @@
 very well, especially... Heheh. Taishi-kun has really transformed."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
@@ -56,9 +54,7 @@ recognized by everyone, and he's taken the lead in my place..."[p]
 smoothly...?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [resetfont  ]
@@ -97,9 +93,7 @@ attend."[p]
 forward to it, Rose-kun!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01.png"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
@@ -140,18 +134,14 @@ forward to it, Rose-kun!"[p]
 happy to see how well you've grown!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Boshan】
 "I'm truly grateful for being invited to the party♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01.png"  ]
@@ -163,9 +153,7 @@ happy to see how well you've grown!"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_hide  name="futoshi"  time="250"  wait="true"  pos_mode="false"  ]
@@ -220,9 +208,7 @@ happy to see how well you've grown!"[p]
 female slaves. Well, it's mostly my handiwork..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_08.png"  ]
 [font  size="30"  color="0xffffff"  ]
@@ -231,9 +217,7 @@ female slaves. Well, it's mostly my handiwork..."[p]
 "Tonight, please take your time and enjoy their progress♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_hide  name="futoshi"  time="250"  wait="true"  pos_mode="false"  ]
@@ -251,9 +235,7 @@ negligent!"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_5_2.png"  ]
@@ -312,9 +294,7 @@ negligent!"[p]
 brain is tingling♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
@@ -322,18 +302,14 @@ brain is tingling♥"[p]
 moment♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Hitomi】
 "Then without further ado♥ Let me serve you♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [resetfont  ]
@@ -350,9 +326,7 @@ moment♥"[p]
 tongue more than itself♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu01.ogg"  ]
 [tb_start_text mode=3 ]
@@ -361,9 +335,7 @@ tongue more than itself♥"[p]
 tongue can't stop... Chup♥ Nyaa♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu04.ogg"  ]
@@ -374,9 +346,7 @@ tongue can't stop... Chup♥ Nyaa♥"[p]
 under the ridge is mine♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/drinking_a_soup.ogg"  ]
 [resetfont  ]
@@ -406,9 +376,7 @@ crease and wrinkle, adoring and cherishing the dick...!"[p]
 What a delicious looking drop candy♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -433,9 +401,7 @@ eat all the dick-cheese♥ Unyaaan♥"[p]
 
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/drinking_a_soup.ogg"  ]
 [tb_start_text mode=3 ]
@@ -444,9 +410,7 @@ eat all the dick-cheese♥ Unyaaan♥"[p]
 Jyuchuuu♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/kiss2.ogg"  ]
 [tb_start_text mode=3 ]
@@ -455,9 +419,7 @@ Jyuchuuu♥"[p]
 meee♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/drinking_a_soup.ogg"  ]
 [tb_start_text mode=3 ]
@@ -466,9 +428,7 @@ meee♥♥"[p]
 But what about the back end...?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -509,9 +469,7 @@ But what about the back end...?"[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Boshan】
@@ -520,9 +478,7 @@ and devour the spirit to such a twisted extent! Just this alone tells[r]
 me that the ass holes have been exquisitely finished."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu04.ogg"  ]
@@ -545,9 +501,7 @@ me that the ass holes have been exquisitely finished."[p]
 coming...ah♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -564,9 +518,7 @@ coming...ah♥"[p]
 "Amuu♥ Nbuu♥ Nn~♥ Zuchuuu...! Chubu! Chubaa♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kiss2.ogg"  ]
 [resetfont  ]
@@ -590,9 +542,7 @@ All three of them probably don't remember a fragment of who they were[r]
 or why they came to this academy♪"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu04.ogg"  ]
@@ -635,9 +585,7 @@ or why they came to this academy♪"[p]
 slurp♥ My anal is so lonely I feel like I'm going to die♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -654,9 +602,7 @@ slurp♥ My anal is so lonely I feel like I'm going to die♥"[p]
 "Aghoooh!!?♥♥" "Fumiiiih!♪♥♥" "Off?! Fuhoooh♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu04.ogg"  ]
@@ -673,9 +619,7 @@ slurp♥ My anal is so lonely I feel like I'm going to die♥"[p]
 my ass...is making squelching sounds♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu05.ogg"  ]
 [tb_start_text mode=3 ]
@@ -683,9 +627,7 @@ my ass...is making squelching sounds♥"[p]
 "...I...I love this...♥ My anal and stomach are full, it's bliss★"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="5"  storage="se02/dressing1.ogg"  ]
@@ -699,9 +641,7 @@ my ass...is making squelching sounds♥"[p]
 "Pumyaaaah♥★" "Aoooon♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -718,9 +658,7 @@ my ass...is making squelching sounds♥"[p]
 "Nfah♥ How do you like it? The taste of us hole slave pets?♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/drinking_a_soup.ogg"  ]
 [resetfont  ]
@@ -730,9 +668,7 @@ my ass...is making squelching sounds♥"[p]
 to you excellent ladies♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Boshan】
@@ -747,9 +683,7 @@ risk♪"[p]
 "Ah, thank you very much♥" "We will continue to serve a lot♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=3 ]
 #【Boshan】
@@ -757,9 +691,7 @@ risk♪"[p]
 being such excellent hole slave pets♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [font  size="55"  color="0xffffff"  ]
@@ -785,9 +717,7 @@ being such excellent hole slave pets♥"[p]
 "Fuaaan!♥ My ass...♥ It's so deep~♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/eaten_by_a_monster2.ogg"  loop="false"  ]
 [tb_start_text mode=3 ]
@@ -796,9 +726,7 @@ being such excellent hole slave pets♥"[p]
 ass!♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dorodoro.ogg"  ]
 [tb_start_text mode=3 ]
@@ -807,9 +735,7 @@ ass!♥"[p]
 completely like a pussy♥ So more! More pussy~♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [font  size="55"  color="0xffffff"  ]
@@ -856,9 +782,7 @@ completely like a pussy♥ So more! More pussy~♥♥"[p]
 "Heeheehee～～～♥♥♥ Fumiiiiiih!!♥♥ Aooon～～～n♥♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 
@@ -877,9 +801,7 @@ up...dopudopu...with pleasure～♥" "Shi...happiness♥ Hole slave life is[r]
 happiness～！♥♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -910,9 +832,7 @@ happiness～！♥♥"[p]
 as they are. ...However--..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
@@ -930,9 +850,7 @@ as they are. ...However--..."[p]
 continue the party as you prepare for tomorrow."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_hide_message_window  ]
@@ -948,9 +866,7 @@ continue the party as you prepare for tomorrow."[p]
 hole slaves as well! I'm looking forward to it！！！"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_2.png"  ]
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_03.png"  ]

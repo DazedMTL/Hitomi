@@ -103,9 +103,7 @@ this..."[p]
 With this, Ai-chan might make a comeback~..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_03_2.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="1"  swing="20"  time="100"  ]
@@ -124,9 +122,7 @@ With this, Ai-chan might make a comeback~..."[p]
 "Fruit-packed Yubari melon sherbet, another serving please!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_06.png"  ]
@@ -136,9 +132,7 @@ With this, Ai-chan might make a comeback~..."[p]
 you order more~"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [font  size="30"  color="0xffffff"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_03_2.png"  ]
@@ -148,9 +142,7 @@ you order more~"[p]
 "I'm saying it because I can eat it! Just add it without talking!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [resetfont  ]
 [tb_start_text mode=1 ]
@@ -175,9 +167,7 @@ you order more~"[p]
 then..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14_2.png"  ]
 [chara_show  name="akitoshi"  time="250"  wait="true"  storage="chara/16/akitoshi_04.png"  width="344"  height="600"  reflect="true"  left="-109"  top="0"  ]
@@ -197,9 +187,7 @@ then..."[p]
 had before, please..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_03.png"  ]
@@ -210,9 +198,7 @@ you've gotten even more haggard in the short time I haven't seen[r]
 you..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kuzu】
@@ -258,9 +244,7 @@ they can eat as much as Teacher Hitomi, no, maybe even more than[r]
 her..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_19.png"  ]
 [tb_chara_shake  name="kotora_1"  direction="x"  count="2"  swing="20"  time="100"  ]
@@ -287,9 +271,7 @@ her..."[p]
 least 20 plates."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_05.png"  ]
 [tb_chara_shake  name="akitoshi"  direction="y"  count="1"  swing="20"  time="100"  ]
@@ -307,9 +289,7 @@ least 20 plates."[p]
 party..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kuzu】
@@ -350,9 +330,7 @@ something stirring in my heart with emotion... Urp..."[p]
 type to be under someone's thumb in the future."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
 [tb_start_text mode=1 ]
@@ -457,9 +435,7 @@ while..."[p]
 this..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_15.png"  ]
 [tb_chara_shake  name="ai_1"  direction="y"  count="1"  swing="20"  time="100"  ]
@@ -494,9 +470,7 @@ this..."[p]
 [_tb_end_text]
 
 [resetfont  ]
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber41.ogg"  fadein="true"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_12.png"  ]
@@ -506,9 +480,7 @@ this..."[p]
 feel..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_05.png"  ]
 [tb_start_text mode=3 ]
@@ -517,9 +489,7 @@ feel..."[p]
 to a meal as thanks, and Ai was so hungry her stomach was growling..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_12_2.png"  ]
 [tb_start_text mode=3 ]
@@ -527,9 +497,7 @@ to a meal as thanks, and Ai was so hungry her stomach was growling..."[p]
 "...Huh?! It was Rin who jumped at the meal first, wasn't it?!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_10.png"  ]
 [tb_start_text mode=1 ]
@@ -560,9 +528,7 @@ quarrel, okay?! What I do is none of your business!"[p]
 and that guy are...eh??)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -590,9 +556,7 @@ and that guy are...eh??)"[p]
 happened with Miyahiro or Murasaki...with anyone!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_14.png"  ]
 [tb_start_text mode=3 ]
@@ -601,9 +565,7 @@ happened with Miyahiro or Murasaki...with anyone!"[p]
 girls?! I'm jealous... no, poor Ai-chan! That's unforgivable...)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -621,9 +583,7 @@ girls?! I'm jealous... no, poor Ai-chan! That's unforgivable...)"[p]
 of wavering!)"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Kotora】
@@ -655,9 +615,7 @@ of wavering!)"[p]
 I want to talk calmly."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_14.png"  ]
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_15.png"  ]
@@ -675,9 +633,7 @@ I want to talk calmly."[p]
 "...Is it okay? I might disappear again soon..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_14.png"  ]
 [chara_move  name="akitoshi"  anim="false"  time="300"  effect="easeInExpo"  wait="true"  left="48"  top="0"  width="344"  height="600"  ]
@@ -688,9 +644,7 @@ I want to talk calmly."[p]
 takes! So...please come back to me..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_hide_message_window  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_11.png"  ]
@@ -742,9 +696,7 @@ takes! So...please come back to me..."[p]
 for the meal♥"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_show  name="akitoshi"  time="250"  wait="true"  storage="chara/16/akitoshi_08.png"  width="344"  height="600"  left="417"  top="0"  reflect="false"  ]
 [chara_show  name="ai_1"  time="250"  wait="true"  storage="chara/12/ai01_12.png"  width="375"  height="600"  left="545"  top="0"  reflect="false"  ]
@@ -776,9 +728,7 @@ for the meal♥"[p]
 you available after this?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_4.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_02.png"  ]
@@ -788,9 +738,7 @@ you available after this?"[p]
 help if we could finish before the last train..."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_2.png"  ]
@@ -808,9 +756,7 @@ treatment♪"[p]
 both of our meals!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin1_14.png"  width="375"  height="600"  left="298"  top="-2"  reflect="false"  ]
@@ -821,9 +767,7 @@ both of our meals!"[p]
 rightful reward, otherwise it's meaningless."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_13.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_04.png"  ]
@@ -834,9 +778,7 @@ based on give and take, one should manage on their own as much as they[r]
 can."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_14.png"  ]
 [tb_start_text mode=1 ]
@@ -853,9 +795,7 @@ also important to be kind regularly so that someone will support you[r]
 in your time of need."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_10.png"  ]
 [tb_start_text mode=3 ]
@@ -864,9 +804,7 @@ in your time of need."[p]
 was able to find you guys like this."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_11.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_01_2.png"  ]
@@ -878,9 +816,7 @@ was able to find you guys like this."[p]
 like that too."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
@@ -952,9 +888,7 @@ like that too."[p]
 Engel's coefficient was 30%, about 40,000 yen, right?"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [tb_start_text mode=1 ]
 #【Hitomi】
@@ -1030,9 +964,7 @@ for it yourself."[p]
 "No, I'll pay... I took out savings anticipating something like this."[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="kuzu_2"  time="250"  cross="false"  storage="chara/2/kuzu_1_09_2.png"  ]
 [chara_move  name="kotora_1"  anim="false"  time="250"  effect="default"  wait="true"  left="-149"  top="0"  width="363"  height="600"  ]
@@ -1043,9 +975,7 @@ for it yourself."[p]
 it, I'll cover it!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_02.png"  ]
 [tb_start_text mode=3 ]
@@ -1053,9 +983,7 @@ it, I'll cover it!"[p]
 "No, these girls are like family to me, so I'll pay!"[p]
 [_tb_end_text]
 
-[tb_start_tyrano_code]
-[p]
-[_tb_end_tyrano_code]
+
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [tb_hide_message_window  ]
