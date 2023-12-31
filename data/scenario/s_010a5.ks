@@ -185,7 +185,7 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_14.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_12.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【秋俊＆葛生】
 「あ゛――…」[p]
@@ -201,7 +201,7 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_14.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_03.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【秋俊】
 「あ！」[p]
@@ -269,7 +269,7 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_14.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_3.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【葛生】
 「ええ？！ そんな！ 何故だい！？」[p]
@@ -325,7 +325,7 @@
 [chara_hide_all  time="500"  wait="true"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子】
 （！？…これは……）[p]
@@ -373,7 +373,7 @@
 [chara_show  name="yuki"  time="750"  wait="true"  storage="chara/25/yuki_00.png"  width="500"  height="600"  left=""  top=""  reflect="false"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_02.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「！」[p]
@@ -407,7 +407,7 @@
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai02_05_14.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_05.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【秋俊】
 「監視！？ だ…誰に…誰が！？」[p]
@@ -426,7 +426,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【秋俊】
 「暗部…？」[p]
@@ -496,7 +496,7 @@
 [chara_show  name="ai_1"  time="250"  wait="false"  storage="chara/12/ai02_05_5.png"  width="375"  height="600"  reflect="true"  left="-91"  top="0"  ]
 [chara_show  name="kuzu_2"  time="250"  wait="true"  storage="chara/2/kuzu_1_08.png"  width="688"  height="600"  reflect="true"  left="54"  top="0"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「おう！ 安心しろや秋俊、アイちゃん！[r]
@@ -734,7 +734,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「もう！からかわないで！」[p]
@@ -916,7 +916,7 @@
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_24_2.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_04_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「望む所よ、相手にとって不足は無いわ！」[p]
@@ -976,7 +976,7 @@
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_10.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「あの男が災いを振り撒く存在だというのなら、世の為人の為、私達は立ち向かわなくてはいけないの！」[p]
@@ -1010,7 +1010,7 @@
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_23.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「はぁ…わざわざ自分から危険に顔突っ込んで来る人間なんて、秋俊だけで十分だってのに…」[p]
@@ -1032,7 +1032,7 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_3.png"  ]
 [tb_chara_shake  name="hitomi_1"  direction="y"  count="1"  swing="20"  time="200"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ワォ！ 心強ぉい！[r]
@@ -1123,7 +1123,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="38"  color="0xffffff"  ]
+[font  size="34"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「フライドファインディング」[p]
@@ -1175,7 +1175,7 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_16.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
 [tb_chara_shake  name="hitomi_1"  direction="y"  count="2"  swing="20"  time="200"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ダメよダメ駄目！大却下！！[r]
@@ -1279,7 +1279,7 @@
 戦いの邪魔なダケでしょ？！ [r]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 もぎ取ってあげるわよこんなモノぉ!!!」[p]
@@ -1342,7 +1342,7 @@
 「……お腹が空いたな…って」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【冴子】
 「そういう事なら食事に行きましょ、[r]
@@ -1381,7 +1381,7 @@
 [bg  time="1000"  method="crossfade"  storage="cg11/cg40_03.png"  ]
 [stopbgm  time="2000"  fadeout="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 （綺沙、今度の手紙には騒がしい連中の愉快な話をいっぱい書いて送るからね♪）[p]

@@ -67,7 +67,7 @@
 [wait  time="1000"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_9.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「創くん！ 話があるの！ 出て来て頂戴！」[p]
@@ -119,7 +119,7 @@
 [chara_hide_all  time="0"  wait="true"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_3_02_2.png"  width="406"  height="600"  left="200"  top=""  reflect="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ッ？！」[p]
@@ -145,7 +145,7 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  ]
 [bg  time="500"  method="crossfade"  storage="haikei/school06_3.jpg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【ゆらぎ生徒Ｂ】
 『大遅刻ダヨ先生ェ～？！ 』[p]
@@ -154,7 +154,7 @@
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  ]
 [bg  time="500"  method="crossfade"  storage="haikei/school06_4.jpg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【ゆらぎ生徒Ｃ】
 『センセェイ！ ひと齧りィ！[r]
@@ -171,7 +171,7 @@
 [wait  time="1000"  ]
 [chara_show  name="hitomi_1"  time="500"  wait="true"  storage="chara/3/hitomi_3_02_1.png"  width="406"  height="600"  left="320"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 （…ぐへぇっ　いきなり３体!?[r]
@@ -222,7 +222,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_1.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【ゆらぎ生徒Ｂ】
 『戦士を連れ込んでおいてよく言うよ！ 』[p]
@@ -246,7 +246,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_4.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「…ッ？！」[p]
@@ -258,7 +258,7 @@
 [bg  time="500"  method="crossfade"  storage="haikei/school06_5.jpg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_2.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （屋上に人影！ あれはまさか――…っ）[p]
@@ -284,7 +284,7 @@
 [resetfont  ]
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber01.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_6.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「チィッ！ おりゃあ――っ！」[p]
@@ -307,7 +307,7 @@
 [chara_hide  name="hitomi_1"  time="0"  wait="false"  pos_mode="false"  ]
 [chara_show  name="hitomi_2"  time="250"  wait="true"  storage="chara/10/hitomi_5_02_3.png"  width="500"  height="600"  left="288"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「うりゃりゃりゃりゃあ――ッ!!」[p]
@@ -335,7 +335,7 @@
 （聞き分けの無い生徒になんか構ってられない！[r]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 目指すは屋上！）[p]
@@ -518,7 +518,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【創】
 「コレが最後の忠告です、[r]
@@ -553,7 +553,7 @@
 [stopbgm  time="1500"  fadeout="true"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_08_2.png"  ]
 [tb_chara_shake  name="hitomi_1"  direction="x"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ッ！？」[p]
@@ -586,7 +586,7 @@
 
 [stopbgm  time="1000"  fadeout="true"  ]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime3_03.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「…出て来て良いですよ、冴子先生」[p]
@@ -603,7 +603,7 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano37.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_05_4.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「……さ…冴子っ！」[p]
@@ -703,7 +703,7 @@
 「冴子先生は僕の指示に従う操り人形になっています、[r]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 元に戻すには僕を殺すしかありません」[p]
@@ -780,7 +780,7 @@
 
 [chara_hide  name="hajime"  time="250"  wait="true"  pos_mode="false"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_6.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「待って！ 創くん…っ」[p]
@@ -864,7 +864,7 @@
 [chara_hide  name="hitomi_2"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_13.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子】
 「…クッ?!…私を踏み台に…!?」[p]
@@ -898,7 +898,7 @@
 [chara_show  name="hajime"  time="250"  wait="true"  storage="chara/9/hajime3_05_2.png"  width="375"  height="600"  reflect="true"  left="230"  top="0"  ]
 [tb_chara_shake  name="hajime"  direction="y"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「うわっ?!」[p]
@@ -913,7 +913,7 @@
 [chara_move  name="hitomi_1"  anim="false"  time="50"  effect="default"  wait="true"  left="430"  top="0"  width="406"  height="600"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_9.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_03_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「逃げないで創くん！[r]
@@ -947,7 +947,7 @@
 他者を踏みにじる事を何とも思わない救い様の無い悪党も居る、[r]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 だけどキミはそうじゃ無い筈よ？」[p]
@@ -987,7 +987,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_9.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「創くんは未だ引き返せる！[r]
@@ -1026,7 +1026,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_03_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「僕はやってない！」[p]
@@ -1116,7 +1116,7 @@
 「決まってるでしょ？ 未だ出逢って１日しか経ってないけど君は生徒で、私は君達にいろんな事を教える先生だから…よ♥」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ドーンとぶつかって来なさい♥」[p]
@@ -1132,7 +1132,7 @@
 [_tb_end_text]
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_03.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子】
 「…信じていいわよ」[p]
@@ -1152,7 +1152,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_10.png"  ]
 [tb_start_text mode=3 ]
 #【瞳】
@@ -1226,7 +1226,7 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/munyu1.ogg"  ]
 [chara_move  name="hitomi_1"  anim="false"  time="50"  effect="default"  wait="true"  left="326"  top="0"  width="406"  height="600"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ちょっと冴子！[r]
@@ -1274,7 +1274,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/tyariiin.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_14.png"  ]
 [tb_chara_shake  name="hitomi_1"  direction="y"  count="1"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「月並みな台詞だけど、[r]
@@ -1302,7 +1302,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_05_5.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「うふふ♥ 当ててんのよ♥[r]
@@ -1336,7 +1336,7 @@
 [_tb_end_text]
 
 [stopbgm  time="1500"  fadeout="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【？？？】
 「……えぇ、まったく。[r]
@@ -1374,7 +1374,7 @@
 
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_2_13_3.png"  width="406"  height="600"  left="343"  top="0"  reflect="false"  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_6.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「教師と生徒の肉体関係…大いに結構！」[p]
@@ -1425,7 +1425,7 @@
 [_tb_end_text]
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_06_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【博山】
 「そう！ 若人による繁ッ殖ッ！[r]
@@ -1437,7 +1437,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「それが己の産まれた土地を守る事に繋がる！ 国家を守護する力となる！」[p]
@@ -1445,7 +1445,7 @@
 
 [resetfont  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_02_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「我が産土学園は土地を国家を守護する神童すなわち産土神<うぶすながみ>を育み」[p]
@@ -1513,7 +1513,7 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_5_03.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子】
 「覚悟しろ博山岩男！ 無残に殺された仲間や教職者達の恨み、今こそ晴らしてやる！」[p]
@@ -1575,7 +1575,7 @@
 後は悪党をブッ飛ばして帰るだけ！[r]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 こうなったら私達は強いんだから♪」[p]
@@ -1641,7 +1641,7 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_2.png"  ]
 [tb_chara_shake  name="hitomi_1"  direction="y"  count="1"  swing="20"  time="200"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「冴子のええ格好しぃ！」[p]
@@ -1684,7 +1684,7 @@
 [_tb_end_text]
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_06_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「しかし！ 例え魔法戦士の協力を得ようとも私の敵では――…」[p]
@@ -1729,7 +1729,7 @@
 [playse  volume="100"  time="1000"  buf="5"  storage="se02/swing2.ogg"  ]
 [chara_show  name="saeko"  time="50"  wait="true"  storage="chara/11/saeko_5_04.png"  width="438"  height="600"  left="468"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=4 ]
 #【冴子】
 「フッ！！」
@@ -1760,7 +1760,7 @@
 [chara_hide  name="sonota"  time="50"  wait="true"  pos_mode="false"  ]
 [chara_mod  name="saeko"  time="10"  cross="false"  storage="chara/11/saeko_5_03.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=4 ]
 #【冴子】
 「瞳！」
@@ -1777,7 +1777,7 @@
 [playse  volume="100"  time="1000"  buf="5"  storage="basa03.ogg"  ]
 [chara_show  name="hitomi_1"  time="50"  wait="true"  storage="chara/3/hitomi_3_02_6.png"  width="406"  height="600"  left="-99"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=4 ]
 #【瞳】
 「せいッ！」
@@ -1799,7 +1799,7 @@
 [chara_show  name="hitomi_2"  time="50"  wait="true"  storage="chara/10/hitomi_5_02_3.png"  width="500"  height="600"  left="-168"  top="0"  reflect="false"  ]
 [tb_chara_shake  name="hitomi_2"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=4 ]
 #【瞳】
 「とぅりゃああ―――ッ！！」
@@ -1924,7 +1924,7 @@
 [wait  time="1500"  ]
 [chara_mod  name="gaku"  time="250"  cross="false"  storage="chara/5/gaku_2_02.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「やってくれるものですなぁ…！」[p]
@@ -2056,7 +2056,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/swing1.ogg"  ]
 [chara_show  name="hitomi_2"  time="250"  wait="true"  storage="chara/10/hitomi_5_02_3.png"  width="500"  height="600"  left="-137"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「だらァッ！」[p]
@@ -2080,7 +2080,7 @@
 [chara_hide  name="hitomi_2"  time="50"  wait="true"  pos_mode="false"  ]
 [chara_show  name="saeko"  time="250"  wait="true"  storage="chara/11/saeko_5_05.png"  width="438"  height="600"  left="389"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子】
 「そらそらどうしたハゲ頭ぁっ！」[p]
@@ -2104,7 +2104,7 @@
 [chara_show  name="gaku"  time="50"  wait="true"  storage="chara/5/gaku_2_04.png"  width="500"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_chara_shake  name="gaku"  direction="x"  count="5"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「オノレ…チョコマカトォオ……ッ」[p]
@@ -2165,7 +2165,7 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_9.png"  ]
 [chara_move  name="gaku"  anim="false"  time="50"  effect="default"  wait="true"  left="-160"  top="0"  width="500"  height="600"  ]
 [tb_chara_shake  name="gaku"  direction="x"  count="5"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「おのれ未だ言うか…ッ」[p]
@@ -2267,7 +2267,7 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_05_4.png"  ]
 [tb_chara_shake  name="hitomi_1"  direction="y"  count="1"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「てへペロ☆」[p]
@@ -2278,7 +2278,7 @@
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_8.png"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_24.png"  ]
 [tb_chara_shake  name="saeko"  direction="y"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子】
 「化け物の巣窟に手ぶらで突入して来る奴があるか！馬鹿阿呆間抜けぇッ!!」[p]
@@ -2376,7 +2376,7 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_03.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_05_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「だけどその願いが母さんを殺した！」[p]
@@ -2385,7 +2385,7 @@
 [resetfont  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_16_2.png"  ]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime3_03_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「みんな気味悪がって僕を突き放した…人殺し親殺しと影で罵られながら施設を転々とさせられた…ッ」[p]
@@ -2443,7 +2443,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「君はずっと求めていた！ 母を、友を、己の存在を受け入れてくれる場所を！」[p]
@@ -2485,7 +2485,7 @@
 「その憎しみ！ その悲しみ！ 幸せへの渇望！ 生への執着こそが絶大なチカラを生むからです！」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「君が中核と成れば今度こそ古き狂った世界は薙ぎ払える！」[p]
@@ -2521,7 +2521,7 @@
 [chara_move  name="hitomi_1"  anim="false"  time="50"  effect="default"  wait="true"  left="250"  top="0"  width="406"  height="600"  ]
 [chara_mod  name="hajime"  time="250"  cross="false"  storage="chara/9/hajime_1_04_12.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「辛い目に遭った子達ばかり集めて！[r]
@@ -2606,7 +2606,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_2_02.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「だからこそ今こうして報われぬ子等を導いているのではありませんか！」[p]
@@ -2664,7 +2664,7 @@
 愚作を打ち出しては国民に要らぬ負担を掛ける憎き政府の狗！[r]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 特命教師だからだ！」[p]

@@ -411,7 +411,7 @@
 「その腐敗を断ち切りこの国を支え導く者が必要であると言えます…それは…！」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「それは…！？」[p]
@@ -432,7 +432,7 @@
 [delay  speed="10"  ]
 [tb_show_message_window  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「貴方です、学園長！」[p]
@@ -473,7 +473,7 @@
 [tb_show_message_window  ]
 [delay  speed="10"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_05_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「この学園の生徒達です！」[p]
@@ -533,7 +533,7 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano37.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ば…博山学園長！？」[r]
@@ -705,7 +705,7 @@
 [bg  time="250"  method="crossfade"  storage="haikei/roka01.jpg"  ]
 [chara_show  name="gaku"  time="0"  wait="true"  storage="chara/5/gaku_1_01_8.png"  width="500"  height="600"  left="-50"  ]
 [chara_show  name="hitomi_1"  time="0"  wait="true"  storage="chara/3/hitomi_1_03.png"  width="406"  height="600"  left="400"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【博山】
 『そして瞳先生…貴女こそ[r]
@@ -782,7 +782,7 @@
 [_tb_end_text]
 
 [chara_hide_all  time="500"  wait="true"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （なーんてね♡）[p]
@@ -875,7 +875,7 @@
 （まぁ、このクラスには何故か女生徒が１人も居ないけど…）[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_6.png"  ]
 [tb_start_text mode=3 ]
 #【瞳】
@@ -1220,7 +1220,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_04.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （…任務-しごと-の時間ね…）[p]
@@ -1385,7 +1385,7 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_1.png"  ]
 [stopbgm  time="3000"  fadeout="true"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 （……と、報告書にも書いてあったし[r]
@@ -1429,7 +1429,7 @@
 
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_10_2.png"  width="406"  height="600"  left="190"  top="0"  reflect="false"  ]
 [playse  volume="90"  time="1000"  buf="0"  storage="se02/guu.ogg"  ]
-[font  size="38"  color="0xffffff"  ]
+[font  size="34"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 （……私には足りない…[r]
@@ -1492,7 +1492,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 （…はっ、そうだ！[r]
@@ -1551,7 +1551,7 @@
 [delay  speed="10"  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_11_4.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 （……ふっ…私は欲望に素直な女…[r]
@@ -1660,7 +1660,7 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09.png"  ]
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_02.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 「あは…♪　う、うんっ！」[p]
@@ -1772,7 +1772,7 @@
 [bg  time="250"  method="crossfade"  storage="haikei/kokuban.jpg"  ]
 [chara_show  name="hitomi_1"  time="50"  wait="true"  storage="chara/3/hitomi_1_08.png"  width="406"  height="600"  left="180"  top="0"  reflect="false"  ]
 [chara_show  name="sonota"  time="0"  wait="true"  storage="chara/6/podium.png"  width="800"  height="600"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ちょ、ちょっと?! 死んで…って、[r]
@@ -1789,7 +1789,7 @@
 [bg  time="500"  method="slideInLeft"  storage="haikei/room01.jpg"  cross="false"  ]
 [chara_show  name="maikai"  time="50"  wait="true"  storage="chara/7/maikai_1_08.png"  width="313"  height="600"  left="300"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 「…みんな、悪ふざけが過ぎますよ？」[p]
@@ -1853,7 +1853,7 @@
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="250"  cross="false"  storage="chara/7/maikai_1_09.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【玫瑰】
 「…僕の言うことが聞けないのかい？[r]
@@ -1956,7 +1956,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 「先生が本当に知りたい事も…全部ね」[p]
@@ -1995,7 +1995,7 @@
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_3.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「…ッ！　玫瑰君、あなた…！」[p]
@@ -2074,7 +2074,7 @@
 
 [chara_show  name="kotora_1"  time="250"  wait="false"  storage="chara/4/kotora_1_07_2.png"  width="363"  height="600"  left="-55"  top="0"  reflect="false"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （きゃあ！ トラちゃんまで!?）[p]

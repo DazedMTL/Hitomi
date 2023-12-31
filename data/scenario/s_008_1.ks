@@ -7,7 +7,7 @@
 [delay  speed="10"  ]
 [bg  time="500"  method="crossfade"  storage="haikei/BG11b_80.jpg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #
 ――翌、PM17：45/産土学園前500ｍ地点[p]
@@ -159,7 +159,7 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_06.png"  ]
 [stopse  time="1500"  buf="1"  fadeout="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「ひとみッ！？」[p]
@@ -178,7 +178,7 @@
 [chara_show  name="kuzu_2"  time="250"  wait="false"  storage="chara/2/kuzu_1_10.png"  width="688"  height="600"  reflect="true"  left="-207"  top="0"  ]
 [chara_show  name="akitoshi"  time="250"  wait="true"  storage="chara/16/akitoshi_13.png"  width="344"  height="600"  left="380"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「クソッ！ 何てこった！[r]
@@ -281,7 +281,7 @@
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
 [stopbgm  time="500"  fadeout="true"  ]
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_16.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「 翼竜装纏<よくりゅうそうてん>！」[p]
@@ -305,7 +305,7 @@
 [chara_show  name="kotora_1"  time="250"  wait="false"  storage="chara/4/kotora_1_02_2.png"  width="363"  height="600"  left="-129"  top="0"  reflect="true"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_08_2.png"  width="406"  height="600"  left="490"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「・・・・・・な・・・??!」[p]
@@ -333,7 +333,7 @@
 
 [chara_hide  name="hitomi_1"  time="250"  wait="false"  pos_mode="false"  ]
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin1_05.png"  width="375"  height="600"  left="480"  top="0"  reflect="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「瞬作！ 気が散るからコッチ見るな！」[p]
@@ -350,7 +350,7 @@
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_03_2.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「うっさい！ [r]
@@ -378,7 +378,7 @@
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_24.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「 翼竜装纏<よくりゅうそうてん>！」[p]
@@ -521,7 +521,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
 [chara_show  name="rin_1"  time="50"  wait="true"  storage="chara/13/rin2_08.png"  width="375"  height="600"  left="516"  top="-2"  reflect="false"  ]
 [chara_move  name="ai_1"  anim="false"  time="50"  effect="default"  wait="true"  left="333"  top="0"  width="375"  height="600"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「ナニ恥ずかしがってンの!?[r]
@@ -555,7 +555,7 @@
 [chara_show  name="kotora_1"  time="250"  wait="false"  storage="chara/4/kotora_1_01.png"  width="363"  height="600"  reflect="true"  left="116"  top="0"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_05.png"  width="406"  height="600"  reflect="true"  left="-56"  top="0"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【３人】
 『・・・じぃ～・・・・・・』[p]
@@ -589,7 +589,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
 [chara_show  name="hitomi_1"  time="50"  wait="true"  storage="chara/3/hitomi_1_14_6.png"  width="406"  height="600"  reflect="true"  left="-21"  top="0"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_09.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ええ！」[p]
@@ -600,7 +600,7 @@
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_03.png"  ]
 [chara_mod  name="rin_1"  time="250"  cross="false"  storage="chara/13/rin2_07_12.png"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「ちょっと、瞳？！」[p]
@@ -675,7 +675,7 @@
 「もしかして私の実力を見誤ってない？ 昨日はワケも解らず不覚を取っちゃったけど、今日の私は本気も本気よ」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「変身だって出来ちゃうんだから！」[p]
@@ -752,7 +752,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_16_07.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「瞳、変ぇ～ん身…っ！」[p]
@@ -837,7 +837,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「そこに私の拳法が加われば鬼に金棒！[r]
@@ -850,7 +850,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="true"  storage="chara/3/hitomi_2_05_5.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「こぉれこそが私の真の姿！[r]
@@ -881,7 +881,7 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_10.png"  ]
 [tb_chara_shake  name="hitomi_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [stopse  time="1000"  buf="0"  fadeout="true"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ひどっ」[p]
@@ -989,7 +989,7 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano40.ogg"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「司令との約束を忘れたの!?」[p]
@@ -1082,7 +1082,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「戦いじゃあの子の心は救えない！[r]
@@ -1128,7 +1128,7 @@
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_1_02.png"  ]
 [playbgm  volume="80"  time="1000"  loop="false"  storage="bgm_maoudamashii_cyber12.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎】
 「……行って、瞳。[r]
@@ -1191,7 +1191,7 @@
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_09.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_03.png"  ]
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_1_20.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎】
 「忘れないで瞳… “ 全員で無事に帰る ” [r]
@@ -1209,7 +1209,7 @@
 [wait  time="750"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_14.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ありがとう２人とも♪[r]
@@ -1294,7 +1294,7 @@
 「あン？ 強行だぁ？ 現場の判断が優先だろ！ 誰だそんな瞳先生みたいな無茶言ってる奴は!?」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【通信機からの声】
 『………儂<ワシ>だ…』[p]
@@ -1303,7 +1303,7 @@
 [resetfont  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【葛生】
 「…へッ?! ハ…?! …そ、その声は…！」[p]
@@ -1351,7 +1351,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （何とかして創君を探さなくちゃ！）[p]

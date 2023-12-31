@@ -25,7 +25,7 @@
 [bg  time="1000"  method="crossfade"  storage="cg11/cg40_03.png"  ]
 [stopbgm  time="2000"  fadeout="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 （綺沙、今度の手紙には騒がしい連中の愉快な話をいっぱい書いて送るからね♪）[p]

@@ -35,7 +35,7 @@
 [_tb_end_text]
 
 [chara_show  name="kotora_1"  time="250"  wait="false"  storage="chara/4/kotora_1_10.png"  width="363"  height="600"  left="285"  top="0"  reflect="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「大丈夫?! 瞳、私が分かる?!」[p]
@@ -74,7 +74,7 @@
 [tb_chara_shake  name="kotora_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [chara_mod  name="kotora_1"  time="0"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎】
 「うっ!? ちょっ…バカ！[r]
@@ -89,7 +89,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/munyu1.ogg"  ]
 [chara_mod  name="kotora_1"  time="0"  cross="false"  storage="chara/4/kotora_1_15.png"  ]
 [tb_chara_shake  name="kotora_1"  direction="x"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎】
 「ひゃう?!」[r]
@@ -144,7 +144,7 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber41.ogg"  fadein="true"  ]
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_2_06.png"  width="363"  height="600"  left="238"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「ハァッ ハァッ …目ぇ醒めた!?」[p]
@@ -171,7 +171,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ちょちょちょ！ ストップ！[r]
@@ -246,7 +246,7 @@
 [chara_hide  name="kuzu_2"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="kuzu_2"  time="0"  wait="true"  storage="chara/2/kuzu_1_08_2.png"  width="688"  height="600"  reflect="true"  left="150"  top="0"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_13_4.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎・葛生】
 「・・・・・・ハァ・・・」[p]
@@ -331,7 +331,7 @@
 『瞳先生、僕からの最初で最後のお願いです』[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime_1_04_15.png"  ]
 [tb_start_text mode=3 ]
 #【創】
@@ -359,7 +359,7 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_3.png"  ]
 [bg  time="1500"  method="crossfade"  storage="sozai_07.jpg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 『僕は先生を殺さなくちゃいけなくなる』[p]
@@ -424,7 +424,7 @@
 [_tb_end_text]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_05.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 （このまま任務を継続したら…[r]
@@ -455,7 +455,7 @@
 [stopse  time="1000"  buf="0"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_15_04.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「…聞いて２人とも…！」[p]
@@ -476,7 +476,7 @@
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_06_2.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎・葛生】
 『・・・・・・』[p]
@@ -492,7 +492,7 @@
 
 [chara_mod  name="kotora_1"  time="0"  cross="false"  storage="chara/4/kotora_1_13_4.png"  ]
 [chara_mod  name="kuzu_2"  time="0"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎・葛生】
 『ハァ…』[p]
@@ -521,7 +521,7 @@
 
 [chara_hide  name="kuzu_2"  time="250"  wait="false"  pos_mode="false"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_6.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「きゃっ☆ 瞬ちゃん話が分かるぅ♪[r]
@@ -648,7 +648,7 @@
 「それはそうと……」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【？？】
 『…ねぇ…どこぉ？ フトシくぅん！？[r]
@@ -677,7 +677,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_06.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 「……あのクソ豚…まさか…っ」[p]
@@ -775,7 +775,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ワカル？ クラス全員が武装した福来！[r]
@@ -931,7 +931,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「覚悟の決め時ね」[p]
@@ -940,7 +940,7 @@
 [resetfont  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_01.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「だから一体どうしろってンだよ？[r]
@@ -969,7 +969,7 @@
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_03.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【葛生】
 「あだだだだっ?! ち、ちぎれるぅうッ！」[p]
@@ -1012,7 +1012,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_3.png"  ]
 [tb_start_text mode=1 ]
 #【瞳】
@@ -1067,7 +1067,7 @@
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_01.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_04_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「…それでも、現状それがベストなのよ」[p]
@@ -1125,7 +1125,7 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「だったら私も行く！」[p]
@@ -1156,7 +1156,7 @@
 [_tb_end_text]
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_09_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【葛生】
 「２人より、３人だろうが」[p]
@@ -1196,7 +1196,7 @@
 [_tb_end_text]
 
 [chara_hide_all  time="500"  wait="true"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳・葛生・小虎】
 『・・・ご迷惑おかけしました・・・。』[p]
@@ -1236,7 +1236,7 @@
 [chara_show  name="hitomi_1"  time="250"  wait="false"  storage="chara/3/hitomi_1_03.png"  width="406"  height="600"  left="416"  top="0"  reflect="false"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
 [chara_show  name="kuzu_2"  time="250"  wait="false"  storage="chara/2/kuzu_1_07_2.png"  width="688"  height="600"  left=""  top=""  reflect="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「いや、何でもう散らかってンだよ？！[r]
@@ -1302,7 +1302,7 @@
 [_tb_end_tyrano_code]
 
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「くあぁメンドクセッ！[r]
@@ -1319,7 +1319,7 @@
 「つか、昨今の世の中がもう面倒くせぇ！」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_07_2.png"  ]
 [tb_start_text mode=3 ]
 #【葛生】
@@ -1383,7 +1383,7 @@
 「…疲れちゃってるのね…可哀想に……っ」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎】
 （…不満が爆発したのは完全に[r]
@@ -1434,7 +1434,7 @@
 [_tb_end_text]
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_04.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「――ハッ？！[r]
@@ -1495,7 +1495,7 @@
 
 [chara_hide  name="kotora_1"  time="250"  wait="false"  pos_mode="false"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_6.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「わぉ！ ヤッタァ♡[r]
@@ -1535,7 +1535,7 @@
 「先生…『心麗しければ見目また麗し』って言葉知ってるか？」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ムカッ！ どういう意味よぉ！？」[p]
@@ -1605,7 +1605,7 @@
 [resetfont  ]
 [stopse  time="1000"  buf="0"  fadeout="true"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【葛生】
 「…な、何だよいきなり!?」[p]
@@ -1630,7 +1630,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/running1.ogg"  loop="true"  ]
 [quake  time="100"  count="2"  hmax="10"  wait="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 （ ―――居る…！[r]
@@ -1720,7 +1720,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【？？？】
 「…ハジメだってぇ？[r]
@@ -1734,7 +1734,7 @@
 
 [playbgm  volume="90"  time="1000"  loop="true"  storage="taste_xxx05.ogg"  ]
 [chara_show  name="futoshi"  time="500"  wait="false"  storage="chara/8/futoshi_1_08.png"  width="375"  height="600"  reflect="false"  left=""  top=""  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？？】
 「ボクだよ瞳せんせぇ♥」[p]
@@ -1772,7 +1772,7 @@
 [_tb_end_text]
 
 [chara_mod  name="futoshi"  time="250"  cross="false"  storage="chara/8/futoshi_1_02.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 「いやぁ～先生が無事で良かったよ！」[p]
@@ -1825,7 +1825,7 @@
 「ホント、まさか手を付けずに逃がすなんてさぁ♪[r]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 ブッフフフ♪ グフフフフフフぅ♥」[p]

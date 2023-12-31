@@ -71,7 +71,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_06.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「よく頑張ったわね！ 助かったわ！」[p]
@@ -199,7 +199,7 @@
 [chara_hide  name="sonota"  time="150"  wait="true"  pos_mode="false"  ]
 [tb_chara_shake  name="gaku"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「ブホぉッ！？」[p]
@@ -382,7 +382,7 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber19.ogg"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_18.png"  ]
 [tb_chara_shake  name="ai_1"  direction="y"  count="1"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「ッ？！」[p]
@@ -424,7 +424,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「～ッ」[p]
@@ -457,7 +457,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_18.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【アイ（秋俊）】
 「『18年前の事故』とは何だ！？[r]
@@ -567,7 +567,7 @@
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_08.png"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_24.png"  ]
 [tb_chara_shake  name="saeko"  direction="y"  count="1"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「アイちゃん！？」[p]
@@ -602,7 +602,7 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_19.png"  ]
 [tb_chara_shake  name="ai_1"  direction="y"  count="1"  swing="20"  time="150"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「…死ね！」[p]
@@ -690,7 +690,7 @@
 [_tb_end_tyrano_code]
 
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin2_07_2.png"  width="375"  height="600"  left="435"  top="0"  reflect="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「無理」[p]
@@ -738,7 +738,7 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="1"  swing="20"  time="100"  ]
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber41.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「って言うか、アンタこの件が済んだら[r]
@@ -775,7 +775,7 @@
 [chara_show  name="kotora_1"  time="250"  wait="false"  storage="chara/4/kotora_1_02_3.png"  width="363"  height="600"  left="508"  top="79"  reflect="false"  ]
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin2_08_3.png"  width="375"  height="600"  reflect="true"  left="-74"  top="65"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「アンタ等も！[r]
@@ -875,7 +875,7 @@
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi5_07.png"  ]
 [tb_chara_shake  name="hajime_2"  direction="y"  count="1"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「えっ！？」[p]
@@ -975,7 +975,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_25.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子】
 （…そうなると先を越された感が…）[p]
@@ -1003,7 +1003,7 @@
 [chara_mod  name="hajime_2"  time="750"  cross="false"  storage="chara/22/hajime2_07.png"  ]
 [tb_chara_shake  name="hajime_2"  direction="x"  count="2"  swing="20"  time="300"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「あぁぁ…うれしいです瞳先生…！」[p]
@@ -1047,7 +1047,7 @@
 [chara_show  name="rin_1"  time="250"  wait="false"  storage="chara/13/rin2_12.png"  width="375"  height="600"  reflect="true"  left="403"  top="0"  ]
 [chara_show  name="ai_1"  time="250"  wait="true"  storage="chara/12/ai02_05_18.png"  width="375"  height="600"  left="193"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「そんな…？！」[p]
@@ -1157,7 +1157,7 @@
 「…マイ…かぃ…皆を戦わせて…自分だけ隠れていたのか…っ」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「ゆ…ゆるせない……！」[p]
@@ -1175,7 +1175,7 @@
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/slash01.ogg"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「…ア゛…ッ……ッ」[p]
@@ -1277,7 +1277,7 @@
 [_tb_end_text]
 
 [resetfont  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【玫瑰】
 「やっとこの時が来た！[r]
@@ -1317,7 +1317,7 @@
 [chara_hide  name="hitomi_3"  time="250"  wait="true"  pos_mode="false"  ]
 [chara_show  name="rin_1"  time="50"  wait="true"  storage="chara/13/rin2_12.png"  width="375"  height="600"  reflect="true"  left=""  top=""  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「アイツがさっき言ってた…!?」[p]
@@ -1354,7 +1354,7 @@
 [chara_show  name="hitomi_3"  time="250"  wait="true"  storage="chara/19/hitomi4_03_5.png"  width="800"  height="600"  ]
 [tb_chara_shake  name="hitomi_3"  direction="x"  count="1"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ッ?!…お…女の子…!?」[p]
@@ -1456,7 +1456,7 @@
 [_tb_end_text]
 
 [chara_show  name="ai_1"  time="250"  wait="true"  storage="chara/12/ai02_05_18.png"  width="375"  height="600"  reflect="true"  left=""  top=""  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ（秋俊）】
 「大丈夫かリン!? しっかりしろ！」[p]
@@ -1582,7 +1582,7 @@
 [chara_mod  name="maikai"  time="750"  cross="false"  storage="chara/7/maikai_4_01.png"  ]
 [chara_mod  name="maikai"  time="250"  cross="false"  storage="chara/7/maikai_4_02.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【玫瑰】
 「さぁ！『扉』を開くよ！？[r]
@@ -1599,7 +1599,7 @@
 [bg  time="250"  method="crossfade"  storage="haikei/school14_02.jpg"  ]
 [chara_show  name="ai_2"  time="250"  wait="false"  storage="chara/17/ai03_01.png"  width="560"  height="600"  left="-86"  top="0"  reflect="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「させない…ッ」[p]
@@ -1618,7 +1618,7 @@
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_18.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「リン！援護を――…」[p]
@@ -1638,7 +1638,7 @@
 [chara_show  name="kotora_1"  time="250"  wait="false"  storage="chara/4/kotora_1_18.png"  width="363"  height="600"  reflect="true"  left="414"  top="130"  ]
 [tb_chara_shake  name="kotora_1"  direction="y"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「起きて瞳！ 返事してよっ！！」[p]
@@ -1756,7 +1756,7 @@
 [tb_hide_message_window  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg26_01.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 「キャハハハハハハハハハッ♪！」[p]
@@ -1913,7 +1913,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_05.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【秋俊】
 （って、まさかあの女の子は[r]
@@ -2035,7 +2035,7 @@
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_19.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 （ヤツは、シンは生きていたんだ…！）[p]
@@ -2147,7 +2147,7 @@
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_14.png"  ]
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_13.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【秋俊】
 （な、なんだって？！[r]
@@ -2253,7 +2253,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_13.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【秋俊】
 （メグ姉はもう、シンと何の関係も無ぇよ！[r]
@@ -2374,7 +2374,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【秋俊】
 （ シンはメグ姉との戦いであの世に逃げていたのか！ そして残された連中はシンを呼び戻すために扉を開く力を蓄えていた…！）[p]
@@ -2395,7 +2395,7 @@
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_14.png"  ]
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_13.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【秋俊】
 （決定だ！ メグ姉ちゃんはそんな奴の仲間なんかじゃ無ぇ！ 絶対に違う！）[p]
@@ -2416,7 +2416,7 @@
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_14.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 （………）[p]
@@ -2442,7 +2442,7 @@
 
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_14.png"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_21.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【アイ】
 （だけどメグ姉さま シンやマユとの事を何も話してくれないの！[r]
@@ -2476,7 +2476,7 @@
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_14_3.png"  ]
 [chara_mod  name="akitoshi"  time="250"  cross="false"  storage="chara/16/akitoshi_17.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【秋俊】
 （…それはオレもさ！メグ姉ちゃんの苦しみを少しでも受け止めて、ほんの少しでも楽にしてやりたいと思ってる）[p]
@@ -2490,7 +2490,7 @@
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai01_12_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【秋俊＆アイ】
 （メグ姉ちゃんの事も好きだから！）[r]
@@ -2545,7 +2545,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【秋俊】
 （そうだろ？ アイ）[p]
@@ -2578,7 +2578,7 @@
 [wait  time="750"  ]
 [chara_mod  name="ai_1"  time="250"  cross="false"  storage="chara/12/ai02_04_1.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ・秋俊】
 「…シンの復活は必ず――…」[p]
@@ -2664,7 +2664,7 @@
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_11.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「それより今はアイツ！」[p]
@@ -2682,7 +2682,7 @@
 [chara_show  name="ai_2"  time="50"  wait="true"  storage="chara/17/ai03_01.png"  width="560"  height="600"  reflect="true"  left="-118"  top="0"  ]
 [wait  time="750"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ・秋俊】
 「わかってる！」[p]
@@ -2708,7 +2708,7 @@
 [bg  time="250"  method="crossfade"  storage="haikei/nakaniwa_05.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「號焔-ゴウエン-！」[p]
@@ -2835,7 +2835,7 @@
 [chara_show  name="ai_1"  time="50"  wait="true"  storage="chara/12/ai02_05_17.png"  width="375"  height="600"  reflect="true"  left="310"  top="0"  ]
 [tb_chara_shake  name="ai_1"  direction="y"  count="1"  swing="20"  time="200"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ・秋俊】
 「…くそっ、まるで手が届かない！」[p]
@@ -2870,8 +2870,8 @@
 [chara_show  name="ai_2"  time="50"  wait="true"  storage="chara/17/ai03_01.png"  width="560"  height="600"  reflect="true"  left="225"  top="0"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_06.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【アイ・秋俊】
 「諦めるな！[r]
@@ -2890,7 +2890,7 @@
 [chara_hide  name="rin_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="rin_2"  time="50"  wait="true"  storage="chara/15/rin3_01.png"  width="656"  height="600"  left="50"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「わかってるっつーの！」[p]
@@ -2945,7 +2945,7 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [chara_mod  name="sabato"  time="50"  cross="false"  storage="chara/18/sabato_05.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【沙婆斗】
 「…ム！」[p]

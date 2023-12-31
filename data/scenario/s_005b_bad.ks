@@ -31,7 +31,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？】
 「ほぅ、あの子が…」[p]
@@ -43,7 +43,7 @@
 「ええ。元々の性欲の強さと女の扱いの巧さを皆に認められて僕の代わりに皆を牽引したり…」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？】
 「フフフ、なかなか “ 良い養分 ” になってくれそうです…♪」[p]
@@ -64,7 +64,7 @@
 [bg  time="1500"  method="crossfade"  storage="haikei/roka01.jpg"  ]
 [chara_show  name="maikai"  time="250"  wait="true"  storage="chara/7/maikai_1_02.png"  width="313"  height="600"  left="466"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 「…はい。明日… “ 連中 ” を誘い込みます」[p]
@@ -86,7 +86,7 @@
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_01.png"  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_02.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【博山】
 「ハッハッハ、それはそれは！[r]
@@ -122,7 +122,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【生徒達】
 『博山学園長先生！ようこそーっ!!♪』[p]
@@ -154,7 +154,7 @@
 [resetfont  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01.png"  ]
 [chara_show  name="futoshi"  time="250"  wait="true"  storage="chara/8/futoshi_1_02.png"  width="375"  height="600"  left="70"  top="0"  reflect="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【太志】
 「さぁ “ お前たち ” ！ [r]
@@ -184,7 +184,7 @@
 [wait  time="1500"  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_1_01_6.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「ほぅ！ これは・・・！」[p]
@@ -224,7 +224,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_08.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【太志】
 「今夜はコイツ等の仕上がり具合を[r]
@@ -243,7 +243,7 @@
 「ほほぅ♥ ではその成果を見せて頂きましょうか！」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【太志】
 「へへへ♪ さぁ３人とも！[r]
@@ -280,7 +280,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [wait  time="2000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【３匹】
 『 ハァ・・・ハァ・・・♥ 』[p]
@@ -294,7 +294,7 @@
 [tb_cg  id="cg022"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「…ハァ♥　すごいおチンポぉ♥」[p]
@@ -306,7 +306,7 @@
 [bg  time="1500"  method="crossfade"  storage="cg11/cg24_02.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【冴子】
 「クン クン…アァ♥ なんてイイ匂い♥[r]
@@ -345,7 +345,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【冴子】
 「ペロペロ♥…きゅうん♥ 熱ぅい♥[r]
@@ -400,7 +400,7 @@
 [bg  time="750"  method="crossfade"  storage="cg11/cg24_04.png"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「あっ♥ 先走りの おつゆ が出てきたぁ♥[r]
@@ -421,7 +421,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/drinking_a_soup.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ンぷ♥ ほプっ♥ ジュブるルっ♪」[p]
@@ -490,7 +490,7 @@
 [bg  time="1000"  method="crossfade"  storage="cg11/cg31_03.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子】
 「あ・・・っ♥」[p]
@@ -507,7 +507,7 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳・小虎・冴子】
 「ン゛ォおおっ♪♥」[r]
@@ -545,7 +545,7 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳・小虎・冴子】
 「～～…ッ♥…あっ♥……アハぁ…♥」[r]
@@ -566,7 +566,7 @@
 [bg  time="500"  method="puffIn"  storage="cg11/cg24_07.png"  ]
 [wait  time="750"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「アむぅっ♥ んぶっ♥ ん゛～♥[r]
@@ -624,7 +624,7 @@
 [bg  time="500"  method="crossfade"  storage="cg11/cg31_07.png"  ]
 [wait  time="750"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「あっ♥ 触手おチンポぉ！♥」[p]
@@ -669,7 +669,7 @@
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu04.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「す…すご…♥…お尻 いっぱぁい♥」[p]
@@ -704,7 +704,7 @@
 [bg  time="500"  method="crossfade"  storage="cg11/cg31_09.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎・冴子】
 「ぷみゃあアアっ♥★」[r]
@@ -724,7 +724,7 @@
 [bg  time="500"  method="fadeIn"  storage="cg11/cg24_08.png"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ンふぁ♥ イ…いかがれふかぁ？[r]
@@ -753,7 +753,7 @@
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/drinking_a_soup.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【冴子・小虎】
 「あ、ありがとうございますっ♥」[r]
@@ -793,7 +793,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ふあ゛ァン!♥ お゛ひり゛ぃっ♥[r]
@@ -916,7 +916,7 @@
 [playse  volume="80"  time="1000"  buf="0"  storage="se02/mizu06.ogg"  ]
 [wait  time="1500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 「どうだった？学園長せんせい！？」[p]
@@ -961,7 +961,7 @@
 [chara_show  name="futoshi"  time="250"  wait="true"  storage="chara/8/futoshi_1_04.png"  width="375"  height="600"  left=""  top=""  reflect="false"  ]
 [chara_show  name="gaku"  time="250"  wait="true"  storage="chara/5/gaku_1_02_2.png"  width="500"  height="600"  reflect="true"  left="330"  top="0"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【博山】
 「明日の決戦は必ずや勝利し[r]
@@ -1002,7 +1002,7 @@
 [chara_mod  name="futoshi"  time="50"  cross="false"  storage="chara/8/futoshi_1_07.png"  ]
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber10.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 「・・・さあ、パーティーの続きだ！」[p]

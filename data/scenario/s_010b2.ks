@@ -109,7 +109,7 @@
 
 [chara_hide_all  time="500"  wait="true"  ]
 [chara_show  name="maikai"  time="250"  wait="true"  storage="chara/7/maikai_1_10.png"  width="313"  height="600"  left="231"  top="0"  reflect="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （そして…マイカイ…ッ）[p]
@@ -127,7 +127,7 @@
 [wait  time="10"  ]
 [mask_off  time="3000"  effect="fadeOut"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ハッ！？ …ここは…！？」[p]
@@ -245,7 +245,7 @@
 激しい粘液の飛沫-しぶき-を上げ大小様々な触手が代わる代わる入り乱れているその下で少女の可憐な肉穴と窄-すぼ-まりが底の底まで蹂躙されていることは明白であった。[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dosyu1.ogg"  loop="false"  ]
 [tb_start_text mode=3 ]
 #【小虎】
@@ -294,7 +294,7 @@
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/kiss2.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎】
 「おぉう゛♥もっと舐めて♥吸ってぇ♥[r]
@@ -312,7 +312,7 @@
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu05.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？】
 「ん゛ォオ?! うぶっ♥ ンぐぅう～～♥♥」[p]
@@ -346,7 +346,7 @@
 目は淀みドロドロの粘液汁を全身に塗りたくられ不思議と薄明るいこの異空間の中で触手達に突かれるままに体を揺らし甘い呻き声を漏らしている…[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/drinking1.ogg"  ]
 [tb_start_text mode=1 ]
 #【冴子】
@@ -368,7 +368,7 @@
 現に触手達は冴子に対し一切加減する様子などなく、ひたすらに彼女の引き締まった肉体をその身に纏ったスーツの様にボロ布にでも変えん勢いで殺到し続けている[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dressing1.ogg"  ]
 [tb_start_text mode=3 ]
 #【冴子】
@@ -407,7 +407,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dressing1.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【アイ】
 「う゛あぁっ♥もう入らなぃ…裂けちゃうっ[r]
@@ -446,7 +446,7 @@
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dosyu1.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【アイ】
 「溶けちゃう！フあァ♥ そんなに熱いのドプドプ注がれたら…アぉオっ♥ダメぇ!♥[r]
@@ -487,7 +487,7 @@
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/diving1.ogg"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「オっ♥ オォぉ…♥ ぎも゛ぢい゛ぃ…♥」[p]
@@ -616,7 +616,7 @@
 [mask  time="500"  effect="fadeIn"  color="0xcc29cc"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「あっ？ あぁ…！？」[p]
@@ -651,7 +651,7 @@
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [stopse  time="1000"  buf="3"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「…ひ…聖くん…？」[p]
@@ -689,7 +689,7 @@
 [playbgm  volume="100"  time="1000"  loop="true"  storage="taste_xxx05.ogg"  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/kiss2.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ハぅっ！？？」[p]
@@ -735,7 +735,7 @@
 [bg  time="1500"  method="crossfade"  storage="cg11/cg38_02.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ん゛ぐぅ?! ぎ…ッ…くっ、ふぅ!?」[p]
@@ -755,7 +755,7 @@
 [bg  time="1000"  method="fadeIn"  storage="cg11/cg38_03.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「…ッ？！」[p]
@@ -768,7 +768,7 @@
 小さなヒビ割れや穴がダムを決壊させる様に、破れた箇所に群がり押し入る触手のせいで見る間に穴は拡げられてゆく…[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ひっ?! や、ヤメ…ッ」[p]
@@ -783,7 +783,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="4"  storage="se02/mizu05.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「んはァっ!? ハおぉオ?!? [r]
@@ -808,7 +808,7 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 （…そ…想像を超えてる…！[r]
@@ -834,7 +834,7 @@
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 （激しすぎる…全身が食べられてる！[r]
@@ -895,7 +895,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/dosyu1.ogg"  ]
 [bg  time="1000"  method="puffIn"  storage="cg11/cg38_06.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ンヒぃぃィイイイいッ!!♪♥♥」[p]
@@ -976,7 +976,7 @@
 [playse  volume="100"  time="1000"  buf="4"  storage="se02/dosyu2.ogg"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「カふぁっ?!♥ あっ…か…っ[r]
@@ -1061,7 +1061,7 @@
 （・・・セ・・・ン・・・セ・・ェ・・・）[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「・・・…あ…、アハぁ♥ [r]
@@ -1083,7 +1083,7 @@
 「ゴメンね…ヒドイ目に遭わせて…」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「でももうダイジョブよ♥[r]
@@ -1143,7 +1143,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「すきぃ♥ 好きよハジメくん♥[r]
@@ -1183,7 +1183,7 @@
 [bg  time="1500"  method="crossfade"  storage="cg11/cg38_15.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ァ゛…ッ…アハっ♥ そ、そうよね…？[r]
@@ -1218,7 +1218,7 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「おゥふっ?!♥ ぐへぅ?? わ゛…わたし…[r]
@@ -1235,7 +1235,7 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ホへぇ♥ も…もっと深くぅ！♥[r]
@@ -1346,7 +1346,7 @@
 [bg  time="2500"  method="crossfade"  storage="cg11/cg39_11.png"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （…そして…みんながいる…♥）[p]
@@ -1365,7 +1365,7 @@
 （……リンちゃんも……）[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「んブっ♥ ンォ♥ ン゛ぅ～♥」[p]
@@ -1480,7 +1480,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dosyu2.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「ぉ゛…♥…ォお…っ♥…～～っ♥」[p]
@@ -1513,7 +1513,7 @@
 [wait  time="1000"  ]
 [playse  volume="80"  time="1000"  buf="4"  storage="se02/dosyu2.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ふぁアぁぁ…♪♥」[p]
@@ -1540,7 +1540,7 @@
 [bg  time="2000"  method="crossfade"  storage="cg11/cg39_12.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （…みんな…ひとつ…に…♥）[p]

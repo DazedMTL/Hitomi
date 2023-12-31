@@ -576,7 +576,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎】
 「何でそうなるのよ？！[r]
@@ -617,7 +617,7 @@
 
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_09.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「瞳はちょっと黙ってて！」[p]
@@ -741,7 +741,7 @@
 
 [chara_hide  name="kuzu_2"  time="50"  wait="false"  pos_mode="false"  ]
 [chara_hide  name="akitoshi"  time="50"  wait="true"  pos_mode="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「アイちゃん！いや守護天使様！[r]
@@ -788,7 +788,7 @@
 「そ、ならアタシも貴女達の期待にちょっとは応えられる様に、　明日は気張らせて貰うとするわ」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「よろしく、小虎」[p]
@@ -858,7 +858,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/munyu1.ogg"  ]
 [tb_chara_shake  name="kotora_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「ちょ?! ちょっとコレ誰か止め…っ」[p]
@@ -1046,7 +1046,7 @@
 [chara_show  name="hajime"  time="0"  wait="true"  storage="chara/9/hajime3_04.png"  width="375"  height="600"  left="178"  top="0"  reflect="false"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【生徒達】
 「ハ…ハジメ…！」[r]
@@ -1082,7 +1082,7 @@
 [bg  time="500"  method="crossfade"  storage="haikei/room06_2.jpg"  ]
 [chara_move  name="saeko"  anim="false"  time="300"  effect="default"  wait="true"  left="328"  top="0"  width="438"  height="600"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【生徒達】
 「うわっ？！」[r]
@@ -1162,7 +1162,7 @@
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_04.png"  ]
 [chara_mod  name="maikai"  time="250"  cross="false"  storage="chara/7/maikai_1_10.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【玫瑰】
 「アハハ！ それは良いアイディアですね！[r]
@@ -1200,7 +1200,7 @@
 
 [chara_move  name="maikai"  anim="false"  time="300"  effect="default"  wait="true"  left="222"  top="0"  width="313"  height="600"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_02.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【玫瑰】
 「さぁ、いよいよ戦士狩りですよ！[r]

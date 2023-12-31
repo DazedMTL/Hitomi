@@ -10,7 +10,7 @@
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_3_02_8.png"  ]
 [tb_chara_shake  name="hitomi_1"  direction="y"  count="1"  swing="20"  time="200"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「モチのロン！[r]
@@ -26,7 +26,7 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_7.png"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_16_2.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime2_02.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子】
 「到着！？ 援軍が…軍が動いてるのね！？」[p]
@@ -96,7 +96,7 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber17.ogg"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/gyuu2.ogg"  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_2_04.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【博山】
 「軍の到着前に貴様等を血祭りに上げ、[r]
@@ -135,7 +135,7 @@
 [wait  time="3000"  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_2_04.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「……む…！？」[p]
@@ -156,7 +156,7 @@
 [wait  time="1000"  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_2_02.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「……愚かな…！」[p]
@@ -179,7 +179,7 @@
 [wait  time="250"  ]
 [chara_show  name="hitomi_1"  time="50"  wait="true"  storage="chara/3/hitomi_3_02_4.png"  width="406"  height="600"  reflect="false"  left="425"  top="0"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ッ！」[p]
@@ -224,7 +224,7 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber19.ogg"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「は・・・ハジメくん！？」[p]
@@ -285,7 +285,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/gyuu1.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【冴子】
 「よせ瞳！私達じゃ足手まといだ！[r]
@@ -349,7 +349,7 @@
 [chara_show  name="hajime_2"  time="50"  wait="true"  storage="chara/22/hajime2_01.png"  width="800"  height="600"  reflect="true"  left="-177"  top="0"  ]
 [chara_hide  name="hajime"  time="0"  wait="true"  pos_mode="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「瞳先生は殺させない！僕は先生達と一緒にこの学園を出て行きます！！」[p]
@@ -396,7 +396,7 @@
 [mask  time="0"  effect="fadeIn"  color="0xad0000"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【ゆらぎ生徒】
 『グゲァあアァ亞ァァあ?!』[p]
@@ -479,7 +479,7 @@
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_12.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="3"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「ぅわぁ？！」[p]
@@ -538,7 +538,7 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_2.png"  ]
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber19.ogg"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_09.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「！」[p]
@@ -561,7 +561,7 @@
 [wait  time="500"  ]
 [playse  volume="30"  time="1000"  buf="1"  storage="panchi01.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【？？】
 「うぉおおぉぉ助けてくれ～っ!![r]
@@ -576,7 +576,7 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_12.png"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_6.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="1"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「げ！ 瞬作だ！ もう乗り込んで来たの?!」[p]
@@ -589,7 +589,7 @@
 [chara_show  name="ai_2"  time="50"  wait="true"  storage="chara/17/ai03_01.png"  width="560"  height="600"  left="320"  top="0"  reflect="false"  ]
 [tb_chara_shake  name="ai_2"  direction="x"  count="1"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「あの子達、追われてる！」[p]
@@ -608,7 +608,7 @@
 [chara_hide  name="rin_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="rin_2"  time="50"  wait="true"  storage="chara/15/rin3_01.png"  width="656"  height="600"  left="57"  top="0"  reflect="false"  ]
 [tb_chara_shake  name="rin_1"  direction="x"  count="1"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「世話の焼ける連中ね！」[p]
@@ -631,7 +631,7 @@
 [stopbgm  time="1500"  fadeout="true"  ]
 [quake  time="300"  count="3"  hmax="10"  wait="true"  vmax="10"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【ゆらぎ生徒】
 『オ゛ッ…ゲェエ……?!?』[p]
@@ -804,7 +804,7 @@
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="1"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「だからジロジロ見るなっつの！」[p]
@@ -814,7 +814,7 @@
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_06_2.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [tb_chara_shake  name="kotora_1"  direction="y"  count="1"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎】
 「待って！ それじゃ瞳は!? 冴子は!?[r]
@@ -854,7 +854,7 @@
 [_tb_end_text]
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_2_04_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【葛生】
 「うっし！ 加勢に行こうぜ！」[p]
@@ -876,7 +876,7 @@
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_09.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_2_05_2.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="1"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「お、おう！そうだった！ [r]
@@ -918,7 +918,7 @@
 「あの赤い壁の様な物は何なの？」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「『呪詛結界』だ」[p]
@@ -959,7 +959,7 @@
 [tb_hide_message_window  ]
 [bg  time="500"  method="crossfade"  storage="haikei/nakaniwa_02.png"  ]
 [bg  time="1500"  method="crossfade"  storage="haikei/nakaniwa_03.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #【リン】
@@ -999,7 +999,7 @@
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_01_3.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_02_3.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎】
 「だけど貴女達なら止められる…！[r]
@@ -1040,7 +1040,7 @@
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_04.png"  ]
 [chara_move  name="kuzu_2"  anim="false"  time="50"  effect="default"  wait="true"  left="-104"  top="0"  width="688"  height="600"  ]
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「おぉお！ 地獄に仏！ いや天使！[r]
@@ -1094,7 +1094,7 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_04_2.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [chara_move  name="kotora_1"  anim="false"  time="50"  effect="default"  wait="true"  left="90"  top="0"  width="363"  height="600"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「嫌！ 撤退するなら瞳と冴子も一緒によ！ 今は２人に加勢するわ！」[p]
@@ -1127,7 +1127,7 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_01_2.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_2_08.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【一同】
 『ッ!!?』[p]
@@ -1154,7 +1154,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [chara_show  name="kuzu_2"  time="250"  wait="true"  storage="chara/2/kuzu_2_05_2.png"  width="688"  height="600"  left=""  top=""  reflect="false"  ]
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="200"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【葛生】
 「かかか…囲まれちまってる…！」[p]
@@ -1195,7 +1195,7 @@
 [chara_hide_all  time="250"  wait="true"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【ゆらぎ生徒達】
 『人間だ！ 人間を狙えェ！』[r]
@@ -1226,7 +1226,7 @@
 
 [playse  volume="80"  time="1000"  buf="2"  storage="se02/slash02.ogg"  ]
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_2_05.png"  width="363"  height="600"  left="294"  top="0"  reflect="true"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「瞬作、時間は?!」[p]
@@ -1323,7 +1323,7 @@
 [playse  volume="100"  time="1000"  buf="5"  storage="basa05.ogg"  ]
 [bg  time="500"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「…ちょっ!? 何アイツ!? [r]
@@ -1383,7 +1383,7 @@
 
 [chara_show  name="kuzu_2"  time="250"  wait="true"  storage="chara/2/kuzu_1_11_02.png"  width="688"  height="600"  reflect="true"  left="200"  top="0"  ]
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="2"  swing="20"  time="200"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【葛生】
 「ゲンさぁ～～～ん！」[p]
@@ -1413,7 +1413,7 @@
 [wait  time="1000"  ]
 [chara_mod  name="sabato"  time="250"  cross="false"  storage="chara/18/sabato_03.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【沙婆斗】
 「瞬作、小虎、息災か…？」[p]
@@ -1563,7 +1563,7 @@
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_13.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？】
 「 居た！リンちゃん！アイちゃん！」[p]
@@ -1589,7 +1589,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「リンちゃん！[r]
@@ -1609,7 +1609,7 @@
 [_tb_end_text]
 
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_16_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【冴子】
 「見ろ瞳！ サバトだ！[r]
@@ -1645,7 +1645,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_5.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「…ッ？！」[p]
@@ -1677,7 +1677,7 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber17.ogg"  ]
 [mask_off  time="250"  effect="slideOutRight"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「サバトぉ！ トラちゃぁん！！」[p]
@@ -1764,7 +1764,7 @@
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_17.png"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_2_18.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【冴子】
 「サバト！お前が来てくれて助かった！[r]
@@ -1887,7 +1887,7 @@
 [chara_hide  name="kuzu_2"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="kuzu_2"  time="50"  wait="true"  storage="chara/2/kuzu_1_07_2.png"  width="688"  height="600"  reflect="true"  left="-324"  top="71"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子＆小虎＆葛生】
 『！？？』[p]
@@ -1917,7 +1917,7 @@
 [wait  time="500"  ]
 [chara_show  name="kuzu_2"  time="50"  wait="true"  storage="chara/2/kuzu_2_05.png"  width="688"  height="600"  reflect="true"  left="220"  top="0"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「な、何だァ？あの肉ダルマ野郎は!?[r]
@@ -1942,7 +1942,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [chara_mod  name="saeko"  time="50"  cross="false"  storage="chara/11/saeko_5_07.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子】
 「！」[p]
@@ -1958,7 +1958,7 @@
 [chara_move  name="hitomi_3"  anim="true"  time="300"  effect="easeInQuad"  wait="true"  left="0"  top="0"  width="800"  height="600"  ]
 [wait  time="750"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子】
 「ひとみ！」[p]
@@ -2036,7 +2036,7 @@
 [wait  time="1000"  ]
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_2_02.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「私は有言実行がモットーでしてなぁ」[p]
@@ -2059,7 +2059,7 @@
 [_tb_end_text]
 
 [chara_mod  name="gaku"  time="50"  cross="false"  storage="chara/5/gaku_2_02.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【博山】
 「所で何ですかなその珍妙な格好は？[r]
@@ -2223,7 +2223,7 @@
 [chara_hide  name="hitomi_3"  time="50"  wait="true"  pos_mode="false"  ]
 [chara_hide  name="sonota"  time="150"  wait="true"  pos_mode="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「乗りお…ッ！？」[p]
@@ -2294,7 +2294,7 @@
 [_tb_end_text]
 
 [chara_show  name="saeko"  time="50"  wait="true"  storage="chara/11/saeko_2_24.png"  width="438"  height="600"  left="266"  top="0"  reflect="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子】
 「アレは完全にキレて我を忘れてるダケだ！体力が切れた瞬間、副作用の反動ダメージでぶっ倒れるぞ!?」[p]
@@ -2338,7 +2338,7 @@
 [wait  time="10"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【博山】
 『さぁ！ここからが本番デス！[r]
@@ -2382,7 +2382,7 @@
 [mask_off  time="250"  effect="slideOutLeft"  ]
 [chara_move  name="gaku_2"  anim="true"  time="500"  effect="easeInQuad"  wait="true"  left="-269"  top="0"  width="1500"  height="600"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【博山】
 『バカな…チカラが上がっている！？[r]
@@ -2449,7 +2449,7 @@
 [_tb_end_text]
 
 [resetfont  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【博山】
 『うぉお!?バカな！カラダが浮く!?[r]
@@ -2496,7 +2496,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_hide_message_window  ]
 [wait  time="250"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
@@ -2522,7 +2522,7 @@
 [chara_move  name="gaku_2"  anim="false"  time="50"  effect="default"  wait="true"  left="-440"  top="0"  width="1500"  height="600"  ]
 [wait  time="250"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 『ブッふ！？？』[p]
@@ -2585,7 +2585,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [wait  time="250"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 『チィイ！雑魚に用など無いわァッ!?』[p]
@@ -2718,7 +2718,7 @@
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_1_16.png"  width="363"  height="600"  left="261"  top="108"  reflect="false"  ]
 [wait  time="250"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子】
 「……やったか！？」[p]
@@ -2788,7 +2788,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  fadein="false"  ]
 [chara_show  name="kotora_1"  time="50"  wait="true"  storage="chara/4/kotora_1_16.png"  width="363"  height="600"  left="540"  top="103"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「瞳！ 大丈夫！？」[p]

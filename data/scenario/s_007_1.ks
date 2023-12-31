@@ -113,7 +113,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「ちゃんと在るってこったッ！」[r]
@@ -129,7 +129,7 @@
 [chara_hide  name="kuzu_2"  time="250"  wait="false"  pos_mode="false"  ]
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_04.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「瞬作…ッ？！」[p]
@@ -141,7 +141,7 @@
 [chara_hide_all  time="500"  wait="true"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="panchi01.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？】
 「あ痛っ？！」[p]
@@ -161,7 +161,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
 [chara_show  name="rin_1"  time="250"  wait="false"  storage="chara/13/rin1_03.png"  width="375"  height="600"  left="405"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「ちょっと!?[r]
@@ -238,7 +238,7 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_02.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="100"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_04.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「ハアァア…！ キ、キミは！[r]
@@ -257,7 +257,7 @@
 「・・・っ」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [chara_hide  name="rin_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="rin_1"  time="0"  wait="true"  storage="chara/13/rin1_03.png"  width="375"  height="600"  left="405"  top="0"  reflect="false"  ]
 [tb_chara_shake  name="rin_1"  direction="x"  count="2"  swing="20"  time="100"  ]
@@ -307,7 +307,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_04.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「瞳っ？！」[p]
@@ -327,7 +327,7 @@
 [chara_move  name="kuzu_2"  anim="false"  time="300"  effect="default"  wait="true"  left="-92"  top="0"  width="688"  height="600"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_10.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【葛生】
 「グフっ？！」[p]
@@ -356,7 +356,7 @@
 [chara_hide  name="ai_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="rin_1"  time="50"  wait="false"  storage="chara/13/rin1_09.png"  width="375"  height="600"  left="315"  top="0"  reflect="false"  ]
 [chara_show  name="ai_1"  time="50"  wait="true"  storage="chara/12/ai01_06.png"  width="375"  height="600"  left="575"  top="0"  reflect="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「リンちゃんとアイちゃん！[r]
@@ -416,7 +416,7 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_07.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_04.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞬作】
 「ひょハァ！？ ぼぼ…ボクがっすか！？」[p]
@@ -554,7 +554,7 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_02.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【葛生】
 「お、おうっ！大役任されたぜ！」[p]
@@ -611,7 +611,7 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_14_7.png"  ]
 [tb_chara_shake  name="hitomi_1"  direction="y"  count="1"  swing="20"  time="250"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ハァ～…疲れたぁ～…っ」[p]
@@ -633,7 +633,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「……ちゃんと、大真面目に…ね！」[p]
@@ -682,7 +682,7 @@
 [delay  speed="10"  ]
 [chara_show  name="kuzu_2"  time="250"  wait="true"  storage="chara/2/kuzu_1_11_02.png"  width="688"  height="600"  left="-78"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「さぁさ♪ メニュー表をどうぞ♪[r]
@@ -719,7 +719,7 @@
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_08.png"  ]
 [chara_mod  name="rin_1"  time="250"  cross="false"  storage="chara/13/rin1_15.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「…フーン… い い ん だ …♪」[p]
@@ -732,7 +732,7 @@
 「～♪」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 （クハァ～ッ！２人揃ってまじまじと[r]
@@ -762,7 +762,7 @@
 （はぁぁ～近い近い～これからオレの目の前で美少女がしょしょ…食事するのかと思うと…あの可愛い頬っぺを膨らませて小さなおクチをモグモグさせるのかと思うと心臓が止まりそうだぁっ！）[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_02.png"  ]
 [tb_start_text mode=1 ]
 #【葛生】
@@ -796,7 +796,7 @@
 「あのぉ、すみませ～ん」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_13.png"  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_11_02.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="2"  swing="20"  time="100"  ]
@@ -990,7 +990,7 @@
 [_tb_end_text]
 
 [stopbgm  time="1500"  fadeout="true"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 （うん？！ パスタを追加だと？！[r]
@@ -1089,7 +1089,7 @@
 [_tb_end_text]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_12.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 （店員も動揺してたぁあああぁぁあッ!![r]
@@ -1143,7 +1143,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_13.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「・・・１…ポン…ッ?!・・・????」[r]
@@ -1167,7 +1167,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_04.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 （ちょっ!? [r]
@@ -1208,7 +1208,7 @@
 「は、はぁ…取り合えず…『ソレダケ』…ですか……」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 （……ぅ…店員が目でオレに訴えて居る…！[r]
@@ -1234,7 +1234,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_06.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【葛生】
 「ちょ、ちょっと待ったキミ達ッ！！」[p]
@@ -1306,7 +1306,7 @@
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_04.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「ああーっ？！ アイ！？」[p]
@@ -1350,7 +1350,7 @@
 
 [chara_mod  name="kuzu_2"  time="0"  cross="false"  storage="chara/2/kuzu_1_11_03.png"  ]
 [tb_chara_shake  name="kuzu_2"  direction="x"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 （いや１つ減らすってソコぉおおおォ!!!?[r]
@@ -1377,7 +1377,7 @@
 [chara_hide  name="kuzu_2"  time="0"  wait="false"  pos_mode="false"  ]
 [chara_show  name="kuzu_2"  time="0"  wait="true"  storage="chara/2/kuzu_1_11_03.png"  width="688"  height="600"  left="-70"  top="0"  reflect="true"  ]
 [tb_chara_shake  name="kuzu_2"  direction="y"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【葛生】
 「オーダー変更なし！[r]
@@ -1439,7 +1439,7 @@
 「・・・・・・ふぅん・・・」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="bgm_maoudamashii_piano37.ogg"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_19.png"  ]
 [tb_start_text mode=1 ]

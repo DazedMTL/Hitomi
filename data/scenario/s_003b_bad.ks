@@ -106,7 +106,7 @@
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_14_7.png"  width="406"  height="600"  reflect="true"  left="50"  top="0"  ]
 [chara_show  name="kotora_1"  time="250"  wait="true"  storage="chara/4/kotora_1_16.png"  width="363"  height="600"  reflect="true"  left="305"  top="-1"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「な…っ、コイツら何時の間に！？」[p]
@@ -151,7 +151,7 @@
 
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_2_05.png"  ]
 [resetfont  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎】
 「随分と積極的なのね！[r]
@@ -219,7 +219,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_17_01.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「…フ、ウフフ…ゴメンね♥ トラちゃん」[p]
@@ -298,7 +298,7 @@
 [_tb_end_text]
 
 [bg  time="500"  method="crossfade"  storage="cg11/cg14_03.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「ひ…瞳…まさか…本当に…？」[p]
@@ -330,7 +330,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ほぉら、フぅ～…♥」[p]
@@ -406,7 +406,7 @@
 [bg  time="1500"  method="crossfade"  storage="cg11/cg14_05.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎】
 「ふわぁっ♡!?[r]
@@ -433,7 +433,7 @@
 「…ち…違…っ…わた…し……」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ハァ～♥」[p]
@@ -474,7 +474,7 @@
 
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【生徒達】
 『！！？』[p]
@@ -624,7 +624,7 @@
 （…よし、魅入ってる。この調子で隙を突いてトラちゃんを抱えて屋上から飛び降りれば…）[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【学園長】
 「…やれやれ。」[p]
@@ -752,7 +752,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [wait  time="2500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎】
 「あひぃ～～～～～～っ♥あっ♥[r]
@@ -787,7 +787,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「トラちゃん♥んちゅう♥あぁキちゃう♥[r]
@@ -828,7 +828,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳＆小虎】
 「あ゛ぁ゛あああぁっ♪♥♥」[p]
@@ -903,7 +903,7 @@
 [wait  time="1000"  ]
 [bg  time="2500"  method="crossfade"  storage="sozai_02_kuro.jpg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【博山】
 「フォッホッホッホッホッホ！」[p]
@@ -962,7 +962,7 @@
 [tb_replay  id="kaisou_05"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #
 ―――　１週間後　―――[p]
@@ -1009,7 +1009,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [resetfont  ]
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  ]
@@ -1026,7 +1026,7 @@
 「ま…まずは出席を…」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【生徒】
 「はい！今日も全員出席してまーす！」[p]
@@ -1138,7 +1138,7 @@
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/eating1.ogg"  loop="true"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ンはぁァア…♪♥[r]
@@ -1174,7 +1174,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="4"  storage="se02/mizu04.ogg"  loop="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「お゛っ♥ おぉ…奥ぅ♥ イイ！[r]
@@ -1271,7 +1271,7 @@
 [bg  time="4000"  method="crossfade"  storage="cg11/cg16_05.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「…あ♥…アハァ♥ きもち…イィ…☆」[p]
@@ -1306,7 +1306,7 @@
 [_tb_end_tyrano_code]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【生徒達】
 『おぉ―――！！！』[r]
@@ -1328,7 +1328,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【生徒達】
 「うん！」[r]

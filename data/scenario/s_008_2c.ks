@@ -84,7 +84,7 @@
 [chara_hide_all  time="0"  wait="true"  ]
 [chara_show  name="hitomi_2"  time="50"  wait="true"  storage="chara/10/hitomi_5_02_3.png"  width="500"  height="600"  reflect="true"  left="140"  top="0"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ならば…！リンちゃ―んっ！！」[p]
@@ -192,7 +192,7 @@
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「さっさと終わらせたいのよね、[r]
@@ -232,7 +232,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「リンちゃ――ん！」[p]
@@ -246,7 +246,7 @@
 [chara_show  name="rin_1"  time="50"  wait="true"  storage="chara/13/rin2_12.png"  width="375"  height="600"  left="396"  top="0"  reflect="false"  ]
 [tb_chara_shake  name="rin_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「ハアァ！？」[p]
@@ -273,7 +273,7 @@
 
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin2_08.png"  width="375"  height="600"  reflect="true"  left="-64"  top="0"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「アンタ馬鹿ぁ！？[r]
@@ -303,7 +303,7 @@
 [chara_show  name="rin_1"  time="250"  wait="true"  storage="chara/13/rin2_08_4.png"  width="375"  height="600"  reflect="true"  left="-64"  top="0"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「………ら…？」[p]
@@ -334,7 +334,7 @@
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_03.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_18.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「どうせそんなトコだろうと思ったわよ！[r]
@@ -418,7 +418,7 @@
 [chara_show  name="rin_1"  time="50"  wait="true"  storage="chara/13/rin2_15_2.png"  width="375"  height="600"  left="539"  top="0"  reflect="false"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「創くん・・・！」[p]
@@ -533,7 +533,7 @@
 [chara_move  name="hitomi_1"  anim="false"  time="50"  effect="default"  wait="true"  left="468"  top="0"  width="406"  height="600"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_04.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「あんた達の話はまだるっこしいのよ！」[p]
@@ -581,7 +581,7 @@
 [chara_show  name="rin_2"  time="50"  wait="true"  storage="chara/15/rin3_02.png"  width="656"  height="600"  left="284"  top="0"  reflect="false"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「素直にさせてあげるわ…、[r]
@@ -709,7 +709,7 @@
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_08.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「うっさい！」[p]
@@ -770,7 +770,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki01.ogg"  ]
 [chara_show  name="saeko"  time="1000"  wait="true"  storage="chara/11/saeko_2_28.png"  width="438"  height="600"  left="50"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「冴子！・・・って、寝てる？」[p]
@@ -797,7 +797,7 @@
 「・・・創君…」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber12.ogg"  fadein="false"  ]
 [tb_start_text mode=3 ]
 #【創】
@@ -987,7 +987,7 @@
 [chara_hide  name="rin_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="rin_2"  time="50"  wait="true"  storage="chara/15/rin3_02.png"  width="656"  height="600"  left="375"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「そろそろ決着つけさせてもらうわよ」[p]
@@ -998,7 +998,7 @@
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/charge.ogg"  ]
 [chara_show  name="sonota"  time="1000"  wait="true"  storage="chara/6/mahou_01.png"  width="800"  height="600"  left="217"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「！？」[p]
@@ -1024,7 +1024,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ちょ、ちょっとリンちゃん？！[r]
@@ -1042,7 +1042,7 @@
 [chara_hide  name="hajime"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="hajime_2"  time="50"  wait="true"  storage="chara/22/hajime2_01_2.png"  width="800"  height="600"  reflect="true"  left="-199"  top="0"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「詠唱が終わる前に潰せば…ッ！」[p]
@@ -1056,7 +1056,7 @@
 [chara_move  name="hajime_2"  anim="true"  time="50"  effect="easeInQuad"  wait="true"  left="147"  top="0"  width="800"  height="600"  ]
 [wait  time="250"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「…消えた！？」[p]
@@ -1104,7 +1104,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/dosyu1.ogg"  ]
 [chara_mod  name="hajime_2"  time="250"  cross="false"  storage="chara/22/hajime2_03.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「…くはッ」[p]
@@ -1133,7 +1133,7 @@
 [chara_show  name="hitomi_1"  time="50"  wait="true"  storage="chara/3/hitomi_2_13_9.png"  width="406"  height="600"  left="227"  top="0"  reflect="false"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_07_3.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「いや、どう見てもやり過ぎでしょ！？[r]
@@ -1243,7 +1243,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_13_16.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳＆創】
 『え？！』[p]
@@ -1294,7 +1294,7 @@
 
 [stopbgm  time="1500"  fadeout="true"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_15.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「此処から先は魔法戦士の仕事だからさ」[p]
@@ -1334,7 +1334,7 @@
 [_tb_end_text]
 
 [chara_mod  name="rin_2"  time="50"  cross="false"  storage="chara/15/rin3_01.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「ハッ、いかにも雑魚っぽいセリフね！」[p]
@@ -1394,7 +1394,7 @@
 [_tb_end_text]
 
 [chara_mod  name="rin_2"  time="50"  cross="false"  storage="chara/15/rin3_02.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「ほら！ブッ殺すンでしょ？[r]
@@ -1473,7 +1473,7 @@
 「…ここに “ 罠 ” は無かったはず…まさか？！」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「罠？！」[p]
@@ -1504,7 +1504,7 @@
 [bg  time="500"  method="crossfade"  storage="haikei/roka03_2.jpg"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ハジメくん！」[p]
@@ -1537,7 +1537,7 @@
 [tb_chara_shake  name="hajime_2"  direction="x"  count="2"  swing="20"  time="100"  ]
 [chara_move  name="hajime_2"  anim="false"  time="50"  effect="default"  wait="true"  left="228"  top="0"  width="800"  height="600"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「…ア゛・・・ッ」[p]
@@ -1565,7 +1565,7 @@
 [chara_show  name="rin_2"  time="50"  wait="true"  storage="chara/15/rin3_03.png"  width="656"  height="600"  reflect="true"  left="-385"  top="0"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_15.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「リンちゃん！ 創君を…！」[p]
@@ -1581,7 +1581,7 @@
 [chara_show  name="rin_1"  time="0"  wait="true"  storage="chara/13/rin2_12.png"  width="375"  height="600"  left="-115"  top="0"  reflect="true"  ]
 [chara_mod  name="hajime_2"  time="50"  cross="false"  storage="chara/22/hajime3_01.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳＆リン】
 『！！？』[p]
@@ -1620,7 +1620,7 @@
 [chara_mod  name="hitomi_1"  time="0"  cross="false"  storage="chara/3/hitomi_2_13_20.png"  ]
 [chara_mod  name="rin_1"  time="0"  cross="false"  storage="chara/13/rin2_17_2.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳＆リン】
 「ッ！？」[r]
@@ -1640,7 +1640,7 @@
 [quake  time="500"  count="3"  hmax="10"  wait="true"  ]
 [chara_move  name="hitomi_1"  anim="false"  time="50"  effect="default"  wait="true"  left="278"  top="100"  width="406"  height="600"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「足が闇の中に飲み込まれて行く！？[r]
@@ -1689,7 +1689,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？】
 「・・・フッ、あはははははははは！」[p]
@@ -1756,7 +1756,7 @@
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_10.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【玫瑰】
 「まぁイイさ、全ては『あの人』の為…[r]
@@ -1817,7 +1817,7 @@
 「それはこの空間の正体が既に何十人と犠牲者の血肉と魂を取り込んだ怪物の腹の中だから…！」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「え゛…腹の中って…嘘でしょ！？」[p]
@@ -1868,7 +1868,7 @@
 [wait  time="10"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「だ、だったら尚更急いで脱出しなきゃヤバいじゃないの！ふんぬぅぅうっ！！」[p]
@@ -1991,7 +1991,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/kiss2.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ぅひっ!?あ゛うぅぅ～～ッ!?!?」[p]
@@ -2021,7 +2021,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu05.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「おォ゛う゛ッ？！？」[p]
@@ -2046,7 +2046,7 @@
 [mask  time="500"  effect="fadeIn"  color="0xd942ed"  ]
 [mask_off  time="750"  effect="fadeOut"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「んひぃい゛～～っ！？」[p]
@@ -2072,7 +2072,7 @@
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/eating1_2.ogg"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「くふぅっ？！♥」[p]
@@ -2120,7 +2120,7 @@
 [mask  time="0"  effect="fadeIn"  color="0xd942ed"  ]
 [mask_off  time="750"  effect="fadeOut"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ほわハァっ!? ぉオおお゛～っ!♥」[p]
@@ -2145,7 +2145,7 @@
 追い詰められた焦りはそのまま興奮となり肉体の感度は鋭さを増し心身を蝕む…迫る絶望級の快楽責めを前に最早耐える事など不可能であった…。[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「リンちゃん！急いでリンちゃぁんっ！」[p]
@@ -2176,7 +2176,7 @@
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/kiss2.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （・・・限・・・界ぃ・・・～～ッ）[p]
@@ -2208,7 +2208,7 @@
 [wait  time="10"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「あ゛オぉお゛おオオォォ…ッ!!?♥♥」[p]
@@ -2255,7 +2255,7 @@
 幾度かの挑戦の結果 己の武器が封じられている事を悟り、それでも冷静さを欠くまいとしていた戦士を同じ女として動揺させた。[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu04.ogg"  loop="true"  ]
 [tb_start_text mode=3 ]
 #【瞳】
@@ -2302,7 +2302,7 @@
 脱出さえ叶えば何事も無かった様に振る舞い、恥辱を怒りに戦い抜く自信があったが………[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=3 ]
 #【ゆらぎ生徒の声】
@@ -2326,7 +2326,7 @@
 [bg  time="500"  method="crossfade"  storage="cg11/cg33_11.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「…チッ…アンタ等さっきの雑魚ゆらぎね!?[r]
@@ -2349,7 +2349,7 @@
 [_tb_end_tyrano_code]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/drinking1.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「おほぉっ♥く、クリ…良いィ！♥[r]
@@ -2385,7 +2385,7 @@
 [_tb_end_text]
 
 [resetfont  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「や、止めなさいっ！」[p]
@@ -2442,7 +2442,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/dosyu2.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「う゛っ！？」[p]
@@ -2468,7 +2468,7 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「フぅ゛ッ?!?」[p]
@@ -2511,7 +2511,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=1 ]
 #【ゆらぎ生徒の声】
@@ -2545,7 +2545,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【ゆらぎ生徒の声】
 『・・・・・・あっそ、なら仕方ねぇ、[r]
@@ -2569,7 +2569,7 @@
 [bg  time="1500"  method="crossfade"  storage="cg11/cg33_13.png"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「！？？」[p]
@@ -2595,7 +2595,7 @@
 「ヒッ!?　か、嗅ぐなバカ！ この変態っ！」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/dosyu2.ogg"  ]
 [tb_start_text mode=3 ]
 #【瞳】
@@ -2620,7 +2620,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「ばっ?! バカッ！しっかりしなさいよ瞳！[r]
@@ -2650,7 +2650,7 @@
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/eating2_2.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【ゆらぎ生徒の声】
 『出来上がったみたいだなぁ♪[r]
@@ -2706,7 +2706,7 @@
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dorodoro.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「い゛ッひっ?! う、動ご…っ…うぎぃい!?[r]
@@ -2824,7 +2824,7 @@
 [_tb_end_tyrano_code]
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dorodoro.ogg"  loop="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 （今直ぐ助けが来てくれないと私のお尻[r]
@@ -2878,7 +2878,7 @@
 『へへ…任せな♪ このまま突き殺してやる…！』[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「ひっ!? こ、このバカぁ！」[p]
@@ -2906,7 +2906,7 @@
 
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  loop="false"  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg33_18.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「あ…アハっ♥アハハ！もうダメぇっ♪♥[r]

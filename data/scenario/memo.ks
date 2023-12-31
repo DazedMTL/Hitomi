@@ -37,7 +37,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/heartbeats.ogg"  loop="true"  ]
 [tb_image_show  time="1000"  storage="default/fusi.jpg"  width="400"  height="100"  x="200"  y="210"  _clickable_img=""  name="img_23"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？？】
 あんた・・・・[p]
@@ -52,7 +52,7 @@
 *yes
 
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？？】
 ほ～　そりゃケッコウ。[p]
@@ -91,7 +91,7 @@
 *no
 
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？？】
 そいつは　お気の毒様・・・・[p]
@@ -140,7 +140,7 @@
 [tb_image_hide  time="1000"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？？】
 「お父さ―――ん！」[p]
@@ -168,7 +168,7 @@
 [chara_show  name="maikai"  time="1000"  wait="true"  storage="chara/7/maikai_1_07.png"  width="313"  height="600"  left="427"  top="0"  reflect="false"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【？？？】
 「…その時既に[r]
@@ -276,7 +276,7 @@
 「ふふ♥」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【？？？】
 「…まるで話が通じない…[r]
@@ -344,7 +344,7 @@
 [chara_hide  name="hajime"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="hajime"  time="20"  wait="true"  storage="chara/9/hajime_1_03_2.png"  width="375"  height="600"  left="321"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【ハジメくん】
 「うゎあ!? 待ってよマイちゃん！」[p]

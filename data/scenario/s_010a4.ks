@@ -144,7 +144,7 @@
 「無駄な足掻きは止せ！ シンの様な奴の言い成りになってたのがそもそもの間違いだったんだ！」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【妖樹・玫瑰】
 『煩い五月蝿ィッ!!』[p]
@@ -172,7 +172,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [wait  time="750"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【妖樹・玫瑰】
 『ぐぐ…！ ウァアアアアァァッ！！』[p]
@@ -186,7 +186,7 @@
 [bg  time="250"  method="bounceIn"  storage="cg11/cg26_18.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「アンタ何をするつもりよ！？」[p]
@@ -276,7 +276,7 @@
 
 [resetfont  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/charge.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [bg  time="250"  method="bounceIn"  storage="cg11/cg26_18.png"  ]
 [tb_start_text mode=1 ]
 #【妖樹・玫瑰】
@@ -310,7 +310,7 @@
 [tb_cg  id="cg041"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「瞳！？ アンタ何時の間に…っ」[p]
@@ -337,7 +337,7 @@
 「ええ、お陰様で…すこぶる絶好調よ」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「ちょっと！？[r]
@@ -398,7 +398,7 @@
 「・・・・・・」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【妖樹・玫瑰】
 『しかし何をしようと全て手遅れです！[r]
@@ -416,7 +416,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [wait  time="750"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【妖樹・玫瑰】
 『フフ！ 時間稼ぎのお礼に貴女も地獄へ招待して差し上げますよ、瞳先生！』[p]
@@ -446,7 +446,7 @@
 [_tb_end_text]
 
 [resetfont  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【妖樹・玫瑰】
 『これから私の憎しみと絶望は地獄と成って溢れ出し、この一帯を覆い尽して命在る物全てを喰らい始める！』[p]
@@ -509,7 +509,7 @@
 [chara_move  name="maikai"  anim="true"  time="250"  effect="easeInQuad"  wait="true"  left="160"  top="0"  width="469"  height="600"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【妖樹・玫瑰】
 『？！』[p]
@@ -612,7 +612,7 @@
 [mask_off  time="250"  effect="slideOutRight"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「あ…アレだけの魔力の塊を…[r]
@@ -657,7 +657,7 @@
 [_tb_end_text]
 
 [tb_chara_shake  name="maikai"  direction="x"  count="3"  swing="20"  time="200"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【妖樹・玫瑰】
 『あぁ…アァァアアアッ！？』[p]
@@ -732,7 +732,7 @@
 [wait  time="500"  ]
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【妖樹・玫瑰】
 『…ギ…ギギギ…！[r]
@@ -817,7 +817,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_08.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「しかしてその実体は―――…！」[p]
@@ -879,7 +879,7 @@
 [wait  time="1500"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/pokon_01.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #
 コツン！[p]
@@ -1027,7 +1027,7 @@
 [_tb_end_text]
 
 [quake  time="300"  count="3"  hmax="0"  wait="true"  vmax="10"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【妖樹・玫瑰】
 『今更そんな事を言って…ッ[r]
@@ -1045,7 +1045,7 @@
 「浜野さん…」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【妖樹・玫瑰】
 『違うッ!! 私は「浜野マイ」じゃ無い！[r]
@@ -1113,7 +1113,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【妖樹・玫瑰】
 『！』[p]
@@ -1207,7 +1207,7 @@
 『そうだよ、僕は瞳先生と出逢えた事で救われた。だから君にも人を信じて欲しいんだ！』[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 『一緒にやり直そうよ、玫瑰くん！』[p]
@@ -1219,7 +1219,7 @@
 『・・・・・・一緒に・・・』[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【妖樹・玫瑰】
 『・・・・・・・・・』[p]
@@ -1243,7 +1243,7 @@
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_16.png"  ]
 [quake  time="300"  count="4"  hmax="20"  wait="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「あわわぁっとぉ！？[r]
@@ -1266,7 +1266,7 @@
 [playse  volume="90"  time="1000"  buf="0"  storage="se02/fire4.ogg"  fadein="true"  loop="false"  ]
 [quake  time="300"  count="3"  hmax="10"  wait="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ（秋俊）】
 「瞳さん！コッチへ！其処は危険だ！」[p]
@@ -1291,7 +1291,7 @@
 [playse  volume="90"  time="1000"  buf="0"  storage="se02/fire4.ogg"  fadein="true"  loop="false"  ]
 [quake  time="300"  count="3"  hmax="10"  wait="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「な、何が起きるってのよぉ～っ！？」[p]
@@ -1310,7 +1310,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [playse  volume="90"  time="1000"  buf="0"  storage="se02/fire4.ogg"  fadein="true"  loop="false"  ]
 [quake  time="300"  count="3"  hmax="10"  wait="false"  ]
 [tb_start_text mode=1 ]
@@ -1338,7 +1338,7 @@
 [_tb_end_text]
 
 [quake  time="300"  count="3"  hmax="10"  wait="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 『・・・っ』[p]
@@ -1366,7 +1366,7 @@
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_13.png"  ]
 [resetfont  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 『他に方法はないの！？』[p]
@@ -1408,7 +1408,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_08.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「簡単に諦めない！何か手がある筈よ！」[p]
@@ -1498,7 +1498,7 @@
 『いや…そういうグロいのじゃ無くて…いやでも ゆらぎ は多少の傷は平気っていうし…』[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 『なら、この樹から切り離すというのは!?』[p]
@@ -1524,7 +1524,7 @@
 [tb_chara_shake  name="hajime_2"  direction="y"  count="1"  swing="20"  time="100"  ]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_13.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【創】
 『よし！ 我慢してて玫瑰くん！[r]
@@ -1555,7 +1555,7 @@
 
 [chara_hide  name="hitomi_3"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="hitomi_3"  time="50"  wait="true"  storage="chara/19/hitomi6_12.png"  width="800"  height="600"  left=""  top=""  reflect="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「手を貸すわ！」[p]
@@ -1567,7 +1567,7 @@
 [chara_show  name="rin_1"  time="50"  wait="true"  storage="chara/13/rin2_08.png"  width="375"  height="600"  left="525"  top="-2"  reflect="false"  ]
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_16.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「あーもう！ バッカじゃないの！？[r]
@@ -1616,7 +1616,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_08.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「よーし！[r]
@@ -1651,7 +1651,7 @@
 『・・・・・・・・・・・』[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「もう１度！ せーのッ!!!!」[p]
@@ -1791,7 +1791,7 @@
 [mask_off  time="50"  effect="fadeOut"  ]
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳・リン・アイ】
 「なっ？！」[r]
@@ -1849,7 +1849,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_3"  time="50"  cross="false"  storage="chara/19/hitomi6_08.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「マイちゃん！？ 貴女まさか…！？」[p]
@@ -1968,7 +1968,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="saeko"  time="250"  cross="false"  storage="chara/11/saeko_2_25.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【冴子】
 「どう考えても逃げるべき状況だ！[r]
@@ -2089,7 +2089,7 @@
 [tb_hide_message_window  ]
 [chara_show  name="hajime"  time="500"  wait="true"  storage="chara/9/hajime4_01.png"  width="375"  height="600"  left="422"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 『創君』[p]
@@ -2155,7 +2155,7 @@
 『それじゃあ駄目かい？』[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 『ハッ！ まんまと丸め込まれて利用されたんだよ！君も！』[p]
@@ -2242,7 +2242,7 @@
 [wait  time="10"  ]
 [mask_off  time="250"  effect="slideOutLeft"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「言ったでしょ！ 諦めちゃダメだって！」[p]
@@ -2276,7 +2276,7 @@
 [mask_off  time="250"  effect="slideOutRight"  ]
 [chara_show  name="maikai"  time="500"  wait="true"  storage="chara/7/maikai_6_01.png"  width="469"  height="600"  left=""  top=""  reflect="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_chara_shake  name="maikai"  direction="y"  count="3"  swing="20"  time="200"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
@@ -2366,7 +2366,7 @@
 『僕も「銀」の名を与えられた七宝の１人…もしかしたら玫瑰くんとは真逆の立場だったかもしれないんですよ』[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【創】
 『僕は、僕が瞳先生に救って貰った様に[r]
@@ -2424,7 +2424,7 @@
 [chara_show  name="maikai"  time="500"  wait="false"  storage="chara/7/maikai_7_01.png"  width="313"  height="600"  left=""  top=""  reflect="false"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「待ってよ！玫瑰くんっ！」[p]
@@ -2466,7 +2466,7 @@
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_7_01.png"  ]
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime2_02.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「え…？」[p]
@@ -2563,7 +2563,7 @@
 
 [resetfont  ]
 [tb_chara_shake  name="kotora_1"  direction="y"  count="2"  swing="10"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎】
 「どれだけ無茶したら気が済むのよバカ！[r]

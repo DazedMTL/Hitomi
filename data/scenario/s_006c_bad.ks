@@ -9,7 +9,7 @@
 [stopse  time="1000"  buf="0"  fadeout="true"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_13_2.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「……ゴメン、何にも覚えてないわ…。」[p]
@@ -69,14 +69,14 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_03_3.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「…瞬ちゃん…」[p]
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_15_02.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「誰ぁれが単純脳ミソですってぇ？」[p]
@@ -100,7 +100,7 @@
 [chara_hide  name="kuzu_2"  time="250"  wait="true"  pos_mode="false"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_09_6.png"  ]
 [stopse  time="1000"  buf="0"  fadeout="true"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #【瞳】
@@ -231,7 +231,7 @@
 「それはそうと……」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【？？】
 『…ねぇ…どこぉ？ フトシくぅん！？[r]
@@ -260,7 +260,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_06.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 「……あのクソ豚…まさか…っ」[p]
@@ -380,7 +380,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_14_6.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「…解ってないわね瞬ちゃん」[p]
@@ -414,7 +414,7 @@
 「つまり、あの特殊クラスには武装した福来や沙婆斗レベルのヤバい子が潜んでるってワケ！」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「大人しく事情聴取に応じると思う？」[p]
@@ -527,7 +527,7 @@
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_11.png"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_08_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「えっ！？」[p]
@@ -566,7 +566,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「そうして２度私に助けられた事を感謝させて誰が真のチームのリーダーなのかはっきりさせてやるのよ！フフフフフ…！」[p]
@@ -605,7 +605,7 @@
 [_tb_end_tyrano_code]
 
 [stopbgm  time="1000"  fadeout="true"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【男性店員】
 「あのぉ～…お客様…[r]
@@ -652,7 +652,7 @@
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14_2.png"  ]
 [chara_show  name="hitomi_1"  time="250"  wait="true"  storage="chara/3/hitomi_1_06.png"  width="406"  height="600"  left="416"  top="0"  reflect="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ゴメンてば」[p]
@@ -832,7 +832,7 @@
 
 [chara_hide  name="kotora_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="kotora_1"  time="0"  wait="true"  storage="chara/4/kotora_1_16.png"  width="363"  height="600"  reflect="true"  left="260"  top="0"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「通信機-こっち-で連絡してみる！」[p]
@@ -849,7 +849,7 @@
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_15.png"  ]
 [tb_chara_shake  name="kotora_1"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【通信機】
 ――ガガッ…ジジビ―ッガリガリッ[p]
@@ -873,7 +873,7 @@
 [chara_hide  name="kotora_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="kotora_1"  time="0"  wait="true"  storage="chara/4/kotora_1_19.png"  width="363"  height="600"  reflect="false"  left="260"  top="0"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「・・・こ・・・これって・・・」[p]
@@ -909,7 +909,7 @@
 「…だから彼は只の人間だって…たぶん…」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【？？】
 「もぉ～っ！ 何なのこの町!?[r]
@@ -961,7 +961,7 @@
 [bg  time="500"  method="zoomIn"  storage="haikei/machi02.jpg"  ]
 [quake  time="100"  count="2"  hmax="10"  wait="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 （ ―――居る…！[r]
@@ -1051,7 +1051,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_14_5.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【？？？】
 「…ハジメだってぇ？[r]
@@ -1065,7 +1065,7 @@
 
 [playbgm  volume="90"  time="1000"  loop="true"  storage="taste_xxx05.ogg"  ]
 [chara_show  name="futoshi"  time="500"  wait="false"  storage="chara/8/futoshi_1_08.png"  width="375"  height="600"  reflect="false"  left=""  top=""  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【？？？】
 「ボクだよ瞳せんせぇ♥」[p]
@@ -1103,7 +1103,7 @@
 [_tb_end_text]
 
 [chara_mod  name="futoshi"  time="250"  cross="false"  storage="chara/8/futoshi_1_02.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 「いやぁ～先生が無事で良かったよ！」[p]
@@ -1156,7 +1156,7 @@
 「ホント、まさか手を付けずに逃がすなんてさぁ♪[r]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 ブッフフフ♪ グフフフフフフぅ♥」[p]
@@ -1232,7 +1232,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【太志】
 『どうかなぁ瞳先生ぇ～？[r]
@@ -1346,7 +1346,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
 [chara_hide  name="hitomi_1"  time="250"  wait="true"  pos_mode="false"  ]
 [chara_move  name="futoshi_2"  anim="false"  time="300"  effect="default"  wait="true"  left="0"  top="0"  width="800"  height="600"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 『…ウン？』[p]
@@ -1368,7 +1368,7 @@
 [chara_hide  name="sonota"  time="500"  wait="true"  pos_mode="false"  ]
 [wait  time="1500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （…ぐ……か…硬った――い！？）[p]
@@ -1386,7 +1386,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【太志】
 『ドゥハハ♪ クスグッターイ♥[r]
@@ -1493,7 +1493,7 @@
 [_tb_end_text]
 
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_1_16_02.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 『…ブフフ♪』[p]
@@ -1511,7 +1511,7 @@
 [chara_hide  name="futoshi_2"  time="250"  wait="true"  pos_mode="false"  ]
 [bg  time="250"  method="crossfade"  storage="haikei/roziura05.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 （は、速っ?! しかも此処まで伸びて来た！[r]
@@ -1583,7 +1583,7 @@
 [bg  time="50"  method="fadeInLeft"  storage="haikei/roziura05_3.png"  ]
 [chara_show  name="futoshi_2"  time="0"  wait="true"  storage="chara/14/futoshi_2_02.png"  width="800"  height="600"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （…ク……くっそぉ～～～…っ）[p]
@@ -1605,7 +1605,7 @@
 [wait  time="1000"  ]
 [playbgm  volume="80"  time="1000"  loop="true"  storage="taste_xxx05.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 『グヘヘェ♪ 捕ゥ～カマ～エタァ～♥』[p]
@@ -1638,7 +1638,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/gyuu1.ogg"  ]
 [quake  time="250"  count="2"  hmax="10"  wait="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【太志】
 『おほほ♥ スゴイスゴイ！[r]
@@ -1745,7 +1745,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/gyuu1.ogg"  ]
 [bg  time="250"  method="crossfade"  storage="cg11/cg12_03.png"  ]
 [quake  time="200"  count="2"  hmax="10"  wait="true"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （じょ、冗談じゃ無い！食べるのは大好きだけど、こんなの洒落になってない！）[p]
@@ -1775,7 +1775,7 @@
 [bg  time="750"  method="crossfade"  storage="cg11/cg12_04.png"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ひゃん!? やっ?! お、おっぱいに…!?」[p]
@@ -1833,7 +1833,7 @@
 [bg  time="1000"  method="crossfade"  storage="cg11/cg12_07.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「フゥうッ？！？」[p]
@@ -1894,7 +1894,7 @@
 『オホォ～！ 未だ抵抗デキルナンテ凄いネェ瞳先生♪』[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 『じゃア、モット念入リにボク特性のエロ汁を塗り込ンでアゲヨウネェ♪！』[p]
@@ -1955,7 +1955,7 @@
 『グッフぅ♥ だぁいブ効いテ来たミタイダネェ？ まぁ、コレだけスケベなオッパイじゃア我慢なんて出来っこ無いケド♪』[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 『サァ！ モォット気持ち良くナルよォ？』[p]
@@ -1971,7 +1971,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="5"  storage="se02/mizu04.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ほわぁっ?! アッ あっ!? い、良いィ…♥」[p]
@@ -2017,7 +2017,7 @@
 [bg  time="500"  method="crossfade"  storage="cg11/cg12_12.png"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ンひィ?!♥」[p]
@@ -2029,7 +2029,7 @@
 [bg  time="500"  method="crossfade"  storage="cg11/cg12_13.png"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「はふァアぁ～…！♥」[p]
@@ -2073,7 +2073,7 @@
 [bg  time="1000"  method="crossfade"  storage="cg11/cg12_14.png"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu06.ogg"  ]
 [wait  time="1000"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #【太志】
@@ -2108,7 +2108,7 @@
 「……ぁ…？」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 『ホラ、しゃぶれヨ瞳ィ！欲シイダロォ？』[p]
@@ -2120,7 +2120,7 @@
 「…ぅ……ぃ…ゃ……ょ……」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【太志】
 『ム…っ 未ダ抵抗スンノカヨ！[r]
@@ -2141,7 +2141,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「むぐゥ？！？」[p]
@@ -2196,7 +2196,7 @@
 [_tb_end_text]
 
 [resetfont  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【太志】
 『ウ…ホ…♪ さ…サァイクぞォ！？[r]
@@ -2221,7 +2221,7 @@
 [bg  time="500"  method="puffIn"  storage="cg11/cg12_18.png"  ]
 [stopbgm  time="2000"  fadeout="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「うぼゥ…??!」[p]
@@ -2312,7 +2312,7 @@
 [_tb_end_tyrano_code]
 
 [playse  volume="80"  time="1000"  buf="1"  storage="ugoki01.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「…ンあァ…♥…ハァぁ…ン…♥」[p]
@@ -2350,7 +2350,7 @@
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu04.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「あ…あぁ♥ す、吸って！ 吸い出してっ♥[r]
@@ -2391,7 +2391,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 （…き…気持ちイイ…！♥[r]
@@ -2471,7 +2471,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu04.ogg"  loop="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「んぁっ♥ ああ…ぁ…？」[p]
@@ -2487,7 +2487,7 @@
 [_tb_end_text]
 
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu04.ogg"  loop="false"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 『ホントはボクのオンナにした後も持ち帰って愉しみたかったけど、外じゃ目立つなって言われてるから』[p]
@@ -2500,7 +2500,7 @@
 [bg  time="500"  method="crossfade"  storage="cg11/cg32_02.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「もぅイイ♥ どうなってもイイからぁ！[r]
@@ -2551,7 +2551,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu04.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【太志】
 『ハハっ♪ブタみたいだ！[r]
@@ -2569,7 +2569,7 @@
 [bg  time="1000"  method="crossfade"  storage="cg11/cg32_04.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「フヒっ★ふひィ～ン♥お、おっきぃ～♥[r]
@@ -2605,7 +2605,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu05.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ふあ゛アアァァ――ッ♪♥♥」[p]
@@ -2764,7 +2764,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【太志】
 『…ン？ なんだ？ 誰だよ？[r]
@@ -2800,7 +2800,7 @@
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin2_04_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【太志】
 『オ…オマエ！モシカシテ戦士…？[r]
@@ -2813,7 +2813,7 @@
 
 [resetfont  ]
 [chara_mod  name="rin_1"  time="150"  cross="false"  storage="chara/13/rin2_11.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「…ふっ、そう、私は魔法戦士リン！[r]

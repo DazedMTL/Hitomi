@@ -44,7 +44,7 @@
 [wait  time="1000"  ]
 [chara_show  name="rin_1"  time="500"  wait="true"  storage="chara/13/rin1_03_2.png"  width="375"  height="600"  reflect="true"  left=""  top=""  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「グァツガツ…もぐもぐ…！」[p]
@@ -89,7 +89,7 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_08.png"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_04.png"  ]
 [tb_chara_shake  name="rin_1"  direction="x"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「うグゥう…？！」[p]
@@ -108,7 +108,7 @@
 
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_03_2.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="1"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「ふんがっ！ んぐ…んぐ…っ」[p]
@@ -117,7 +117,7 @@
 [resetfont  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_05.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="1"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「果肉タップリ・夕張メロンシャーベット[r]
@@ -140,7 +140,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_03_2.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="2"  swing="20"  time="100"  ]
 [tb_start_text mode=3 ]
@@ -294,7 +294,7 @@
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_05.png"  ]
 [tb_chara_shake  name="akitoshi"  direction="y"  count="1"  swing="20"  time="100"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_10_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「…やだ…怖い…」[p]
@@ -324,7 +324,7 @@
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_14_2.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_01.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「瞬作！ 注文～ん！」[p]
@@ -417,7 +417,7 @@
 [_tb_end_text]
 
 [chara_mod  name="rin_1"  time="250"  cross="false"  storage="chara/13/rin1_03_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「あぁもう！」[p]
@@ -430,7 +430,7 @@
 [chara_show  name="rin_1"  time="50"  wait="true"  left="180"  top="0"  width="375"  height="600"  reflect="false"  storage="chara/13/rin1_03.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「瞬作！ おかわりどうなってん…」[p]
@@ -458,7 +458,7 @@
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai01_15.png"  ]
 [tb_chara_shake  name="ai_1"  direction="y"  count="1"  swing="20"  time="100"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_13.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【秋俊】
 「お前らなぁ……」[p]
@@ -467,7 +467,7 @@
 [resetfont  ]
 [chara_mod  name="rin_1"  time="50"  cross="false"  storage="chara/13/rin1_04.png"  ]
 [tb_chara_shake  name="rin_1"  direction="y"  count="3"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「うぇっ？！？」[p]
@@ -481,7 +481,7 @@
 [resetfont  ]
 [chara_move  name="rin_1"  anim="false"  time="50"  effect="easeInOutBounce"  wait="true"  left="325"  top="0"  width="375"  height="600"  ]
 [tb_chara_shake  name="rin_1"  direction="x"  count="2"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【リン】
 「あっ…あわあァあ？！ あ、あんた…[r]
@@ -633,7 +633,7 @@
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/dogo2.ogg"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【店員】
 「お客さま！？」[p]
@@ -885,7 +885,7 @@
 （あらら…嫉妬の権化…）[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【葛生】
 「ほんじゃ、ほれ、会計レシート」[p]
@@ -994,7 +994,7 @@
 
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【葛生】
 「思えっこねぇよっ！」[p]
@@ -1060,7 +1060,7 @@
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_08_2.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_04.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【秋俊＆瞬作】
 『じゃあ割り勘で』[p]
@@ -1069,7 +1069,7 @@
 [resetfont  ]
 [chara_mod  name="kuzu_2"  time="50"  cross="false"  storage="chara/2/kuzu_1_07_2.png"  ]
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_03.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【秋俊＆瞬作】
 『 あ 』[p]

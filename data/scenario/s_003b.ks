@@ -79,7 +79,7 @@
 
 [playbgm  volume="100"  time="1000"  loop="true"  storage="taste_xxx05.ogg"  ]
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_06.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【玫瑰】
 「…思っていた通り教師の仮面の下は[r]
@@ -104,7 +104,7 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_16_02.png"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 （…この威圧感！[r]
@@ -120,7 +120,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （もしかすると強化改造か何かを―――?!）[p]
@@ -133,7 +133,7 @@
 「…咄嗟に距離を取り構えましたか、良い判断です」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 「もっとも…既に選択を誤った様ですがね」[p]
@@ -147,7 +147,7 @@
 「てっきり博山とアルケー社の企みの被害者とばかり思っていたけど、玫瑰君…貴方どうやら事件の共犯者でもあるみたいね」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「貴方達がこの学園を隠れ蓑に一体何を企んでいるのか教えてもらうわよ！」[p]
@@ -156,7 +156,7 @@
 [resetfont  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_16_02.png"  ]
 [chara_mod  name="maikai"  time="250"  cross="false"  storage="chara/7/maikai_1_10.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 「アッハハハハハハハハハッ！」[p]
@@ -199,7 +199,7 @@
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_1_16_05.png"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【玫瑰】
 「そしてその表情が恐怖で彩られる瞬間は[r]
@@ -255,7 +255,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_2_05.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【玫瑰】
 「黙って囲んでろよ、僕だって暴れたくて[r]
@@ -305,7 +305,7 @@
 （…クッ…ヤバい状況だけど、お陰で理解できて来たわ…）[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 （あのキモいウニョウニョは[r]
@@ -356,7 +356,7 @@
 （このクラスの生徒１人でも捕らえれば証拠にできるけど[r]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 今は分が悪過ぎる！）[r]
@@ -388,7 +388,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [bg  time="500"  method="crossfade"  storage="haikei/room01_3.jpg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 「…！」[p]
@@ -396,7 +396,7 @@
 [_tb_end_text]
 
 [resetfont  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （普通ならあの触手が届かない場所に逃げる所を、あえて突っ込む！）[p]
@@ -485,7 +485,7 @@
 [mask_off  time="500"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「……い゛！？」[p]
@@ -652,7 +652,7 @@
 [bg  time="500"  method="fadeInUp"  storage="cg11/cg11_04.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ひゃっ？ な、何すんのよ!?」[p]
@@ -677,7 +677,7 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [bg  time="500"  method="fadeIn"  storage="cg11/cg11_05.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 「堕ちて貰いますよ、牝畜にね」[p]
@@ -696,7 +696,7 @@
 [bg  time="500"  method="fadeIn"  storage="cg11/cg11_06.png"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「はぅッ?!?」[p]
@@ -758,7 +758,7 @@
 [mask  time="0"  effect="fadeIn"  color="0xff57f7"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
 [wait  time="500"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #【瞳】
@@ -824,7 +824,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （超越者自慢は伊達じゃ無いってワケ…でも負けるわけには…！）[p]
@@ -885,7 +885,7 @@
 [_tb_end_tyrano_code]
 
 [bg  time="250"  method="crossfade"  storage="cg11/cg11_08.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「はぁ！はぁ！ぁ…んぁ…あ…♥」[p]
@@ -907,7 +907,7 @@
 （ど…どうしよう…どうすれば？ この特別学級のある棟は本来クラブ棟で隣接している教室に至っては上も下も無人…大声所か多少の騒動は揉み消される…）[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （…あれ？ もしかして詰んでる…？）[p]
@@ -957,7 +957,7 @@
 「・・・・・・ぁ・・・？」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 「続けて欲しいですか？」[p]
@@ -969,7 +969,7 @@
 「・・・っ」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 「次の責めはもっと気持ち良いですよ？」[p]
@@ -1023,7 +1023,7 @@
 「…ぁ…♥ はぁ… はぁ… は…ぃ…♥」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【玫瑰】
 「クッフフ、素直で宜しい。[r]
@@ -1058,7 +1058,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「あォおンっ♪♥[r]
@@ -1079,7 +1079,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dressing1.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「くはあぁぁァあっ？!？[r]
@@ -1113,7 +1113,7 @@
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/dressing1.ogg"  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu04.ogg"  loop="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ンはあアァぁああアアッ!♥[r]
@@ -1243,7 +1243,7 @@
 「フフ…もちろんですよ♪」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 「ねぇ？ 瞳先生♪」[p]
@@ -1266,7 +1266,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【生徒達】
 「おぉぉ～っ！ 洗脳完了♪」[r]
@@ -1305,7 +1305,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「…アハァ♪ナニコレぇ♥[r]
@@ -1332,7 +1332,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「ハイ♥」[p]
@@ -1428,7 +1428,7 @@
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  ]
 [bg  time="250"  method="crossfade"  storage="cg03/cg05_06.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「せ、SEXは好き♥大ぁい好き♥♥[r]
@@ -1475,7 +1475,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【玫瑰】
 「高評価じゃないですか瞳先生、[r]
@@ -1524,7 +1524,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/drinking_a_soup.ogg"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/eating1.ogg"  loop="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【生徒Ａ】
 「ムォオオーッ！ もう我慢出来ねぇえ!!」[p]
@@ -1605,7 +1605,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【生徒Ａ】
 「ムォ？？！」[p]
@@ -1630,7 +1630,7 @@
 [_tb_end_tyrano_code]
 
 [bg  time="250"  method="crossfade"  storage="cg03/cg05_08.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「も、もぉ誰でもイイ！[r]
@@ -1657,7 +1657,7 @@
 [_tb_end_tyrano_code]
 
 [bg  time="250"  method="crossfade"  storage="cg03/cg05_08.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【生徒Ａ】
 「ムグググ…ち、[r]
@@ -1683,7 +1683,7 @@
 [wait  time="10"  ]
 [mask_off  time="750"  effect="fadeOut"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ハヒィん♥く、クリちゃん♥[r]
@@ -1713,7 +1713,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/dosyu2.ogg"  ]
 [wait  time="2000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【生徒Ａ】
 「むぉおお…ッ！」[p]
@@ -1761,7 +1761,7 @@
 [wait  time="250"  ]
 [stopse  time="500"  buf="0"  fadeout="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「！」[p]
@@ -1806,7 +1806,7 @@
 [mask_off  time="1500"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「…ん？ んーん、それがゼ～ンゼン、[r]
@@ -1906,7 +1906,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「アっ♥…ふ…ふぅん…そう…なン…だ」[p]
@@ -1958,7 +1958,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/mizu04.ogg"  loop="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「あ…ちょ、ちょっと！[r]
@@ -2030,7 +2030,7 @@
 
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_16.png"  ]
 [tb_chara_shake  name="kotora_1"  direction="y"  count="1"  swing="20"  time="100"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎】
 「こ、コッチで済ませとくわよ！[r]
@@ -2088,7 +2088,7 @@
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_02_3.png"  ]
 [tb_chara_shake  name="kotora_1"  direction="x"  count="1"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【小虎】
 「ッ?! ば、博山っ……学園長…先生」[p]
@@ -2192,7 +2192,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/mizu04.ogg"  loop="true"  fadein="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「イっヒィぃいっ☆♥」[p]
@@ -2208,7 +2208,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「ンおぉォぉ…♥[r]
@@ -2279,7 +2279,7 @@
 [wait  time="250"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/eating1_2.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「アハァあアアあアアァぁっ♥♪」[p]
@@ -2470,7 +2470,7 @@
 「最後の抵抗ってやつだったンだろ」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【太志】
 「…ぐぐ…クソッ、あと２人でボクの番だったのに！腐れビッチが！」[p]
@@ -2510,7 +2510,7 @@
 [_tb_end_tyrano_code]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【生徒達】
 「じゃあリセットして毎日遊べるんだ!?」[r]

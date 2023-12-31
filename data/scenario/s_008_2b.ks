@@ -81,7 +81,7 @@
 [chara_hide_all  time="0"  wait="true"  ]
 [chara_show  name="hitomi_2"  time="50"  wait="true"  storage="chara/10/hitomi_5_02_3.png"  width="500"  height="600"  reflect="false"  left="140"  top="0"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「早まらないでねアイちゃん！」[p]
@@ -180,7 +180,7 @@
 「もしかしたら “ 瑠璃男 ” 並みのヤツが相当数巣食ってるんじゃないかと思っていたからな」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ・秋俊】
 「よかったよ、雑魚ばかりで」[p]
@@ -242,7 +242,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_19.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ・秋俊】
 「まとめて死ねっ！」[p]
@@ -356,7 +356,7 @@
 [wait  time="500"  ]
 [chara_mod  name="hitomi_1"  time="250"  cross="false"  storage="chara/3/hitomi_2_13_12.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「創君はどこ？[r]
@@ -381,7 +381,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_2_05_2.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【ゆらぎ生徒達】
 『この戦いは殺されたナカマ達の復讐でもあるんだ！引く気なんかサラサラ無いんだよッ！』[p]
@@ -420,7 +420,7 @@
 [chara_show  name="hajime"  time="500"  wait="true"  storage="chara/9/hajime3_04.png"  width="375"  height="600"  reflect="true"  left=""  top=""  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「創くん・・・！」[p]
@@ -498,7 +498,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【ゆらぎ生徒達】
 『同じ身の上のナカマじゃないのかよ！』[r]
@@ -529,7 +529,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="hajime"  time="50"  cross="false"  storage="chara/9/hajime3_02.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「その時は」[p]
@@ -579,7 +579,7 @@
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber17.ogg"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_start_text mode=3 ]
 #【ゆらぎ生徒達】
@@ -626,7 +626,7 @@
 （瞳さんも気付いている！やはりアイツ…！）[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「冴子ッ！」[p]
@@ -733,7 +733,7 @@
 [wait  time="10"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「冴子っ！ こんな状況だってのにアンタはまた性懲りも無くホイホイと操られてンじゃないわよ尻軽がっ！」[p]
@@ -775,7 +775,7 @@
 [chara_move  name="hitomi_1"  anim="true"  time="150"  effect="easeInQuad"  wait="true"  left="441"  top="0"  width="406"  height="600"  ]
 [chara_mod  name="hitomi_1"  time="50"  cross="false"  storage="chara/3/hitomi_3_02_15.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「おりゃあっ！」[p]
@@ -803,7 +803,7 @@
 [p]
 [_tb_end_tyrano_code]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 （クッソぉ、冴子めぇ！操られてちゃっかりチカラが上がってる上に得意の暗がりで完全に調子コイてるわね！ ）[p]
@@ -831,7 +831,7 @@
 [mask_off  time="250"  effect="fadeOut"  ]
 [wait  time="750"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「オオオオオオオォォォッ!!!!」[p]
@@ -901,7 +901,7 @@
 [_tb_end_tyrano_code]
 
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_20.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【アイ（秋俊）】
 （違う出会い方をしていればあるいは…[r]
@@ -929,7 +929,7 @@
 [playse  volume="100"  time="1000"  buf="1"  storage="basa05.ogg"  ]
 [chara_show  name="ai_2"  time="250"  wait="true"  storage="chara/17/ai03_01.png"  width="560"  height="600"  left="442"  top="0"  reflect="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ・秋俊】
 （せめて、ひと思いに終わらせてやる！）[p]
@@ -963,7 +963,7 @@
 [tb_chara_shake  name="hajime_2"  direction="x"  count="3"  swing="20"  time="200"  ]
 [chara_hide  name="sonota"  time="150"  wait="true"  pos_mode="false"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【創】
 「くはっ？！？」[p]
@@ -1008,7 +1008,7 @@
 [chara_hide  name="sonota"  time="150"  wait="true"  pos_mode="false"  ]
 [chara_move  name="saeko"  anim="true"  time="300"  effect="easeInQuad"  wait="true"  left="0"  top="0"  width="438"  height="600"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【冴子】
 「ぐッ！？！」[p]
@@ -1191,7 +1191,7 @@
 [chara_move  name="hitomi_1"  anim="true"  time="150"  effect="easeInQuad"  wait="true"  left="492"  top="170"  width="406"  height="600"  ]
 [chara_mod  name="ai_1"  time="50"  cross="false"  storage="chara/12/ai02_05_5.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ（秋俊）】
 「瞳さん！？」[p]
@@ -1272,7 +1272,7 @@
 [mask_off  time="1000"  effect="fadeOut"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【ゆらぎ生徒達】
 『？！？！』[p]
@@ -1409,7 +1409,7 @@
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_12.png"  ]
 [tb_chara_shake  name="akitoshi"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【秋俊】
 「ぐあっ？！？」[p]
@@ -1422,7 +1422,7 @@
 [chara_hide  name="sonota"  time="50"  wait="true"  pos_mode="false"  ]
 [wait  time="250"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳】
 「秋俊くん！」[p]
@@ -1556,7 +1556,7 @@
 [_tb_end_text]
 
 [chara_mod  name="maikai"  time="50"  cross="false"  storage="chara/7/maikai_1_04.png"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【アイ】
 「キサマは…必ずコロス…！[r]
@@ -1571,7 +1571,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/gyuu3.ogg"  ]
 [tb_chara_shake  name="akitoshi"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【秋俊】
 「うぐっ！？」[p]
@@ -1626,7 +1626,7 @@
 [wait  time="10"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【玫瑰】
 「逆襲タイム開始といきましょうか！」[p]
@@ -1650,7 +1650,7 @@
 [wait  time="2000"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/kerakera.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【ゆらぎ生徒達】
 『なにやってんだ２人とも、もっと絡め！』[r]
@@ -1696,7 +1696,7 @@
 「・・・クッ」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【ゆらぎ生徒達】
 『よくも好き勝手やってくれたなぁ!?』[r]
@@ -1815,7 +1815,7 @@
 [playse  volume="80"  time="1000"  buf="2"  storage="se02/dosyu2.ogg"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【瞳＆アイ】
 『……ッ』[p]
@@ -1928,7 +1928,7 @@
 「あれ？ もしかして都合良くお仲間が助けに来てくれるのを期待してます？」[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「…ッ」[p]
@@ -1979,7 +1979,7 @@
 [_tb_end_tyrano_code]
 
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/swing3.ogg"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【リン】
 「ッ！」[p]
@@ -1995,7 +1995,7 @@
 [wait  time="500"  ]
 [chara_move  name="gaku"  anim="true"  time="300"  effect="easeInQuad"  wait="true"  left="320"  top="0"  width="500"  height="600"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【博山】
 「ホッハッハ！お嬢さん！この私と[r]
@@ -2022,7 +2022,7 @@
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/gyuu3.ogg"  ]
 [chara_mod  name="gaku"  time="500"  cross="false"  storage="chara/5/gaku_1_09.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【博山】
 「まぁまぁ、そうおっしゃらず！[r]
@@ -2061,7 +2061,7 @@
 [mask_off  time="250"  effect="slideOutLeft"  ]
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/kiss2.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「～～ッ、くふぅっ！？？」[p]
@@ -2073,7 +2073,7 @@
 （…不味い！リンが間に合わないなら動ける内に自分で何とかしなきゃ！どうする!? この女を囮に斬りかかろうにもヤツはしっかり距離を置いている！）[p]
 [_tb_end_text]
 
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 （秋俊の手を取れれば合体して切り抜けられるのに…遠い…っ）[p]
@@ -2134,7 +2134,7 @@
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [wait  time="500"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「あ゛ぅっ！？」[p]
@@ -2169,7 +2169,7 @@
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/yabure02.ogg"  ]
 [bg  time="1500"  method="crossfade"  storage="cg11/cg34_08.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「うあ゛ぁ！？ や、やめぇ…っ」[p]
@@ -2190,7 +2190,7 @@
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [wait  time="750"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「お゛ぉう!? アぁあっ！♥？」[p]
@@ -2212,7 +2212,7 @@
 [bg  time="1000"  method="crossfade"  storage="cg11/cg34_09.png"  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu04.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「やっ?!? ひぐっ？！」[p]
@@ -2224,7 +2224,7 @@
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/yabure01.ogg"  ]
 [bg  time="500"  method="crossfade"  storage="cg11/cg34_10.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「くあ゛ああァァっ！？」[p]
@@ -2276,7 +2276,7 @@
 [chara_mod  name="akitoshi"  time="50"  cross="false"  storage="chara/16/akitoshi_12.png"  ]
 [tb_chara_shake  name="akitoshi"  direction="x"  count="2"  swing="20"  time="100"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【秋俊】
 「ぐぉおッ？！？」[p]
@@ -2316,7 +2316,7 @@
 [playse  volume="100"  time="1000"  buf="2"  storage="se02/mizu05.ogg"  ]
 [bg  time="1000"  method="crossfade"  storage="cg11/cg34_11.png"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【アイ】
 「ふわぁっ!? 熱っ…ア゛ぁアアッ！♥[r]
@@ -2333,7 +2333,7 @@
 [bg  time="1000"  method="crossfade"  storage="cg11/cg34_12.png"  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/kiss2.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【アイ】
 「ァヒッ!? ふあぁ♥ そ、そんなトコまで[r]
@@ -2368,7 +2368,7 @@
 [wait  time="500"  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu04.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=1 ]
 #【アイ】
 「…ね…姉…さま…メグ姉さまぁ…っ♥」[p]
@@ -2421,7 +2421,7 @@
 [wait  time="500"  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/mizu01.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【小虎？】
 『あぁ…瞳♥ヒトミのおっきなオッパイ♥[r]
@@ -2458,7 +2458,7 @@
 [playse  volume="100"  time="1000"  buf="4"  storage="se02/mizu04.ogg"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「とどめぇ？ ちょ、ちょうだい♥[r]
@@ -2514,7 +2514,7 @@
 [wait  time="500"  ]
 [playse  volume="60"  time="1000"  buf="3"  storage="se02/dressing1.ogg"  loop="true"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【ゆらぎ生徒達】
 『ヒャハハハハハハハハｈ！！』[r]
@@ -2586,7 +2586,7 @@
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/diving1.ogg"  ]
 [tb_show_message_window  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_start_text mode=3 ]
 #【瞳】
 「んォ゛ぉ～♥ まだドプドプ出てるぅ♥[r]
@@ -2622,7 +2622,7 @@
 [mask  time="0"  effect="fadeIn"  color="0xd459bb"  ]
 [mask_off  time="750"  effect="fadeOut"  ]
 [wait  time="1000"  ]
-[font  size="35"  color="0xffffff"  ]
+[font  size="30"  color="0xffffff"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=3 ]
 #【瞳＆アイ】
