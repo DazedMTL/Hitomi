@@ -1221,7 +1221,7 @@ Tennoji Hitomi...!)[p]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/eating2.ogg"  loop="true"  ]
 [wait  time="3000"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/dressing1.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0xffffff"  ]
+
 [mask_off  time="500"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/dosyu1.ogg"  ]

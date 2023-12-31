@@ -1889,7 +1889,7 @@ bunch of lewd teachers!"[p]
 [chara_hide  name="hitomi_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_show  name="hitomi_2"  time="50"  wait="true"  storage="chara/10/hitomi_5_02_3.png"  width="500"  height="600"  left=""  top=""  reflect="false"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  graphic="haikei_e01.png"  ]
+
 [mask_off  time="250"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]

@@ -1133,7 +1133,7 @@ him is me, who connected with him even for a moment!"[p]
 [tb_hide_message_window  ]
 [stopbgm  time="0"  fadeout="false"  ]
 [playse  volume="80"  time="1000"  buf="0"  storage="bom07.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0xff8800"  ]
+
 [mask_off  time="750"  effect="fadeOut"  ]
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [playse  volume="80"  time="1000"  buf="1"  storage="se02/gasyaan1.ogg"  ]

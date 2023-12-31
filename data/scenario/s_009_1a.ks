@@ -138,7 +138,7 @@ rooftop, you know!?"[p]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/swing4.ogg"  ]
 [wait  time="350"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/slash01.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0xad0000"  ]
+
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [font  size="30"  color="0xffffff"  ]
@@ -369,7 +369,7 @@ reduced numbers... That means this entire school is--..."[p]
 [resetfont  ]
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0xffffff"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [wait  time="10"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
@@ -2449,7 +2449,7 @@ magical warrior, is pretty amazing too."[p]
 *kaisou_14
 
 [tb_replay_start  ]
-[mask  time="0"  effect="fadeIn"  color="0x8f0000"  ]
+
 [delay  speed="10"  ]
 [playbgm  volume="80"  time="1000"  loop="true"  storage="bgm_maoudamashii_cyber17.ogg"  ]
 [bg  time="0"  method="crossfade"  storage="cg11/cg22_01.png"  ]
@@ -2902,10 +2902,10 @@ girls having fun by themselves? That's boring. Let us join in too~♥"[p]
 
 [tb_hide_message_window  ]
 [playse  volume="90"  time="1000"  buf="0"  storage="se02/thunder3.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x896bff"  ]
+
 [mask_off  time="50"  effect="fadeOut"  ]
 [wait  time="50"  ]
-[mask  time="0"  effect="fadeIn"  color="0x896bff"  ]
+
 [mask  time="750"  effect="fadeIn"  color="0xffffff"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [chara_show  name="gaku_2"  time="0"  wait="true"  storage="chara/21/gaku2_1.png"  width="1500"  height="600"  left="-212"  top="0"  reflect="false"  ]
@@ -3044,7 +3044,7 @@ they're transforming...!"[p]
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/slash02.ogg"  ]
 [stopbgm  time="1500"  fadeout="true"  ]
-[mask  time="0"  effect="fadeIn"  color="0xffffff"  ]
+
 [mask_off  time="500"  effect="fadeOut"  ]
 [wait  time="1500"  ]
 [tb_show_message_window  ]

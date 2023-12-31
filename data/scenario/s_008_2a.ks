@@ -887,7 +887,7 @@ distance...![p]
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/swing2.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0xffffff"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/okujyou02.jpg"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/swing2.ogg"  ]
@@ -1933,7 +1933,7 @@ for me--..."[p]
 [tb_hide_message_window  ]
 [stopbgm  time="1500"  fadeout="true"  ]
 [bg  time="1500"  method="crossfade"  storage="haikei/okujyou03.jpg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x700000"  ]
+
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/gyuu3.ogg"  ]
 [mask_off  time="750"  effect="fadeOut"  ]
 [wait  time="1000"  ]

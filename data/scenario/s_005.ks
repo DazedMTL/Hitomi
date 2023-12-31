@@ -1627,7 +1627,7 @@ right?"[p]
 [chara_hide  name="hajime"  time="0"  wait="true"  pos_mode="false"  ]
 [wait  time="250"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/dogo2.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0xff0000"  ]
+
 [chara_move  name="hitomi_1"  anim="false"  time="0"  effect="default"  wait="true"  left="-73"  top="0"  width="406"  height="600"  ]
 [chara_show  name="maikai"  time="0"  wait="true"  storage="chara/7/maikai_1_07.png"  width="313"  height="600"  left="155"  top="0"  reflect="false"  ]
 [chara_mod  name="hitomi_1"  time="0"  cross="false"  storage="chara/3/hitomi_1_03_8.png"  ]

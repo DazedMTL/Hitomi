@@ -144,7 +144,7 @@ Well, stick with me for a bit longer and listen to my story...[p]
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
 [playse  volume="80"  time="1000"  buf="0"  storage="bom06.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0xd93838"  ]
+
 [mask_off  time="750"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]
