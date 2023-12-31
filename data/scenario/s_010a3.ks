@@ -3086,7 +3086,7 @@
 [mask  time="0"  effect="fadeIn"  color="0xff0000"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/slash01.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/school14_08.png"  ]
 [wait  time="50"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
@@ -3443,7 +3443,7 @@
 [chara_mod  name="kotora_1"  time="250"  cross="false"  storage="chara/4/kotora_1_19.png"  ]
 [wait  time="750"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa05.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [chara_show  name="sabato"  time="0"  wait="true"  storage="chara/18/sabato_01.png"  width="800"  height="600"  left="242"  top="0"  reflect="false"  ]
 [chara_show  name="kotora_1"  time="0"  wait="true"  storage="chara/4/kotora_1_02_2.png"  width="363"  height="600"  left="587"  top="121"  reflect="false"  ]
@@ -3543,7 +3543,7 @@
 [mask_off  time="250"  effect="slideOutRight"  ]
 [wait  time="500"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/charge2.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [mask_off  time="250"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [font  size="50"  color="0xffffff"  ]

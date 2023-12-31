@@ -828,7 +828,7 @@
 [chara_mod  name="sabato"  time="250"  cross="false"  storage="chara/18/sabato_08_2.png"  ]
 [wait  time="1150"  ]
 [playse  volume="80"  time="1000"  buf="0"  storage="bom06.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_mod  name="sabato"  time="0"  cross="false"  storage="chara/18/sabato_10.png"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
 [stopse  time="1000"  buf="0"  fadeout="true"  ]

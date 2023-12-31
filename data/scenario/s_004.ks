@@ -2175,7 +2175,7 @@
 [resetfont  ]
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="5"  storage="se02/swing1.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [mask_off  time="1000"  effect="fadeOut"  ]
 [tb_show_message_window  ]
 [tb_start_text mode=1 ]
@@ -2296,7 +2296,7 @@
 [resetfont  ]
 [tb_hide_message_window  ]
 [wait  time="250"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
 [chara_show  name="hitomi_1"  time="0"  wait="true"  storage="chara/3/hitomi_1_16_03.png"  width="406"  height="600"  left=""  top=""  reflect="false"  ]
 [chara_show  name="maikai"  time="0"  wait="true"  storage="chara/7/maikai_2_03.png"  width="313"  height="600"  left="456"  top="0"  reflect="false"  ]

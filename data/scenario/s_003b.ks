@@ -475,7 +475,7 @@
 *kaisou_04
 
 [tb_replay_start  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [stopbgm  time="1500"  fadeout="true"  ]
 [delay  speed="10"  ]
 [bg  time="0"  method="crossfade"  storage="cg11/cg11_01.png"  ]
@@ -2204,7 +2204,7 @@
 [bg  time="2000"  method="crossfade"  storage="cg11/cg13_04.png"  ]
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="5"  storage="se02/dressing1.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [mask_off  time="250"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [tb_show_message_window  ]

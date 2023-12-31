@@ -2724,7 +2724,7 @@
 [bg  time="0"  method="crossfade"  storage="haikei/school12.jpg"  ]
 [mask_off  time="500"  effect="slideOutLeft"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/dogo1.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [mask_off  time="250"  effect="fadeOut"  ]
 [chara_show  name="sabato"  time="50"  wait="true"  storage="chara/18/sabato_08.png"  width="800"  height="600"  left="210"  top="0"  reflect="false"  ]
 [tb_chara_shake  name="sabato"  direction="x"  count="2"  swing="20"  time="100"  ]
@@ -2769,7 +2769,7 @@
 [tb_hide_message_window  ]
 [resetfont  ]
 [playse  volume="100"  time="750"  buf="0"  storage="se02/swing4.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_mod  name="kotora_1"  time="0"  cross="false"  storage="chara/4/kotora_2_07.png"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
 [wait  time="250"  ]

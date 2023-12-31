@@ -1011,12 +1011,12 @@
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/gyuu3.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [wait  time="10"  ]
 [mask_off  time="150"  effect="fadeOut"  ]
 [playse  volume="100"  time="1000"  buf="1"  storage="se02/gyuu2.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [mask_off  time="500"  effect="fadeOut"  ]
 [bg  time="1000"  method="crossfade"  storage="haikei/room06_3.jpg"  ]
 [playse  volume="90"  time="1000"  buf="0"  storage="se02/dosyu1.ogg"  ]

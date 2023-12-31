@@ -1454,7 +1454,7 @@
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/charge2.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [mask_off  time="350"  effect="fadeOut"  ]
 [mask  time="350"  effect="fadeIn"  color="0x000000"  ]
 [mask_off  time="350"  effect="fadeOut"  ]

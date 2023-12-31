@@ -2114,7 +2114,7 @@
 *kaisou_08
 
 [tb_replay_start  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [delay  speed="10"  ]
 [playbgm  volume="100"  time="1000"  loop="true"  storage="taste_xxx02.ogg"  ]
 [wait  time="1500"  ]

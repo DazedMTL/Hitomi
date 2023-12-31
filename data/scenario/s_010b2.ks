@@ -1329,7 +1329,7 @@
 [playse  volume="100"  time="2000"  buf="0"  storage="se02/heartbeats.ogg"  fadein="true"  loop="true"  ]
 [playse  volume="100"  time="3500"  buf="1"  storage="se02/eating1.ogg"  fadein="true"  loop="true"  ]
 [playse  volume="100"  time="3500"  buf="2"  storage="se02/eating2.ogg"  fadein="true"  loop="true"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="cg11/cg39_01.png"  ]
 [wait  time="10"  ]
 [mask_off  time="3500"  effect="fadeOut"  ]

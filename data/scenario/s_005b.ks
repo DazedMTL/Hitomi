@@ -966,7 +966,7 @@
 [tb_hide_message_window  ]
 [wait  time="750"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide  name="saeko"  time="0"  wait="true"  pos_mode="false"  ]
 [wait  time="10"  ]
 [mask_off  time="50"  effect="fadeOut"  ]
@@ -999,7 +999,7 @@
 [tb_hide_message_window  ]
 [wait  time="500"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_mod  name="kotora_1"  time="50"  cross="false"  storage="chara/4/kotora_1_15.png"  ]
 [wait  time="10"  ]
 [mask_off  time="50"  effect="fadeOut"  ]
@@ -1013,7 +1013,7 @@
 
 [resetfont  ]
 [tb_hide_message_window  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [playse  volume="100"  time="1000"  buf="0"  storage="basa05.ogg"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [chara_show  name="hitomi_1"  time="0"  wait="true"  storage="chara/3/hitomi_1_16_05.png"  width="406"  height="600"  reflect="false"  left="190"  top="0"  ]
@@ -1030,7 +1030,7 @@
 [tb_hide_message_window  ]
 [chara_hide_all  time="250"  wait="true"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_show  name="saeko"  time="0"  wait="true"  storage="chara/11/saeko_1_02.png"  width="438"  height="600"  left="104"  top="-2"  reflect="false"  ]
 [chara_show  name="kotora_1"  time="0"  wait="true"  storage="chara/4/kotora_1_19.png"  width="363"  height="600"  reflect="true"  left="187"  top="66"  ]
 [wait  time="10"  ]
@@ -1080,7 +1080,7 @@
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa05.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide  name="kotora_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_hide  name="saeko"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_hide  name="hitomi_1"  time="0"  wait="true"  pos_mode="false"  ]

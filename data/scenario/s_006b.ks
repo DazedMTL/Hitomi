@@ -421,7 +421,7 @@
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="panchi01.ogg"  ]
 [stopbgm  time="1500"  fadeout="true"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [delay  speed="10"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [wait  time="2500"  ]
@@ -2188,7 +2188,7 @@
 [resetfont  ]
 [tb_hide_message_window  ]
 [stopbgm  time="1000"  fadeout="true"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/roziura13.png"  ]
 [chara_show  name="ai_1"  time="0"  wait="true"  storage="chara/12/ai02_05_2.png"  width="375"  height="600"  left="114"  top="0"  reflect="false"  ]
 [chara_show  name="rin_1"  time="0"  wait="true"  storage="chara/13/rin2_08.png"  width="375"  height="600"  left="316"  top="0"  reflect="false"  ]

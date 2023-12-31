@@ -422,7 +422,7 @@
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="panchi01.ogg"  ]
 [stopbgm  time="1500"  fadeout="true"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [delay  speed="10"  ]
 [chara_hide_all  time="0"  wait="true"  ]
 [wait  time="2500"  ]

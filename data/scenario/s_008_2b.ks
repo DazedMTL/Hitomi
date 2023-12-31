@@ -195,7 +195,7 @@
 [resetfont  ]
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa03.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/roka03_4.jpg"  ]
 [wait  time="10"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
@@ -641,7 +641,7 @@
 
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="ugoki04.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_show  name="saeko"  time="0"  wait="true"  storage="chara/11/saeko_2_01.png"  width="438"  height="600"  left="-138"  top="0"  reflect="false"  ]
 [wait  time="10"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
@@ -673,7 +673,7 @@
 [resetfont  ]
 [tb_hide_message_window  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/swing3.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide  name="hitomi_1"  time="0"  wait="true"  pos_mode="false"  ]
 [chara_hide  name="saeko"  time="0"  wait="true"  pos_mode="false"  ]
 [wait  time="250"  ]
@@ -715,7 +715,7 @@
 [tb_hide_message_window  ]
 [wait  time="250"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="basa05.ogg"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [chara_hide_all  time="0"  wait="true"  ]
 [wait  time="10"  ]
 [mask_off  time="250"  effect="fadeOut"  ]
@@ -2484,10 +2484,10 @@
 [resetfont  ]
 [tb_hide_message_window  ]
 [wait  time="1000"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [mask_off  time="250"  effect="fadeOut"  ]
 [wait  time="1000"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [mask_off  time="750"  effect="fadeOut"  ]
 [wait  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="3"  storage="se02/dressing1.ogg"  ]

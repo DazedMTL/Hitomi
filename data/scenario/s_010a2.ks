@@ -1704,7 +1704,7 @@
 [chara_hide_all  time="500"  wait="true"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="se02/heartbeats.ogg"  ]
 [wait  time="1000"  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="haikei/school12.jpg"  ]
 [wait  time="50"  ]
 [mask_off  time="750"  effect="fadeOut"  ]
@@ -2739,7 +2739,7 @@
 [_tb_end_text]
 
 [tb_hide_message_window  ]
-[mask  time="0"  effect="fadeIn"  color="0x000000"  ]
+
 [bg  time="0"  method="crossfade"  storage="cg11/cg26_01.png"  ]
 [wait  time="50"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
