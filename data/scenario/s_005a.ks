@@ -1052,8 +1052,8 @@ he'll say next...)[p]
 [tb_hide_message_window  ]
 [showmenubutton]
 
-[glink  color="pink"  storage="s_005a.ks"  size="20"  text="こういう時は逆転の発想！"  x="244"  y="244"  width=""  height=""  _clickable_img=""  target="*ok"  ]
-[glink  color="pink"  storage="s_005b.ks"  size="20"  text="嫌なものは嫌だもの…!"  x="264"  y="305"  width=""  height=""  _clickable_img=""  target="*teikou"  ]
+[glink  color="pink"  storage="s_005a.ks"  size="20"  text="Time for a reversal of ideas!"  x="244"  y="244"  width=""  height=""  _clickable_img=""  target="*ok"  ]
+[glink  color="pink"  storage="s_005b.ks"  size="20"  text="I hate what I hate!"  x="264"  y="305"  width=""  height=""  _clickable_img=""  target="*teikou"  ]
 [s  ]
 *ok
 

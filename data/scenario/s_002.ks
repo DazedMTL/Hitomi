@@ -444,8 +444,8 @@ this country..."[p]
 [wait  time="500"  ]
 [showmenubutton]
 
-[glink  color="pink"  storage="s_002.ks"  size="20"  text="博山学園長！"  x="275"  y="255"  width=""  height=""  _clickable_img=""  target="*gakuencho"  ]
-[glink  color="pink"  storage="s_002.ks"  size="20"  text="特別学級の生徒達！"  x="248"  y="322"  width=""  height=""  _clickable_img=""  target="*seitodake"  ]
+[glink  color="pink"  storage="s_002.ks"  size="20"  text="Principal Hakuyama!"  x="275"  y="255"  width=""  height=""  _clickable_img=""  target="*gakuencho"  ]
+[glink  color="pink"  storage="s_002.ks"  size="20"  text="Students of the special class!"  x="248"  y="322"  width=""  height=""  _clickable_img=""  target="*seitodake"  ]
 [s  ]
 *gakuencho
 
@@ -1328,8 +1328,8 @@ the first day... But it's precious investigation time... Hmm...)[p]
 [tb_hide_message_window  ]
 [showmenubutton]
 
-[glink  color="pink"  storage="s_002.ks"  size="20"  text="生徒達と給食を食べる"  target="*taberu1"  x="263"  y="226"  width=""  height=""  _clickable_img=""  ]
-[glink  color="pink"  storage="s_004.ks"  size="20"  text="調査任務を優先する"  target="*s_004"  x="273"  y="281"  width=""  height=""  _clickable_img=""  ]
+[glink  color="pink"  storage="s_002.ks"  size="20"  text="Eat lunch with the students"  target="*taberu1"  x="263"  y="226"  width=""  height=""  _clickable_img=""  ]
+[glink  color="pink"  storage="s_004.ks"  size="20"  text="Prioritize the investigation mission"  target="*s_004"  x="273"  y="281"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *taberu1
 
@@ -1607,8 +1607,8 @@ actually be more approachable and liked by kids this age...?)[p]
 [tb_hide_message_window  ]
 [showmenubutton]
 
-[glink  color="pink"  storage="s_002.ks"  size="20"  text="流石に遠慮する"  x="280"  y="243"  width=""  height=""  _clickable_img=""  target="*enryo"  ]
-[glink  color="pink"  storage="s_002.ks"  size="30"  text="おかわりしちゃう♥"  x="218"  y="308"  width=""  height=""  _clickable_img=""  target="*okawari"  ]
+[glink  color="pink"  storage="s_002.ks"  size="20"  text="Ill refrain, after all"  x="280"  y="243"  width=""  height=""  _clickable_img=""  target="*enryo"  ]
+[glink  color="pink"  storage="s_002.ks"  size="30"  text="Ill have another serving♥"  x="218"  y="308"  width=""  height=""  _clickable_img=""  target="*okawari"  ]
 [s  ]
 *okawari
 
@@ -2105,8 +2105,8 @@ school. Excuse me."[p]
 [tb_hide_message_window  ]
 [showmenubutton]
 
-[glink  color="pink"  storage="s_002.ks"  size="20"  text="無理やり今聞き出す"  x="240"  y="220"  width=""  height=""  _clickable_img=""  target="*muriyari"  ]
-[glink  color="pink"  storage="s_003a.ks"  size="20"  text="迂闊な行動は控える"  x="240"  y="290"  width=""  height=""  _clickable_img=""  target="*s_003"  ]
+[glink  color="pink"  storage="s_002.ks"  size="20"  text="Force it out of him now"  x="240"  y="220"  width=""  height=""  _clickable_img=""  target="*muriyari"  ]
+[glink  color="pink"  storage="s_003a.ks"  size="20"  text="Ill be more careful with my actions"  x="240"  y="290"  width=""  height=""  _clickable_img=""  target="*s_003"  ]
 [s  ]
 *muriyari
 

@@ -27,8 +27,8 @@ ending.[p]
 [_tb_end_tyrano_code]
 
 [tb_hide_message_window  ]
-[glink  color="white"  storage="memo.ks"  size="20"  text="もう見た"  x="80"  y="320"  width=""  height=""  _clickable_img=""  target="*ok"  ]
-[glink  color="gray"  storage="title_screen.ks"  size="20"  text="おじゃましました。"  x="80"  y="380"  width=""  height=""  _clickable_img=""  target="*title"  ]
+[glink  color="white"  storage="memo.ks"  size="20"  text="Ive already seen it"  x="80"  y="320"  width=""  height=""  _clickable_img=""  target="*ok"  ]
+[glink  color="gray"  storage="title_screen.ks"  size="20"  text="Excuse me for interrupting"  x="80"  y="380"  width=""  height=""  _clickable_img=""  target="*title"  ]
 [s  ]
 *ok
 
@@ -45,8 +45,8 @@ Are you... happy right now?[p]
 
 [resetfont  ]
 [tb_hide_message_window  ]
-[glink  color="black"  storage="memo.ks"  size="20"  text="しあわせ♥"  x="550"  y="340"  width=""  height=""  _clickable_img=""  target="*yes"  ]
-[glink  color="black"  storage="memo.ks"  size="20"  text="そんなコトない"  x="550"  y="390"  width=""  height=""  _clickable_img=""  target="*no"  ]
+[glink  color="black"  storage="memo.ks"  size="20"  text="Happiness♥"  x="550"  y="340"  width=""  height=""  _clickable_img=""  target="*yes"  ]
+[glink  color="black"  storage="memo.ks"  size="20"  text="Thats not true"  x="550"  y="390"  width=""  height=""  _clickable_img=""  target="*no"  ]
 [s  ]
 *yes
 

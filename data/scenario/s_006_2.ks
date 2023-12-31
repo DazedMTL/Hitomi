@@ -454,8 +454,8 @@ annihilated.)[p]
 [tb_hide_message_window  ]
 [showmenubutton]
 
-[glink  color="pink"  storage="s_006_2.ks"  size="20"  text="正直に話す"  x="210"  y="300"  width=""  height=""  _clickable_img=""  target="*yes"  ]
-[glink  color="pink"  storage="s_006_2.ks"  size="20"  text="誤魔化す"  target="*no"  x="400"  y="300"  width=""  height=""  _clickable_img=""  ]
+[glink  color="pink"  storage="s_006_2.ks"  size="20"  text="Speak honestly"  x="210"  y="300"  width=""  height=""  _clickable_img=""  target="*yes"  ]
+[glink  color="pink"  storage="s_006_2.ks"  size="20"  text="Evade"  target="*no"  x="400"  y="300"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *yes
 

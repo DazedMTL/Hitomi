@@ -940,7 +940,7 @@ ever fondled! Saeko's got nothing on these! Duuuhahaha♥"[p]
 #【Hitomi】
 (Ah...what? I can't speak... His boob fondling is too good! From the[r]
 base to the tip, it's like he's meticulously licking - teasing -[r]
-them... No, that's right... These (tentacles) are just like a tongue's[r]
+them... No, that's right... These tentacles are just like a tongue's[r]
 movements!?)[p]
 [_tb_end_text]
 
@@ -2823,8 +2823,8 @@ the department store basement already?!"[p]
 [tb_hide_message_window  ]
 [showmenubutton]
 
-[glink  color="pink"  storage="s_006b.ks"  size="25"  text="任務に協力して！？"  x="240"  y="240"  width=""  height=""  _clickable_img=""  target="*bad"  ]
-[glink  color="pink"  storage="s_006b.ks"  size="30"  target="*yes"  text="ゴハン奢ってあげる！"  x="200"  y="300"  width=""  height=""  _clickable_img=""  ]
+[glink  color="pink"  storage="s_006b.ks"  size="25"  text="Will you cooperate with the mission!?"  x="240"  y="240"  width=""  height=""  _clickable_img=""  target="*bad"  ]
+[glink  color="pink"  storage="s_006b.ks"  size="30"  target="*yes"  text="Ill treat you to a meal!"  x="200"  y="300"  width=""  height=""  _clickable_img=""  ]
 [s  ]
 *bad
 

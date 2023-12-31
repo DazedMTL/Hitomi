@@ -850,8 +850,8 @@ like attitude... What should I do?"[p]
 [tb_hide_message_window  ]
 [showmenubutton]
 
-[glink  color="pink"  storage="s_005.ks"  size="20"  text="時間も無いし止めておく"  x="260"  y="228"  width=""  height=""  _clickable_img=""  target="*yametoku"  ]
-[glink  color="pink"  storage="s_005a.ks"  size="20"  text="瞬ちゃんに慰めて貰う"  x="268"  y="293"  width=""  height=""  _clickable_img=""  target="*renraku"  ]
+[glink  color="pink"  storage="s_005.ks"  size="20"  text="We dont have time, lets stop here"  x="260"  y="228"  width=""  height=""  _clickable_img=""  target="*yametoku"  ]
+[glink  color="pink"  storage="s_005a.ks"  size="20"  text="Get comforted by Shun-chan"  x="268"  y="293"  width=""  height=""  _clickable_img=""  target="*renraku"  ]
 [s  ]
 *yametoku
 
@@ -1422,8 +1422,8 @@ next...)"[p]
 [tb_hide_message_window  ]
 [showmenubutton]
 
-[glink  color="pink"  storage="s_005.ks"  size="20"  text="こういう時は逆転の発想！"  x="244"  y="244"  width=""  height=""  _clickable_img=""  target="*gyakuten"  ]
-[glink  color="pink"  storage="s_005b.ks"  size="20"  text="嫌なものは嫌だもの…!"  x="264"  y="305"  width=""  height=""  _clickable_img=""  target="*teikou"  ]
+[glink  color="pink"  storage="s_005.ks"  size="20"  text="This is the time for a reversal of ideas!"  x="244"  y="244"  width=""  height=""  _clickable_img=""  target="*gyakuten"  ]
+[glink  color="pink"  storage="s_005b.ks"  size="20"  text="I hate what I hate!"  x="264"  y="305"  width=""  height=""  _clickable_img=""  target="*teikou"  ]
 [s  ]
 *gyakuten
 
