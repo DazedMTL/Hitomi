@@ -2901,6 +2901,6 @@ going to take him down, so you better have a plan to win, right?!"[p]
 [tb_hide_message_window  ]
 [showmenubutton]
 
-[glink  color="pink"  storage="s_009_1a.ks"  size="20"  text="Leave it to me ♥"  x="460"  y="330"  width=""  height=""  _clickable_img=""  target="*s_009_1a"  ]
+[glink  color="pink"  storage="s_009_1a.ks"  size="20"  text="Leave it to me ♥"  x="460"  y="230"  width=""  height=""  _clickable_img=""  target="*s_009_1a"  ]
 [glink  color="pink"  storage="s_009_1b.ks"  size="20"  text="Reinforcements are coming, so dont worry!"  y="330"  x="136"  width=""  height=""  _clickable_img=""  target="*s_009_1b"  ]
 [s  ]
